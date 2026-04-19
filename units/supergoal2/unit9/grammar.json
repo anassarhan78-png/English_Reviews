@@ -1,1 +1,31 @@
-{}
+{
+  "title": "Suggestions, Obligations, and Activities",
+  "topics": [
+    {
+      "name": "Why don't / Let's / Should",
+      "rule": "Why don't + فاعل + مصدر؟ | Let's + مصدر | Should + مصدر (للنصيحة).",
+      "examples": [
+        "Why don't you rest?",
+        "Let's go to the park.",
+        "You should study."
+      ]
+    },
+    {
+      "name": "Go + verb+ing",
+      "rule": "نستخدم 'go' متبوعة بـ (فعل+ing) للأنشطة الترفيهية.",
+      "examples": [
+        "go swimming",
+        "go shopping",
+        "go bowling"
+      ]
+    },
+    {
+      "name": "Have to / Must",
+      "rule": "Have to + مصدر (للالتزام الخارجي). Must + مصدر (للالتزام الداخلي القوي).",
+      "examples": [
+        "I have to wear a uniform.",
+        "You must eat vegetables."
+      ]
+    }
+  ]
+}

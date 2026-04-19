@@ -1,1 +1,10 @@
-{}
+{
+  "title": "Write a paragraph about How Parents and Teenagers Feel About Homework",
+  "prompts": [
+    "1- What homework do you usually do?",
+    "2- When do you do your homework?",
+    "3- What kind of homework do you like most?",
+    "4- How important do you think homework is?"
+  ],
+  "model": "I usually do my homework for all subjects at five p.m. I like homework when I understand what it's about. I can do anything if I try. The homework helps me to understand the lesson. My parents often complain that I spend too much time on the Internet. They think that I should do my homework. For me, the Internet is a way to research for school assignments."
+}
