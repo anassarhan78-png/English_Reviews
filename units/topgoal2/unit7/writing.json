@@ -1,1 +1,9 @@
-{}
+{
+  "title": "Write about a travel experience",
+  "prompts": [
+    "Where did you go?",
+    "How did you get there?",
+    "What have you already done there? What haven't you done yet?"
+  ],
+  "model": "I went to Dubai last year. I took the subway from the airport to the hotel. I have already visited Burj Khalifa and the Dubai Mall. I haven't gone to the desert yet. I want to go next time!"
+}

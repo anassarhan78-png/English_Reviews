@@ -1,1 +1,22 @@
-{}
+{
+  "title": "Present Perfect with Already, Just, Yet",
+  "topics": [
+    {
+      "name": "Form - التكوين",
+      "rule": "have/has + past participle (التصريف الثالث).",
+      "examples": [
+        "I have packed my bag.",
+        "She has arrived at the terminal."
+      ]
+    },
+    {
+      "name": "Already / Just / Yet",
+      "rule": "Already (بعد) تستخدم في الجمل المثبتة. Just (للتو) تستخدم للأحداث القريبة جداً. Yet (بعد) تستخدم في النفي والأسئلة.",
+      "examples": [
+        "I have already checked in.",
+        "They have just taken off.",
+        "The subway hasn't arrived yet."
+      ]
+    }
+  ]
+}
