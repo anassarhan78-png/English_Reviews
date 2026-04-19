@@ -1,1 +1,10 @@
-{}
+{
+  "title": "Write about your Relaxing Vacation",
+  "prompts": [
+    "1. Where are you going to go?",
+    "2. Who is going to go with you?",
+    "3. What are you going to do?",
+    "4. Which kind of vacation is it going to be—adventurous or relaxing? How?"
+  ],
+  "model": "I'm going to take a relaxing vacation on a tropical island. I want to see the beautiful, blue ocean and white beaches with palm trees. I'm going to go with my two friends, Reem and Sara. We're going to go swimming and explore the beach. This is going to be the most relaxing vacation ever!"
+}

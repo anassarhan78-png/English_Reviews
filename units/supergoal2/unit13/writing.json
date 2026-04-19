@@ -1,1 +1,10 @@
-{}
+{
+  "title": "Write about Your Favorite Season",
+  "prompts": [
+    "1. What is your favorite season?",
+    "2. How do you feel when it arrives?",
+    "3. What do you like about it?",
+    "4. What is your favorite thing to do in it? Why?"
+  ],
+  "model": "I like spring best. Because it's sunny and warm. I feel happy because a lot of flowers are blooming with the different colors, and everyone can feel amazing smell in the air. Sometimes it's windy. I can fly kites with my family. It is a great season. When spring comes, the trees turn green and the flowers start to grow. So spring is my favorite season because I can see nice flowers."
+}

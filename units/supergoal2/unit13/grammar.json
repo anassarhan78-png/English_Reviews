@@ -1,1 +1,22 @@
-{}
+{
+  "title": "Future Simple (will) & First Conditional",
+  "topics": [
+    {
+      "name": "Future with 'will'",
+      "rule": "will + مصدر (بدون to). يستخدم للتوقعات والوعود والقرارات الفورية. النفي: will not = won't.",
+      "examples": [
+        "It will rain tomorrow.",
+        "She won't travel next week.",
+        "Will you come with us?"
+      ]
+    },
+    {
+      "name": "First Conditional (If clause)",
+      "rule": "If + مضارع بسيط، will + مصدر. تستخدم للتنبؤ بنتيجة محتملة في المستقبل.",
+      "examples": [
+        "If it rains, you will get wet.",
+        "I will be mad if Sara is late."
+      ]
+    }
+  ]
+}
