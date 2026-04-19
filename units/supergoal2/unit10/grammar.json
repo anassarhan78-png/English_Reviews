@@ -1,1 +1,37 @@
-{}
+{
+  "title": "Possessives, Whose, Too/Enough, and Modals",
+  "topics": [
+    {
+      "name": "Possessive Adjectives and Pronouns",
+      "rule": "صفات الملكية تسبق الاسم (my, your, his, her, its, our, their). ضمائر الملكية تحل محل الاسم (mine, yours, his, hers, its, ours, theirs).",
+      "examples": [
+        "This is my book. It's mine.",
+        "That is her car. It's hers."
+      ]
+    },
+    {
+      "name": "Whose",
+      "rule": "Whose للسؤال عن المالك.",
+      "examples": [
+        "Whose pen is this?",
+        "Whose glasses are these?"
+      ]
+    },
+    {
+      "name": "Too / Enough",
+      "rule": "Too + صفة تعني أكثر من اللازم. صفة + enough تعني كافٍ.",
+      "examples": [
+        "This coffee is too hot.",
+        "He is old enough to drive."
+      ]
+    },
+    {
+      "name": "Can / Could / May / Might",
+      "rule": "أفعال ناقصة يتبعها مصدر بدون to. Can للإمكانية، Could/Might للاحتمال، May للإذن.",
+      "examples": [
+        "Can I leave now?",
+        "It might rain tomorrow."
+      ]
+    }
+  ]
+}

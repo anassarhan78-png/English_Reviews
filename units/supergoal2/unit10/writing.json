@@ -1,1 +1,10 @@
-{}
+{
+  "title": "Write a paragraph about Shopping",
+  "prompts": [
+    "1- Where do you go shopping?",
+    "2- What is your favorite store?",
+    "3- What do they sell?",
+    "4- What do you buy there?"
+  ],
+  "model": "I go shopping in the Red Sea mall. There are lots of stores there, and my favorite store is J.B. White's. It is a big department store. They sell lots of things. They sell clothes and jewelry and furniture and electronics. And nothing is too expensive there. When I go shopping there, I look for bargains. I buy a lot of my clothes there. They have an advertisement. It says, 'Our store is your store.' So I love my store!"
+}
