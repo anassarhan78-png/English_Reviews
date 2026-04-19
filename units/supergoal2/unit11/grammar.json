@@ -1,1 +1,21 @@
-{}
+{
+  "title": "Comparative & Superlative, So / Such",
+  "topics": [
+    {
+      "name": "Comparative & Superlative Adjectives",
+      "rule": "المقارنة بين اثنين: صفة قصيرة + er than | more + صفة طويلة + than. التفضيل المطلق: the + صفة قصيرة + est | the most + صفة طويلة.",
+      "examples": [
+        "Ahmed is taller than Imad.",
+        "Tokyo is the biggest city in the world."
+      ]
+    },
+    {
+      "name": "So / Such",
+      "rule": "So + صفة + that. Such a/an + صفة + اسم مفرد. So many + جمع. So much + غير معدود.",
+      "examples": [
+        "The day was so hot that we went to the beach.",
+        "It was such a nice day."
+      ]
+    }
+  ]
+}

@@ -1,1 +1,10 @@
-{}
+{
+  "title": "Write a paragraph about a Monument in Your Country",
+  "prompts": [
+    "1- Where did you go?",
+    "2- What are famous places in your country?",
+    "3- Which building is the highest?",
+    "4- Where is the tallest tower in your country?"
+  ],
+  "model": "I went to Sarawat Mountains in Saudi Arabia. It was great! We had to climb and hike to the top of the mountain. It is the highest mountain in the Arabian Peninsula. Then I went to Riyadh, I went to Al Mamlaka Tower. It is the tallest building in Riyadh. Also, I visited Al Faisaliah Tower. It is the third tallest building in the kingdom of Saudi Arabia. The Makkah Clock Tower is the tallest clock tower. It was a fun and interesting trip."
+}
