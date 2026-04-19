@@ -1,1 +1,9 @@
-{}
+{
+  "title": "Describe an accessory or piece of clothing you like",
+  "prompts": [
+    "What is it?",
+    "What is it made of?",
+    "Where did you get it? How long have you had it?"
+  ],
+  "model": "My favorite accessory is a silver bracelet. It is made of real silver. My grandmother gave it to me two years ago. I have worn it many times since then."
+}

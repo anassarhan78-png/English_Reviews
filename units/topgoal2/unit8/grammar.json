@@ -1,1 +1,21 @@
-{}
+{
+  "title": "Present Perfect Questions & 'Be Made Of'",
+  "topics": [
+    {
+      "name": "Present Perfect Questions",
+      "rule": "نكون السؤال في المضارع التام بوضع Have/Has قبل الفاعل ثم التصريف الثالث للفعل.",
+      "examples": [
+        "Have you finished your homework?",
+        "How long has she lived here?"
+      ]
+    },
+    {
+      "name": "Be Made Of + Material",
+      "rule": "نستخدم 'is/are made of' لوصف المادة الخام التي صنع منها الشيء.",
+      "examples": [
+        "This ring is made of gold.",
+        "The costumes are made of silk."
+      ]
+    }
+  ]
+}
