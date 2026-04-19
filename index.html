@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>مراجعات Top Goal 2 و Super Goal 2</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', 'Tajawal', sans-serif;
+            background: linear-gradient(135deg, #1e5a3a, #0f2a1c);
+            min-height: 100vh;
+            padding: 20px;
+            direction: rtl;
+        }
+        .container {
+            max-width: 1100px;
+            margin: auto;
+            background: white;
+            border-radius: 32px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.3);
+            overflow: hidden;
+        }
+        .toolbar {
+            background: #2b7a4b;
+            padding: 12px 25px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            color: white;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        .toolbar button {
+            background: white;
+            color: #2b7a4b;
+            border: none;
+            padding: 8px 20px;
+            border-radius: 30px;
+            cursor: pointer;
+            font-weight: bold;
+        }
+        .course-tabs, .unit-tabs {
+            display: flex;
+            background: #eaf7ed;
+            border-bottom: 2px solid #b8d9c2;
+            overflow-x: auto;
+        }
+        .course-tab, .unit-tab {
+            padding: 12px 20px;
+            font-weight: bold;
+            cursor: pointer;
+            background: #eaf7ed;
+            color: #1e5a3a;
+            border-bottom: 3px solid transparent;
+            white-space: nowrap;
+        }
+        .course-tab.active, .unit-tab.active {
+            background: white;
+            border-bottom-color: #2b7a4b;
+            color: #2b7a4b;
+        }
+        .sub-tabs {
+            display: flex;
+            background: #f8f9fa;
+            border-bottom: 1px solid #ddd;
+        }
+        .sub-tab {
+            flex: 1;
+            text-align: center;
+            padding: 12px;
+            cursor: pointer;
+            background: #f8f9fa;
+            color: #2c3e6d;
+            font-weight: bold;
+        }
+        .sub-tab.active {
+            background: white;
+            border-bottom: 3px solid #2b7a4b;
+            color: #2b7a4b;
+        }
+        .content { padding: 25px; }
+        h2 { color: #1e5a3a; margin-bottom: 15px; }
+        .progress-area { margin-bottom: 20px; }
+        .question {
+            background: #fef5e8;
+            padding: 15px;
+            border-radius: 20px;
+            margin-bottom: 20px;
+            font-weight: bold;
+        }
+        .option {
+            background: #f8f9fa;
+            margin: 10px 0;
+            padding: 10px 15px;
+            border-radius: 40px;
+            cursor: pointer;
+            border: 1px solid #ddd;
+        }
+        .option.selected { background: #2b7a4b; color: white; }
+        .feedback { margin: 15px 0; padding: 12px; border-radius: 16px; }
+        .feedback.correct { background: #d4edda; color: #155724; }
+        .feedback.wrong { background: #f8d7da; color: #721c24; }
+        button {
+            background: #2b7a4b;
+            color: white;
+            border: none;
+            padding: 8px 20px;
+            border-radius: 30px;
+            cursor: pointer;
+        }
+        .nav-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            margin-top: 20px;
+        }
+        .writing-box, .grammar-box {
+            background: #fef9e6;
+            padding: 20px;
+            border-radius: 24px;
+        }
+        footer { text-align: center; margin-top: 20px; font-size: 0.75rem; }
+    </style>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+<div class="container">
+    <div class="toolbar">
+        <span><i class="fas fa-graduation-cap"></i> نظام المراجعات</span>
+        <div>
+            <button id="print-pdf"><i class="fas fa-print"></i> طباعة تفاعلية</button>
+            <button id="print-exam"><i class="fas fa-file-pdf"></i> طباعة الأسئلة (نسخة ورقية)</button>
+        </div>
+    </div>
+    <div class="course-tabs" id="courseTabs"></div>
+    <div class="unit-tabs" id="unitTabs"></div>
+    <div class="sub-tabs" id="subTabs"></div>
+    <div class="content">
+        <h2 id="modeTitle"></h2>
+        <div id="quiz-container"></div>
+        <div class="nav-buttons">
+            <button id="prev-btn" style="display:none;"><i class="fas fa-arrow-right"></i> السابق</button>
+            <button id="submit-btn" style="display:none;">إرسال الإجابة ✅</button>
+            <button id="next-btn" style="display:none;">التالي <i class="fas fa-arrow-left"></i></button>
+        </div>
+        <footer>✨ أضف أسئلتك في ملفات JSON داخل مجلدات الوحدات ✨</footer>
+    </div>
+</div>
+
+<script>
+    let config = { courses: [] };
+    let currentCourse = null;
+    let currentUnit = null;
+    let currentSubMode = 'full';
+    let questions = [];
+    let currentIndex = 0, selectedAnswer = null, score = 0;
+
+    async function loadConfig() {
+        const res = await fetch('config.json');
+        config = await res.json();
+        renderCourseTabs();
+        if (config.courses.length) loadCourse(config.courses[0]);
+    }
+
+    function renderCourseTabs() {
+        const container = document.getElementById('courseTabs');
+        container.innerHTML = '';
+        config.courses.forEach((course, idx) => {
+            const tab = document.createElement('div');
+            tab.className = 'course-tab';
+            if (idx === 0) tab.classList.add('active');
+            tab.innerText = course.title;
+            tab.onclick = () => {
+                document.querySelectorAll('.course-tab').forEach(t => t.classList.remove('active'));
+                tab.classList.add('active');
+                loadCourse(course);
+            };
+            container.appendChild(tab);
+        });
+    }
+
+    function loadCourse(course) {
+        currentCourse = course;
+        renderUnitTabs();
+        if (course.units.length) loadUnit(course.units[0]);
+    }
+
+    function renderUnitTabs() {
+        const container = document.getElementById('unitTabs');
+        container.innerHTML = '';
+        currentCourse.units.forEach((unit, idx) => {
+            const tab = document.createElement('div');
+            tab.className = 'unit-tab';
+            if (idx === 0) tab.classList.add('active');
+            tab.innerText = `الوحدة ${unit.replace('unit', '')}`;
+            tab.onclick = () => {
+                document.querySelectorAll('.unit-tab').forEach(t => t.classList.remove('active'));
+                tab.classList.add('active');
+                loadUnit(unit);
+            };
+            container.appendChild(tab);
+        });
+    }
+
+    function loadUnit(unit) {
+        currentUnit = unit;
+        currentSubMode = 'full';
+        renderSubTabs();
+        loadSubMode();
+    }
+
+    function renderSubTabs() {
+        const container = document.getElementById('subTabs');
+        container.innerHTML = `
+            <div class="sub-tab" data-mode="full">📚 شامل</div>
+            <div class="sub-tab" data-mode="vocab">📖 مفردات</div>
+            <div class="sub-tab" data-mode="writing">✍️ كتابة</div>
+            <div class="sub-tab" data-mode="grammar">📘 قواعد</div>
+        `;
+        document.querySelectorAll('.sub-tab').forEach(tab => {
+            tab.onclick = () => {
+                document.querySelectorAll('.sub-tab').forEach(t => t.classList.remove('active'));
+                tab.classList.add('active');
+                currentSubMode = tab.getAttribute('data-mode');
+                loadSubMode();
+            };
+        });
+        document.querySelector('.sub-tab[data-mode="full"]').classList.add('active');
+    }
+
+    async function loadSubMode() {
+        if (currentSubMode === 'writing') { await loadWritingSection(); return; }
+        if (currentSubMode === 'grammar') { await loadGrammarSection(); return; }
+        const fileName = (currentSubMode === 'full') ? 'questions.json' : 'vocabulary.json';
+        const filePath = `units/${currentCourse.id}/${currentUnit}/${fileName}`;
+        try {
+            const res = await fetch(filePath);
+            if (!res.ok) throw new Error(`الملف غير موجود`);
+            questions = await res.json();
+            currentIndex = 0; score = 0;
+            renderQuizInterface();
+            showQuestion();
+            document.getElementById('submit-btn').style.display = 'inline-block';
+            document.getElementById('prev-btn').style.display = 'none';
+        } catch(err) {
+            document.getElementById('quiz-container').innerHTML = `<div style="color:red;">⚠️ ${err.message}</div>`;
+        }
+    }
+
+    function renderQuizInterface() {
+        document.getElementById('modeTitle').innerHTML = `${currentCourse.title} – الوحدة ${currentUnit.replace('unit', '')} – ${currentSubMode === 'full' ? 'اختبار شامل' : 'مفردات'}`;
+        document.getElementById('quiz-container').innerHTML = '<div id="quiz-area"></div><div id="feedback"></div>';
+        document.getElementById('submit-btn').style.display = 'inline-block';
+        document.getElementById('next-btn').style.display = 'none';
+        document.getElementById('prev-btn').style.display = 'none';
+    }
+
+    function showQuestion() {
+        const q = questions[currentIndex];
+        const container = document.getElementById('quiz-area');
+        let html = `<div class="question">${q.text}</div>`;
+        const letters = ['A','B','C','D'];
+        q.options.forEach((opt,i) => {
+            html += `<div class="option" data-letter="${letters[i]}">${letters[i]}. ${opt}</div>`;
+        });
+        container.innerHTML = html;
+        attachOptionEvents();
+        updateProgress();
+        updateNavButtons();
+    }
+
+    function attachOptionEvents() {
+        document.querySelectorAll('.option').forEach(opt => {
+            opt.onclick = () => {
+                document.querySelectorAll('.option').forEach(o => o.classList.remove('selected'));
+                opt.classList.add('selected');
+                selectedAnswer = opt.getAttribute('data-letter');
+            };
+        });
+    }
+
+    function updateProgress() {
+        const percent = ((currentIndex) / questions.length) * 100;
+        const progressHtml = `<div style="display:flex; justify-content:space-between;"><span>السؤال ${currentIndex+1} / ${questions.length}</span><span>⭐ النقاط: ${score}</span></div><div style="background:#ddd; border-radius:20px; height:8px;"><div style="background:#2b7a4b; width:${percent}%; height:8px;"></div></div>`;
+        const existing = document.querySelector('.progress-area');
+        if (existing) existing.remove();
+        const div = document.createElement('div');
+        div.className = 'progress-area';
+        div.innerHTML = progressHtml;
+        document.getElementById('quiz-container').insertBefore(div, document.getElementById('quiz-area'));
+    }
+
+    function updateNavButtons() {
+        const prevBtn = document.getElementById('prev-btn');
+        const nextBtn = document.getElementById('next-btn');
+        if (currentIndex > 0) prevBtn.style.display = 'inline-block';
+        else prevBtn.style.display = 'none';
+        if (currentIndex < questions.length - 1) nextBtn.style.display = 'inline-block';
+        else nextBtn.style.display = 'none';
+    }
+
+    document.getElementById('submit-btn').onclick = () => {
+        if (!selectedAnswer) { alert('اختر إجابة'); return; }
+        const q = questions[currentIndex];
+        const isCorrect = (selectedAnswer === q.correct);
+        const fb = document.getElementById('feedback');
+        if (isCorrect) {
+            score++;
+            fb.innerHTML = `<div class="feedback correct">✅ صحيح! ${q.explanation[selectedAnswer]}</div>`;
+        } else {
+            fb.innerHTML = `<div class="feedback wrong">❌ خطأ. ${q.explanation[selectedAnswer]}<br>✅ الصحيح: ${q.correct} — ${q.explanation[q.correct]}</div>`;
+        }
+        document.getElementById('submit-btn').style.display = 'none';
+        document.getElementById('next-btn').style.display = 'inline-block';
+        updateProgress();
+    };
+
+    document.getElementById('next-btn').onclick = () => {
+        currentIndex++;
+        showQuestion();
+        document.getElementById('submit-btn').style.display = 'inline-block';
+        document.getElementById('next-btn').style.display = 'none';
+        document.getElementById('feedback').innerHTML = '';
+        selectedAnswer = null;
+        updateProgress();
+    };
+
+    document.getElementById('prev-btn').onclick = () => {
+        currentIndex--;
+        showQuestion();
+        document.getElementById('submit-btn').style.display = 'inline-block';
+        document.getElementById('next-btn').style.display = 'none';
+        document.getElementById('feedback').innerHTML = '';
+        selectedAnswer = null;
+        updateProgress();
+    };
+
+    async function loadWritingSection() {
+        const filePath = `units/${currentCourse.id}/${currentUnit}/writing.json`;
+        let data = {};
+        try {
+            const res = await fetch(filePath);
+            if (res.ok) data = await res.json();
+        } catch(e) {}
+        const html = `<div class="writing-box"><h3>📝 ${data.title || 'موضوع الكتابة'}</h3><p>${data.prompts ? data.prompts.join('<br>') : 'اكتب موضوعك هنا.'}</p><textarea rows="6" style="width:100%; margin:15px 0; padding:10px;"></textarea><button id="save-writing">💾 حفظ</button><div id="writing-feedback"></div></div>`;
+        document.getElementById('quiz-container').innerHTML = html;
+        document.getElementById('submit-btn').style.display = 'none';
+        document.getElementById('next-btn').style.display = 'none';
+        document.getElementById('prev-btn').style.display = 'none';
+        document.getElementById('save-writing').onclick = () => alert('تم حفظ مسودتك (محلياً)');
+    }
+
+    async function loadGrammarSection() {
+        const filePath = `units/${currentCourse.id}/${currentUnit}/grammar.json`;
+        let data = {};
+        try {
+            const res = await fetch(filePath);
+            if (res.ok) data = await res.json();
+        } catch(e) {}
+        let html = `<div class="grammar-box"><h2>${data.title || 'شرح القواعد'}</h2>`;
+        if (data.topics) {
+            data.topics.forEach(t => {
+                html += `<h3>${t.name}</h3><p>${t.rule}</p>`;
+                if (t.examples) html += `<ul>${t.examples.map(ex => `<li>${ex}</li>`).join('')}</ul>`;
+            });
+        }
+        html += `</div>`;
+        document.getElementById('quiz-container').innerHTML = html;
+        document.getElementById('submit-btn').style.display = 'none';
+        document.getElementById('next-btn').style.display = 'none';
+        document.getElementById('prev-btn').style.display = 'none';
+    }
+
+    document.getElementById('print-pdf').addEventListener('click', () => window.print());
+    document.getElementById('print-exam').addEventListener('click', async () => {
+        const filePath = `units/${currentCourse.id}/${currentUnit}/questions.json`;
+        let examQuestions = [];
+        try {
+            const res = await fetch(filePath);
+            if (res.ok) examQuestions = await res.json();
+        } catch(e) { alert('لا توجد أسئلة للطباعة'); return; }
+        if (!examQuestions.length) { alert('لا توجد أسئلة'); return; }
+        const win = window.open('', '_blank');
+        win.document.write(`
+            <!DOCTYPE html><html dir="rtl"><head><meta charset="UTF-8"><title>امتحان</title><style>body{padding:1.5cm;}</style></head>
+            <body><h1>${currentCourse.title} – الوحدة ${currentUnit.replace('unit', '')}</h1><div>الاسم: _______________</div><hr>
+            ${examQuestions.map((q,i)=>`<div><b>${i+1}. ${q.text}</b><br>${q.options.map((o,j)=>`<div>${String.fromCharCode(65+j)}. ${o}</div>`).join('')}<div>الإجابة: ___________</div><hr></div>`).join('')}
+            </body></html>
+        `);
+        win.document.close();
+        win.print();
+    });
+
+    loadConfig();
+</script>
+</body>
+</html>
