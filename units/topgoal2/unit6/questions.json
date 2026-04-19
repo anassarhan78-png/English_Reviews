@@ -1,167 +1,241 @@
 [
   {
-    "text": "My brother Mustafa loves 3D ______. He enjoys movies made by computers.",
-    "options": ["animation", "musical", "mystery", "play"],
+    "text": "We were __________ in the forest and made a fire to cook hot dogs.",
+    "options": ["camping", "climbing", "surfing", "hiking"],
     "correct": "A",
     "explanation": {
-      "A": "صحيح! 'animation' تعني الرسوم المتحركة.",
-      "B": "Musical تعني فيلم موسيقي.",
-      "C": "Mystery تعني فيلم غموض.",
-      "D": "Play تعني مسرحية."
+      "A": "صحيح! 'camping' تعني التخييم.",
+      "B": "Climbing تعني التسلق.",
+      "C": "Surfing تعني ركوب الأمواج.",
+      "D": "Hiking تعني المشي لمسافات طويلة."
     }
   },
   {
-    "text": "The movie was a ______. We didn't know what was happening until the end.",
-    "options": ["animation", "musical", "mystery", "play"],
-    "correct": "C",
+    "text": "I want to go __________ at the water park in Qiddiya City.",
+    "options": ["surfing", "camping", "climbing", "hiking"],
+    "correct": "A",
     "explanation": {
-      "A": "Animation لا تعبر عن الغموض.",
-      "B": "Musical لا تعبر عن الغموض.",
-      "C": "صحيح! Mystery تعني فيلم غموض.",
-      "D": "Play تعني مسرحية."
+      "A": "صحيح! 'surfing' تعني ركوب الأمواج.",
+      "B": "Camping تعني التخييم.",
+      "C": "Climbing تعني التسلق.",
+      "D": "Hiking تعني المشي لمسافات طويلة."
     }
   },
   {
-    "text": "Space and planets are Omar's favorite topic. That's why he chose a ______ movie for us to watch last night.",
-    "options": ["sci-fi", "animation", "musical", "mystery"],
+    "text": "Naseer fell when he was __________ up a mountain.",
+    "options": ["climbing", "camping", "surfing", "hiking"],
     "correct": "A",
     "explanation": {
-      "A": "صحيح! Sci-fi تعني خيال علمي.",
-      "B": "Animation لا ترتبط بالفضاء بالضرورة.",
-      "C": "Musical لا ترتبط بالفضاء.",
-      "D": "Mystery لا ترتبط بالفضاء."
+      "A": "صحيح! 'climbing' تعني التسلق.",
+      "B": "Camping تعني التخييم.",
+      "C": "Surfing تعني ركوب الأمواج.",
+      "D": "Hiking تعني المشي لمسافات طويلة."
     }
   },
   {
-    "text": "Aisha didn't like the ______ we were watching. She said the singing was bad.",
-    "options": ["musical", "play", "animation", "mystery"],
+    "text": "Don't forget your __________, Saeed. It's cold in the forest at night.",
+    "options": ["sleeping bag", "tent", "backpack", "flashlight"],
     "correct": "A",
     "explanation": {
-      "A": "صحيح! Musical تحتوي على غناء.",
-      "B": "Play قد تحتوي على غناء لكن الكلمة المخصصة للأفلام الموسيقية هي musical.",
-      "C": "Animation لا تعني بالضرورة فيلم غنائي.",
-      "D": "Mystery لا تعني فيلم غنائي."
+      "A": "صحيح! 'sleeping bag' هي كيس النوم.",
+      "B": "Tent تعني خيمة.",
+      "C": "Backpack تعني حقيبة ظهر.",
+      "D": "Flashlight تعني مصباح يدوي."
     }
   },
   {
-    "text": "The best books have a ______ so you never know what will happen next.",
-    "options": ["plot", "character", "act", "wish"],
+    "text": "Khadija is good at putting up a __________. She goes camping a lot.",
+    "options": ["tent", "sleeping bag", "backpack", "campfire"],
     "correct": "A",
     "explanation": {
-      "A": "صحيح! Plot تعني حبكة القصة.",
-      "B": "Character تعني شخصية.",
-      "C": "Act تعني فصل من المسرحية.",
-      "D": "Wish تعني أمنية."
+      "A": "صحيح! 'tent' تعني خيمة.",
+      "B": "Sleeping bag تعني كيس نوم.",
+      "C": "Backpack تعني حقيبة ظهر.",
+      "D": "Campfire تعني نار المخيم."
     }
   },
   {
-    "text": "The best thing about this story is the c___________. They are all different and interesting.",
-    "options": ["characters", "chapters", "choices", "chances"],
+    "text": "Remember to pull your __________ out of the water when you finish.",
+    "options": ["raft", "backpack", "fishing rod", "helmet"],
     "correct": "A",
     "explanation": {
-      "A": "صحيح! Characters تعني شخصيات القصة.",
-      "B": "Chapters تعني فصول الكتاب.",
-      "C": "Choices تعني خيارات.",
-      "D": "Chances تعني فرص."
+      "A": "صحيح! 'raft' تعني طوف أو قارب مطاطي.",
+      "B": "Backpack تعني حقيبة ظهر.",
+      "C": "Fishing rod تعني صنارة صيد.",
+      "D": "Helmet تعني خوذة."
     }
   },
   {
-    "text": "I don't watch h___________ movies alone. They're too scary!",
-    "options": ["horror", "history", "humor", "hero"],
+    "text": "We went horseback __________ this summer.",
+    "options": ["riding", "driving", "climbing", "hiking"],
     "correct": "A",
     "explanation": {
-      "A": "صحيح! Horror تعني رعب.",
-      "B": "History تعني تاريخ.",
-      "C": "Humor تعني فكاهة.",
-      "D": "Hero تعني بطل."
+      "A": "صحيح! 'horseback riding' تعني ركوب الخيل.",
+      "B": "Driving تعني قيادة.",
+      "C": "Climbing تعني تسلق.",
+      "D": "Hiking تعني مشي طويل."
     }
   },
   {
-    "text": "The character made a w___________ at the start and it came true at the end.",
-    "options": ["wish", "will", "word", "work"],
+    "text": "You need a __________ to see in the forest at night.",
+    "options": ["flashlight", "helmet", "campfire", "backpack"],
     "correct": "A",
     "explanation": {
-      "A": "صحيح! Wish تعني أمنية.",
-      "B": "Will تعني إرادة.",
-      "C": "Word تعني كلمة.",
-      "D": "Work تعني عمل."
+      "A": "صحيح! 'flashlight' تعني مصباح يدوي.",
+      "B": "Helmet تعني خوذة.",
+      "C": "Campfire تعني نار المخيم.",
+      "D": "Backpack تعني حقيبة ظهر."
     }
   },
   {
-    "text": "Why don't we draw a s___________ to plan our movie?",
-    "options": ["storyboard", "storyline", "script", "screenplay"],
+    "text": "Fouad's __________ was heavy, so Mr. Hassan carried it.",
+    "options": ["backpack", "tent", "sleeping bag", "raft"],
     "correct": "A",
     "explanation": {
-      "A": "صحيح! Storyboard هي لوحة تخطيط المشاهد.",
-      "B": "Storyline تعني الخط القصصي.",
-      "C": "Script تعني النص الحواري.",
-      "D": "Screenplay تعني سيناريو."
+      "A": "صحيح! 'backpack' تعني حقيبة ظهر.",
+      "B": "Tent تعني خيمة.",
+      "C": "Sleeping bag تعني كيس نوم.",
+      "D": "Raft تعني طوف."
     }
   },
   {
-    "text": "Hashim, don't tell me what happens in the last a___________. I want to read it for myself.",
-    "options": ["act", "article", "action", "actor"],
+    "text": "We were sitting by the __________ to cook our food.",
+    "options": ["campfire", "tent", "flashlight", "backpack"],
     "correct": "A",
     "explanation": {
-      "A": "صحيح! Act تعني فصل في المسرحية.",
-      "B": "Article تعني مقال.",
-      "C": "Action تعني حدث أو حركة.",
-      "D": "Actor تعني ممثل."
+      "A": "صحيح! 'campfire' تعني نار المخيم.",
+      "B": "Tent تعني خيمة.",
+      "C": "Flashlight تعني مصباح.",
+      "D": "Backpack تعني حقيبة."
     }
   },
   {
-    "text": "Amina __________ (eat) a sandwich in class yesterday.",
-    "options": ["was eating", "is eating", "ate", "eats"],
+    "text": "Maha __________ down when she __________.",
+    "options": ["fell / was climbing", "was falling / climbed", "fell / climbed", "was falling / was climbing"],
     "correct": "A",
     "explanation": {
-      "A": "صحيح! الماضي المستمر 'was eating' يعبر عن حدث مستمر في الماضي.",
-      "B": "Is eating مضارع مستمر وليس ماضي.",
-      "C": "Ate ماضي بسيط وليس مستمر.",
-      "D": "Eats مضارع بسيط."
+      "A": "صحيح! ماضي بسيط + ماضي مستمر: fell / was climbing.",
+      "B": "خطأ: الترتيب والاستخدام غير صحيح.",
+      "C": "ماضيين بسيطين لا يعبران عن التداخل الزمني.",
+      "D": "ماضيين مستمرين غير مناسبين."
     }
   },
   {
-    "text": "We __________ (laugh) because the horror movie was funny.",
-    "options": ["were laughing", "was laughing", "laughed", "laugh"],
+    "text": "We __________ and __________ an eagle.",
+    "options": ["were hiking / saw", "hiked / were seeing", "were hiking / were seeing", "hiked / saw"],
     "correct": "A",
     "explanation": {
-      "A": "صحيح! مع 'We' نستخدم 'were' + فعل + ing.",
-      "B": "Was تستخدم مع المفرد.",
-      "C": "Laughed ماضي بسيط وليس مستمر.",
-      "D": "Laugh مضارع."
+      "A": "صحيح! ماضي مستمر (حدث طويل) + ماضي بسيط (حدث مفاجئ).",
+      "B": "خطأ: 'see' لا تستخدم عادة في المستمر.",
+      "C": "غير مناسب: الحدثان مستمران.",
+      "D": "جائز لكن 'were hiking / saw' أفضل لوصف المشهد."
     }
   },
   {
-    "text": "__________ Adel and Ibrahim __________ (make) a documentary last week?",
-    "options": ["Were ... making", "Was ... making", "Did ... make", "Are ... making"],
+    "text": "Amal __________ cold while she __________ in the ocean.",
+    "options": ["felt / was surfing", "was feeling / surfed", "felt / surfed", "was feeling / was surfing"],
     "correct": "A",
     "explanation": {
-      "A": "صحيح! السؤال في الماضي المستمر مع فاعل جمع: Were + فاعل + فعل + ing.",
-      "B": "Was للفاعل المفرد.",
-      "C": "Did make ماضي بسيط.",
-      "D": "Are making مضارع مستمر."
+      "A": "صحيح! ماضي بسيط + ماضي مستمر.",
+      "B": "خطأ: الترتيب غير منطقي.",
+      "C": "ماضيين بسيطين لا يربطان الحدثين زمنياً.",
+      "D": "جائز لكن 'felt / was surfing' أكثر دقة."
     }
   },
   {
-    "text": "I knew Farah __________ (not enjoy) the fairy tale. She looked sad.",
-    "options": ["wasn't enjoying", "didn't enjoy", "isn't enjoying", "doesn't enjoy"],
+    "text": "They __________ when the fire __________.",
+    "options": ["were not sleeping / started", "did not sleep / was starting", "were not sleeping / was starting", "did not sleep / started"],
     "correct": "A",
     "explanation": {
-      "A": "صحيح! النفي في الماضي المستمر: wasn't/weren't + فعل + ing.",
-      "B": "Didn't enjoy ماضي بسيط.",
-      "C": "Isn't enjoying مضارع مستمر.",
-      "D": "Doesn't enjoy مضارع بسيط."
+      "A": "صحيح! نفي ماضي مستمر + ماضي بسيط.",
+      "B": "خطأ: 'start' فعل لحظي لا يستخدم في المستمر عادة.",
+      "C": "خطأ: 'was starting' غير مناسب هنا.",
+      "D": "جائز لكن المستمر أفضل لوصف الحالة المستمرة قبل الحدث."
     }
   },
   {
-    "text": "__________ you __________ (watch) the play or did you fall asleep?",
-    "options": ["Were ... watching", "Was ... watching", "Did ... watch", "Are ... watching"],
+    "text": "What __________ you __________ when the horse __________ away?",
+    "options": ["were ... doing / ran", "did ... do / was running", "were ... doing / was running", "did ... do / ran"],
     "correct": "A",
     "explanation": {
-      "A": "صحيح! سؤال ماضي مستمر مع 'you': Were you watching.",
-      "B": "Was تستخدم مع I/he/she/it.",
-      "C": "Did watch ماضي بسيط.",
-      "D": "Are watching مضارع مستمر."
+      "A": "صحيح! سؤال ماضي مستمر + ماضي بسيط.",
+      "B": "خطأ: السؤال بالماضي البسيط لا يناسب السياق.",
+      "C": "خطأ: 'ran' فعل لحظي لا يستخدم في المستمر.",
+      "D": "جائز لكن المستمر أفضل للسؤال عن نشاط مستمر."
+    }
+  },
+  {
+    "text": "__________ we were hiking, we made lots of new friends.",
+    "options": ["While", "When", "During", "As"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'While' تستخدم مع الأحداث المستمرة.",
+      "B": "'When' تستخدم مع الأحداث اللحظية.",
+      "C": "'During' يتبعها اسم وليس جملة.",
+      "D": "'As' ممكنة لكن 'While' أفضل مع المستمر."
+    }
+  },
+  {
+    "text": "We saw a campfire __________ we arrived.",
+    "options": ["when", "while", "during", "as"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'When' تستخدم مع الحدث اللحظي (arrived).",
+      "B": "'While' تستخدم مع الأحداث المستمرة.",
+      "C": "'During' يتبعها اسم وليس جملة.",
+      "D": "'As' ممكنة لكن 'when' أكثر شيوعاً."
+    }
+  },
+  {
+    "text": "Did Noura wear a helmet __________ she was climbing?",
+    "options": ["while", "when", "during", "as"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'While' مع الماضي المستمر.",
+      "B": "'When' مع الأحداث اللحظية.",
+      "C": "'During' يتبعها اسم.",
+      "D": "'As' ممكنة لكن 'while' أفضل."
+    }
+  },
+  {
+    "text": "Jabr didn't feel scared __________ he saw the bear.",
+    "options": ["when", "while", "during", "as"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'When' مع الحدث اللحظي (saw).",
+      "B": "'While' مع المستمر.",
+      "C": "'During' يتبعها اسم.",
+      "D": "'As' ممكنة لكن 'when' أفضل."
+    }
+  },
+  {
+    "text": "__________ we were setting up the tent, we didn't talk.",
+    "options": ["While", "When", "During", "As"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'While' مع الحدث المستمر.",
+      "B": "'When' مع اللحظي.",
+      "C": "'During' يتبعها اسم.",
+      "D": "'As' ممكنة لكن 'while' أفضل."
+    }
+  },
+  {
+    "text": "On the first day, we (1) __________ for many hours before we found our campsite. (2) __________ the leaders were looking for wood, we set up our (3) __________. Then we made a (4) __________ and ate hot dogs. The night was cold, but I had my (5) __________ to keep me warm. In the morning, (6) __________ we woke up, the leaders (7) __________ our backpacks ready. We hiked for two hours and I (8) __________ tired. While we were canoeing, the leaders caught fish for us with their (9) __________. I (10) __________ expect it to taste so good.",
+    "options": [
+      "Part 1: were hiking / hiked / was hiking / are hiking",
+      "Part 2: While / When / During / As",
+      "Part 3: tents / backpacks / sleeping bags / rafts",
+      "Part 4: campfire / tent / flashlight / sleeping bag",
+      "Part 5: sleeping bag / tent / backpack / raft",
+      "Part 6: When / While / During / As",
+      "Part 7: were getting / got / was getting / get",
+      "Part 8: was feeling / felt / feel / am feeling",
+      "Part 9: fishing rods / rafts / backpacks / helmets",
+      "Part 10: didn't / wasn't / don't / weren't"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "الإجابات الصحيحة: 1. were hiking, 2. While, 3. tents, 4. campfire, 5. sleeping bag, 6. When, 7. were getting, 8. was feeling, 9. fishing rods, 10. didn't"
     }
   }
 ]

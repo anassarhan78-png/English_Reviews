@@ -1,22 +1,20 @@
 {
-  "title": "Past Progressive & Making Suggestions",
+  "title": "Simple Past & Past Progressive with When/While",
   "topics": [
     {
-      "name": "Past Progressive - الماضي المستمر",
-      "rule": "نستخدم was/were + الفعل + ing للتعبير عن حدث كان مستمراً في وقت محدد في الماضي.",
+      "name": "الماضي البسيط والماضي المستمر",
+      "rule": "نستخدم الماضي المستمر (was/were + فعل + ing) لوصف حدث كان مستمراً في الماضي، ونستخدم الماضي البسيط لوصف حدث قطع ذلك الاستمرار.",
       "examples": [
-        "I was eating dinner at 8pm.",
-        "They were watching a movie.",
-        "Was she studying?"
+        "I was hiking when I saw a bear.",
+        "She fell while she was climbing."
       ]
     },
     {
-      "name": "Making Suggestions - تقديم الاقتراحات",
-      "rule": "نستخدم Why don't we / How about / What about / Let's لتقديم اقتراح.",
+      "name": "When / While",
+      "rule": "نستخدم 'While' مع الماضي المستمر (أحداث طويلة)، و'When' مع الماضي البسيط (أحداث قصيرة أو لحظية).",
       "examples": [
-        "Why don't we watch a movie?",
-        "How about drawing a storyboard?",
-        "Let's write a play."
+        "While we were camping, it started to rain.",
+        "When we arrived, they were setting up the tent."
       ]
     }
   ]

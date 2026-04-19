@@ -1,9 +1,9 @@
 {
-  "title": "Write about a movie or story you like",
+  "title": "Write about an outdoor adventure",
   "prompts": [
-    "What is the title of the movie/story?",
-    "Who are the main characters?",
-    "What happens in the story? (Use past progressive when possible)"
+    "Where did you go?",
+    "What activities did you do?",
+    "What happened while you were doing an activity? (Use past progressive + past simple)"
   ],
-  "model": "I watched an animation movie called 'Toy Story'. Woody and Buzz were trying to escape from Sid's house. Andy was waiting for them at home."
+  "model": "Last summer, I went camping with my family. While we were hiking in the forest, we saw a deer. I was taking a photo when it ran away. We also went surfing and I fell off the raft. It was a great adventure!"
 }
