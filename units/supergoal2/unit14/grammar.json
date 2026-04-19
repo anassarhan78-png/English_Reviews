@@ -1,1 +1,29 @@
-{}
+{
+  "title": "Polite Requests & Offers (Could, Can, Will, Would, Let me, I'll)",
+  "topics": [
+    {
+      "name": "Requests with Could/Can/Will/Would",
+      "rule": "لطلب شيء بأدب نستخدم Could you / Can you / Will you / Would you + مصدر بدون to.",
+      "examples": [
+        "Could you open the window?",
+        "Will you send me an email?"
+      ]
+    },
+    {
+      "name": "Offers and Promises",
+      "rule": "Let me + مصدر (للسماح بعرض المساعدة). I'll (I will) + مصدر (للوعد أو العرض).",
+      "examples": [
+        "Let me carry your bag.",
+        "I'll give you a lift."
+      ]
+    },
+    {
+      "name": "Verb + Object + to + Infinitive",
+      "rule": "بعد أفعال مثل want, ask, tell نستخدم: فعل + مفعول + to + مصدر.",
+      "examples": [
+        "I want you to make your bed.",
+        "Tell her to bring food."
+      ]
+    }
+  ]
+}
