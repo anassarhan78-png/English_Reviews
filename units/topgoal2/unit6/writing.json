@@ -1,1 +1,9 @@
-{}
+{
+  "title": "Write about a movie or story you like",
+  "prompts": [
+    "What is the title of the movie/story?",
+    "Who are the main characters?",
+    "What happens in the story? (Use past progressive when possible)"
+  ],
+  "model": "I watched an animation movie called 'Toy Story'. Woody and Buzz were trying to escape from Sid's house. Andy was waiting for them at home."
+}
