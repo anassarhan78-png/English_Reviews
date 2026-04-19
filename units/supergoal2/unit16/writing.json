@@ -1,1 +1,10 @@
-{}
+{
+  "title": "Write about Someone's Exciting Life or an Extreme Sport",
+  "prompts": [
+    "1. What are your extreme sports or activity?",
+    "2. How often do you do these extreme sports or activity?",
+    "3. What extreme sport/activity is popular in your country?",
+    "4. Why do you like this extreme sport/activity?"
+  ],
+  "model": "These are the exciting things Fatima has done. Fatima has ridden camels and raced Arabian horses. She has also climbed to Soda Mountain. Of course, she is careful. 'Safety comes first,' she always says. Before she does any extreme or dangerous activity, she first learns about it. Then she trains with expert instructors."
+}

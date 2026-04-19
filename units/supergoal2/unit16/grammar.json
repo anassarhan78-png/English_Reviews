@@ -1,1 +1,22 @@
-{}
+{
+  "title": "Present Perfect with Already, Yet, Ever, Never",
+  "topics": [
+    {
+      "name": "Form - Present Perfect",
+      "rule": "have/has + past participle (التصريف الثالث). نستخدمه للتجارب والأحداث غير المحددة بزمن.",
+      "examples": [
+        "I have been to Italy.",
+        "She has finished her homework."
+      ]
+    },
+    {
+      "name": "Already / Yet / Ever / Never",
+      "rule": "Already (بعد) في الجمل المثبتة. Yet (بعد) في النفي والسؤال. Ever (في أي وقت مضى) في الأسئلة. Never (أبداً) للنفي.",
+      "examples": [
+        "I have already eaten.",
+        "Have you ever been to Paris?",
+        "I have never seen a ghost."
+      ]
+    }
+  ]
+}
