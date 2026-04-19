@@ -1,1 +1,10 @@
-{}
+{
+  "title": "Write a Summary of a Story",
+  "prompts": [
+    "Summarize a short story you know or imagine.",
+    "What happened first?",
+    "What was the problem?",
+    "How did it end?"
+  ],
+  "model": "Robert was delivering a pizza. The elevator broke down and he was trapped inside. Robert didn't panic. He ate the pizza and fell asleep. Then the building manager came to fix the elevator and he found Robert asleep inside."
+}

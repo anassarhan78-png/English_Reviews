@@ -1,1 +1,21 @@
-{}
+{
+  "title": "Past Progressive with When & Could / Was able to",
+  "topics": [
+    {
+      "name": "Past Progressive with When",
+      "rule": "نستخدم الماضي المستمر (was/were + فعل+ing) لحدث طويل في الماضي، ونستخدم الماضي البسيط مع when لحدث قصير يقطعه.",
+      "examples": [
+        "He was writing an email when the phone rang.",
+        "They were playing when it began to rain."
+      ]
+    },
+    {
+      "name": "Could / Was able to",
+      "rule": "Could + مصدر للقدرة العامة في الماضي. Was/Were able to للقدرة على فعل شيء محدد في الماضي.",
+      "examples": [
+        "When I was five, I could swim.",
+        "He was able to fix the car."
+      ]
+    }
+  ]
+}
