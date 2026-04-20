@@ -1,1 +1,158 @@
-[]
+[
+  {
+    "text": "Match: 'Zebras are found at a zoo.' Zebras are:",
+    "options": ["horses with black and white stripes", "to swim underwater", "very strange", "a sport of flying"],
+    "correct": "A",
+    "explanation": { "A": "صحيح! حمار وحشي.", "B": "dive.", "C": "weird.", "D": "hang gliding." }
+  },
+  {
+    "text": "Match: 'He's got some weird ideas.' Weird means:",
+    "options": ["very strange and unusual", "making you feel afraid", "to send through the air", "strong thick string"],
+    "correct": "A",
+    "explanation": { "A": "صحيح! غريب.", "B": "frightening.", "C": "throw.", "D": "rope." }
+  },
+  {
+    "text": "Match: 'Tom pulled the rope.' Rope means:",
+    "options": ["strong thick string made of twisted threads", "belts to hold a person", "to swim underwater", "wire bars for animals"],
+    "correct": "A",
+    "explanation": { "A": "صحيح! حبل.", "B": "harness.", "C": "dive.", "D": "cage." }
+  },
+  {
+    "text": "Match: 'She fastened the safety harness.' Harness means:",
+    "options": ["belts used to hold a person in place", "strong thick string", "to send through air", "a sport of flying"],
+    "correct": "A",
+    "explanation": { "A": "صحيح! حزام الأمان.", "B": "rope.", "C": "throw.", "D": "hang gliding." }
+  },
+  {
+    "text": "Match: 'This is a frightening place.' Frightening means:",
+    "options": ["making you feel afraid", "very strange", "to swim underwater", "to hit a door"],
+    "correct": "A",
+    "explanation": { "A": "صحيح! مخيف.", "B": "weird.", "C": "dive.", "D": "knock." }
+  },
+  {
+    "text": "Match: 'A lion has escaped from its cage.' Cage means:",
+    "options": ["wire or metal bars for keeping birds/animals", "strong thick string", "belts for holding a person", "sending through air"],
+    "correct": "A",
+    "explanation": { "A": "صحيح! قفص.", "B": "rope.", "C": "harness.", "D": "throw." }
+  },
+  {
+    "text": "Match: 'Hang gliding is a dangerous sport.' Hang gliding means:",
+    "options": ["the sport of flying in a glider", "to swim underwater", "to hit a door", "a horse with stripes"],
+    "correct": "A",
+    "explanation": { "A": "صحيح! الطيران الشراعي المعلق.", "B": "dive.", "C": "knock.", "D": "zebra." }
+  },
+  {
+    "text": "Match: 'I want to dive into the river.' Dive means:",
+    "options": ["to swim underwater", "to send through air", "to hit a door", "very strange"],
+    "correct": "A",
+    "explanation": { "A": "صحيح! الغطس.", "B": "throw.", "C": "knock.", "D": "weird." }
+  },
+  {
+    "text": "Match: 'Please throw the ball.' Throw means:",
+    "options": ["to send through air with force", "to hit a door", "to swim underwater", "strong thick string"],
+    "correct": "A",
+    "explanation": { "A": "صحيح! رمي.", "B": "knock.", "C": "dive.", "D": "rope." }
+  },
+  {
+    "text": "Match: 'I better knock on his door.' Knock means:",
+    "options": ["to hit a door", "to send through air", "to swim underwater", "very strange"],
+    "correct": "A",
+    "explanation": { "A": "صحيح! طرق الباب.", "B": "throw.", "C": "dive.", "D": "weird." }
+  },
+  {
+    "text": "…………….. is allowed from the top of Windy Hill.",
+    "options": ["Hang gliding", "Camel riding", "Shark diving", "Horse riding"],
+    "correct": "A",
+    "explanation": { "A": "صحيح! الطيران الشراعي.", "B": "ركوب الجمل.", "C": "الغوص مع القرش.", "D": "ركوب الخيل." }
+  },
+  {
+    "text": "Many dolphins can ………………………. to depths of 200 meters.",
+    "options": ["dive", "throw", "knock", "ride"],
+    "correct": "A",
+    "explanation": { "A": "صحيح! الغوص.", "B": "رمي.", "C": "طرق.", "D": "ركوب." }
+  },
+  {
+    "text": "Don't …………….. stones.",
+    "options": ["throw", "dive", "drive", "knock"],
+    "correct": "A",
+    "explanation": { "A": "صحيح! رمي الحجارة.", "B": "الغوص.", "C": "قيادة.", "D": "طرق." }
+  },
+  {
+    "text": "Please …………………….. on the door.",
+    "options": ["knock", "throw", "cook", "dive"],
+    "correct": "A",
+    "explanation": { "A": "صحيح! اطرق الباب.", "B": "ارم.", "C": "اطبخ.", "D": "اغطس." }
+  },
+  {
+    "text": "My computer makes a really …………………… noise.",
+    "options": ["weird", "empty", "angry", "fat"],
+    "correct": "A",
+    "explanation": { "A": "صحيح! صوت غريب.", "B": "فارغ.", "C": "غاضب.", "D": "سمين." }
+  },
+  {
+    "text": "Please call your dog off it's __________the children.",
+    "options": ["frightening", "friendly", "free", "fantastic"],
+    "correct": "A",
+    "explanation": { "A": "صحيح! يخيف الأطفال.", "B": "ودود.", "C": "حر.", "D": "رائع." }
+  },
+  {
+    "text": "There is a beautiful bird in the …………………...",
+    "options": ["cage", "rope", "harness", "durian"],
+    "correct": "A",
+    "explanation": { "A": "صحيح! قفص.", "B": "حبل.", "C": "حزام أمان.", "D": "دوريان." }
+  },
+  {
+    "text": "Frank buckled on his safety ……………………….",
+    "options": ["harness", "durian", "stool", "cage"],
+    "correct": "A",
+    "explanation": { "A": "صحيح! حزام أمان.", "B": "دوريان.", "C": "كرسي.", "D": "قفص." }
+  },
+  {
+    "text": "My daughter loves jumping ______.",
+    "options": ["rope", "stool", "harness", "cage"],
+    "correct": "A",
+    "explanation": { "A": "صحيح! نط الحبل.", "B": "كرسي.", "C": "حزام.", "D": "قفص." }
+  },
+  {
+    "text": "I once watched a lioness hunting a …………………...",
+    "options": ["zebra", "cat", "tiger", "cheetah"],
+    "correct": "A",
+    "explanation": { "A": "صحيح! حمار وحشي.", "B": "قطة.", "C": "نمر.", "D": "فهد." }
+  },
+  {
+    "text": "The bird escaped from the ……………….",
+    "options": ["cage", "rope", "harness", "gliding"],
+    "correct": "A",
+    "explanation": { "A": "صحيح! قفص.", "B": "حبل.", "C": "حزام.", "D": "طيران شراعي." }
+  },
+  {
+    "text": "Tie the end of the ………….. .",
+    "options": ["rope", "cage", "cliff", "gliding"],
+    "correct": "A",
+    "explanation": { "A": "صحيح! حبل.", "B": "قفص.", "C": "جرف.", "D": "طيران شراعي." }
+  },
+  {
+    "text": "The ……………………..last erupted 25 years ago.",
+    "options": ["volcano", "desert", "tsunamis", "tornado"],
+    "correct": "A",
+    "explanation": { "A": "صحيح! بركان.", "B": "صحراء.", "C": "تسونامي.", "D": "إعصار." }
+  },
+  {
+    "text": "……………………… are good swimmers.",
+    "options": ["Sharks", "earthquake", "Camels", "Zebras"],
+    "correct": "A",
+    "explanation": { "A": "صحيح! أسماك القرش سباحة ماهرة.", "B": "زلزال.", "C": "جمال.", "D": "حمر وحشية." }
+  },
+  {
+    "text": "Don't …………………….. garbage away here.",
+    "options": ["throw", "knock", "dive", "support"],
+    "correct": "A",
+    "explanation": { "A": "صحيح! رمي القمامة.", "B": "طرق.", "C": "غوص.", "D": "دعم." }
+  },
+  {
+    "text": "……………………… are the ships of the desert.",
+    "options": ["Camels", "Dogs", "Horses", "Sharks"],
+    "correct": "A",
+    "explanation": { "A": "صحيح! الجمال سفن الصحراء.", "B": "كلاب.", "C": "خيول.", "D": "قرش." }
+  }
+]

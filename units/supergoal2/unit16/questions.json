@@ -3,497 +3,90 @@
     "text": "They ____________ three letters already.",
     "options": ["have written", "wrote", "has written", "write"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! مضارع تام مع 'They': have + written.",
-      "B": "wrote ماضي بسيط ولا يناسب 'already'.",
-      "C": "has للمفرد.",
-      "D": "write مضارع خطأ."
-    }
+    "explanation": { "A": "صحيح! مضارع تام مع 'They': have + written.", "B": "wrote ماضي بسيط ولا يناسب 'already'.", "C": "has للمفرد.", "D": "write مضارع خطأ." }
   },
   {
     "text": "He …………………….. his homework already.",
     "options": ["has finished", "have finished", "finished", "finishes"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! He مفرد → has + finished.",
-      "B": "have للجمع.",
-      "C": "finished ماضي بسيط ينقص has.",
-      "D": "finishes مضارع خطأ."
-    }
+    "explanation": { "A": "صحيح! He مفرد → has + finished.", "B": "have للجمع.", "C": "finished ماضي بسيط ينقص has.", "D": "finishes مضارع خطأ." }
   },
   {
     "text": "We have ___________ to Canada.",
     "options": ["been", "are", "be", "were"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! have been للتجربة.",
-      "B": "are مضارع خطأ.",
-      "C": "be مصدر خطأ.",
-      "D": "were ماضي خطأ."
-    }
+    "explanation": { "A": "صحيح! have been للتجربة.", "B": "are مضارع خطأ.", "C": "be مصدر خطأ.", "D": "were ماضي خطأ." }
   },
   {
     "text": "We have ________ this movie already.",
     "options": ["seen", "see", "saw", "to see"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! تصريف ثالث لـ see هو seen.",
-      "B": "see مضارع خطأ.",
-      "C": "saw ماضي خطأ.",
-      "D": "to see خطأ."
-    }
+    "explanation": { "A": "صحيح! تصريف ثالث لـ see هو seen.", "B": "see مضارع خطأ.", "C": "saw ماضي خطأ.", "D": "to see خطأ." }
   },
   {
     "text": "He has …………………. his leg.",
     "options": ["broken", "breaks", "broke", "breaking"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! has + broken (تصريف ثالث).",
-      "B": "breaks مضارع خطأ.",
-      "C": "broke ماضي خطأ.",
-      "D": "breaking خطأ."
-    }
+    "explanation": { "A": "صحيح! has + broken (تصريف ثالث).", "B": "breaks مضارع خطأ.", "C": "broke ماضي خطأ.", "D": "breaking خطأ." }
   },
   {
     "text": "There has __________ an accident.",
     "options": ["been", "is", "was", "be"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! has + been.",
-      "B": "is مضارع خطأ.",
-      "C": "was ماضي خطأ.",
-      "D": "be مصدر خطأ."
-    }
+    "explanation": { "A": "صحيح! has + been.", "B": "is مضارع خطأ.", "C": "was ماضي خطأ.", "D": "be مصدر خطأ." }
   },
   {
     "text": "The children have ………………… a mess in the kitchen.",
     "options": ["made", "make", "making", "to make"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! have + made (تصريف ثالث).",
-      "B": "make مضارع خطأ.",
-      "C": "making خطأ.",
-      "D": "to make خطأ."
-    }
+    "explanation": { "A": "صحيح! have + made (تصريف ثالث).", "B": "make مضارع خطأ.", "C": "making خطأ.", "D": "to make خطأ." }
   },
   {
     "text": "Have you ever _______ to England?",
     "options": ["been", "were", "are", "be"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! Have you ever been للسؤال عن تجربة.",
-      "B": "were ماضي خطأ.",
-      "C": "are مضارع خطأ.",
-      "D": "be مصدر خطأ."
-    }
+    "explanation": { "A": "صحيح! Have you ever been للسؤال عن تجربة.", "B": "were ماضي خطأ.", "C": "are مضارع خطأ.", "D": "be مصدر خطأ." }
   },
   {
     "text": "I have never ………………. to Italy.",
     "options": ["been", "be", "were", "is"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! have never been.",
-      "B": "be خطأ.",
-      "C": "were خطأ.",
-      "D": "is خطأ."
-    }
+    "explanation": { "A": "صحيح! have never been.", "B": "be خطأ.", "C": "were خطأ.", "D": "is خطأ." }
   },
   {
     "text": "They haven't ……………………… yet.",
     "options": ["eaten", "eat", "ate", "eats"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! haven't + eaten.",
-      "B": "eat مضارع خطأ.",
-      "C": "ate ماضي خطأ.",
-      "D": "eats خطأ."
-    }
+    "explanation": { "A": "صحيح! haven't + eaten.", "B": "eat مضارع خطأ.", "C": "ate ماضي خطأ.", "D": "eats خطأ." }
   },
   {
     "text": "I haven't ________ my room yet.",
     "options": ["cleaned", "cleans", "cleaning", "clean"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! haven't + cleaned.",
-      "B": "cleans خطأ.",
-      "C": "cleaning خطأ.",
-      "D": "clean مضارع خطأ."
-    }
+    "explanation": { "A": "صحيح! haven't + cleaned.", "B": "cleans خطأ.", "C": "cleaning خطأ.", "D": "clean مضارع خطأ." }
   },
   {
     "text": "We haven't ___________a movie yet.",
     "options": ["watched", "are going to watch", "to watch", "watching"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! haven't + watched.",
-      "B": "are going to watch مستقبل خطأ.",
-      "C": "to watch خطأ.",
-      "D": "watching خطأ."
-    }
+    "explanation": { "A": "صحيح! haven't + watched.", "B": "are going to watch مستقبل خطأ.", "C": "to watch خطأ.", "D": "watching خطأ." }
   },
   {
     "text": "__________ you ever seen a ghost?",
     "options": ["Have", "Has", "Are", "Do"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! Have you ever seen?",
-      "B": "Has للمفرد.",
-      "C": "Are خطأ.",
-      "D": "Do خطأ."
-    }
+    "explanation": { "A": "صحيح! Have you ever seen?", "B": "Has للمفرد.", "C": "Are خطأ.", "D": "Do خطأ." }
   },
   {
     "text": "_____ he bought a new car yet?",
     "options": ["Has", "Have", "Is", "Was"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! Has he bought?",
-      "B": "Have خطأ مع he.",
-      "C": "Is خطأ.",
-      "D": "Was خطأ."
-    }
+    "explanation": { "A": "صحيح! Has he bought?", "B": "Have خطأ مع he.", "C": "Is خطأ.", "D": "Was خطأ." }
   },
   {
     "text": "I have …………….. three books so far.",
     "options": ["bought", "buying", "buy", "buys"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! have + bought.",
-      "B": "buying خطأ.",
-      "C": "buy مضارع خطأ.",
-      "D": "buys خطأ."
-    }
-  },
-  {
-    "text": "Choose the correct structure:",
-    "options": [
-      "They were playing when it began to rain.",
-      "He were playing when it began to rain.",
-      "They was playing when it began to rain.",
-      "They were playing when it begin to rain."
-    ],
-    "correct": "A",
-    "explanation": {
-      "A": "صحيح! They + were + playing, began ماضي.",
-      "B": "He were خطأ.",
-      "C": "They was خطأ.",
-      "D": "begin مضارع خطأ."
-    }
-  },
-  {
-    "text": "Choose the correct structure:",
-    "options": [
-      "I was riding my bike.",
-      "They was riding my bike.",
-      "I riding my bike.",
-      "I was ride my bike."
-    ],
-    "correct": "A",
-    "explanation": {
-      "A": "صحيح! ماضي مستمر صحيح.",
-      "B": "They was خطأ.",
-      "C": "ينقص was.",
-      "D": "ride خطأ (يجب riding)."
-    }
-  },
-  {
-    "text": "I (eat) lunch with my friends when the phone rang. [Correct the verb]",
-    "options": ["was eating", "ate", "eats", "eating"],
-    "correct": "A",
-    "explanation": {
-      "A": "صحيح! I was eating + when + ماضي بسيط.",
-      "B": "ate ماضي بسيط لا يعبر عن الاستمرارية.",
-      "C": "eats خطأ.",
-      "D": "eating ينقص was."
-    }
-  },
-  {
-    "text": "I (be) writing this article when you called me. [Correct the verb]",
-    "options": ["was", "were", "am", "be"],
-    "correct": "A",
-    "explanation": {
-      "A": "صحيح! I was writing.",
-      "B": "were خطأ مع I.",
-      "C": "am مضارع خطأ.",
-      "D": "be مصدر خطأ."
-    }
-  },
-  {
-    "text": "I can di__e under the water. [Choose letter]",
-    "options": ["v", "h", "f", "p"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'dive'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "I was hang gl__ding across the lake. [Choose letter]",
-    "options": ["i", "o", "u", "a"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'gliding'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "I had a really weir__ dream last night. [Choose letter]",
-    "options": ["d", "m", "s", "l"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'weird'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "This movie is fright__ning to the children. [Choose letter]",
-    "options": ["e", "a", "u", "o"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'frightening'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "This ca__e is made of wire. [Choose letter]",
-    "options": ["g", "d", "j", "k"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'cage'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "We used r__pe to tie down the furniture. [Choose letter]",
-    "options": ["o", "e", "i", "u"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'rope'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "The volc__no may erupt at any moment. [Choose letter]",
-    "options": ["a", "u", "e", "o"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'volcano'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "Tom was attacked by a sha__k. [Choose letter]",
-    "options": ["r", "g", "z", "w"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'shark'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "He asked me to thr__w the ball back. [Choose letter]",
-    "options": ["o", "e", "i", "u"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'throw'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "He knows how to ride a c__mel. [Choose letter]",
-    "options": ["a", "i", "u", "e"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'camel'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "He used a h__rness and ro__e to secure himself. [Choose letters]",
-    "options": ["a-p", "i-g", "e-k", "o-f"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'harness' و 'rope'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "The volca__o will erupt and thr__w clouds of ash. [Choose letters]",
-    "options": ["n-o", "t-u", "x-i", "h-e"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'volcano' و 'throw'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "Match: 'Zebras are found at a zoo.' Zebras are:",
-    "options": [
-      "horses with black and white stripes",
-      "to swim underwater",
-      "very strange",
-      "a sport of flying"
-    ],
-    "correct": "A",
-    "explanation": { "A": "صحيح! حمار وحشي.", "B": "dive.", "C": "weird.", "D": "hang gliding." }
-  },
-  {
-    "text": "Match: 'He's got some weird ideas.' Weird means:",
-    "options": [
-      "very strange and unusual",
-      "making you feel afraid",
-      "to send through the air",
-      "strong thick string"
-    ],
-    "correct": "A",
-    "explanation": { "A": "صحيح! غريب.", "B": "frightening.", "C": "throw.", "D": "rope." }
-  },
-  {
-    "text": "Match: 'Tom pulled the rope.' Rope means:",
-    "options": [
-      "strong thick string made of twisted threads",
-      "belts to hold a person",
-      "to swim underwater",
-      "wire bars for animals"
-    ],
-    "correct": "A",
-    "explanation": { "A": "صحيح! حبل.", "B": "harness.", "C": "dive.", "D": "cage." }
-  },
-  {
-    "text": "Match: 'She fastened the safety harness.' Harness means:",
-    "options": [
-      "belts used to hold a person in place",
-      "strong thick string",
-      "to send through air",
-      "a sport of flying"
-    ],
-    "correct": "A",
-    "explanation": { "A": "صحيح! حزام الأمان.", "B": "rope.", "C": "throw.", "D": "hang gliding." }
-  },
-  {
-    "text": "Match: 'This is a frightening place.' Frightening means:",
-    "options": [
-      "making you feel afraid",
-      "very strange",
-      "to swim underwater",
-      "to hit a door"
-    ],
-    "correct": "A",
-    "explanation": { "A": "صحيح! مخيف.", "B": "weird.", "C": "dive.", "D": "knock." }
-  },
-  {
-    "text": "Match: 'A lion has escaped from its cage.' Cage means:",
-    "options": [
-      "wire or metal bars for keeping birds/animals",
-      "strong thick string",
-      "belts for holding a person",
-      "sending through air"
-    ],
-    "correct": "A",
-    "explanation": { "A": "صحيح! قفص.", "B": "rope.", "C": "harness.", "D": "throw." }
-  },
-  {
-    "text": "Match: 'Hang gliding is a dangerous sport.' Hang gliding means:",
-    "options": [
-      "the sport of flying in a glider",
-      "to swim underwater",
-      "to hit a door",
-      "a horse with stripes"
-    ],
-    "correct": "A",
-    "explanation": { "A": "صحيح! الطيران الشراعي المعلق.", "B": "dive.", "C": "knock.", "D": "zebra." }
-  },
-  {
-    "text": "Match: 'I want to dive into the river.' Dive means:",
-    "options": [
-      "to swim underwater",
-      "to send through air",
-      "to hit a door",
-      "very strange"
-    ],
-    "correct": "A",
-    "explanation": { "A": "صحيح! الغطس.", "B": "throw.", "C": "knock.", "D": "weird." }
-  },
-  {
-    "text": "Match: 'Please throw the ball.' Throw means:",
-    "options": [
-      "to send through air with force",
-      "to hit a door",
-      "to swim underwater",
-      "strong thick string"
-    ],
-    "correct": "A",
-    "explanation": { "A": "صحيح! رمي.", "B": "knock.", "C": "dive.", "D": "rope." }
-  },
-  {
-    "text": "Match: 'I better knock on his door.' Knock means:",
-    "options": [
-      "to hit a door",
-      "to send through air",
-      "to swim underwater",
-      "very strange"
-    ],
-    "correct": "A",
-    "explanation": { "A": "صحيح! طرق الباب.", "B": "throw.", "C": "dive.", "D": "weird." }
-  },
-  {
-    "text": "…………….. is allowed from the top of Windy Hill.",
-    "options": ["Hang gliding", "Camel riding", "Shark diving", "Horse riding"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! الطيران الشراعي.", "B": "ركوب الجمل.", "C": "الغوص مع القرش.", "D": "ركوب الخيل." }
-  },
-  {
-    "text": "Many dolphins can ………………………. to depths of 200 meters.",
-    "options": ["dive", "throw", "knock", "ride"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! الغوص.", "B": "رمي.", "C": "طرق.", "D": "ركوب." }
-  },
-  {
-    "text": "Don't …………….. stones.",
-    "options": ["throw", "dive", "drive", "knock"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! رمي الحجارة.", "B": "الغوص.", "C": "قيادة.", "D": "طرق." }
-  },
-  {
-    "text": "Please …………………….. on the door.",
-    "options": ["knock", "throw", "cook", "dive"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! اطرق الباب.", "B": "ارم.", "C": "اطبخ.", "D": "اغطس." }
-  },
-  {
-    "text": "My computer makes a really …………………… noise.",
-    "options": ["weird", "empty", "angry", "fat"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! صوت غريب.", "B": "فارغ.", "C": "غاضب.", "D": "سمين." }
-  },
-  {
-    "text": "Please call your dog off it's __________the children.",
-    "options": ["frightening", "friendly", "free", "fantastic"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! يخيف الأطفال.", "B": "ودود.", "C": "حر.", "D": "رائع." }
-  },
-  {
-    "text": "There is a beautiful bird in the …………………...",
-    "options": ["cage", "rope", "harness", "durian"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! قفص.", "B": "حبل.", "C": "حزام أمان.", "D": "دوريان." }
-  },
-  {
-    "text": "Frank buckled on his safety ……………………….",
-    "options": ["harness", "durian", "stool", "cage"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! حزام أمان.", "B": "دوريان.", "C": "كرسي.", "D": "قفص." }
-  },
-  {
-    "text": "My daughter loves jumping ______.",
-    "options": ["rope", "stool", "harness", "cage"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! نط الحبل.", "B": "كرسي.", "C": "حزام.", "D": "قفص." }
-  },
-  {
-    "text": "I once watched a lioness hunting a …………………...",
-    "options": ["zebra", "cat", "tiger", "cheetah"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! حمار وحشي.", "B": "قطة.", "C": "نمر.", "D": "فهد." }
-  },
-  {
-    "text": "The bird escaped from the ……………….",
-    "options": ["cage", "rope", "harness", "gliding"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! قفص.", "B": "حبل.", "C": "حزام.", "D": "طيران شراعي." }
-  },
-  {
-    "text": "Tie the end of the ………….. .",
-    "options": ["rope", "cage", "cliff", "gliding"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! حبل.", "B": "قفص.", "C": "جرف.", "D": "طيران شراعي." }
-  },
-  {
-    "text": "The ……………………..last erupted 25 years ago.",
-    "options": ["volcano", "desert", "tsunamis", "tornado"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! بركان.", "B": "صحراء.", "C": "تسونامي.", "D": "إعصار." }
-  },
-  {
-    "text": "……………………… are good swimmers.",
-    "options": ["Sharks", "earthquake", "Camels", "Zebras"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! أسماك القرش سباحة ماهرة.", "B": "زلزال.", "C": "جمال.", "D": "حمر وحشية." }
-  },
-  {
-    "text": "Don't …………………….. garbage away here.",
-    "options": ["throw", "knock", "dive", "support"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! رمي القمامة.", "B": "طرق.", "C": "غوص.", "D": "دعم." }
-  },
-  {
-    "text": "……………………… are the ships of the desert.",
-    "options": ["Camels", "Dogs", "Horses", "Sharks"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! الجمال سفن الصحراء.", "B": "كلاب.", "C": "خيول.", "D": "قرش." }
+    "explanation": { "A": "صحيح! have + bought.", "B": "buying خطأ.", "C": "buy مضارع خطأ.", "D": "buys خطأ." }
   }
 ]

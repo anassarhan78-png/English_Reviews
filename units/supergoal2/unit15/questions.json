@@ -3,473 +3,90 @@
     "text": "He was writing an e-mail when the phone ………………..",
     "options": ["rang", "to ring", "rings", "ringing"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! ماضي بسيط (حدث مفاجئ) مع ماضي مستمر.",
-      "B": "to ring خطأ.",
-      "C": "rings مضارع خطأ.",
-      "D": "ringing خطأ."
-    }
+    "explanation": { "A": "صحيح! ماضي بسيط (حدث مفاجئ) مع ماضي مستمر.", "B": "to ring خطأ.", "C": "rings مضارع خطأ.", "D": "ringing خطأ." }
   },
   {
     "text": "The kids ………………. in the garden when it began to rain.",
     "options": ["were playing", "be playing", "was playing", "are playing"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! kids جمع → were + playing.",
-      "B": "be خطأ.",
-      "C": "was للمفرد.",
-      "D": "are مضارع خطأ."
-    }
+    "explanation": { "A": "صحيح! kids جمع → were + playing.", "B": "be خطأ.", "C": "was للمفرد.", "D": "are مضارع خطأ." }
   },
   {
     "text": "I was practising the guitar when he ……………… home.",
     "options": ["came", "come", "comes", "coming"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! ماضي بسيط مع when.",
-      "B": "come مضارع خطأ.",
-      "C": "comes خطأ.",
-      "D": "coming خطأ."
-    }
+    "explanation": { "A": "صحيح! ماضي بسيط مع when.", "B": "come مضارع خطأ.", "C": "comes خطأ.", "D": "coming خطأ." }
   },
   {
     "text": "He ………………… a shower when the phone rang.",
     "options": ["was taking", "were taking", "to take", "is taking"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! He مفرد → was taking.",
-      "B": "were للجمع.",
-      "C": "to take خطأ.",
-      "D": "is مضارع خطأ."
-    }
+    "explanation": { "A": "صحيح! He مفرد → was taking.", "B": "were للجمع.", "C": "to take خطأ.", "D": "is مضارع خطأ." }
   },
   {
     "text": "When I …………………….. into the room, everyone was working.",
     "options": ["walked", "to walk", "was walking", "is walking"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! ماضي بسيط (دخلت) مع جملة مستمرة.",
-      "B": "to walk خطأ.",
-      "C": "was walking تغير المعنى.",
-      "D": "is walking مضارع خطأ."
-    }
+    "explanation": { "A": "صحيح! ماضي بسيط (دخلت) مع جملة مستمرة.", "B": "to walk خطأ.", "C": "was walking تغير المعنى.", "D": "is walking مضارع خطأ." }
   },
   {
     "text": "When her train got to the station, we ………………………...",
     "options": ["were waiting", "waited", "is waiting", "to wait"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! كنا ننتظر (مستمر في الماضي).",
-      "B": "waited ممكن لكن المستمر أفضل للوصف.",
-      "C": "is مضارع خطأ.",
-      "D": "to wait خطأ."
-    }
+    "explanation": { "A": "صحيح! كنا ننتظر (مستمر في الماضي).", "B": "waited ممكن لكن المستمر أفضل للوصف.", "C": "is مضارع خطأ.", "D": "to wait خطأ." }
   },
   {
     "text": "Peter ……………………… a book yesterday evening.",
     "options": ["was reading", "is reading", "to read", "were reading"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! Peter مفرد → was reading.",
-      "B": "is مضارع خطأ.",
-      "C": "to read خطأ.",
-      "D": "were للجمع."
-    }
+    "explanation": { "A": "صحيح! Peter مفرد → was reading.", "B": "is مضارع خطأ.", "C": "to read خطأ.", "D": "were للجمع." }
   },
   {
     "text": "You ……………… playing football.",
     "options": ["were", "are", "is", "was"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! You تأخذ were في الماضي المستمر.",
-      "B": "are مضارع.",
-      "C": "is للمفرد.",
-      "D": "was خطأ مع you."
-    }
+    "explanation": { "A": "صحيح! You تأخذ were في الماضي المستمر.", "B": "are مضارع.", "C": "is للمفرد.", "D": "was خطأ مع you." }
   },
   {
     "text": "He ……………. sleeping all night long.",
     "options": ["was", "were", "are", "be"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! He مفرد → was.",
-      "B": "were للجمع أو you.",
-      "C": "are مضارع.",
-      "D": "be مصدر خطأ."
-    }
+    "explanation": { "A": "صحيح! He مفرد → was.", "B": "were للجمع أو you.", "C": "are مضارع.", "D": "be مصدر خطأ." }
   },
   {
     "text": "When she was young, my aunt could ……………… for miles.",
     "options": ["run", "running", "to run", "runs"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! بعد could يأتي المصدر بدون to.",
-      "B": "running خطأ.",
-      "C": "to run خطأ.",
-      "D": "runs خطأ."
-    }
+    "explanation": { "A": "صحيح! بعد could يأتي المصدر بدون to.", "B": "running خطأ.", "C": "to run خطأ.", "D": "runs خطأ." }
   },
   {
     "text": "When I …………. five, I could not swim.",
     "options": ["was", "be", "is", "were"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! I + was في الماضي.",
-      "B": "be مصدر خطأ.",
-      "C": "is مضارع.",
-      "D": "were خطأ مع I."
-    }
+    "explanation": { "A": "صحيح! I + was في الماضي.", "B": "be مصدر خطأ.", "C": "is مضارع.", "D": "were خطأ مع I." }
   },
   {
     "text": "I could …………… when I was less than a year old.",
     "options": ["walk", "walked", "walks", "walking"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! المصدر بعد could.",
-      "B": "walked ماضي خطأ.",
-      "C": "walks خطأ.",
-      "D": "walking خطأ."
-    }
+    "explanation": { "A": "صحيح! المصدر بعد could.", "B": "walked ماضي خطأ.", "C": "walks خطأ.", "D": "walking خطأ." }
   },
   {
     "text": "My brother ……………………… drive a car when he was young.",
     "options": ["was not able to", "were not able to", "is not able to", "am not able to"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! brother مفرد → was not able to.",
-      "B": "were للجمع.",
-      "C": "is مضارع.",
-      "D": "am مع I."
-    }
+    "explanation": { "A": "صحيح! brother مفرد → was not able to.", "B": "were للجمع.", "C": "is مضارع.", "D": "am مع I." }
   },
   {
     "text": "I was able to ……………… football.",
     "options": ["play", "plays", "playing", "played"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! المصدر بعد was able to.",
-      "B": "plays خطأ.",
-      "C": "playing خطأ.",
-      "D": "played ماضي خطأ."
-    }
+    "explanation": { "A": "صحيح! المصدر بعد was able to.", "B": "plays خطأ.", "C": "playing خطأ.", "D": "played ماضي خطأ." }
   },
   {
     "text": "He ………………… able to swim across the lake.",
     "options": ["was", "were", "is", "are"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! He مفرد → was.",
-      "B": "were للجمع.",
-      "C": "is مضارع.",
-      "D": "are مضارع جمع."
-    }
-  },
-  {
-    "text": "Choose the correct structure:",
-    "options": [
-      "Was she sleeping? Yes, she was.",
-      "Was they sleeping? Yes, she was.",
-      "Was she sleeps? Yes, she was.",
-      "Was she sleeping? Yes, she were."
-    ],
-    "correct": "A",
-    "explanation": {
-      "A": "صحيح! سؤال الماضي المستمر: Was + فاعل مفرد + فعل+ing.",
-      "B": "Was مع they خطأ.",
-      "C": "sleeps خطأ.",
-      "D": "were خطأ في الإجابة."
-    }
-  },
-  {
-    "text": "Choose the correct structure:",
-    "options": [
-      "I was talking when the phone rang.",
-      "I am talking when the phone rang.",
-      "I was talking when the phone ring.",
-      "We was talking when the phone rang."
-    ],
-    "correct": "A",
-    "explanation": {
-      "A": "صحيح! ماضي مستمر + when + ماضي بسيط.",
-      "B": "am talking مضارع خطأ.",
-      "C": "ring مضارع خطأ.",
-      "D": "We was خطأ (يجب were)."
-    }
-  },
-  {
-    "text": "I was able to (ran) fast when I was young. [Correct the verb]",
-    "options": ["run", "ran", "running", "to run"],
-    "correct": "A",
-    "explanation": {
-      "A": "صحيح! بعد was able to يأتي المصدر.",
-      "B": "ran ماضي خطأ.",
-      "C": "running خطأ.",
-      "D": "to run خطأ."
-    }
-  },
-  {
-    "text": "They couldn't (seeing) in the dark. [Correct the verb]",
-    "options": ["see", "saw", "seen", "to see"],
-    "correct": "A",
-    "explanation": {
-      "A": "صحيح! المصدر بعد couldn't.",
-      "B": "saw ماضي خطأ.",
-      "C": "seen تصريف ثالث خطأ.",
-      "D": "to see خطأ."
-    }
-  },
-  {
-    "text": "She killed him with a kni__e. [Choose letter]",
-    "options": ["f", "p", "v", "d"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'knife'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "The anac__nda wrapped itself around the boy. [Choose letter]",
-    "options": ["o", "a", "i", "e"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'anaconda'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "Wi__es are used to convey electricity. [Choose letter]",
-    "options": ["r", "q", "s", "n"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'wires'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "She got the key st__ck in the lock. [Choose letter]",
-    "options": ["u", "i", "e", "a"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'stuck'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "The room is em__ty. [Choose letter]",
-    "options": ["p", "b", "h", "q"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'empty'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "My parr__t died yesterday. [Choose letter]",
-    "options": ["o", "a", "i", "u"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'parrot'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "The s__ake swallowed a frog. [Choose letter]",
-    "options": ["n", "w", "m", "j"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'snake'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "He likes to take electric de__ices apart. [Choose letter]",
-    "options": ["v", "l", "y", "f"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'devices'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "She mana__ed to steer the ship through the st__rm. [Choose letters]",
-    "options": ["g-o", "q-a", "m-i", "l-u"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'managed' و 'storm'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "The animals tried to ov__rpower the wi__e fence to escape. [Choose letters]",
-    "options": ["e-r", "u-x", "e-f", "a-q"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'overpower' و 'wire'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "Match: 'He was fired from the company.' Fired means:",
-    "options": [
-      "to remove from a job",
-      "to go very quickly",
-      "injury or cut in the skin",
-      "to shout loudly"
-    ],
-    "correct": "A",
-    "explanation": { "A": "صحيح! طُرد من العمل.", "B": "rush.", "C": "wound.", "D": "shriek." }
-  },
-  {
-    "text": "Match: 'The police warned us to keep back.' Warned means:",
-    "options": [
-      "to tell of a danger",
-      "to try to hurt",
-      "to remove from job",
-      "to shout"
-    ],
-    "correct": "A",
-    "explanation": { "A": "صحيح! حذّر.", "B": "attack.", "C": "fire.", "D": "shriek." }
-  },
-  {
-    "text": "Match: 'Paper burns quickly.' Burns means:",
-    "options": [
-      "to hurt or damage by fire",
-      "to go very quickly",
-      "a tool for cutting",
-      "a long reptile"
-    ],
-    "correct": "A",
-    "explanation": { "A": "صحيح! يحترق.", "B": "rush.", "C": "knife.", "D": "snake." }
-  },
-  {
-    "text": "Match: 'He was attacked by a shark.' Attacked means:",
-    "options": [
-      "to try to hurt or damage",
-      "to remove from job",
-      "to shout",
-      "to warn"
-    ],
-    "correct": "A",
-    "explanation": { "A": "صحيح! هاجم.", "B": "fire.", "C": "shriek.", "D": "warn." }
-  },
-  {
-    "text": "Match: 'The baby began to shriek.' Shriek means:",
-    "options": [
-      "to shout or cry loudly",
-      "to go quickly",
-      "a person who has done something brave",
-      "injury"
-    ],
-    "correct": "A",
-    "explanation": { "A": "صحيح! صرخ.", "B": "rush.", "C": "hero.", "D": "wound." }
-  },
-  {
-    "text": "Match: 'I rushed out of my house.' Rushed means:",
-    "options": [
-      "to go very quickly",
-      "to try to hurt",
-      "a long reptile",
-      "a tool for cutting"
-    ],
-    "correct": "A",
-    "explanation": { "A": "صحيح! اندفع بسرعة.", "B": "attack.", "C": "snake.", "D": "knife." }
-  },
-  {
-    "text": "Match: 'Khaled became a hero.' Hero means:",
-    "options": [
-      "a person who has done something brave",
-      "a long reptile",
-      "a tool for cutting",
-      "injury"
-    ],
-    "correct": "A",
-    "explanation": { "A": "صحيح! بطل.", "B": "snake.", "C": "knife.", "D": "wound." }
-  },
-  {
-    "text": "Match: 'Blood flowed from the wound.' Wound means:",
-    "options": [
-      "injury or a cut in the skin",
-      "a tool for cutting",
-      "to go quickly",
-      "to remove from job"
-    ],
-    "correct": "A",
-    "explanation": { "A": "صحيح! جرح.", "B": "knife.", "C": "rush.", "D": "fire." }
-  },
-  {
-    "text": "Match: 'The man wore a gun on his hip.' Hip means:",
-    "options": [
-      "area between tops of legs and waist",
-      "a long reptile",
-      "a tool for cutting",
-      "a crowd"
-    ],
-    "correct": "A",
-    "explanation": { "A": "صحيح! ورك.", "B": "snake.", "C": "knife.", "D": "crowd." }
-  },
-  {
-    "text": "Match: 'Be careful with that knife.' Knife means:",
-    "options": [
-      "a tool for cutting with a sharp edge",
-      "injury",
-      "a brave person",
-      "to go quickly"
-    ],
-    "correct": "A",
-    "explanation": { "A": "صحيح! سكين.", "B": "wound.", "C": "hero.", "D": "rush." }
-  },
-  {
-    "text": "He was ……………… for serious mistake.",
-    "options": ["fired", "rush", "burn", "deliver"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! طُرد.", "B": "يندفع.", "C": "يحرق.", "D": "يوصل." }
-  },
-  {
-    "text": "She ……………. whenever she saw a spider.",
-    "options": ["shrieked", "risked", "attacked", "burned"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! صرخت.", "B": "خاطر.", "C": "هاجم.", "D": "حرق." }
-  },
-  {
-    "text": "Tom …………………. to help Mary.",
-    "options": ["rushed", "warned", "shocked", "attacked"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! أسرع.", "B": "حذّر.", "C": "صدم.", "D": "هاجم." }
-  },
-  {
-    "text": "I ……………… him about the danger.",
-    "options": ["warned", "managed", "kicked out", "shocked"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! حذّرته.", "B": "أدار.", "C": "طرد.", "D": "صدم." }
-  },
-  {
-    "text": "The enemy ………………………..the town.",
-    "options": ["attacked", "rushed", "delivered", "remembered"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! هاجم.", "B": "أسرع.", "C": "سلّم.", "D": "تذكر." }
-  },
-  {
-    "text": "The …………… died at the end of the book.",
-    "options": ["hero", "wire", "hip", "device"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! البطل.", "B": "سلك.", "C": "ورك.", "D": "جهاز." }
-  },
-  {
-    "text": "The ………………….. left a scar on my arm.",
-    "options": ["wound", "scream", "attraction", "hip"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! الجرح.", "B": "صرخة.", "C": "جاذبية.", "D": "ورك." }
-  },
-  {
-    "text": "My …………….. is sharp.",
-    "options": ["knife", "crowd", "headphone", "storm"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! سكين.", "B": "حشد.", "C": "سماعة.", "D": "عاصفة." }
-  },
-  {
-    "text": "My grandmother fell and broke her ……………….",
-    "options": ["hip", "parrot", "wire", "hero"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! ورك.", "B": "ببغاء.", "C": "سلك.", "D": "بطل." }
-  },
-  {
-    "text": "Some ……………… are poisonous.",
-    "options": ["snakes", "parrots", "storms", "heroes"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! أفاعي.", "B": "ببغاوات.", "C": "عواصف.", "D": "أبطال." }
-  },
-  {
-    "text": "A …………………. gathered at the scene.",
-    "options": ["crowd", "hip", "scream", "wire"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! حشد.", "B": "ورك.", "C": "صرخة.", "D": "سلك." }
-  },
-  {
-    "text": "He found the drawer ……………..",
-    "options": ["empty", "sharp", "stuck", "strong"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! فارغ.", "B": "حاد.", "C": "عالق.", "D": "قوي." }
-  },
-  {
-    "text": "A …………………. can imitate human speech.",
-    "options": ["parrot", "shark", "snake", "anaconda"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! ببغاء.", "B": "قرش.", "C": "أفعى.", "D": "أناكوندا." }
-  },
-  {
-    "text": "An ………… is the largest type of snake in the world.",
-    "options": ["anaconda", "cat", "deer", "rabbit"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! أناكوندا.", "B": "قطة.", "C": "غزال.", "D": "أرنب." }
+    "explanation": { "A": "صحيح! He مفرد → was.", "B": "were للجمع.", "C": "is مضارع.", "D": "are مضارع جمع." }
   }
 ]
