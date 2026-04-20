@@ -1,167 +1,32 @@
 [
   {
-    "text": "My brother Mustafa loves 3D ______. He enjoys movies made by computers.",
-    "options": ["animation", "musical", "mystery", "play"],
-    "correct": "A",
-    "explanation": {
-      "A": "صحيح! 'animation' تعني الرسوم المتحركة.",
-      "B": "Musical تعني فيلم موسيقي.",
-      "C": "Mystery تعني فيلم غموض.",
-      "D": "Play تعني مسرحية."
-    }
-  },
-  {
-    "text": "The movie was a ______. We didn't know what was happening until the end.",
-    "options": ["animation", "musical", "mystery", "play"],
-    "correct": "C",
-    "explanation": {
-      "A": "Animation لا تعبر عن الغموض.",
-      "B": "Musical لا تعبر عن الغموض.",
-      "C": "صحيح! Mystery تعني فيلم غموض.",
-      "D": "Play تعني مسرحية."
-    }
-  },
-  {
-    "text": "Space and planets are Omar's favorite topic. That's why he chose a ______ movie for us to watch last night.",
-    "options": ["sci-fi", "animation", "musical", "mystery"],
-    "correct": "A",
-    "explanation": {
-      "A": "صحيح! Sci-fi تعني خيال علمي.",
-      "B": "Animation لا ترتبط بالفضاء بالضرورة.",
-      "C": "Musical لا ترتبط بالفضاء.",
-      "D": "Mystery لا ترتبط بالفضاء."
-    }
-  },
-  {
-    "text": "Aisha didn't like the ______ we were watching. She said the singing was bad.",
-    "options": ["musical", "play", "animation", "mystery"],
-    "correct": "A",
-    "explanation": {
-      "A": "صحيح! Musical تحتوي على غناء.",
-      "B": "Play قد تحتوي على غناء لكن الكلمة المخصصة للأفلام الموسيقية هي musical.",
-      "C": "Animation لا تعني بالضرورة فيلم غنائي.",
-      "D": "Mystery لا تعني فيلم غنائي."
-    }
-  },
-  {
-    "text": "The best books have a ______ so you never know what will happen next.",
-    "options": ["plot", "character", "act", "wish"],
-    "correct": "A",
-    "explanation": {
-      "A": "صحيح! Plot تعني حبكة القصة.",
-      "B": "Character تعني شخصية.",
-      "C": "Act تعني فصل من المسرحية.",
-      "D": "Wish تعني أمنية."
-    }
-  },
-  {
-    "text": "The best thing about this story is the c___________. They are all different and interesting.",
-    "options": ["characters", "chapters", "choices", "chances"],
-    "correct": "A",
-    "explanation": {
-      "A": "صحيح! Characters تعني شخصيات القصة.",
-      "B": "Chapters تعني فصول الكتاب.",
-      "C": "Choices تعني خيارات.",
-      "D": "Chances تعني فرص."
-    }
-  },
-  {
-    "text": "I don't watch h___________ movies alone. They're too scary!",
-    "options": ["horror", "history", "humor", "hero"],
-    "correct": "A",
-    "explanation": {
-      "A": "صحيح! Horror تعني رعب.",
-      "B": "History تعني تاريخ.",
-      "C": "Humor تعني فكاهة.",
-      "D": "Hero تعني بطل."
-    }
-  },
-  {
-    "text": "The character made a w___________ at the start and it came true at the end.",
-    "options": ["wish", "will", "word", "work"],
-    "correct": "A",
-    "explanation": {
-      "A": "صحيح! Wish تعني أمنية.",
-      "B": "Will تعني إرادة.",
-      "C": "Word تعني كلمة.",
-      "D": "Work تعني عمل."
-    }
-  },
-  {
-    "text": "Why don't we draw a s___________ to plan our movie?",
-    "options": ["storyboard", "storyline", "script", "screenplay"],
-    "correct": "A",
-    "explanation": {
-      "A": "صحيح! Storyboard هي لوحة تخطيط المشاهد.",
-      "B": "Storyline تعني الخط القصصي.",
-      "C": "Script تعني النص الحواري.",
-      "D": "Screenplay تعني سيناريو."
-    }
-  },
-  {
-    "text": "Hashim, don't tell me what happens in the last a___________. I want to read it for myself.",
-    "options": ["act", "article", "action", "actor"],
-    "correct": "A",
-    "explanation": {
-      "A": "صحيح! Act تعني فصل في المسرحية.",
-      "B": "Article تعني مقال.",
-      "C": "Action تعني حدث أو حركة.",
-      "D": "Actor تعني ممثل."
-    }
-  },
-  {
     "text": "Amina __________ (eat) a sandwich in class yesterday.",
     "options": ["was eating", "is eating", "ate", "eats"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! الماضي المستمر 'was eating' يعبر عن حدث مستمر في الماضي.",
-      "B": "Is eating مضارع مستمر وليس ماضي.",
-      "C": "Ate ماضي بسيط وليس مستمر.",
-      "D": "Eats مضارع بسيط."
-    }
+    "explanation": { "A": "صحيح! الماضي المستمر 'was eating' يعبر عن حدث مستمر في الماضي.", "B": "Is eating مضارع مستمر وليس ماضي.", "C": "Ate ماضي بسيط وليس مستمر.", "D": "Eats مضارع بسيط." }
   },
   {
     "text": "We __________ (laugh) because the horror movie was funny.",
     "options": ["were laughing", "was laughing", "laughed", "laugh"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! مع 'We' نستخدم 'were' + فعل + ing.",
-      "B": "Was تستخدم مع المفرد.",
-      "C": "Laughed ماضي بسيط وليس مستمر.",
-      "D": "Laugh مضارع."
-    }
+    "explanation": { "A": "صحيح! مع 'We' نستخدم 'were' + فعل + ing.", "B": "Was تستخدم مع المفرد.", "C": "Laughed ماضي بسيط وليس مستمر.", "D": "Laugh مضارع." }
   },
   {
     "text": "__________ Adel and Ibrahim __________ (make) a documentary last week?",
     "options": ["Were ... making", "Was ... making", "Did ... make", "Are ... making"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! السؤال في الماضي المستمر مع فاعل جمع: Were + فاعل + فعل + ing.",
-      "B": "Was للفاعل المفرد.",
-      "C": "Did make ماضي بسيط.",
-      "D": "Are making مضارع مستمر."
-    }
+    "explanation": { "A": "صحيح! السؤال في الماضي المستمر مع فاعل جمع: Were + فاعل + فعل + ing.", "B": "Was للفاعل المفرد.", "C": "Did make ماضي بسيط.", "D": "Are making مضارع مستمر." }
   },
   {
     "text": "I knew Farah __________ (not enjoy) the fairy tale. She looked sad.",
     "options": ["wasn't enjoying", "didn't enjoy", "isn't enjoying", "doesn't enjoy"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! النفي في الماضي المستمر: wasn't/weren't + فعل + ing.",
-      "B": "Didn't enjoy ماضي بسيط.",
-      "C": "Isn't enjoying مضارع مستمر.",
-      "D": "Doesn't enjoy مضارع بسيط."
-    }
+    "explanation": { "A": "صحيح! النفي في الماضي المستمر: wasn't/weren't + فعل + ing.", "B": "Didn't enjoy ماضي بسيط.", "C": "Isn't enjoying مضارع مستمر.", "D": "Doesn't enjoy مضارع بسيط." }
   },
   {
     "text": "__________ you __________ (watch) the play or did you fall asleep?",
     "options": ["Were ... watching", "Was ... watching", "Did ... watch", "Are ... watching"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! سؤال ماضي مستمر مع 'you': Were you watching.",
-      "B": "Was تستخدم مع I/he/she/it.",
-      "C": "Did watch ماضي بسيط.",
-      "D": "Are watching مضارع مستمر."
-    }
+    "explanation": { "A": "صحيح! سؤال ماضي مستمر مع 'you': Were you watching.", "B": "Was تستخدم مع I/he/she/it.", "C": "Did watch ماضي بسيط.", "D": "Are watching مضارع مستمر." }
   }
 ]
