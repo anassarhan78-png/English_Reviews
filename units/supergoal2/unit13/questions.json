@@ -3,431 +3,108 @@
     "text": "It will ___________ tomorrow.",
     "options": ["rain", "raining", "to rain", "rains"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! بعد will يأتي المصدر بدون to.",
-      "B": "raining خطأ.",
-      "C": "to rain خطأ.",
-      "D": "rains خطأ."
-    }
+    "explanation": { "A": "صحيح! بعد will يأتي المصدر بدون to.", "B": "raining خطأ.", "C": "to rain خطأ.", "D": "rains خطأ." }
   },
   {
     "text": "I will ____________ swimming tomorrow.",
     "options": ["go", "goes", "went", "to go"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! المصدر بعد will.",
-      "B": "goes خطأ.",
-      "C": "went ماضي.",
-      "D": "to go خطأ."
-    }
+    "explanation": { "A": "صحيح! المصدر بعد will.", "B": "goes خطأ.", "C": "went ماضي.", "D": "to go خطأ." }
   },
   {
     "text": "I will ____________ studying next week.",
     "options": ["be", "is", "are", "am"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! will be + فعل+ing (مستقبل مستمر).",
-      "B": "is خطأ.",
-      "C": "are خطأ.",
-      "D": "am خطأ."
-    }
+    "explanation": { "A": "صحيح! will be + فعل+ing (مستقبل مستمر).", "B": "is خطأ.", "C": "are خطأ.", "D": "am خطأ." }
   },
   {
     "text": "There will ____________ 50 people at the party.",
     "options": ["be", "am", "are", "is"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! will + be للوجود.",
-      "B": "am خطأ.",
-      "C": "are خطأ.",
-      "D": "is خطأ."
-    }
+    "explanation": { "A": "صحيح! will + be للوجود.", "B": "am خطأ.", "C": "are خطأ.", "D": "is خطأ." }
   },
   {
     "text": "They will ___________ the city.",
     "options": ["leave", "leaving", "leaves", "to leave"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! المصدر بعد will.",
-      "B": "leaving خطأ.",
-      "C": "leaves خطأ.",
-      "D": "to leave خطأ."
-    }
+    "explanation": { "A": "صحيح! المصدر بعد will.", "B": "leaving خطأ.", "C": "leaves خطأ.", "D": "to leave خطأ." }
   },
   {
     "text": "When will you __________ me the e-mail?",
     "options": ["send", "sending", "sent", "sends"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! المصدر بعد will في السؤال.",
-      "B": "sending خطأ.",
-      "C": "sent ماضي.",
-      "D": "sends خطأ."
-    }
+    "explanation": { "A": "صحيح! المصدر بعد will في السؤال.", "B": "sending خطأ.", "C": "sent ماضي.", "D": "sends خطأ." }
   },
   {
     "text": "He will _________ tennis tomorrow.",
     "options": ["play", "plays", "played", "playing"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! المصدر بعد will.",
-      "B": "plays خطأ.",
-      "C": "played ماضي.",
-      "D": "playing خطأ."
-    }
+    "explanation": { "A": "صحيح! المصدر بعد will.", "B": "plays خطأ.", "C": "played ماضي.", "D": "playing خطأ." }
   },
   {
     "text": "They will _______ the bus to the South next week.",
     "options": ["take", "takes", "took", "taking"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! المصدر بعد will.",
-      "B": "takes خطأ.",
-      "C": "took ماضي.",
-      "D": "taking خطأ."
-    }
+    "explanation": { "A": "صحيح! المصدر بعد will.", "B": "takes خطأ.", "C": "took ماضي.", "D": "taking خطأ." }
   },
   {
     "text": "What will he ……………………………….. for breakfast?",
     "options": ["eat", "ate", "eats", "to eat"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! المصدر بعد will.",
-      "B": "ate ماضي.",
-      "C": "eats خطأ.",
-      "D": "to eat خطأ."
-    }
+    "explanation": { "A": "صحيح! المصدر بعد will.", "B": "ate ماضي.", "C": "eats خطأ.", "D": "to eat خطأ." }
   },
   {
     "text": "What will John …………………….?",
     "options": ["do", "did", "does", "to do"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! المصدر بعد will.",
-      "B": "did ماضي.",
-      "C": "does خطأ.",
-      "D": "to do خطأ."
-    }
+    "explanation": { "A": "صحيح! المصدر بعد will.", "B": "did ماضي.", "C": "does خطأ.", "D": "to do خطأ." }
   },
   {
     "text": "Where will the children …………….?",
     "options": ["play", "to play", "played", "plays"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! المصدر بعد will.",
-      "B": "to play خطأ.",
-      "C": "played ماضي.",
-      "D": "plays خطأ."
-    }
+    "explanation": { "A": "صحيح! المصدر بعد will.", "B": "to play خطأ.", "C": "played ماضي.", "D": "plays خطأ." }
   },
   {
     "text": "If you visit the museum on Thursday, you ……………………. in for free.",
     "options": ["will get", "got", "getting", "gets"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! الشرط الأول: If + مضارع، will + مصدر.",
-      "B": "got ماضي.",
-      "C": "getting خطأ.",
-      "D": "gets خطأ."
-    }
+    "explanation": { "A": "صحيح! الشرط الأول: If + مضارع، will + مصدر.", "B": "got ماضي.", "C": "getting خطأ.", "D": "gets خطأ." }
   },
   {
     "text": "If I ………………………. to the zoo, I will feed the elephants.",
     "options": ["go", "went", "going", "goes"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! بعد If يأتي مضارع بسيط.",
-      "B": "went ماضي.",
-      "C": "going خطأ.",
-      "D": "goes خطأ مع I."
-    }
+    "explanation": { "A": "صحيح! بعد If يأتي مضارع بسيط.", "B": "went ماضي.", "C": "going خطأ.", "D": "goes خطأ مع I." }
   },
   {
     "text": "If I order a sofa today, I ……………….for it next year.",
     "options": ["will pay", "paying", "paid", "pays"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! will pay في جواب الشرط.",
-      "B": "paying خطأ.",
-      "C": "paid ماضي.",
-      "D": "pays خطأ."
-    }
+    "explanation": { "A": "صحيح! will pay في جواب الشرط.", "B": "paying خطأ.", "C": "paid ماضي.", "D": "pays خطأ." }
   },
   {
     "text": "If it rains, you …………………. wet.",
     "options": ["will get", "to get", "gets", "getting"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! will get في الجواب.",
-      "B": "to get خطأ.",
-      "C": "gets خطأ.",
-      "D": "getting خطأ."
-    }
+    "explanation": { "A": "صحيح! will get في الجواب.", "B": "to get خطأ.", "C": "gets خطأ.", "D": "getting خطأ." }
   },
   {
     "text": "I will be mad if Sara …………….. late again.",
     "options": ["is", "be", "am", "are"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! Sara مفرد → is في جملة الشرط.",
-      "B": "be خطأ.",
-      "C": "am خطأ.",
-      "D": "are خطأ."
-    }
+    "explanation": { "A": "صحيح! Sara مفرد → is في جملة الشرط.", "B": "be خطأ.", "C": "am خطأ.", "D": "are خطأ." }
   },
   {
     "text": "If you eat too much, you …………. fat.",
     "options": ["get", "getting", "gets", "to get"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! الحقيقة العامة: If + مضارع، مضارع بسيط.",
-      "B": "getting خطأ.",
-      "C": "gets خطأ مع you.",
-      "D": "to get خطأ."
-    }
+    "explanation": { "A": "صحيح! الحقيقة العامة: If + مضارع، مضارع بسيط.", "B": "getting خطأ.", "C": "gets خطأ مع you.", "D": "to get خطأ." }
   },
   {
     "text": "Baby wakes up if we …………………. too much noise.",
     "options": ["make", "making", "makes", "made"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! مضارع بسيط مع we.",
-      "B": "making خطأ.",
-      "C": "makes خطأ مع we.",
-      "D": "made ماضي."
-    }
-  },
-  {
-    "text": "Choose the correct structure:",
-    "options": [
-      "I will buy the tickets.",
-      "I will buys the tickets.",
-      "I will bought the tickets.",
-      "I will buying the tickets."
-    ],
-    "correct": "A",
-    "explanation": {
-      "A": "صحيح! will + مصدر.",
-      "B": "buys خطأ.",
-      "C": "bought ماضي.",
-      "D": "buying خطأ."
-    }
-  },
-  {
-    "text": "Choose the correct structure:",
-    "options": [
-      "If he works a lot, he earns a lot of money.",
-      "If he work a lot, he earns a lot of money.",
-      "If we works a lot, he earns a lot of money.",
-      "If he worked a lot, he earns a lot of money."
-    ],
-    "correct": "A",
-    "explanation": {
-      "A": "صحيح! If + مضارع (he works)، مضارع بسيط في الجواب.",
-      "B": "work خطأ (يجب works).",
-      "C": "we works خطأ.",
-      "D": "worked ماضي لا يتناسب مع earns."
-    }
-  },
-  {
-    "text": "It (rain) tomorrow. [Correct the verb]",
-    "options": ["will rain", "is raining", "rains", "rained"],
-    "correct": "A",
-    "explanation": {
-      "A": "صحيح! مستقبل بسيط: will rain.",
-      "B": "مضارع مستمر.",
-      "C": "مضارع بسيط.",
-      "D": "ماضي."
-    }
-  },
-  {
-    "text": "If you don't leave now, you (be) late. [Correct the verb]",
-    "options": ["will be", "are", "is", "were"],
-    "correct": "A",
-    "explanation": {
-      "A": "صحيح! جواب الشرط: will be.",
-      "B": "are خطأ.",
-      "C": "is خطأ.",
-      "D": "were ماضي."
-    }
-  },
-  {
-    "text": "She will travel. [write the negative form]",
-    "options": ["She won't travel.", "She will not travels.", "She not will travel.", "She doesn't will travel."],
-    "correct": "A",
-    "explanation": {
-      "A": "صحيح! نفي will: will not = won't + مصدر.",
-      "B": "travels خطأ.",
-      "C": "ترتيب خاطئ.",
-      "D": "doesn't خطأ."
-    }
-  },
-  {
-    "text": "It seems w__rm outside. [Choose letter]",
-    "options": ["a", "o", "u", "i"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'warm'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "What's the tem__erature now? [Choose letter]",
-    "options": ["p", "g", "l", "q"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'temperature'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "I'm e__tremely hungry. [Choose letter]",
-    "options": ["x", "s", "z", "t"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'extremely'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "Local people d__splay their handicrafts on the wayside. [Choose letter]",
-    "options": ["i", "e", "o", "a"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'display'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "The __eather was good yesterday. [Choose letter]",
-    "options": ["w", "m", "n", "v"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'weather'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "It's six d__grees below zero. [Choose letter]",
-    "options": ["e", "u", "o", "a"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'degrees'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "The baro__eter began to fall. [Choose letter]",
-    "options": ["m", "t", "s", "p"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'barometer'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "I found his manner ex__remely unpleasant. [Choose letter]",
-    "options": ["t", "z", "x", "d"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'extremely'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "This is the g__lf of Mexico. [Choose letter]",
-    "options": ["u", "i", "e", "a"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'gulf'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "He was aller__ic to m__squito bites. [Choose letters]",
-    "options": ["g-o", "z-a", "q-e", "f-u"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'allergic' و 'mosquito'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "The shapes and sizes of lea__es v__ry greatly. [Choose letters]",
-    "options": ["v-a", "i-m", "u-p", "e-r"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'leaves' و 'vary'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "Match: 'The new leaves are growing out.' Leaves means:",
-    "options": ["flat, thin, green parts of a plant", "harm or injury", "prediction", "moisture"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! أوراق النبات.", "B": "damage.", "C": "forecast.", "D": "humidity." }
-  },
-  {
-    "text": "Match: 'The weather forecast was right.' Forecast means:",
-    "options": ["a prediction of what will happen", "harm", "a device for air pressure", "very large area of sea"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! توقعات الطقس.", "B": "damage.", "C": "barometer.", "D": "gulf." }
-  },
-  {
-    "text": "Match: 'The humidity is very high.' Humidity means:",
-    "options": ["amount of water in the air", "harm", "type of storm", "opposite of hot"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! رطوبة.", "B": "damage.", "C": "hurricane.", "D": "cold." }
-  },
-  {
-    "text": "Match: 'A hurricane hit the city yesterday.' Hurricane means:",
-    "options": ["a type of storm", "harm", "prediction", "leaves"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! إعصار.", "B": "damage.", "C": "forecast.", "D": "leaves." }
-  },
-  {
-    "text": "Match: 'It was cold in the cave.' Cold is the antonym of:",
-    "options": ["hot", "warm", "humid", "wet"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! عكس بارد هو ساخن.", "B": "دافئ.", "C": "رطب.", "D": "مبلل." }
-  },
-  {
-    "text": "Match: 'The barometer is falling. It is going to rain.' Barometer means:",
-    "options": ["a device that measures air pressure", "prediction", "moisture", "storm"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! مقياس الضغط الجوي.", "B": "forecast.", "C": "humidity.", "D": "hurricane." }
-  },
-  {
-    "text": "Match: 'The storm caused a lot of damage.' Damage means:",
-    "options": ["harm or injury", "prediction", "moisture", "leaves"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! ضرر أو دمار.", "B": "forecast.", "C": "humidity.", "D": "leaves." }
-  },
-  {
-    "text": "I don't like the ………………………………. of this climate.",
-    "options": ["humidity", "leaf", "season", "unhappy"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! رطوبة المناخ.", "B": "ورقة.", "C": "فصل.", "D": "حزين." }
-  },
-  {
-    "text": "The weather there can be ………………………...",
-    "options": ["unpredictable", "unhappy", "unnecessary", "uneasy"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! غير متوقع.", "B": "تعيس.", "C": "غير ضروري.", "D": "قلق." }
-  },
-  {
-    "text": "I saw a nest on the palm ……………….",
-    "options": ["leaf", "barometer", "rain", "winter"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! سعفة النخلة.", "B": "بارومتر.", "C": "مطر.", "D": "شتاء." }
-  },
-  {
-    "text": "Winter is my favorite …………………..",
-    "options": ["season", "display", "temperature", "hurricane"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! فصل الشتاء.", "B": "عرض.", "C": "حرارة.", "D": "إعصار." }
-  },
-  {
-    "text": "The ………………………. destroyed the whole village.",
-    "options": ["hurricane", "humidity", "spring", "degree"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! الإعصار دمر القرية.", "B": "رطوبة.", "C": "ربيع.", "D": "درجة." }
-  },
-  {
-    "text": "It was so ………… that the top of the mountain was invisible.",
-    "options": ["cloudy", "dry", "windy", "sunny"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! غائم.", "B": "جاف.", "C": "عاصف.", "D": "مشمس." }
-  },
-  {
-    "text": "It was ………….., and everyone was in short sleeves.",
-    "options": ["sunny", "windy", "cold", "cloudy"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! مشمس.", "B": "عاصف.", "C": "بارد.", "D": "غائم." }
-  },
-  {
-    "text": "It started to ……… lightly. I should have my umbrella.",
-    "options": ["rain", "snow", "shine", "blow"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! تمطر بخفة.", "B": "تثلج.", "C": "تشرق.", "D": "تهب." }
-  },
-  {
-    "text": "The trees are just coming into …………….",
-    "options": ["leaf", "season", "winter", "rain"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! تورق الأشجار.", "B": "فصل.", "C": "شتاء.", "D": "مطر." }
-  },
-  {
-    "text": "Camels are animals that live in …………… deserts.",
-    "options": ["hot", "cloudy", "rainy", "snowy"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! صحاري حارة.", "B": "غائم.", "C": "ممطر.", "D": "مثلج." }
+    "explanation": { "A": "صحيح! مضارع بسيط مع we.", "B": "making خطأ.", "C": "makes خطأ مع we.", "D": "made ماضي." }
   }
 ]

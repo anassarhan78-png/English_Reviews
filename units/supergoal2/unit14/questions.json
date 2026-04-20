@@ -3,382 +3,72 @@
     "text": "Could you ………….. the window?",
     "options": ["open", "to open", "opens", "opened"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! بعد الأفعال الناقصة (Could) يأتي المصدر بدون to.",
-      "B": "to open خطأ.",
-      "C": "opens خطأ.",
-      "D": "opened ماضي."
-    }
+    "explanation": { "A": "صحيح! بعد الأفعال الناقصة (Could) يأتي المصدر بدون to.", "B": "to open خطأ.", "C": "opens خطأ.", "D": "opened ماضي." }
   },
   {
     "text": "Can I ………… the salt?",
     "options": ["have", "had", "has", "having"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! المصدر بعد Can.",
-      "B": "had ماضي.",
-      "C": "has خطأ.",
-      "D": "having خطأ."
-    }
+    "explanation": { "A": "صحيح! المصدر بعد Can.", "B": "had ماضي.", "C": "has خطأ.", "D": "having خطأ." }
   },
   {
     "text": "Could I ………… you the time, please?",
     "options": ["ask", "asked", "asking", "asks"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! المصدر بعد Could.",
-      "B": "asked ماضي.",
-      "C": "asking خطأ.",
-      "D": "asks خطأ."
-    }
+    "explanation": { "A": "صحيح! المصدر بعد Could.", "B": "asked ماضي.", "C": "asking خطأ.", "D": "asks خطأ." }
   },
   {
     "text": "Will you ………….. me an email tomorrow?",
     "options": ["send", "sending", "sends", "to send"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! المصدر بعد Will.",
-      "B": "sending خطأ.",
-      "C": "sends خطأ.",
-      "D": "to send خطأ."
-    }
+    "explanation": { "A": "صحيح! المصدر بعد Will.", "B": "sending خطأ.", "C": "sends خطأ.", "D": "to send خطأ." }
   },
   {
     "text": "Would you …………….. to my birthday party?",
     "options": ["come", "comes", "coming", "to come"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! Would you + مصدر بدون to (في الطلب).",
-      "B": "comes خطأ.",
-      "C": "coming خطأ.",
-      "D": "to come خطأ هنا."
-    }
+    "explanation": { "A": "صحيح! Would you + مصدر بدون to (في الطلب).", "B": "comes خطأ.", "C": "coming خطأ.", "D": "to come خطأ هنا." }
   },
   {
     "text": "I'll ………….. the ironing.",
     "options": ["do", "to do", "did", "does"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! I'll = I will + مصدر.",
-      "B": "to do خطأ.",
-      "C": "did ماضي.",
-      "D": "does خطأ."
-    }
+    "explanation": { "A": "صحيح! I'll = I will + مصدر.", "B": "to do خطأ.", "C": "did ماضي.", "D": "does خطأ." }
   },
   {
     "text": "Let me …………. you some more soup.",
     "options": ["get", "to get", "gets", "getting"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! بعد Let + مفعول + مصدر بدون to.",
-      "B": "to get خطأ.",
-      "C": "gets خطأ.",
-      "D": "getting خطأ."
-    }
+    "explanation": { "A": "صحيح! بعد Let + مفعول + مصدر بدون to.", "B": "to get خطأ.", "C": "gets خطأ.", "D": "getting خطأ." }
   },
   {
     "text": "Let me …………….. your bag.",
     "options": ["carry", "carries", "to carry", "carried"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! مصدر بدون to بعد Let me.",
-      "B": "carries خطأ.",
-      "C": "to carry خطأ.",
-      "D": "carried ماضي."
-    }
+    "explanation": { "A": "صحيح! مصدر بدون to بعد Let me.", "B": "carries خطأ.", "C": "to carry خطأ.", "D": "carried ماضي." }
   },
   {
     "text": "I'll ………….. you a lift to the station.",
     "options": ["give", "gives", "to give", "giving"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! I'll = I will + مصدر.",
-      "B": "gives خطأ.",
-      "C": "to give خطأ.",
-      "D": "giving خطأ."
-    }
+    "explanation": { "A": "صحيح! I'll = I will + مصدر.", "B": "gives خطأ.", "C": "to give خطأ.", "D": "giving خطأ." }
   },
   {
     "text": "I want you ……………………… your bed.",
     "options": ["to make", "made", "making", "makes"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! want + مفعول + to + مصدر.",
-      "B": "made ماضي.",
-      "C": "making خطأ.",
-      "D": "makes خطأ."
-    }
+    "explanation": { "A": "صحيح! want + مفعول + to + مصدر.", "B": "made ماضي.", "C": "making خطأ.", "D": "makes خطأ." }
   },
   {
     "text": "Ask your doctor ………………… you some advice.",
     "options": ["to give", "giving", "gives", "give"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! ask + مفعول + to + مصدر.",
-      "B": "giving خطأ.",
-      "C": "gives خطأ.",
-      "D": "give خطأ بدون to."
-    }
+    "explanation": { "A": "صحيح! ask + مفعول + to + مصدر.", "B": "giving خطأ.", "C": "gives خطأ.", "D": "give خطأ بدون to." }
   },
   {
     "text": "Tell her …………… some food.",
     "options": ["to bring", "brings", "brought", "bringing"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! tell + مفعول + to + مصدر.",
-      "B": "brings خطأ.",
-      "C": "brought ماضي.",
-      "D": "bringing خطأ."
-    }
-  },
-  {
-    "text": "Choose the correct structure:",
-    "options": [
-      "I'll carry that for you.",
-      "I'll carrying that for you.",
-      "I'll to carry that for you.",
-      "I'll carried that for you."
-    ],
-    "correct": "A",
-    "explanation": {
-      "A": "صحيح! I'll = I will + مصدر.",
-      "B": "carrying خطأ.",
-      "C": "to carry خطأ.",
-      "D": "carried ماضي."
-    }
-  },
-  {
-    "text": "Choose the correct structure:",
-    "options": [
-      "Would you pass me that salt?",
-      "Would you passed me that salt?",
-      "Would you passing me that salt?",
-      "Would you to pass me that salt?"
-    ],
-    "correct": "A",
-    "explanation": {
-      "A": "صحيح! Would you + مصدر.",
-      "B": "passed ماضي.",
-      "C": "passing خطأ.",
-      "D": "to pass خطأ."
-    }
-  },
-  {
-    "text": "Could you (giving) me some rice? [Correct the verb]",
-    "options": ["give", "to give", "gave", "given"],
-    "correct": "A",
-    "explanation": {
-      "A": "صحيح! بعد Could يأتي المصدر بدون to.",
-      "B": "to give خطأ.",
-      "C": "gave ماضي.",
-      "D": "given تصريف ثالث."
-    }
-  },
-  {
-    "text": "Let me (made) my own decisions. [Correct the verb]",
-    "options": ["make", "to make", "making", "makes"],
-    "correct": "A",
-    "explanation": {
-      "A": "صحيح! Let me + مصدر بدون to.",
-      "B": "to make خطأ.",
-      "C": "making خطأ.",
-      "D": "makes خطأ."
-    }
-  },
-  {
-    "text": "Could you l__wer your voice? [Choose letter]",
-    "options": ["o", "e", "i", "a"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'lower'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "My mom had to len__ me her keys. [Choose letter]",
-    "options": ["d", "t", "l", "b"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'lend'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "Can I __orrow your umbrella? [Choose letter]",
-    "options": ["b", "q", "h", "k"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'borrow'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "The table was ready and a napk__n spread on it. [Choose letter]",
-    "options": ["i", "u", "e", "o"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'napkin'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "Don't raise your __oice. [Choose letter]",
-    "options": ["v", "p", "f", "z"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'voice'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "Please le__d me this pen. [Choose letter]",
-    "options": ["n", "j", "p", "y"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'lend'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "It will c__rtainly rain tomorrow. [Choose letter]",
-    "options": ["e", "a", "o", "u"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'certainly'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "There's no pr__blem. [Choose letter]",
-    "options": ["o", "i", "u", "a"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'problem'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "He was asked to l__wer his __oice in the library. [Choose letters]",
-    "options": ["o-v", "u-b", "a-n", "i-s"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'lower' و 'voice'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "She borr__wed a s__ack from her friend. [Choose letters]",
-    "options": ["o-n", "i-x", "e-f", "u-p"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'borrowed' و 'snack'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "Match: 'We should lower our voices.' Lower means:",
-    "options": [
-      "to reduce or become less",
-      "a small cloth to protect clothes",
-      "to take for a short time",
-      "certain or without doubt"
-    ],
-    "correct": "A",
-    "explanation": { "A": "صحيح! يخفض الصوت.", "B": "napkin.", "C": "borrow.", "D": "sure." }
-  },
-  {
-    "text": "Match: 'Can I borrow your phone?' Borrow means:",
-    "options": [
-      "to take something and use it for a short time",
-      "to give something to someone for a short time",
-      "to reduce",
-      "a small meal"
-    ],
-    "correct": "A",
-    "explanation": { "A": "صحيح! يستعير.", "B": "lend.", "C": "lower.", "D": "snack." }
-  },
-  {
-    "text": "Match: 'He shouted at the top of his voice.' Voice means:",
-    "options": [
-      "sounds made when people speak or sing",
-      "a small cloth",
-      "a meeting of people",
-      "certain"
-    ],
-    "correct": "A",
-    "explanation": { "A": "صحيح! صوت.", "B": "napkin.", "C": "gathering.", "D": "sure." }
-  },
-  {
-    "text": "Match: 'Please lend me this pen.' Lend means:",
-    "options": [
-      "to give something to someone for a short time",
-      "to take and use temporarily",
-      "to speak quietly",
-      "a small meal"
-    ],
-    "correct": "A",
-    "explanation": { "A": "صحيح! يعير.", "B": "borrow.", "C": "lower.", "D": "snack." }
-  },
-  {
-    "text": "Match: 'For snacks, she eats fruit or nuts.' Snack means:",
-    "options": [
-      "a very small meal",
-      "a group of people meeting",
-      "to reduce",
-      "certain"
-    ],
-    "correct": "A",
-    "explanation": { "A": "صحيح! وجبة خفيفة.", "B": "gathering.", "C": "lower.", "D": "sure." }
-  },
-  {
-    "text": "Match: 'Lay the napkin across your lap.' Napkin means:",
-    "options": [
-      "a small cloth or towel to protect clothes",
-      "a sound of speaking",
-      "a small meal",
-      "to take temporarily"
-    ],
-    "correct": "A",
-    "explanation": { "A": "صحيح! منديل.", "B": "voice.", "C": "snack.", "D": "borrow." }
-  },
-  {
-    "text": "Match: 'The leaders are gathering in Japan.' Gathering means:",
-    "options": [
-      "a meeting of a group of people",
-      "certain or without doubt",
-      "to reduce",
-      "a small cloth"
-    ],
-    "correct": "A",
-    "explanation": { "A": "صحيح! تجمع.", "B": "sure.", "C": "lower.", "D": "napkin." }
-  },
-  {
-    "text": "Match: 'I am sure of his passing the exam.' Sure means:",
-    "options": [
-      "certain or without any doubt",
-      "a meeting of people",
-      "to give temporarily",
-      "a small meal"
-    ],
-    "correct": "A",
-    "explanation": { "A": "صحيح! متأكد.", "B": "gathering.", "C": "lend.", "D": "snack." }
-  },
-  {
-    "text": "Please …………….. me your book.",
-    "options": ["lend", "lower", "carry", "fill"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! أعطني كتابك (إعارة).", "B": "يخفض.", "C": "يحمل.", "D": "يملأ." }
-  },
-  {
-    "text": "Can you ………….. your voice?",
-    "options": ["lower", "lend", "take", "borrow"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! اخفض صوتك.", "B": "يعير.", "C": "يأخذ.", "D": "يستعير." }
-  },
-  {
-    "text": "Can I ………………….. your bike?",
-    "options": ["borrow", "lower", "pass", "tell"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! أستعير دراجتك.", "B": "يخفض.", "C": "يمرر.", "D": "يخبر." }
-  },
-  {
-    "text": "Fold the …………….. and put one by each plate.",
-    "options": ["napkins", "voice", "snack", "gathering"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! مناديل.", "B": "صوت.", "C": "وجبة خفيفة.", "D": "تجمع." }
-  },
-  {
-    "text": "I heard a …………. from the cupboard shouting \"Let me out!\"",
-    "options": ["voice", "napkin", "gathering", "snack"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! صوت.", "B": "منديل.", "C": "تجمع.", "D": "وجبة خفيفة." }
-  },
-  {
-    "text": "A carrot is a healthy ……………….",
-    "options": ["snack", "napkin", "gathering", "voice"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! وجبة خفيفة صحية.", "B": "منديل.", "C": "تجمع.", "D": "صوت." }
-  },
-  {
-    "text": "Tom doesn't enjoy family ……………………. very much.",
-    "options": ["gatherings", "voice", "snack", "napkin"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! تجمعات عائلية.", "B": "صوت.", "C": "وجبة.", "D": "منديل." }
-  },
-  {
-    "text": "No one knows for …………………….. what happened.",
-    "options": ["sure", "fine", "good", "nice"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! for sure = بالتأكيد.", "B": "جيد.", "C": "حسن.", "D": "لطيف." }
+    "explanation": { "A": "صحيح! tell + مفعول + to + مصدر.", "B": "brings خطأ.", "C": "brought ماضي.", "D": "bringing خطأ." }
   }
 ]
