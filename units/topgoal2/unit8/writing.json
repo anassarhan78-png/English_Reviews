@@ -1,9 +1,10 @@
 {
-  "title": "Describe an accessory or piece of clothing you like",
+  "title": "Describe an Accessory or Piece of Clothing You Like",
   "prompts": [
-    "What is it?",
-    "What is it made of?",
-    "Where did you get it? How long have you had it?"
+    "1. What is the accessory or clothing item?",
+    "2. What is it made of? (Use 'made of')",
+    "3. Where did you get it? Who gave it to you?",
+    "4. How long have you had it? What do you like about it?"
   ],
-  "model": "My favorite accessory is a silver bracelet. It is made of real silver. My grandmother gave it to me two years ago. I have worn it many times since then."
+  "model": "My favorite accessory is a silver bracelet. It is made of real silver and has a beautiful striped pattern. My grandmother gave it to me as a gift for my birthday two years ago. I have had it for two years, and I wear it on special occasions. I like it because it reminds me of my grandmother and it looks elegant with any outfit."
 }

@@ -2,19 +2,31 @@
   "title": "Present Perfect Questions & 'Be Made Of'",
   "topics": [
     {
-      "name": "Present Perfect Questions",
-      "rule": "نكون السؤال في المضارع التام بوضع Have/Has قبل الفاعل ثم التصريف الثالث للفعل.",
+      "name": "Present Perfect Questions - أسئلة المضارع التام",
+      "rule": "لتكوين سؤال في المضارع التام، نضع Have/Has قبل الفاعل، ثم التصريف الثالث للفعل. للسؤال عن المدة نستخدم 'How long' في بداية السؤال.",
       "examples": [
         "Have you finished your homework?",
-        "How long has she lived here?"
+        "Has she seen the new movie?",
+        "How long have you lived in this city?",
+        "How long has he worked at the company?"
       ]
     },
     {
-      "name": "Be Made Of + Material",
-      "rule": "نستخدم 'is/are made of' لوصف المادة الخام التي صنع منها الشيء.",
+      "name": "Be Made Of + Material - وصف المواد الخام",
+      "rule": "نستخدم 'is/are made of' لوصف المادة الخام التي صنع منها الشيء، بحيث تبقى المادة واضحة في المنتج النهائي. نستخدم 'made from' إذا تغيرت المادة كيميائياً.",
       "examples": [
-        "This ring is made of gold.",
-        "The costumes are made of silk."
+        "This ring is made of gold. (الذهب ما زال ذهباً)",
+        "The table is made of wood. (الخشب ما زال خشباً)",
+        "Paper is made from trees. (الأشجار تحولت كيميائياً إلى ورق)"
+      ]
+    },
+    {
+      "name": "Materials and Patterns - مفردات المواد والنقوش",
+      "rule": "مواد شائعة: wood (خشب)، metal (معدن)، plastic (بلاستيك)، silk (حرير)، wool (صوف)، cotton (قطن)، leather (جلد). نقوش: striped (مقلم)، spotted (منقط)، checked (مربعات)، plain (سادة).",
+      "examples": [
+        "I bought a striped tie.",
+        "She wore a plain white dress.",
+        "This bag is made of leather."
       ]
     }
   ]

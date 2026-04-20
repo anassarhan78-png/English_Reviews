@@ -1,1 +1,255 @@
-[]
+[
+  {
+    "text": "Asma has made all the __________ for the school play. They look cool!",
+    "options": ["costumes", "bracelets", "earrings", "uniforms"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'costumes' تعني أزياء المسرحية أو الملابس التنكرية التي يرتديها الممثلون.",
+      "B": "Bracelets تعني أساور تُلبس في المعصم.",
+      "C": "Earrings تعني أقراط الأذن.",
+      "D": "Uniforms تعني الزي الرسمي الموحد مثل زي المدرسة."
+    }
+  },
+  {
+    "text": "Don't forget your __________. It's going to rain later today.",
+    "options": ["umbrella", "uniform", "costume", "bracelet"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'umbrella' هي المظلة التي تقي من المطر.",
+      "B": "Uniform تعني زياً موحداً.",
+      "C": "Costume تعني زياً تنكرياً.",
+      "D": "Bracelet تعني سواراً."
+    }
+  },
+  {
+    "text": "Dad bought my new __________ for the next school year.",
+    "options": ["uniform", "umbrella", "costume", "bracelet"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'uniform' هو الزي المدرسي الرسمي.",
+      "B": "Umbrella مظلة.",
+      "C": "Costume زي تنكري.",
+      "D": "Bracelet سوار."
+    }
+  },
+  {
+    "text": "How long have you had those __________, Grandma? They look old and valuable.",
+    "options": ["earrings", "bracelets", "costumes", "uniforms"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'earrings' هي أقراط الأذن التي ترتديها النساء عادة.",
+      "B": "Bracelets أساور.",
+      "C": "Costumes أزياء.",
+      "D": "Uniforms أزياء رسمية."
+    }
+  },
+  {
+    "text": "We gave our mom a beautiful silver __________ for her birthday.",
+    "options": ["bracelet", "earrings", "necklace", "ring"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'bracelet' هو سوار يُلبس حول المعصم.",
+      "B": "Earrings أقراط.",
+      "C": "Necklace قلادة.",
+      "D": "Ring خاتم."
+    }
+  },
+  {
+    "text": "My mom gave me a special comb made of __________. It smells nice.",
+    "options": ["wood", "silk", "cotton", "gold"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! الأمشاط التقليدية غالباً ما تصنع من الخشب.",
+      "B": "Silk حرير، لا يصلح للمشط.",
+      "C": "Cotton قطن، غير مناسب.",
+      "D": "Gold ذهب، ممكن لكن الخشب هو الأكثر شيوعاً للأمشاط العطرية."
+    }
+  },
+  {
+    "text": "Is your ring made of real __________? It looks very shiny.",
+    "options": ["gold", "wood", "cotton", "plastic"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! الخواتم الثمينة غالباً ما تكون من الذهب.",
+      "B": "Wood خشب، ممكن لكنه ليس 'real' بمعنى ثمين.",
+      "C": "Cotton قطن، غير مناسب.",
+      "D": "Plastic بلاستيك، ليس ثميناً."
+    }
+  },
+  {
+    "text": "You can't use __________ to make a comfortable tie.",
+    "options": ["metal", "silk", "cotton", "wool"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! المعدن لا يصلح لصنع ربطة عنق مريحة.",
+      "B": "Silk حرير، مادة فاخرة للربطات.",
+      "C": "Cotton قطن، مادة مريحة للربطات.",
+      "D": "Wool صوف، يستخدم أحياناً للربطات الشتوية."
+    }
+  },
+  {
+    "text": "Have you seen Farah's new __________ purse? It has dots all over it.",
+    "options": ["spotted", "striped", "plain", "checked"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'spotted' تعني منقط أو مغطى بنقاط.",
+      "B": "Striped تعني مقلم (خطوط).",
+      "C": "Plain تعني سادة بدون نقوش.",
+      "D": "Checked تعني مربعات (مثل رقعة الشطرنج)."
+    }
+  },
+  {
+    "text": "Ashraf made a warm __________ sweater for his grandfather.",
+    "options": ["wool", "plastic", "metal", "wood"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'wool' هو الصوف، المادة المثالية للسترات الدافئة.",
+      "B": "Plastic بلاستيك، غير مناسب للملابس.",
+      "C": "Metal معدن، غير مناسب.",
+      "D": "Wood خشب، غير مناسب."
+    }
+  },
+  {
+    "text": "Match: 'This coat was half-price - a real bargain.' Bargain means:",
+    "options": ["something on sale at a lower price", "a jacket that protects from wind", "moving staircase", "a pleasant natural smell"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'bargain' تعني صفقة جيدة أو شيء تم شراؤه بسعر مخفض.",
+      "B": "هذا معنى 'windbreaker'.",
+      "C": "هذا معنى 'escalator'.",
+      "D": "هذا معنى 'perfume'."
+    }
+  },
+  {
+    "text": "Match: 'The escalator is still out of service.' Escalator means:",
+    "options": ["moving staircase", "a flat folded case for money", "a piece of jewelry", "a pleasant feeling"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'escalator' هو الدرج الكهربائي المتحرك.",
+      "B": "هذا معنى 'wallet'.",
+      "C": "هذا معنى 'bracelet' أو 'necklace'.",
+      "D": "هذا معنى 'comfort'."
+    }
+  },
+  {
+    "text": "Match: 'Tom is wearing a windbreaker.' Windbreaker means:",
+    "options": ["a jacket that protects from the wind", "a piece of jewelry for the wrist", "moving staircase", "something at a lower price"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'windbreaker' هو جاكيت خفيف واقٍ من الرياح.",
+      "B": "هذا معنى 'bracelet'.",
+      "C": "هذا معنى 'escalator'.",
+      "D": "هذا معنى 'bargain'."
+    }
+  },
+  {
+    "text": "Match: 'The perfume of the roses filled the room.' Perfume means:",
+    "options": ["a pleasant natural smell", "a flat case for money", "a piece of jewelry", "something on sale"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'perfume' هو العطر أو الرائحة الزكية.",
+      "B": "هذا معنى 'wallet'.",
+      "C": "هذا معنى 'jewelry'.",
+      "D": "هذا معنى 'bargain'."
+    }
+  },
+  {
+    "text": "Match: 'I lost my wallet on the subway.' Wallet means:",
+    "options": ["a flat folded case for money and cards", "moving staircase", "a jacket", "a pleasant smell"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'wallet' هي المحفظة الجلدية لحفظ النقود والبطاقات.",
+      "B": "هذا معنى 'escalator'.",
+      "C": "هذا معنى 'windbreaker'.",
+      "D": "هذا معنى 'perfume'."
+    }
+  },
+  {
+    "text": "Match: 'This watch is very expensive.' The opposite of 'expensive' is:",
+    "options": ["cheap", "bargain", "comfortable", "pleasant"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! عكس 'expensive' (غالي) هو 'cheap' (رخيص).",
+      "B": "Bargain صفقة (اسم).",
+      "C": "Comfortable مريح.",
+      "D": "Pleasant لطيف."
+    }
+  },
+  {
+    "text": "People who drive cars should always wear seat __________ for safety.",
+    "options": ["belts", "boots", "necklace", "dress"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'seat belts' هي أحزمة الأمان.",
+      "B": "Boots أحذية.",
+      "C": "Necklace قلادة.",
+      "D": "Dress فستان."
+    }
+  },
+  {
+    "text": "She gave me a beautiful handbag made of genuine __________.",
+    "options": ["leather", "perfume", "eye shadow", "sheet"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'leather' هو الجلد الطبيعي المستخدم في صنع الحقائب الفاخرة.",
+      "B": "Perfume عطر.",
+      "C": "Eye shadow ظل عيون.",
+      "D": "Sheet ملاءة سرير."
+    }
+  },
+  {
+    "text": "He looked very elegant in his new suit and silk __________.",
+    "options": ["tie", "blouse", "boots", "umbrella"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'tie' هي ربطة العنق.",
+      "B": "Blouse بلوزة نسائية.",
+      "C": "Boots حذاء طويل.",
+      "D": "Umbrella مظلة."
+    }
+  },
+  {
+    "text": "The sky looks cloudy. You should take an __________ with you.",
+    "options": ["umbrella", "ring", "earrings", "backpack"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'umbrella' هي المظلة.",
+      "B": "Ring خاتم.",
+      "C": "Earrings أقراط.",
+      "D": "Backpack حقيبة ظهر."
+    }
+  },
+  {
+    "text": "What do we call a piece of jewelry worn around the wrist?",
+    "options": ["bracelet", "necklace", "earring", "ring"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'bracelet' هو السوار.",
+      "B": "Necklace قلادة.",
+      "C": "Earring حلق الأذن.",
+      "D": "Ring خاتم."
+    }
+  },
+  {
+    "text": "What is the material that comes from sheep and is used to make warm clothes?",
+    "options": ["wool", "cotton", "silk", "leather"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'wool' هو الصوف المستخرج من الأغنام.",
+      "B": "Cotton قطن من نبات القطن.",
+      "C": "Silk حرير من دودة القز.",
+      "D": "Leather جلد من الحيوانات."
+    }
+  },
+  {
+    "text": "What do we call a pattern with lines of different colors?",
+    "options": ["striped", "spotted", "checked", "plain"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'striped' تعني مقلم بخطوط طولية أو عرضية.",
+      "B": "Spotted منقط.",
+      "C": "Checked مربعات.",
+      "D": "Plain سادة."
+    }
+  }
+]
