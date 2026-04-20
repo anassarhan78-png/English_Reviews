@@ -3,690 +3,186 @@
     "text": "They ……….. going to eat their lunch.",
     "options": ["are", "be", "is", "am"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! 'They' جمع → 'are'.",
-      "B": "be مصدر.",
-      "C": "is للمفرد.",
-      "D": "am لـ I."
-    }
+    "explanation": { "A": "صحيح! 'They' جمع → 'are'.", "B": "be مصدر.", "C": "is للمفرد.", "D": "am لـ I." }
   },
   {
     "text": "I ………… going to wear blue shoes tonight.",
     "options": ["am", "is", "be", "are"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! 'I' يأخذ 'am'.",
-      "B": "is للمفرد الغائب.",
-      "C": "be مصدر.",
-      "D": "are للجمع أو you."
-    }
+    "explanation": { "A": "صحيح! 'I' يأخذ 'am'.", "B": "is للمفرد الغائب.", "C": "be مصدر.", "D": "are للجمع أو you." }
   },
   {
     "text": "…………… you going to cook dinner?",
     "options": ["Are", "Am", "Is", "Be"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! 'Are you' للسؤال.",
-      "B": "Am لـ I.",
-      "C": "Is للمفرد.",
-      "D": "Be مصدر."
-    }
+    "explanation": { "A": "صحيح! 'Are you' للسؤال.", "B": "Am لـ I.", "C": "Is للمفرد.", "D": "Be مصدر." }
   },
   {
     "text": "Sara …………… going to share her biscuits.",
     "options": ["is not", "am not", "are not", "be not"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! 'Sara' مفرد → 'is not'.",
-      "B": "am not لـ I.",
-      "C": "are not للجمع.",
-      "D": "خطأ."
-    }
+    "explanation": { "A": "صحيح! 'Sara' مفرد → 'is not'.", "B": "am not لـ I.", "C": "are not للجمع.", "D": "خطأ." }
   },
   {
     "text": "They ………………… the house next week.",
     "options": ["are going to leave", "is leaving", "leaves", "leave"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! 'be going to' للتخطيط المستقبلي.",
-      "B": "مضارع مستمر.",
-      "C": "مضارع بسيط مع s.",
-      "D": "مضارع بسيط."
-    }
+    "explanation": { "A": "صحيح! 'be going to' للتخطيط المستقبلي.", "B": "مضارع مستمر.", "C": "مضارع بسيط مع s.", "D": "مضارع بسيط." }
   },
   {
     "text": "Jack ………………………… home tomorrow.",
     "options": ["is going to walk", "walks", "walk", "walking"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! 'Jack' مفرد → 'is going to walk'.",
-      "B": "مضارع بسيط.",
-      "C": "ينقص s أو is going to.",
-      "D": "ينقص فعل مساعد."
-    }
+    "explanation": { "A": "صحيح! 'Jack' مفرد → 'is going to walk'.", "B": "مضارع بسيط.", "C": "ينقص s أو is going to.", "D": "ينقص فعل مساعد." }
   },
   {
     "text": "I am going to ……….. my hands.",
     "options": ["wash", "washed", "washes", "washing"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! بعد 'going to' المصدر.",
-      "B": "ماضي.",
-      "C": "مضارع مع s.",
-      "D": "ing خطأ."
-    }
+    "explanation": { "A": "صحيح! بعد 'going to' المصدر.", "B": "ماضي.", "C": "مضارع مع s.", "D": "ing خطأ." }
   },
   {
     "text": "I ………………………….. to cinema next week.",
     "options": ["am going to go", "be going to go", "are going to go", "is going to go"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! I + am going to + مصدر.",
-      "B": "ينقص am.",
-      "C": "are خطأ.",
-      "D": "is خطأ."
-    }
+    "explanation": { "A": "صحيح! I + am going to + مصدر.", "B": "ينقص am.", "C": "are خطأ.", "D": "is خطأ." }
   },
   {
     "text": "The rabbit is going to …………. the carrot.",
     "options": ["eat", "ate", "eating", "eats"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! المصدر بعد 'going to'.",
-      "B": "ماضي.",
-      "C": "ing خطأ.",
-      "D": "مضارع خطأ."
-    }
+    "explanation": { "A": "صحيح! المصدر بعد 'going to'.", "B": "ماضي.", "C": "ing خطأ.", "D": "مضارع خطأ." }
   },
   {
     "text": "They are going to ………………… football.",
     "options": ["play", "plays", "playing", "played"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! المصدر.",
-      "B": "plays خطأ.",
-      "C": "ing خطأ.",
-      "D": "ماضي."
-    }
+    "explanation": { "A": "صحيح! المصدر.", "B": "plays خطأ.", "C": "ing خطأ.", "D": "ماضي." }
   },
   {
     "text": "………………… is Frank going to have for dinner? A pizza.",
     "options": ["What", "How", "Where", "How long"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! 'What' للسؤال عن الشيء.",
-      "B": "How للكيفية.",
-      "C": "Where للمكان.",
-      "D": "How long للمدة."
-    }
+    "explanation": { "A": "صحيح! 'What' للسؤال عن الشيء.", "B": "How للكيفية.", "C": "Where للمكان.", "D": "How long للمدة." }
   },
   {
     "text": "…………………….. are you going to spend your holidays? In Italy.",
     "options": ["Where", "What", "How long", "Why"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! 'Where' للمكان.",
-      "B": "What للشيء.",
-      "C": "How long للمدة.",
-      "D": "Why للسبب."
-    }
+    "explanation": { "A": "صحيح! 'Where' للمكان.", "B": "What للشيء.", "C": "How long للمدة.", "D": "Why للسبب." }
   },
   {
     "text": "…………..are you going to be there? on Monday.",
     "options": ["When", "Where", "How long", "How"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! 'When' للزمان.",
-      "B": "Where للمكان.",
-      "C": "How long للمدة.",
-      "D": "How للكيفية."
-    }
+    "explanation": { "A": "صحيح! 'When' للزمان.", "B": "Where للمكان.", "C": "How long للمدة.", "D": "How للكيفية." }
   },
   {
     "text": "…………… are you going to get to work? By the bus.",
     "options": ["How", "Which", "Where", "When"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! 'How' للوسيلة.",
-      "B": "Which للاختيار.",
-      "C": "Where للمكان.",
-      "D": "When للزمان."
-    }
+    "explanation": { "A": "صحيح! 'How' للوسيلة.", "B": "Which للاختيار.", "C": "Where للمكان.", "D": "When للزمان." }
   },
   {
     "text": "……………….. is she going to go? To the store.",
     "options": ["Where", "When", "How", "What"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! 'Where' للمكان.",
-      "B": "When للزمان.",
-      "C": "How للوسيلة.",
-      "D": "What للشيء."
-    }
+    "explanation": { "A": "صحيح! 'Where' للمكان.", "B": "When للزمان.", "C": "How للوسيلة.", "D": "What للشيء." }
   },
   {
     "text": "……………..are you going to go with? with my friends",
     "options": ["Who", "How long", "When", "What"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! 'Who' للفاعل (مع من).",
-      "B": "How long للمدة.",
-      "C": "When للزمان.",
-      "D": "What للشيء."
-    }
+    "explanation": { "A": "صحيح! 'Who' للفاعل (مع من).", "B": "How long للمدة.", "C": "When للزمان.", "D": "What للشيء." }
   },
   {
     "text": "…………..are they going to have their party? next week.",
     "options": ["When", "Which", "Where", "How"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! 'When' للزمان.",
-      "B": "Which للاختيار.",
-      "C": "Where للمكان.",
-      "D": "How للوسيلة."
-    }
+    "explanation": { "A": "صحيح! 'When' للزمان.", "B": "Which للاختيار.", "C": "Where للمكان.", "D": "How للوسيلة." }
   },
   {
     "text": "…………………. are you going to Wait? for one hour.",
     "options": ["How long", "What", "Which", "Who"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! 'How long' للمدة الزمنية.",
-      "B": "What للشيء.",
-      "C": "Which للاختيار.",
-      "D": "Who للفاعل."
-    }
+    "explanation": { "A": "صحيح! 'How long' للمدة الزمنية.", "B": "What للشيء.", "C": "Which للاختيار.", "D": "Who للفاعل." }
   },
   {
     "text": "……………………..is she going to live in this city? For three years",
     "options": ["How long", "What", "Which", "Who"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! 'How long' للمدة.",
-      "B": "What خطأ.",
-      "C": "Which خطأ.",
-      "D": "Who خطأ."
-    }
+    "explanation": { "A": "صحيح! 'How long' للمدة.", "B": "What خطأ.", "C": "Which خطأ.", "D": "Who خطأ." }
   },
   {
     "text": "We took a ride on………………",
     "options": ["an old bus", "a old bus", "old bus", "an old buses"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! 'old' تبدأ بحرف متحرك صوتياً → 'an'.",
-      "B": "a خطأ قبل حرف متحرك.",
-      "C": "ينقص أداة نكرة.",
-      "D": "buses جمع ولا تتفق مع a/an."
-    }
+    "explanation": { "A": "صحيح! 'old' تبدأ بحرف متحرك صوتياً → 'an'.", "B": "a خطأ قبل حرف متحرك.", "C": "ينقص أداة نكرة.", "D": "buses جمع ولا تتفق مع a/an." }
   },
   {
     "text": "Mark and Jane are carrying ……………………….",
     "options": ["a heavy chair", "an heavy chair", "a heavy chairs", "heavy chair"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! 'heavy' تبدأ بحرف ساكن → 'a'.",
-      "B": "an خطأ.",
-      "C": "a مع chairs خطأ.",
-      "D": "ينقص أداة."
-    }
+    "explanation": { "A": "صحيح! 'heavy' تبدأ بحرف ساكن → 'a'.", "B": "an خطأ.", "C": "a مع chairs خطأ.", "D": "ينقص أداة." }
   },
   {
     "text": "I have some ………………...",
     "options": ["new shoes", "an new shoes", "a new shoes", "an new shoe"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! 'some' + جمع بدون أداة.",
-      "B": "an خطأ مع جمع.",
-      "C": "a خطأ مع جمع.",
-      "D": "an مع shoe خطأ."
-    }
+    "explanation": { "A": "صحيح! 'some' + جمع بدون أداة.", "B": "an خطأ مع جمع.", "C": "a خطأ مع جمع.", "D": "an مع shoe خطأ." }
   },
   {
     "text": "There is ______________ in the garden.",
     "options": ["a small dog", "a small dogs", "an small dogs", "an small dog"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! 'small' ساكن → 'a' + مفرد.",
-      "B": "a مع dogs خطأ.",
-      "C": "an مع dogs خطأ.",
-      "D": "an مع small خطأ."
-    }
+    "explanation": { "A": "صحيح! 'small' ساكن → 'a' + مفرد.", "B": "a مع dogs خطأ.", "C": "an مع dogs خطأ.", "D": "an مع small خطأ." }
   },
   {
     "text": "He is …………………………",
     "options": ["a fast driver", "a fast drivers", "an fast driver", "fast driver"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! 'fast' ساكن → 'a' + مفرد.",
-      "B": "a مع drivers خطأ.",
-      "C": "an خطأ.",
-      "D": "ينقص أداة."
-    }
+    "explanation": { "A": "صحيح! 'fast' ساكن → 'a' + مفرد.", "B": "a مع drivers خطأ.", "C": "an خطأ.", "D": "ينقص أداة." }
   },
   {
     "text": "He studies ……...",
     "options": ["well", "better", "good", "worse"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! 'well' ظرف حال يصف الفعل 'studies'.",
-      "B": "better صفة مقارنة.",
-      "C": "good صفة.",
-      "D": "worse صفة مقارنة."
-    }
+    "explanation": { "A": "صحيح! 'well' ظرف حال يصف الفعل 'studies'.", "B": "better صفة مقارنة.", "C": "good صفة.", "D": "worse صفة مقارنة." }
   },
   {
     "text": "My dog eats ………………….",
     "options": ["slowly", "slowest", "slower", "slow"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! 'slowly' ظرف حال.",
-      "B": "slowest صفة تفضيل.",
-      "C": "slower صفة مقارنة.",
-      "D": "slow صفة."
-    }
+    "explanation": { "A": "صحيح! 'slowly' ظرف حال.", "B": "slowest صفة تفضيل.", "C": "slower صفة مقارنة.", "D": "slow صفة." }
   },
   {
     "text": "He sings ……………………………...",
     "options": ["beautifully", "beautiful", "more beautiful", "most beautiful"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! 'beautifully' ظرف حال.",
-      "B": "beautiful صفة.",
-      "C": "more beautiful مقارنة صفة.",
-      "D": "most beautiful تفضيل صفة."
-    }
+    "explanation": { "A": "صحيح! 'beautifully' ظرف حال.", "B": "beautiful صفة.", "C": "more beautiful مقارنة صفة.", "D": "most beautiful تفضيل صفة." }
   },
   {
     "text": "He's a ………………………. singer.",
     "options": ["beautiful", "beautifully", "more beautiful", "most beautiful"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! 'beautiful' صفة تصف 'singer'.",
-      "B": "beautifully ظرف.",
-      "C": "مقارنة.",
-      "D": "تفضيل."
-    }
+    "explanation": { "A": "صحيح! 'beautiful' صفة تصف 'singer'.", "B": "beautifully ظرف.", "C": "مقارنة.", "D": "تفضيل." }
   },
   {
     "text": "He drives the car ……………………...",
     "options": ["carefully", "most careful", "more careful", "careful"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! 'carefully' ظرف حال.",
-      "B": "most careful صفة تفضيل.",
-      "C": "more careful صفة مقارنة.",
-      "D": "careful صفة."
-    }
+    "explanation": { "A": "صحيح! 'carefully' ظرف حال.", "B": "most careful صفة تفضيل.", "C": "more careful صفة مقارنة.", "D": "careful صفة." }
   },
   {
     "text": "He is a ……………… driver.",
     "options": ["careful", "most careful", "more careful", "carefully"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! 'careful' صفة تصف 'driver'.",
-      "B": "most careful تفضيل.",
-      "C": "more careful مقارنة.",
-      "D": "carefully ظرف."
-    }
+    "explanation": { "A": "صحيح! 'careful' صفة تصف 'driver'.", "B": "most careful تفضيل.", "C": "more careful مقارنة.", "D": "carefully ظرف." }
   },
   {
     "text": "Mother looked ________ at the nice flowers.",
     "options": ["happily", "happy", "the happiest", "happier"],
     "correct": "A",
-    "explanation": {
-      "A": "صحيح! 'happily' ظرف حال يصف 'looked'.",
-      "B": "happy صفة.",
-      "C": "the happiest تفضيل.",
-      "D": "happier مقارنة."
-    }
-  },
-  {
-    "text": "Choose the correct structure:",
-    "options": [
-      "I am going to play handball.",
-      "I are going to play handball.",
-      "She am going to play handball.",
-      "I am going to playing handball."
-    ],
-    "correct": "A",
-    "explanation": {
-      "A": "صحيح! I + am going to + مصدر.",
-      "B": "are خطأ مع I.",
-      "C": "am خطأ مع She.",
-      "D": "playing خطأ."
-    }
-  },
-  {
-    "text": "Choose the correct structure:",
-    "options": [
-      "They are carrying a heavy chair.",
-      "He are carrying a heavy chair.",
-      "They are carrying an heavy chair.",
-      "They is carrying a heavy chair."
-    ],
-    "correct": "A",
-    "explanation": {
-      "A": "صحيح! They + are + فعل+ing + a heavy chair.",
-      "B": "are خطأ مع He.",
-      "C": "an خطأ (heavy ساكن).",
-      "D": "is خطأ مع They."
-    }
-  },
-  {
-    "text": "He is going to read the book. [Change into negative]",
-    "options": [
-      "He is not going to read the book.",
-      "He doesn't going to read the book.",
-      "He not going to read the book.",
-      "He isn't go to read the book."
-    ],
-    "correct": "A",
-    "explanation": {
-      "A": "صحيح! نفي be going to: is not going to.",
-      "B": "doesn't خطأ.",
-      "C": "ينقص فعل مساعد.",
-      "D": "go خطأ."
-    }
-  },
-  {
-    "text": "My team (be) going to play tomorrow. [Correct the verb]",
-    "options": ["is", "are", "am", "be"],
-    "correct": "A",
-    "explanation": {
-      "A": "صحيح! 'team' اسم جمع يعامل مفرداً → 'is'.",
-      "B": "are تستخدم مع جمع مثل 'teams'.",
-      "C": "am مع I.",
-      "D": "be مصدر."
-    }
-  },
-  {
-    "text": "It is going to rain soon. [Make Yes/No question]",
-    "options": [
-      "Is it going to rain soon?",
-      "Does it going to rain soon?",
-      "It is going to rain soon?",
-      "Is going to it rain soon?"
-    ],
-    "correct": "A",
-    "explanation": {
-      "A": "صحيح! السؤال: Is + فاعل + going to + مصدر.",
-      "B": "Does خطأ مع going to.",
-      "C": "عكس الفاعل والفعل.",
-      "D": "ترتيب خاطئ."
-    }
-  },
-  {
-    "text": "Which sentence uses the correct order of adjectives?",
-    "options": [
-      "We took a ride on an old bus.",
-      "We took a ride on a old bus.",
-      "We took a ride on old bus.",
-      "We took a ride on an old buses."
-    ],
-    "correct": "A",
-    "explanation": {
-      "A": "صحيح! an + old + bus.",
-      "B": "a خطأ قبل old.",
-      "C": "ينقص a/an.",
-      "D": "buses جمع مع an خطأ."
-    }
-  },
-  {
-    "text": "The queen was wearing a magni__icent silver dress. [Choose letter]",
-    "options": ["f", "b", "v", "r"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'magnificent'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "We have e__perienced three wars. [Choose letter]",
-    "options": ["x", "c", "s", "z"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'experienced'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "I'm allerg__c to cats. [Choose letter]",
-    "options": ["i", "e", "o", "u"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'allergic'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "He grew up in a small __illage. [Choose letter]",
-    "options": ["v", "n", "f", "p"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'village'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "Bury him in another t__mb. [Choose letter]",
-    "options": ["o", "u", "i", "a"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'tomb'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "Japanese cui__ine could be truly delicious. [Choose letter]",
-    "options": ["s", "x", "y", "z"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'cuisine'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "Peter was brave and adventu__ous. [Choose letter]",
-    "options": ["r", "b", "p", "m"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'adventurous'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "Mosquito bites can make life miser__ble. [Choose letter]",
-    "options": ["a", "i", "e", "u"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'miserable'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "Here is the beach house at White Sands R__sort. [Choose letter]",
-    "options": ["e", "i", "o", "a"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'resort'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "She loves to hi__e and climb. [Choose letter]",
-    "options": ["k", "m", "x", "p"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'hike'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "She likes to wear exot__c clothes. [Choose letter]",
-    "options": ["i", "u", "o", "e"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'exotic'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "You can see w__ldlife in their natural ha__itat. [Choose letters]",
-    "options": ["i-b", "u-p", "a-v", "e-z"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'wildlife' و 'habitat'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "The t__mbs are found in the a__cient city. [Choose letters]",
-    "options": ["o-n", "e-b", "u-f", "i-g"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'tombs' و 'ancient'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "The coast__l region is full of diverse wildly__e. [Choose letters]",
-    "options": ["a-f", "i-m", "u-p", "e-r"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'coastal' و 'wildlife'.", "B": "خطأ.", "C": "خطأ.", "D": "خطأ." }
-  },
-  {
-    "text": "Match: 'Half the camp went on a hike.' Hike means:",
-    "options": ["the activity of going for long walks", "to make by cutting wood", "to search and discover", "a large grave"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'hike' تنزه طويل.", "B": "carve.", "C": "explore.", "D": "tomb." }
-  },
-  {
-    "text": "Match: 'He carved me a wooden doll.' Carved means:",
-    "options": ["to make by cutting wood/stone", "to search", "a style of cooking", "a large grave"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'carve' ينحت.", "B": "explore.", "C": "cuisine.", "D": "tomb." }
-  },
-  {
-    "text": "Match: 'He explored underground caves.' Explored means:",
-    "options": ["to search and discover", "to cut wood", "to go for long walks", "a place of rest"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'explore' يستكشف.", "B": "carve.", "C": "hike.", "D": "resort." }
-  },
-  {
-    "text": "Match: 'He put the dead body in a tomb.' Tomb means:",
-    "options": ["a large grave", "a style of cooking", "an insect", "a place with water in desert"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'tomb' قبر.", "B": "cuisine.", "C": "mosquito.", "D": "oasis." }
-  },
-  {
-    "text": "Match: 'This restaurant serves French cuisine.' Cuisine means:",
-    "options": ["a style of cooking", "a natural environment", "a place of rest", "a large group of animals"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'cuisine' فن الطبخ.", "B": "habitat.", "C": "resort.", "D": "herd." }
-  },
-  {
-    "text": "Match: 'Hawaii is a popular tourist resort.' Resort means:",
-    "options": ["a place where many people go for rest", "a natural environment", "a flying insect", "a large grave"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'resort' منتجع.", "B": "habitat.", "C": "mosquito.", "D": "tomb." }
-  },
-  {
-    "text": "Match: 'I got bitten by a mosquito.' Mosquito means:",
-    "options": ["a flying insect that bites", "a style of cooking", "a place in desert", "a large group of animals"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'mosquito' بعوضة.", "B": "cuisine.", "C": "oasis.", "D": "herd." }
-  },
-  {
-    "text": "Match: 'A lot of wildlife is losing its natural habitat.' Habitat means:",
-    "options": ["natural environment of an animal/plant", "a place of rest", "a large grave", "a style of cooking"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'habitat' موطن.", "B": "resort.", "C": "tomb.", "D": "cuisine." }
-  },
-  {
-    "text": "Match: 'I saw a herd of elephants.' Herd means:",
-    "options": ["a large group of animals", "a flying insect", "a natural environment", "a place with water in desert"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'herd' قطيع.", "B": "mosquito.", "C": "habitat.", "D": "oasis." }
-  },
-  {
-    "text": "Match: 'Pollution affect the balance of ecosystem.' Ecosystem means:",
-    "options": ["all living things in an area", "travel to natural areas", "a large grave", "the synonym of cheap"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'ecosystem' نظام بيئي.", "B": "ecotourism.", "C": "tomb.", "D": "inexpensive." }
-  },
-  {
-    "text": "Match: 'It's an inexpensive perfume.' Inexpensive means:",
-    "options": ["cheap", "noisy", "quiet", "exciting"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'inexpensive' رخيص.", "B": "noisy.", "C": "quiet.", "D": "thrilling." }
-  },
-  {
-    "text": "Match: 'The caravan stopped to rest at an oasis.' Oasis means:",
-    "options": ["a place in desert with water", "a large grave", "a style of cooking", "a flying insect"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'oasis' واحة.", "B": "tomb.", "C": "cuisine.", "D": "mosquito." }
-  },
-  {
-    "text": "Match: 'Please keep quiet.' Quiet means:",
-    "options": ["not noisy", "cheap", "strange", "exciting"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'quiet' هادئ.", "B": "inexpensive.", "C": "exotic.", "D": "thrilling." }
-  },
-  {
-    "text": "This year, we're going to …………………… through the jungles.",
-    "options": ["trek", "explore", "carve", "experience"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'trek' رحلة شاقة.", "B": "explore تستكشف.", "C": "carve ينحت.", "D": "experience يجرب." }
-  },
-  {
-    "text": "They ………………..their names on a tree.",
-    "options": ["carved", "explored", "trekked", "experienced"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'carved' نقش.", "B": "استكشف.", "C": "تجول.", "D": "اختبر." }
-  },
-  {
-    "text": "I will……………. the Amazon jungle.",
-    "options": ["explore", "carve", "trek", "experience"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'explore' أستكشف.", "B": "أنحت.", "C": "أتجول.", "D": "أختبر." }
-  },
-  {
-    "text": "There are large …………………. of sheep and goats.",
-    "options": ["herds", "jungles", "tombs", "mosquitoes"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'herds' قطعان.", "B": "أدغال.", "C": "قبور.", "D": "بعوض." }
-  },
-  {
-    "text": "They dug many ancient coins out of the ……...",
-    "options": ["tomb", "village", "jungle", "cuisine"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'tomb' قبر.", "B": "قرية.", "C": "غابة.", "D": "مطبخ." }
-  },
-  {
-    "text": "The forest is home to a wealth of ……………...",
-    "options": ["wildlife", "oasis", "safari", "village"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'wildlife' حياة برية.", "B": "واحة.", "C": "سفاري.", "D": "قرية." }
-  },
-  {
-    "text": "This restaurant is renowned for its ……………..",
-    "options": ["cuisine", "village", "resort", "park"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'cuisine' فن الطبخ.", "B": "قرية.", "C": "منتجع.", "D": "حديقة." }
-  },
-  {
-    "text": "It was ………………….. and quiet.",
-    "options": ["peaceful", "allergic", "inexpensive", "awesome"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'peaceful' مسالم.", "B": "حساس.", "C": "رخيص.", "D": "رائع." }
-  },
-  {
-    "text": "You can …….. things out of wood.",
-    "options": ["carve", "explore", "drink", "read"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'carve' تنحت.", "B": "تستكشف.", "C": "تشرب.", "D": "تقرأ." }
-  },
-  {
-    "text": "(her) in line (2) refers to ….. (Text about Sara and rugs)",
-    "options": ["Sara", "grandmother", "grandfather", "mother"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'her' تعود على Sara (تعلمت من جدتها).", "B": "الجدة.", "C": "الجد.", "D": "الأم." }
-  },
-  {
-    "text": "The antonym (≠) of unknown is……",
-    "options": ["popular", "crowded", "large", "expensive"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! عكس 'unknown' هو 'popular' (معروف/مشهور).", "B": "مزدحم.", "C": "كبير.", "D": "غالي." }
-  },
-  {
-    "text": "The synonym (=) of pretty is…..",
-    "options": ["beautiful", "active", "bad", "free"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'pretty' تعني 'beautiful'.", "B": "نشيط.", "C": "سيء.", "D": "حر." }
-  },
-  {
-    "text": "Sara is fond of…………………",
-    "options": ["rugs", "cars", "stars", "books"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'fond of rugs' تحب السجاد.", "B": "سيارات.", "C": "نجوم.", "D": "كتب." }
-  },
-  {
-    "text": "The main idea of the text is ………………",
-    "options": ["Sara loves making rugs", "Beautiful colors", "The food", "Sara's house"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! النص عن حب سارة لصناعة السجاد.", "B": "جانبي.", "C": "غير موجود.", "D": "جانبي." }
-  },
-  {
-    "text": "Her favorite rugs are the traditional Indian rugs. (True/False)",
-    "options": ["False", "True"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! هي تفضل السجاد العربي التقليدي (Arabic rugs).", "B": "خطأ." }
-  },
-  {
-    "text": "Rugs create a nice atmosphere in the house. (True/False)",
-    "options": ["True", "False"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! مذكور في النص.", "B": "خطأ." }
+    "explanation": { "A": "صحيح! 'happily' ظرف حال يصف 'looked'.", "B": "happy صفة.", "C": "the happiest تفضيل.", "D": "happier مقارنة." }
   }
 ]

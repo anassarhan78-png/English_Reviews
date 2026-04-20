@@ -1,1 +1,80 @@
-[]
+[
+  {
+    "text": "Match: 'He is a worldwide famous designer.' means:",
+    "options": ["happening in all parts of the world", "animal kills and eats other animals", "very comfortable and expensive", "not now existing"],
+    "correct": "A",
+    "explanation": { "A": "صحيح! 'worldwide' يعني عالمي.", "B": "predatory.", "C": "luxurious.", "D": "extinct." }
+  },
+  {
+    "text": "Match: 'The owl is a predatory bird which kills its prey with its claws.' Predatory means:",
+    "options": ["animal that kills and eats other animals", "an animal hunted for food", "a mammal like a deer", "unit for measuring gold"],
+    "correct": "A",
+    "explanation": { "A": "صحيح! مفترس.", "B": "prey.", "C": "oryx.", "D": "karat." }
+  },
+  {
+    "text": "Match: 'The deer fell a prey to the lion.' Prey means:",
+    "options": ["an animal that is hunted and killed for food", "animal that kills other animals", "a mammal like a deer", "very comfortable"],
+    "correct": "A",
+    "explanation": { "A": "صحيح! فريسة.", "B": "predator.", "C": "deer.", "D": "luxurious." }
+  },
+  {
+    "text": "Match: 'She wears an 18 karat gold bracelet.' Karat means:",
+    "options": ["a unit for measuring how pure gold is", "happening worldwide", "not now existing", "a set of connected rooms"],
+    "correct": "A",
+    "explanation": { "A": "صحيح! قيراط.", "B": "worldwide.", "C": "extinct.", "D": "suite." }
+  },
+  {
+    "text": "Match: 'The wolf became extinct in Britain.' Extinct means:",
+    "options": ["not now existing or died out", "happening in all parts of the world", "very comfortable and expensive", "animal kills other animals"],
+    "correct": "A",
+    "explanation": { "A": "صحيح! منقرض.", "B": "worldwide.", "C": "luxurious.", "D": "predatory." }
+  },
+  {
+    "text": "Match: 'Tom installs new software.' Install means:",
+    "options": ["to put a computer program onto a computer", "to recharge", "to bark", "to exist"],
+    "correct": "A",
+    "explanation": { "A": "صحيح! تثبيت برنامج.", "B": "recharge.", "C": "bark.", "D": "exist." }
+  },
+  {
+    "text": "Match: 'This song is very popular in Japan.' Popular means:",
+    "options": ["liked by many people", "unknown", "comfortable", "endangered"],
+    "correct": "A",
+    "explanation": { "A": "صحيح! مشهور.", "B": "عكس popular.", "C": "luxurious.", "D": "endangered." }
+  },
+  {
+    "text": "Match: 'The Arabian Oryx is endangered.' Endangered means:",
+    "options": ["at risk of extinction", "very comfortable", "not existing", "a set of rooms"],
+    "correct": "A",
+    "explanation": { "A": "صحيح! مهدد بالانقراض.", "B": "luxurious.", "C": "extinct.", "D": "suite." }
+  },
+  {
+    "text": "Match: 'They have a very luxurious house.' Luxurious means:",
+    "options": ["very comfortable and expensive", "happening worldwide", "animal kills other animals", "unit for gold"],
+    "correct": "A",
+    "explanation": { "A": "صحيح! فاخر.", "B": "worldwide.", "C": "predatory.", "D": "karat." }
+  },
+  {
+    "text": "Dinosaurs are now …………….",
+    "options": ["extinct", "friendly", "grow", "convenient"],
+    "correct": "A",
+    "explanation": { "A": "صحيح! 'extinct' منقرضة.", "B": "ودود.", "C": "ينمو.", "D": "ملائم." }
+  },
+  {
+    "text": "I don't believe that ghosts …………….",
+    "options": ["exist", "extinct", "recharge", "install"],
+    "correct": "A",
+    "explanation": { "A": "صحيح! 'exist' توجد.", "B": "منقرض.", "C": "يعيد شحن.", "D": "يثبت." }
+  },
+  {
+    "text": "I have to …………………. the batteries.",
+    "options": ["recharge", "last", "fall out", "bark"],
+    "correct": "A",
+    "explanation": { "A": "صحيح! 'recharge' إعادة شحن.", "B": "يدوم.", "C": "يسقط.", "D": "ينبح." }
+  },
+  {
+    "text": "Dogs that …………. a lot usually aren't dangerous.",
+    "options": ["bark", "reintroduce", "exist", "weigh"],
+    "correct": "A",
+    "explanation": { "A": "صحيح! 'bark' تنبح.", "B": "يعيد تقديم.", "C": "توجد.", "D": "تزن." }
+  }
+]
