@@ -1,21 +1,40 @@
 {
-  "title": "Present Perfect with Already, Just, Yet",
+  "title": "Present Perfect with Already, Just, Yet, Ever, Never",
   "topics": [
     {
-      "name": "Form - التكوين",
-      "rule": "have/has + past participle (التصريف الثالث).",
+      "name": "Form - تكوين المضارع التام",
+      "rule": "have/has + past participle (التصريف الثالث). نستخدمه للتجارب الحياتية والأحداث التي لها صلة بالحاضر.",
       "examples": [
-        "I have packed my bag.",
-        "She has arrived at the terminal."
+        "I have visited Paris three times.",
+        "She has finished her homework.",
+        "They have never eaten sushi."
       ]
     },
     {
       "name": "Already / Just / Yet",
-      "rule": "Already (بعد) تستخدم في الجمل المثبتة. Just (للتو) تستخدم للأحداث القريبة جداً. Yet (بعد) تستخدم في النفي والأسئلة.",
+      "rule": "Already (بالفعل) في الجمل المثبتة بين have/has والفعل. Just (للتو) للأحداث القريبة جداً. Yet (بعد/حتى الآن) في النفي والأسئلة وتأتي في نهاية الجملة.",
       "examples": [
-        "I have already checked in.",
-        "They have just taken off.",
-        "The subway hasn't arrived yet."
+        "I have already packed my suitcase.",
+        "The plane has just taken off.",
+        "Have you checked in yet?",
+        "I haven't found my passport yet."
+      ]
+    },
+    {
+      "name": "Ever / Never",
+      "rule": "Ever (في أي وقت مضى) تستخدم في الأسئلة عن التجارب. Never (أبداً) تستخدم في الجمل المنفية بمعنى لم يحدث أبداً.",
+      "examples": [
+        "Have you ever been to Japan?",
+        "I have never traveled by train."
+      ]
+    },
+    {
+      "name": "Travel Vocabulary - مفردات السفر",
+      "rule": "كلمات مهمة في السفر: check in (تسجيل الوصول)، take off (إقلاع الطائرة)، find out (يكتشف)، directions (اتجاهات)، traffic (زحمة مرورية)، subway (قطار أنفاق).",
+      "examples": [
+        "We need to find out which gate our flight is from.",
+        "The traffic was terrible this morning.",
+        "Let's take the subway to the airport."
       ]
     }
   ]

@@ -1,9 +1,10 @@
 {
-  "title": "Write about a travel experience",
+  "title": "Write a Paragraph about a Travel Experience",
   "prompts": [
-    "Where did you go?",
-    "How did you get there?",
-    "What have you already done there? What haven't you done yet?"
+    "1. Where did you go? When did you go there?",
+    "2. How did you travel? (by plane, train, car, etc.)",
+    "3. What have you already done or seen there?",
+    "4. What haven't you done yet that you want to do next time?"
   ],
-  "model": "I went to Dubai last year. I took the subway from the airport to the hotel. I have already visited Burj Khalifa and the Dubai Mall. I haven't gone to the desert yet. I want to go next time!"
+  "model": "Last summer, I traveled to Istanbul with my family. We went there by plane, and the flight took about three hours. We have already visited the famous Blue Mosque and Hagia Sophia. We have also taken a boat tour on the Bosphorus. The weather was beautiful. I haven't tried Turkish coffee yet, but I want to try it on my next visit. It was an unforgettable trip!"
 }

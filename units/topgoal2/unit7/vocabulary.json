@@ -1,1 +1,299 @@
-[]
+[
+  {
+    "text": "A way to see many important places in a city is called a ______.",
+    "options": ["tour", "subway", "traffic", "security"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'tour' تعني جولة لمشاهدة المعالم السياحية في المدينة.",
+      "B": "Subway تعني قطار الأنفاق، وهو وسيلة مواصلات وليس جولة.",
+      "C": "Traffic تعني الازدحام المروري، وهي مشكلة في الطرق.",
+      "D": "Security تعني الأمن أو نقطة التفتيش في المطار."
+    }
+  },
+  {
+    "text": "Many cars on the road moving slowly or not moving at all is called ______.",
+    "options": ["traffic", "tour", "subway", "hurry"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'traffic' تعني الازدحام المروري أو زحمة السير.",
+      "B": "Tour تعني جولة سياحية.",
+      "C": "Subway تعني قطار أنفاق.",
+      "D": "Hurry تعني الإسراع أو العجلة."
+    }
+  },
+  {
+    "text": "A train that runs under the ground in big cities is called a ______.",
+    "options": ["subway", "tour", "traffic", "security"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'subway' هو قطار الأنفاق الذي يسير تحت الأرض.",
+      "B": "Tour تعني جولة.",
+      "C": "Traffic تعني زحمة مرورية.",
+      "D": "Security تعني الأمن أو الحراسة."
+    }
+  },
+  {
+    "text": "The place at the airport where they check your bags and passport is called ______.",
+    "options": ["security", "subway", "tour", "traffic"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'security' هي نقطة التفتيش الأمني في المطار.",
+      "B": "Subway هو قطار الأنفاق.",
+      "C": "Tour هي جولة سياحية.",
+      "D": "Traffic هي زحمة السير."
+    }
+  },
+  {
+    "text": "When you are late and need to move fast, you need to ______.",
+    "options": ["hurry", "tour", "traffic", "security"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'hurry' تعني الإسراع أو العجلة.",
+      "B": "Tour تعني جولة.",
+      "C": "Traffic تعني زحمة.",
+      "D": "Security تعني أمن."
+    }
+  },
+  {
+    "text": "We need to f _ _ _  o _ _ which platform the train leaves from.",
+    "options": ["find out", "check in", "take off", "arrive"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'find out' تعني يكتشف أو يعرف معلومات جديدة.",
+      "B": "Check in تعني تسجيل الوصول في الفندق أو المطار.",
+      "C": "Take off تعني إقلاع الطائرة.",
+      "D": "Arrive تعني يصل إلى المكان."
+    }
+  },
+  {
+    "text": "You can c _ _ _ _  i _ to the hotel after twelve o'clock.",
+    "options": ["check in", "find out", "take off", "arrive"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'check in' تعني تسجيل الوصول في الفندق واستلام الغرفة.",
+      "B": "Find out تعني يكتشف معلومات.",
+      "C": "Take off تعني إقلاع الطائرة.",
+      "D": "Arrive تعني يصل إلى المكان."
+    }
+  },
+  {
+    "text": "Fadwa has already looked up the d _ _ _ _ _ _ _ _ to our hotel on her phone.",
+    "options": ["directions", "passport", "subway", "traffic"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'directions' تعني الاتجاهات أو إرشادات الوصول إلى مكان.",
+      "B": "Passport خطأ إملائي، والصحيح 'passport' يعني جواز السفر.",
+      "C": "Subway تعني قطار أنفاق.",
+      "D": "Traffic تعني زحمة مرورية."
+    }
+  },
+  {
+    "text": "What time does the subway a _ _ _ _ _ at the station?",
+    "options": ["arrive", "take off", "check in", "find out"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'arrive' تعني يصل إلى المحطة.",
+      "B": "Take off تعني الإقلاع (للطائرة فقط).",
+      "C": "Check in تعني تسجيل الوصول.",
+      "D": "Find out تعني يكتشف."
+    }
+  },
+  {
+    "text": "Abdullah loves flying but he gets scared when the plane t _ _ _  o _ _.",
+    "options": ["take off", "check in", "find out", "arrive"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'take off' تعني إقلاع الطائرة من الأرض.",
+      "B": "Check in تعني تسجيل الوصول.",
+      "C": "Find out تعني يكتشف.",
+      "D": "Arrive تعني يصل."
+    }
+  },
+  {
+    "text": "Match: 'I'll babysit your kids for you.' This means:",
+    "options": ["to take care of children", "to make clothes smooth", "to cut grass", "a boring job"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'babysit' تعني رعاية الأطفال أثناء غياب الوالدين.",
+      "B": "هذا معنى 'iron' (يكوي الملابس).",
+      "C": "هذا معنى 'mow the lawn' (يقص العشب).",
+      "D": "هذا معنى 'chore' (عمل روتيني ممل)."
+    }
+  },
+  {
+    "text": "Match: 'Grandmother mows the lawn in the garden every weekend.' This means:",
+    "options": ["to cut grass", "to make clothes smooth", "to take care of children", "to spend time with friends"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'mow the lawn' تعني قص عشب الحديقة باستخدام آلة.",
+      "B": "هذا معنى 'iron'.",
+      "C": "هذا معنى 'babysit'.",
+      "D": "هذا معنى 'hang out'."
+    }
+  },
+  {
+    "text": "Match: 'I have to iron my shirt before the meeting.' Iron means:",
+    "options": ["to make clothes smooth", "to cut grass", "to take care of children", "to discover information"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'iron' تعني كي الملابس لإزالة التجاعيد.",
+      "B": "هذا معنى 'mow'.",
+      "C": "هذا معنى 'babysit'.",
+      "D": "هذا معنى 'find out'."
+    }
+  },
+  {
+    "text": "Match: 'I have some chores to do before I can go out.' Chores means:",
+    "options": ["boring but necessary jobs at home", "fun activities with friends", "travel arrangements", "school homework"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'chores' تعني الأعمال المنزلية الروتينية مثل التنظيف والغسيل.",
+      "B": "هذه أنشطة ترفيهية.",
+      "C": "هذه ترتيبات السفر.",
+      "D": "هذا واجب مدرسي."
+    }
+  },
+  {
+    "text": "Match: 'My friends and I usually hang out at the mall on weekends.' Hang out means:",
+    "options": ["to spend time relaxing with friends", "to do housework", "to travel by plane", "to check in at a hotel"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'hang out' تعني قضاء وقت ممتع مع الأصدقاء دون هدف محدد.",
+      "B": "هذا معنى 'do chores'.",
+      "C": "هذا معنى 'fly' أو 'travel'.",
+      "D": "هذا معنى 'check in'."
+    }
+  },
+  {
+    "text": "Match: 'All the furniture was covered in dust after the renovation.' Dust means:",
+    "options": ["very small dry particles of dirt", "a type of fabric", "a cleaning tool", "a shiny surface"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'dust' تعني الغبار أو الأتربة الدقيقة.",
+      "B": "القماش هو 'fabric' أو 'cloth'.",
+      "C": "أداة التنظيف هي 'cleaning tool'.",
+      "D": "السطح اللامع هو 'shiny surface'."
+    }
+  },
+  {
+    "text": "I bought a new bicycle. Let's go for a ______.",
+    "options": ["ride", "shopping", "bowling", "swimming"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'go for a ride' تعني القيام بجولة بالدراجة أو السيارة.",
+      "B": "Go shopping تعني الذهاب للتسوق.",
+      "C": "Go bowling تعني لعب البولينج.",
+      "D": "Go swimming تعني السباحة."
+    }
+  },
+  {
+    "text": "Let's go ______ on Saturday because I miss rolling the heavy ball.",
+    "options": ["bowling", "shopping", "swimming", "driving"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'bowling' هي لعبة البولينج حيث تدحرج كرة ثقيلة.",
+      "B": "Shopping هو التسوق.",
+      "C": "Swimming هي السباحة.",
+      "D": "Driving هي القيادة."
+    }
+  },
+  {
+    "text": "I often go ______ in the sea during summer vacation.",
+    "options": ["swimming", "shopping", "driving", "bowling"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'go swimming' تعني ممارسة السباحة.",
+      "B": "Go shopping تعني التسوق.",
+      "C": "Go driving تعني القيادة للتسلية.",
+      "D": "Go bowling تعني لعب البولينج."
+    }
+  },
+  {
+    "text": "What do we call a flat folded case used to keep paper money and credit cards?",
+    "options": ["wallet", "backpack", "suitcase", "briefcase"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'wallet' هي المحفظة التي تحفظ النقود والبطاقات.",
+      "B": "Backpack هي حقيبة الظهر.",
+      "C": "Suitcase هي حقيبة السفر.",
+      "D": "Briefcase هي حقيبة أوراق العمل."
+    }
+  },
+  {
+    "text": "What do we call moving stairs that carry people between floors in a mall?",
+    "options": ["escalator", "elevator", "staircase", "subway"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'escalator' هو الدرج الكهربائي المتحرك.",
+      "B": "Elevator هو المصعد (غرفة صاعدة).",
+      "C": "Staircase هو الدرج العادي الثابت.",
+      "D": "Subway هو قطار الأنفاق."
+    }
+  },
+  {
+    "text": "What do we call a jacket that protects you from the wind?",
+    "options": ["windbreaker", "raincoat", "sweater", "blazer"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'windbreaker' هو جاكيت خفيف واقٍ من الرياح.",
+      "B": "Raincoat هو معطف المطر.",
+      "C": "Sweater هو كنزة صوفية.",
+      "D": "Blazer هو جاكيت رسمي."
+    }
+  },
+  {
+    "text": "What do we call a pleasant natural smell, especially from flowers?",
+    "options": ["perfume", "odor", "smoke", "steam"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'perfume' هو العطر أو الرائحة الزكية.",
+      "B": "Odor تعني رائحة (غالباً كريهة).",
+      "C": "Smoke هو الدخان.",
+      "D": "Steam هو البخار."
+    }
+  },
+  {
+    "text": "People who drive cars should wear seat ______ for safety.",
+    "options": ["belts", "boots", "necklace", "dress"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'seat belts' هي أحزمة الأمان في السيارة.",
+      "B": "Boots هي أحذية طويلة.",
+      "C": "Necklace هي قلادة.",
+      "D": "Dress هو فستان."
+    }
+  },
+  {
+    "text": "She gave me a beautiful bag made of genuine ______.",
+    "options": ["leather", "perfume", "eye shadow", "sheet"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'leather' هو الجلد الطبيعي.",
+      "B": "Perfume هو عطر.",
+      "C": "Eye shadow هو ظل العيون (مكياج).",
+      "D": "Sheet هي ملاءة السرير."
+    }
+  },
+  {
+    "text": "He looked very handsome in his black suit and silk ______.",
+    "options": ["tie", "blouse", "boots", "umbrella"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'tie' هي ربطة العنق التي يرتديها الرجال مع البدلة.",
+      "B": "Blouse هي بلوزة نسائية.",
+      "C": "Boots هي أحذية.",
+      "D": "Umbrella هي مظلة."
+    }
+  },
+  {
+    "text": "It looks like it might rain. We'd better take an ______.",
+    "options": ["umbrella", "ring", "earrings", "backpack"],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'umbrella' هي المظلة التي تقي من المطر.",
+      "B": "Ring هو خاتم.",
+      "C": "Earrings هي أقراط للأذن.",
+      "D": "Backpack هي حقيبة ظهر."
+    }
+  }
+]
