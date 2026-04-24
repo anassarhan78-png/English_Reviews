@@ -1,162 +1,162 @@
 [
   {
-    "text": "Match: 'This coat was half-price - a real bargain.' means:",
+    "text": "Which bags are very old? The leather…………….",
     "options": [
-      "a pleasant natural smell",
-      "moving staircase",
-      "a jacket that protects from wind",
-      "something on sale at a lower price"
+      "one",
+      "others",
+      "other",
+      "ones"
     ],
     "correct": "D",
     "explanation": {
-      "A": "صحيح! 'bargain' تعني صفقة رابحة أو شيء بسعر مخفض.",
-      "B": "windbreaker.",
-      "C": "escalator.",
-      "D": "perfume."
+      "A": "صحيح! 'ones' للجمع (bags).",
+      "B": "One للمفرد.",
+      "C": "Other تعني آخر (مفرد).",
+      "D": "Others ضمير جمع بدون اسم."
     }
   },
   {
-    "text": "Match: 'The escalator is still out of service.' means:",
+    "text": "This book is __________. It belongs to me.",
     "options": [
-      "a flat folded case for money",
-      "moving staircase",
-      "a piece of jewelry",
-      "a pleasant feeling"
-    ],
-    "correct": "B",
-    "explanation": {
-      "A": "صحيح! 'escalator' درج متحرك.",
-      "B": "wallet.",
-      "C": "bracelet.",
-      "D": "comfort."
-    }
-  },
-  {
-    "text": "Match: 'Tom is wearing a windbreaker.' means:",
-    "options": [
-      "a jacket that protects from the wind",
-      "moving staircase",
-      "a piece of jewelry for wrist",
-      "something at a lower price"
+      "mine",
+      "my",
+      "me",
+      "I"
     ],
     "correct": "A",
     "explanation": {
-      "A": "صحيح! 'windbreaker' جاكيت واق من الرياح.",
-      "B": "bracelet.",
-      "C": "escalator.",
-      "D": "bargain."
+      "A": "صحيح! ضمير الملكية.",
+      "B": "صفة ملكية.",
+      "C": "ضمير مفعول.",
+      "D": "فاعل."
     }
   },
   {
-    "text": "Match: 'The perfume of the roses filled the room.' means:",
+    "text": "This box is __________ heavy to carry alone.",
     "options": [
-      "a pleasant natural smell",
-      "a flat case for money",
-      "something on sale",
-      "a piece of jewelry"
+      "too",
+      "very",
+      "so",
+      "enough"
     ],
     "correct": "A",
     "explanation": {
-      "A": "صحيح! 'perfume' عطر أو رائحة زكية.",
-      "B": "wallet.",
-      "C": "bracelet.",
-      "D": "bargain."
+      "A": "صحيح! 'too' تعني أكثر من اللازم.",
+      "B": "جداً.",
+      "C": "يحتاج 'that'.",
+      "D": "كافٍ."
     }
   },
   {
-    "text": "Match: 'I lost my wallet.' means:",
+    "text": "He isn't tall __________ to reach the shelf.",
     "options": [
-      "a flat folded case for money and cards",
-      "jacket",
-      "pleasant smell",
-      "moving staircase"
+      "enough",
+      "too",
+      "very",
+      "so"
     ],
     "correct": "A",
     "explanation": {
-      "A": "صحيح! 'wallet' محفظة.",
-      "B": "escalator.",
-      "C": "windbreaker.",
-      "D": "perfume."
+      "A": "صحيح! 'enough' بعد الصفة.",
+      "B": "قبل الصفة.",
+      "C": "مكان خطأ.",
+      "D": "يحتاج 'that'."
     }
   },
   {
-    "text": "Match: 'This watch is expensive.' The antonym of expensive is:",
+    "text": "__________ I borrow your pen for a moment?",
     "options": [
-      "pleasant",
-      "cheap",
-      "comfortable",
-      "bargain"
-    ],
-    "correct": "B",
-    "explanation": {
-      "A": "صحيح! عكس 'expensive' هو 'cheap'.",
-      "B": "bargain صفقة.",
-      "C": "comfortable مريح.",
-      "D": "pleasant لطيف."
-    }
-  },
-  {
-    "text": "People who drive cars should wear seat …………………….",
-    "options": [
-      "boots",
-      "dress",
-      "necklace",
-      "belts"
-    ],
-    "correct": "D",
-    "explanation": {
-      "A": "صحيح! 'seat belts' أحزمة الأمان.",
-      "B": "أحذية.",
-      "C": "قلادة.",
-      "D": "فستان."
-    }
-  },
-  {
-    "text": "She gave me a bag made of ………………….",
-    "options": [
-      "leather",
-      "eye shadow",
-      "sheet",
-      "perfume"
+      "Can",
+      "Should",
+      "Must",
+      "Have"
     ],
     "correct": "A",
     "explanation": {
-      "A": "صحيح! 'leather' جلد.",
-      "B": "عطر.",
-      "C": "ظل العين.",
-      "D": "ملاءة."
+      "A": "صحيح! 'Can' للإذن.",
+      "B": "نصيحة.",
+      "C": "إلزام.",
+      "D": "خطأ."
     }
   },
   {
-    "text": "He looked quite handsome in his suit and ……………..",
+    "text": "This is __________ interesting film. You should watch it.",
     "options": [
-      "blouse",
-      "umbrella",
-      "boots",
-      "tie"
+      "such an",
+      "such a",
+      "so",
+      "so much"
     ],
-    "correct": "D",
+    "correct": "A",
     "explanation": {
-      "A": "صحيح! 'tie' ربطة عنق.",
-      "B": "بلوزة (نساء).",
-      "C": "أحذية طويلة.",
-      "D": "مظلة."
+      "A": "صحيح! 'such an' قبل متحرك صوتي.",
+      "B": "قبل ساكن.",
+      "C": "مع صفة فقط.",
+      "D": "مع غير معدود."
     }
   },
   {
-    "text": "It might rain. We'd better take an …………………...",
+    "text": "I have __________ much work that I can't go out.",
     "options": [
-      "earrings",
-      "umbrella",
-      "ring",
-      "backpack"
+      "so",
+      "such",
+      "such a",
+      "too"
     ],
-    "correct": "B",
+    "correct": "A",
     "explanation": {
-      "A": "صحيح! 'umbrella' مظلة.",
-      "B": "خاتم.",
-      "C": "أقراط.",
-      "D": "حقيبة ظهر."
+      "A": "صحيح! 'so much' + غير معدود + that.",
+      "B": "خطأ.",
+      "C": "خطأ.",
+      "D": "ينقص 'that'."
+    }
+  },
+  {
+    "text": "Which bags are yours? The blue __________.",
+    "options": [
+      "ones",
+      "one",
+      "other",
+      "another"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'ones' للجمع.",
+      "B": "للمفرد.",
+      "C": "آخر.",
+      "D": "آخر إضافي."
+    }
+  },
+  {
+    "text": "That car is __________. My father bought it last year.",
+    "options": [
+      "ours",
+      "our",
+      "we",
+      "us"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! ضمير ملكية.",
+      "B": "صفة ملكية.",
+      "C": "فاعل.",
+      "D": "مفعول."
+    }
+  },
+  {
+    "text": "There were __________ many people that we couldn't find a seat.",
+    "options": [
+      "so",
+      "such",
+      "too",
+      "enough"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'so many' + جمع + that.",
+      "B": "يحتاج 'a/an'.",
+      "C": "خطأ.",
+      "D": "خطأ."
     }
   }
 ]

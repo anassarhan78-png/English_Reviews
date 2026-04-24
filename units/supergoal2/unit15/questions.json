@@ -32,22 +32,6 @@
     }
   },
   {
-    "text": "I was practising the guitar when he ……………… home.",
-    "options": [
-      "come",
-      "came",
-      "coming",
-      "comes"
-    ],
-    "correct": "B",
-    "explanation": {
-      "A": "صحيح! ماضي بسيط مع when.",
-      "B": "come مضارع خطأ.",
-      "C": "comes خطأ.",
-      "D": "coming خطأ."
-    }
-  },
-  {
     "text": "He ………………… a shower when the phone rang.",
     "options": [
       "were taking",
@@ -109,22 +93,6 @@
       "B": "is مضارع خطأ.",
       "C": "to read خطأ.",
       "D": "were للجمع."
-    }
-  },
-  {
-    "text": "You ……………… playing football.",
-    "options": [
-      "is",
-      "were",
-      "are",
-      "was"
-    ],
-    "correct": "B",
-    "explanation": {
-      "A": "صحيح! You تأخذ were في الماضي المستمر.",
-      "B": "are مضارع.",
-      "C": "is للمفرد.",
-      "D": "was خطأ مع you."
     }
   },
   {

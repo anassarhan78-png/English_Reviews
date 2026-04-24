@@ -1,370 +1,466 @@
 [
   {
-    "text": "Asma has made all the __________ for the school play. They look cool!",
+    "text": "Reorder the words to make a correct question: (had / long have / earrings / you / How / those / ?)",
     "options": [
-      "bracelets",
-      "earrings",
-      "costumes",
-      "uniforms"
-    ],
-    "correct": "C",
-    "explanation": {
-      "A": "صحيح! 'costumes' تعني أزياء المسرحية أو الملابس التنكرية التي يرتديها الممثلون.",
-      "B": "Bracelets تعني أساور تُلبس في المعصم.",
-      "C": "Earrings تعني أقراط الأذن.",
-      "D": "Uniforms تعني الزي الرسمي الموحد مثل زي المدرسة."
-    }
-  },
-  {
-    "text": "Don't forget your __________. It's going to rain later today.",
-    "options": [
-      "umbrella",
-      "costume",
-      "bracelet",
-      "uniform"
+      "How long have you had those earrings?",
+      "How long you have had those earrings?",
+      "How long have had you those earrings?",
+      "How long you had those earrings have?"
     ],
     "correct": "A",
     "explanation": {
-      "A": "صحيح! 'umbrella' هي المظلة التي تقي من المطر.",
-      "B": "Uniform تعني زياً موحداً.",
-      "C": "Costume تعني زياً تنكرياً.",
-      "D": "Bracelet تعني سواراً."
+      "A": "صحيح! السؤال عن المدة الزمنية في المضارع التام: How long + have/has + فاعل + تصريف ثالث.",
+      "B": "خطأ: الفاعل 'you' يجب أن يأتي بعد 'have' مباشرة في السؤال.",
+      "C": "خطأ: 'had' هو التصريف الثالث ويجب أن يبقى بعد الفاعل.",
+      "D": "ترتيب غير صحيح نحوياً."
     }
   },
   {
-    "text": "Dad bought my new __________ for the next school year.",
+    "text": "Reorder the words to make a correct question: (plastic / Have / used / to make / costumes / you / ?)",
     "options": [
-      "bracelet",
-      "uniform",
-      "umbrella",
-      "costume"
+      "You have used plastic to make costumes?",
+      "Have you used plastic to make costumes?",
+      "Have you plastic used to make costumes?",
+      "Have used you plastic to make costumes?"
     ],
     "correct": "B",
     "explanation": {
-      "A": "صحيح! 'uniform' هو الزي المدرسي الرسمي.",
-      "B": "Umbrella مظلة.",
-      "C": "Costume زي تنكري.",
-      "D": "Bracelet سوار."
+      "A": "صحيح! السؤال: Have + فاعل + تصريف ثالث + مفعول + باقي الجملة.",
+      "B": "خطأ: المفعول 'plastic' يجب أن يأتي بعد الفعل 'used'.",
+      "C": "جملة خبرية وليست سؤالاً.",
+      "D": "خطأ في ترتيب الفاعل والفعل المساعد."
     }
   },
   {
-    "text": "How long have you had those __________, Grandma? They look old and valuable.",
+    "text": "Reorder the words to make a correct question: (has / silver / How long / bracelet / Lailah / that / worn / ?)",
     "options": [
-      "earrings",
-      "uniforms",
-      "costumes",
-      "bracelets"
+      "How long has Lailah worn that silver bracelet?",
+      "How long has worn Lailah that silver bracelet?",
+      "How long Lailah has worn that silver bracelet?",
+      "How long has that silver bracelet Lailah worn?"
     ],
     "correct": "A",
     "explanation": {
-      "A": "صحيح! 'earrings' هي أقراط الأذن التي ترتديها النساء عادة.",
-      "B": "Bracelets أساور.",
-      "C": "Costumes أزياء.",
-      "D": "Uniforms أزياء رسمية."
+      "A": "صحيح! السؤال عن المدة مع فاعل مفرد: How long + has + فاعل + تصريف ثالث + مفعول.",
+      "B": "خطأ: 'has' يجب أن تسبق الفاعل في السؤال.",
+      "C": "خطأ: الفعل 'worn' يجب أن يبقى بعد الفاعل 'Lailah'.",
+      "D": "ترتيب غير صحيح."
     }
   },
   {
-    "text": "We gave our mom a beautiful silver __________ for her birthday.",
+    "text": "Reorder the words to make a correct question: (hair / his / Has / brushed / new brush / Arshad / with the / ?)",
     "options": [
-      "earrings",
-      "ring",
-      "bracelet",
-      "necklace"
+      "Has Arshad his hair brushed with the new brush?",
+      "Arshad has brushed his hair with the new brush?",
+      "Has Arshad brushed his hair with the new brush?",
+      "Has brushed Arshad his hair with the new brush?"
     ],
     "correct": "C",
     "explanation": {
-      "A": "صحيح! 'bracelet' هو سوار يُلبس حول المعصم.",
-      "B": "Earrings أقراط.",
-      "C": "Necklace قلادة.",
-      "D": "Ring خاتم."
+      "A": "صحيح! السؤال: Has + فاعل + تصريف ثالث + مفعول + أداة.",
+      "B": "خطأ: 'brushed' يجب أن يأتي قبل المفعول 'his hair'.",
+      "C": "خطأ: الفاعل يجب أن يأتي قبل الفعل الرئيسي 'brushed'.",
+      "D": "جملة مثبتة وليست سؤالاً."
     }
   },
   {
-    "text": "My mom gave me a special comb made of __________. It smells nice.",
+    "text": "Write the sentence using 'be made of': (This / ring / gold)",
     "options": [
-      "wood",
+      "This ring made of gold.",
+      "This ring is made of gold.",
+      "This ring is made from gold.",
+      "This ring is make of gold."
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! نستخدم 'is made of' عندما تبقى المادة الخام واضحة في المنتج النهائي.",
+      "B": "'Made from' تستخدم عندما تتغير المادة كيميائياً أثناء التصنيع (مثل الورق من الخشب).",
+      "C": "ينقصها فعل 'is'.",
+      "D": "خطأ: يجب استخدام التصريف الثالث 'made'."
+    }
+  },
+  {
+    "text": "Write the sentence using 'be made of': (My / earrings / plastic)",
+    "options": [
+      "My earrings are make of plastic.",
+      "My earrings are made of plastic.",
+      "My earrings is made of plastic.",
+      "My earrings made of plastic."
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! الفاعل جمع 'earrings' يأخذ الفعل المساعد 'are'.",
+      "B": "خطأ: 'is' تستخدم مع المفرد فقط.",
+      "C": "ينقصها فعل مساعد 'are'.",
+      "D": "خطأ: 'make' يجب أن تكون 'made'."
+    }
+  },
+  {
+    "text": "Write the sentence in negative form: (The / costumes / not / silk)",
+    "options": [
+      "The costumes aren't make of silk.",
+      "The costumes not made of silk.",
+      "The costumes isn't made of silk.",
+      "The costumes aren't made of silk."
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! النفي في المضارع البسيط مع جمع: are not = aren't + made of.",
+      "B": "خطأ: 'isn't' تستخدم مع المفرد.",
+      "C": "خطأ: 'make' يجب أن تكون 'made'.",
+      "D": "ينقصها فعل مساعد 'are'."
+    }
+  },
+  {
+    "text": "Write the sentence in negative form: (Badria's / umbrella / not / wool)",
+    "options": [
+      "Badria's umbrella aren't made of wool.",
+      "Badria's umbrella isn't made of wool.",
+      "Badria's umbrella not made of wool.",
+      "Badria's umbrella doesn't made of wool."
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! الفاعل 'umbrella' مفرد يأخذ 'isn't'.",
+      "B": "خطأ: 'aren't' تستخدم مع الجمع.",
+      "C": "ينقصها فعل مساعد 'is'.",
+      "D": "خطأ: 'doesn't' لا تستخدم مع الصيغة المبنية للمجهول هنا."
+    }
+  },
+  {
+    "text": "Write the sentence using 'be made of': (This / tie / wood) - yes, it's a special wooden tie!",
+    "options": [
+      "This tie is made of wood.",
+      "This tie made of wood.",
+      "This tie is made from wood.",
+      "This tie are made of wood."
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! رغم أنها غير مألوفة، لكن الجملة صحيحة نحوياً.",
+      "B": "'Made from' ممكنة أيضاً، لكن 'made of' شائعة أكثر في هذا السياق.",
+      "C": "ينقصها فعل 'is'.",
+      "D": "خطأ: 'are' للجمع."
+    }
+  },
+  {
+    "text": "Complete the text with the correct word (1): 'Have you been to the new arts and crafts market? Oh, you (1) __________? There are many designers there.'",
+    "options": [
+      "haven't",
+      "have",
+      "weren't",
+      "didn't"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'haven't' هنا اختصار لـ 'have not' وتستخدم كسؤال تأكيدي: 'Oh, you haven't?' (أوه، لم تذهب؟).",
+      "B": "Have وحدها لا تكفي، تحتاج إلى 'not' للنفي.",
+      "C": "Didn't تستخدم مع الماضي البسيط، وليس المضارع التام.",
+      "D": "Weren't تستخدم مع الماضي المستمر."
+    }
+  },
+  {
+    "text": "Complete the text (2): 'Designers make (2) __________ things from many different materials.'",
+    "options": [
+      "beautiful",
+      "beautify",
+      "beauty",
+      "beautifully"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'beautiful' صفة تصف الاسم 'things'.",
+      "B": "Beauty اسم (جمال).",
+      "C": "Beautifully ظرف حال يصف الفعل.",
+      "D": "Beautify فعل (يجمل)."
+    }
+  },
+  {
+    "text": "Complete the text (3): 'They use many different (3) __________ like wood, metal, and silk.'",
+    "options": [
+      "stuff",
+      "materials",
+      "things",
+      "items"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! 'materials' هي الخامات أو المواد الأولية المستخدمة في الصنع.",
+      "B": "Things أشياء (عامة).",
+      "C": "Stuff أشياء (غير رسمية).",
+      "D": "Items أصناف أو عناصر."
+    }
+  },
+  {
+    "text": "Complete the text (4): 'There are lots of jewelry (4) __________ too!'",
+    "options": [
+      "jewelries",
+      "accessories",
+      "ornaments",
+      "decorations"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! 'accessories' تعني الإكسسوارات أو الملحقات (تشمل المجوهرات).",
+      "B": "Jewelries جمع 'jewelry' لكنها غير شائعة، والصحيح 'jewelry' للمفرد والجمع.",
+      "C": "Decorations زينة.",
+      "D": "Ornaments حلي للزينة."
+    }
+  },
+  {
+    "text": "Complete the text (5): 'I saw earrings (5) __________ silk and wool. They were very unique!'",
+    "options": [
+      "made from",
+      "made by",
+      "made in",
+      "made of"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! 'made of' لوصف المادة الخام التي لا تتغير كثيراً.",
+      "B": "Made from تستخدم إذا تغيرت المادة.",
+      "C": "Made in بلد الصنع.",
+      "D": "Made by الصانع."
+    }
+  },
+  {
+    "text": "Complete the text (6): 'One designer makes bracelets from (6) __________ plastic, which is good for the environment.'",
+    "options": [
+      "old",
+      "plastic",
+      "new",
+      "recycled"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! 'recycled' يعني معاد تدويره، مما يساعد البيئة.",
+      "B": "Plastic بلاستيك فقط، لا توحي بإعادة التدوير.",
+      "C": "Old قديم لكن ليس بالضرورة معاد تدويره.",
+      "D": "New جديد، عكس المقصود."
+    }
+  },
+  {
+    "text": "Complete the text (7): \"I asked the designer: '(7) __________ have you been a designer?'\"",
+    "options": [
+      "Why",
+      "How much",
+      "When",
+      "How long"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! 'How long' للسؤال عن المدة الزمنية.",
+      "B": "When للسؤال عن وقت محدد في الماضي.",
+      "C": "How much للكمية أو السعر.",
+      "D": "Why للسبب."
+    }
+  },
+  {
+    "text": "Complete the text (8): 'I wanted to buy a (8) __________ belt with lines, but I didn't have enough money.'",
+    "options": [
+      "checked",
+      "spotted",
+      "plain",
+      "striped"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! 'striped' تعني مقلم بخطوط.",
+      "B": "Spotted منقط.",
+      "C": "Plain سادة.",
+      "D": "Checked مربعات."
+    }
+  },
+  {
+    "text": "Complete the text (9): 'I will try to (9) __________ my own belt and ring at home.'",
+    "options": [
+      "make",
+      "design",
+      "do",
+      "create"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'make' هو الفعل العام للصنع.",
+      "B": "Do تعني يفعل (نشاط عام).",
+      "C": "Create تعني يبدع أو يخلق.",
+      "D": "Design تعني يصمم (التخطيط فقط)."
+    }
+  },
+  {
+    "text": "Complete the text (10): 'Have you ever tried to make your own (10) __________?'",
+    "options": [
+      "jewelry",
+      "things",
+      "accessories",
+      "designs"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! 'designs' تعني تصاميم (أشياء من تصميمك الخاص).",
+      "B": "Accessories إكسسوارات (صحيح أيضاً لكن السياق يتحدث عن التصميم).",
+      "C": "Jewelry مجوهرات.",
+      "D": "Things أشياء (عامة جداً)."
+    }
+  },
+  {
+    "text": "This necklace __________ gold. It's very expensive.",
+    "options": [
+      "is made of",
+      "is made from",
+      "made of",
+      "makes of"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'is made of' المادة ظاهرة.",
+      "B": "تستخدم لتغير المادة.",
+      "C": "ينقص 'is'.",
+      "D": "خطأ."
+    }
+  },
+  {
+    "text": "Her dress is __________ silk and feels very smooth.",
+    "options": [
+      "made of",
+      "made from",
+      "make of",
+      "making of"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'made of' للحرير.",
+      "B": "خطأ هنا.",
+      "C": "خطأ.",
+      "D": "خطأ."
+    }
+  },
+  {
+    "text": "My favourite shirt has a __________ pattern with vertical lines.",
+    "options": [
+      "striped",
+      "spotted",
+      "checked",
+      "plain"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'striped' مقلم.",
+      "B": "منقط.",
+      "C": "مربعات.",
+      "D": "سادة."
+    }
+  },
+  {
+    "text": "This scarf is __________. It keeps me very warm.",
+    "options": [
+      "wool",
       "silk",
       "gold",
-      "cotton"
+      "plastic"
     ],
     "correct": "A",
     "explanation": {
-      "A": "صحيح! الأمشاط التقليدية غالباً ما تصنع من الخشب.",
-      "B": "Silk حرير، لا يصلح للمشط.",
-      "C": "Cotton قطن، غير مناسب.",
-      "D": "Gold ذهب، ممكن لكن الخشب هو الأكثر شيوعاً للأمشاط العطرية."
+      "A": "صحيح! الصوف دافئ.",
+      "B": "حرير ناعم.",
+      "C": "ذهب.",
+      "D": "بلاستيك."
     }
   },
   {
-    "text": "Is your ring made of real __________? It looks very shiny.",
+    "text": "How long __________ you __________ that bracelet?",
     "options": [
-      "plastic",
-      "cotton",
-      "wood",
-      "gold"
-    ],
-    "correct": "D",
-    "explanation": {
-      "A": "صحيح! الخواتم الثمينة غالباً ما تكون من الذهب.",
-      "B": "Wood خشب، ممكن لكنه ليس 'real' بمعنى ثمين.",
-      "C": "Cotton قطن، غير مناسب.",
-      "D": "Plastic بلاستيك، ليس ثميناً."
-    }
-  },
-  {
-    "text": "You can't use __________ to make a comfortable tie.",
-    "options": [
-      "wool",
-      "silk",
-      "metal",
-      "cotton"
-    ],
-    "correct": "C",
-    "explanation": {
-      "A": "صحيح! المعدن لا يصلح لصنع ربطة عنق مريحة.",
-      "B": "Silk حرير، مادة فاخرة للربطات.",
-      "C": "Cotton قطن، مادة مريحة للربطات.",
-      "D": "Wool صوف، يستخدم أحياناً للربطات الشتوية."
-    }
-  },
-  {
-    "text": "Have you seen Farah's new __________ purse? It has dots all over it.",
-    "options": [
-      "checked",
-      "striped",
-      "spotted",
-      "plain"
-    ],
-    "correct": "C",
-    "explanation": {
-      "A": "صحيح! 'spotted' تعني منقط أو مغطى بنقاط.",
-      "B": "Striped تعني مقلم (خطوط).",
-      "C": "Plain تعني سادة بدون نقوش.",
-      "D": "Checked تعني مربعات (مثل رقعة الشطرنج)."
-    }
-  },
-  {
-    "text": "Ashraf made a warm __________ sweater for his grandfather.",
-    "options": [
-      "wool",
-      "wood",
-      "plastic",
-      "metal"
+      "have / had",
+      "did / have",
+      "are / having",
+      "were / had"
     ],
     "correct": "A",
     "explanation": {
-      "A": "صحيح! 'wool' هو الصوف، المادة المثالية للسترات الدافئة.",
-      "B": "Plastic بلاستيك، غير مناسب للملابس.",
-      "C": "Metal معدن، غير مناسب.",
-      "D": "Wood خشب، غير مناسب."
+      "A": "صحيح! مضارع تام للسؤال عن المدة.",
+      "B": "ماضي بسيط.",
+      "C": "مضارع مستمر.",
+      "D": "ماضي مستمر خطأ."
     }
   },
   {
-    "text": "Match: 'This coat was half-price - a real bargain.' Bargain means:",
+    "text": "__________ Arshad brushed his hair with the new brush?",
     "options": [
-      "a jacket that protects from wind",
-      "moving staircase",
-      "a pleasant natural smell",
-      "something on sale at a lower price"
-    ],
-    "correct": "D",
-    "explanation": {
-      "A": "صحيح! 'bargain' تعني صفقة جيدة أو شيء تم شراؤه بسعر مخفض.",
-      "B": "هذا معنى 'windbreaker'.",
-      "C": "هذا معنى 'escalator'.",
-      "D": "هذا معنى 'perfume'."
-    }
-  },
-  {
-    "text": "Match: 'The escalator is still out of service.' Escalator means:",
-    "options": [
-      "a piece of jewelry",
-      "moving staircase",
-      "a flat folded case for money",
-      "a pleasant feeling"
-    ],
-    "correct": "B",
-    "explanation": {
-      "A": "صحيح! 'escalator' هو الدرج الكهربائي المتحرك.",
-      "B": "هذا معنى 'wallet'.",
-      "C": "هذا معنى 'bracelet' أو 'necklace'.",
-      "D": "هذا معنى 'comfort'."
-    }
-  },
-  {
-    "text": "Match: 'Tom is wearing a windbreaker.' Windbreaker means:",
-    "options": [
-      "a jacket that protects from the wind",
-      "something at a lower price",
-      "moving staircase",
-      "a piece of jewelry for the wrist"
+      "Has",
+      "Have",
+      "Is",
+      "Was"
     ],
     "correct": "A",
     "explanation": {
-      "A": "صحيح! 'windbreaker' هو جاكيت خفيف واقٍ من الرياح.",
-      "B": "هذا معنى 'bracelet'.",
-      "C": "هذا معنى 'escalator'.",
-      "D": "هذا معنى 'bargain'."
+      "A": "صحيح! 'Has' مع المفرد.",
+      "B": "خطأ.",
+      "C": "خطأ.",
+      "D": "خطأ."
     }
   },
   {
-    "text": "Match: 'The perfume of the roses filled the room.' Perfume means:",
+    "text": "She made all the __________ for the school play herself.",
     "options": [
-      "a flat case for money",
-      "a piece of jewelry",
-      "something on sale",
-      "a pleasant natural smell"
-    ],
-    "correct": "D",
-    "explanation": {
-      "A": "صحيح! 'perfume' هو العطر أو الرائحة الزكية.",
-      "B": "هذا معنى 'wallet'.",
-      "C": "هذا معنى 'jewelry'.",
-      "D": "هذا معنى 'bargain'."
-    }
-  },
-  {
-    "text": "Match: 'I lost my wallet on the subway.' Wallet means:",
-    "options": [
-      "a flat folded case for money and cards",
-      "a pleasant smell",
-      "moving staircase",
-      "a jacket"
-    ],
-    "correct": "A",
-    "explanation": {
-      "A": "صحيح! 'wallet' هي المحفظة الجلدية لحفظ النقود والبطاقات.",
-      "B": "هذا معنى 'escalator'.",
-      "C": "هذا معنى 'windbreaker'.",
-      "D": "هذا معنى 'perfume'."
-    }
-  },
-  {
-    "text": "Match: 'This watch is very expensive.' The opposite of 'expensive' is:",
-    "options": [
-      "comfortable",
-      "bargain",
-      "pleasant",
-      "cheap"
-    ],
-    "correct": "D",
-    "explanation": {
-      "A": "صحيح! عكس 'expensive' (غالي) هو 'cheap' (رخيص).",
-      "B": "Bargain صفقة (اسم).",
-      "C": "Comfortable مريح.",
-      "D": "Pleasant لطيف."
-    }
-  },
-  {
-    "text": "People who drive cars should always wear seat __________ for safety.",
-    "options": [
-      "dress",
-      "belts",
-      "boots",
-      "necklace"
-    ],
-    "correct": "B",
-    "explanation": {
-      "A": "صحيح! 'seat belts' هي أحزمة الأمان.",
-      "B": "Boots أحذية.",
-      "C": "Necklace قلادة.",
-      "D": "Dress فستان."
-    }
-  },
-  {
-    "text": "She gave me a beautiful handbag made of genuine __________.",
-    "options": [
-      "perfume",
-      "sheet",
-      "eye shadow",
-      "leather"
-    ],
-    "correct": "D",
-    "explanation": {
-      "A": "صحيح! 'leather' هو الجلد الطبيعي المستخدم في صنع الحقائب الفاخرة.",
-      "B": "Perfume عطر.",
-      "C": "Eye shadow ظل عيون.",
-      "D": "Sheet ملاءة سرير."
-    }
-  },
-  {
-    "text": "He looked very elegant in his new suit and silk __________.",
-    "options": [
-      "blouse",
-      "umbrella",
-      "tie",
-      "boots"
-    ],
-    "correct": "C",
-    "explanation": {
-      "A": "صحيح! 'tie' هي ربطة العنق.",
-      "B": "Blouse بلوزة نسائية.",
-      "C": "Boots حذاء طويل.",
-      "D": "Umbrella مظلة."
-    }
-  },
-  {
-    "text": "The sky looks cloudy. You should take an __________ with you.",
-    "options": [
-      "ring",
-      "umbrella",
-      "backpack",
+      "costumes",
+      "uniforms",
+      "bracelets",
       "earrings"
     ],
-    "correct": "B",
+    "correct": "A",
     "explanation": {
-      "A": "صحيح! 'umbrella' هي المظلة.",
-      "B": "Ring خاتم.",
-      "C": "Earrings أقراط.",
-      "D": "Backpack حقيبة ظهر."
+      "A": "صحيح! 'costumes' أزياء المسرحية.",
+      "B": "زي مدرسي.",
+      "C": "أساور.",
+      "D": "أقراط."
     }
   },
   {
-    "text": "What do we call a piece of jewelry worn around the wrist?",
+    "text": "This bag is made of __________ leather. It's very strong.",
     "options": [
-      "bracelet",
-      "ring",
-      "necklace",
-      "earring"
+      "genuine",
+      "fake",
+      "plastic",
+      "silk"
     ],
     "correct": "A",
     "explanation": {
-      "A": "صحيح! 'bracelet' هو السوار.",
-      "B": "Necklace قلادة.",
-      "C": "Earring حلق الأذن.",
-      "D": "Ring خاتم."
+      "A": "صحيح! جلد طبيعي.",
+      "B": "مزيف.",
+      "C": "بلاستيك.",
+      "D": "حرير."
     }
   },
   {
-    "text": "What is the material that comes from sheep and is used to make warm clothes?",
-    "options": [
-      "cotton",
-      "silk",
-      "leather",
-      "wool"
-    ],
-    "correct": "D",
-    "explanation": {
-      "A": "صحيح! 'wool' هو الصوف المستخرج من الأغنام.",
-      "B": "Cotton قطن من نبات القطن.",
-      "C": "Silk حرير من دودة القز.",
-      "D": "Leather جلد من الحيوانات."
-    }
-  },
-  {
-    "text": "What do we call a pattern with lines of different colors?",
+    "text": "He wore a __________ suit to the party. Everyone noticed him.",
     "options": [
       "checked",
-      "striped",
+      "plain",
       "spotted",
-      "plain"
+      "expensive"
     ],
-    "correct": "B",
+    "correct": "A",
     "explanation": {
-      "A": "صحيح! 'striped' تعني مقلم بخطوط طولية أو عرضية.",
-      "B": "Spotted منقط.",
-      "C": "Checked مربعات.",
-      "D": "Plain سادة."
+      "A": "صحيح! 'checked' مربعات.",
+      "B": "سادة.",
+      "C": "منقط.",
+      "D": "غالي (صفة عامة)."
+    }
+  },
+  {
+    "text": "They have __________ many accessories from recycled plastic.",
+    "options": [
+      "made",
+      "make",
+      "makes",
+      "making"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'have made' مضارع تام.",
+      "B": "مضارع.",
+      "C": "مضارع مع s.",
+      "D": "استمرارية."
     }
   }
 ]

@@ -1,82 +1,194 @@
 [
   {
-    "text": "Match: 'My brother Mustafa loves 3D ______. He enjoys movies made by computers.'",
+    "text": "Amina __________ (eat) a sandwich in class yesterday.",
     "options": [
-      "mystery",
-      "animation",
-      "play",
-      "musical"
+      "was eating",
+      "is eating",
+      "eats",
+      "ate"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! الماضي المستمر 'was eating' يعبر عن حدث مستمر في الماضي.",
+      "B": "Is eating مضارع مستمر وليس ماضي.",
+      "C": "Ate ماضي بسيط وليس مستمر.",
+      "D": "Eats مضارع بسيط."
+    }
+  },
+  {
+    "text": "We __________ (laugh) because the horror movie was funny.",
+    "options": [
+      "laughed",
+      "were laughing",
+      "laugh",
+      "was laughing"
     ],
     "correct": "B",
     "explanation": {
-      "A": "صحيح! 'animation' تعني الرسوم المتحركة.",
-      "B": "Musical تعني فيلم موسيقي.",
-      "C": "Mystery تعني فيلم غموض.",
-      "D": "Play تعني مسرحية."
+      "A": "صحيح! مع 'We' نستخدم 'were' + فعل + ing.",
+      "B": "Was تستخدم مع المفرد.",
+      "C": "Laughed ماضي بسيط وليس مستمر.",
+      "D": "Laugh مضارع."
     }
   },
   {
-    "text": "Match: 'The movie was a ______. We didn't know what was happening until the end.'",
+    "text": "__________ Adel and Ibrahim __________ (make) a documentary last week?",
     "options": [
-      "mystery",
-      "animation",
-      "musical",
-      "play"
-    ],
-    "correct": "A",
-    "explanation": {
-      "A": "صحيح! Mystery تعني فيلم غموض.",
-      "B": "Animation لا تعبر عن الغموض.",
-      "C": "Musical لا تعبر عن الغموض.",
-      "D": "Play تعني مسرحية."
-    }
-  },
-  {
-    "text": "Match: 'Space and planets are Omar's favorite topic. That's why he chose a ______ movie.'",
-    "options": [
-      "sci-fi",
-      "musical",
-      "mystery",
-      "animation"
-    ],
-    "correct": "A",
-    "explanation": {
-      "A": "صحيح! Sci-fi تعني خيال علمي.",
-      "B": "Animation لا ترتبط بالفضاء بالضرورة.",
-      "C": "Musical لا ترتبط بالفضاء.",
-      "D": "Mystery لا ترتبط بالفضاء."
-    }
-  },
-  {
-    "text": "Match: 'Aisha didn't like the ______ we were watching. She said the singing was bad.'",
-    "options": [
-      "mystery",
-      "musical",
-      "play",
-      "animation"
+      "Did ... make",
+      "Were ... making",
+      "Was ... making",
+      "Are ... making"
     ],
     "correct": "B",
     "explanation": {
-      "A": "صحيح! Musical تحتوي على غناء.",
-      "B": "Play قد تحتوي على غناء لكن الكلمة المخصصة للأفلام الموسيقية هي musical.",
-      "C": "Animation لا تعني بالضرورة فيلم غنائي.",
-      "D": "Mystery لا تعني فيلم غنائي."
+      "A": "صحيح! السؤال في الماضي المستمر مع فاعل جمع: Were + فاعل + فعل + ing.",
+      "B": "Was للفاعل المفرد.",
+      "C": "Did make ماضي بسيط.",
+      "D": "Are making مضارع مستمر."
     }
   },
   {
-    "text": "Match: 'The best books have a ______ so you never know what will happen next.'",
+    "text": "I knew Farah __________ (not enjoy) the fairy tale. She looked sad.",
     "options": [
-      "plot",
-      "act",
-      "character",
-      "wish"
+      "isn't enjoying",
+      "doesn't enjoy",
+      "wasn't enjoying",
+      "didn't enjoy"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! النفي في الماضي المستمر: wasn't/weren't + فعل + ing.",
+      "B": "Didn't enjoy ماضي بسيط.",
+      "C": "Isn't enjoying مضارع مستمر.",
+      "D": "Doesn't enjoy مضارع بسيط."
+    }
+  },
+  {
+    "text": "__________ you __________ (watch) the play or did you fall asleep?",
+    "options": [
+      "Are ... watching",
+      "Did ... watch",
+      "Were ... watching",
+      "Was ... watching"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! سؤال ماضي مستمر مع 'you': Were you watching.",
+      "B": "Was تستخدم مع I/he/she/it.",
+      "C": "Did watch ماضي بسيط.",
+      "D": "Are watching مضارع مستمر."
+    }
+  },
+  {
+    "text": "I __________ a movie when my friend called me.",
+    "options": [
+      "was watching",
+      "watched",
+      "am watching",
+      "watch"
     ],
     "correct": "A",
     "explanation": {
-      "A": "صحيح! Plot تعني حبكة القصة.",
-      "B": "Character تعني شخصية.",
-      "C": "Act تعني فصل من المسرحية.",
-      "D": "Wish تعني أمنية."
+      "A": "صحيح! الماضي المستمر يعبر عن حدث مستمر قطعه حدث آخر.",
+      "B": "ماضي بسيط لا يعبر عن الاستمرارية.",
+      "C": "مضارع مستمر خطأ.",
+      "D": "مضارع بسيط خطأ."
+    }
+  },
+  {
+    "text": "While she __________, she saw a snake.",
+    "options": [
+      "was hiking",
+      "hiked",
+      "hikes",
+      "is hiking"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'While' يتبعها ماضي مستمر.",
+      "B": "ماضي بسيط لا يناسب الاستمرارية.",
+      "C": "مضارع خطأ.",
+      "D": "مضارع مستمر خطأ."
+    }
+  },
+  {
+    "text": "They __________ football when it started to rain.",
+    "options": [
+      "were playing",
+      "played",
+      "play",
+      "are playing"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'were playing' لأن الفاعل جمع.",
+      "B": "ماضي بسيط لا يعبر عن الاستمرار.",
+      "C": "مضارع خطأ.",
+      "D": "مضارع مستمر خطأ."
+    }
+  },
+  {
+    "text": "My father __________ dinner when the phone rang.",
+    "options": [
+      "was cooking",
+      "cooked",
+      "cooks",
+      "is cooking"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'was cooking' حدث مستمر في الماضي.",
+      "B": "ماضي بسيط لا يظهر الاستمرار.",
+      "C": "مضارع خطأ.",
+      "D": "مضارع مستمر خطأ."
+    }
+  },
+  {
+    "text": "What __________ you __________ at 8 o'clock last night?",
+    "options": [
+      "were / doing",
+      "did / do",
+      "are / doing",
+      "was / doing"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! السؤال في الماضي المستمر.",
+      "B": "ماضي بسيط لا يدل على وقت محدد.",
+      "C": "مضارع مستمر خطأ.",
+      "D": "'was' خطأ مع 'you'."
+    }
+  },
+  {
+    "text": "While I __________ to school, I saw an accident.",
+    "options": [
+      "was walking",
+      "walked",
+      "am walking",
+      "walk"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'While' يتبعه ماضي مستمر.",
+      "B": "ماضي بسيط لا يناسب.",
+      "C": "مضارع خطأ.",
+      "D": "مضارع خطأ."
+    }
+  },
+  {
+    "text": "__________ he sleeping when you called?",
+    "options": [
+      "Was",
+      "Were",
+      "Is",
+      "Are"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'Was' مع 'he'.",
+      "B": "خطأ.",
+      "C": "مضارع خطأ.",
+      "D": "مضارع خطأ."
     }
   }
 ]

@@ -48,22 +48,6 @@
     }
   },
   {
-    "text": "This flower is ……………………………… that one.",
-    "options": [
-      "beautiful than",
-      "more beautiful than",
-      "beautiful",
-      "most beautiful"
-    ],
-    "correct": "B",
-    "explanation": {
-      "A": "صحيح! more + صفة + than.",
-      "B": "most للتفضيل.",
-      "C": "خطأ: تحتاج 'more'.",
-      "D": "مطلقة."
-    }
-  },
-  {
     "text": "Our house is ……….. than yours.",
     "options": [
       "big",
@@ -125,22 +109,6 @@
       "B": "مطلقة.",
       "C": "مقارنة بين اثنين.",
       "D": "مقارنة مباشرة."
-    }
-  },
-  {
-    "text": "Jim is …………. player in the football team.",
-    "options": [
-      "better than",
-      "better",
-      "good",
-      "the best"
-    ],
-    "correct": "D",
-    "explanation": {
-      "A": "صحيح! تفضيل مطلق لـ 'good' هو 'the best'.",
-      "B": "مقارنة.",
-      "C": "مقارنة مباشرة.",
-      "D": "مطلقة."
     }
   },
   {
@@ -272,22 +240,6 @@
     }
   },
   {
-    "text": "Shames is ………………. nice dog that he never barks.",
-    "options": [
-      "such an",
-      "so many",
-      "such a",
-      "so much"
-    ],
-    "correct": "C",
-    "explanation": {
-      "A": "صحيح! 'such a' + صفة + اسم مفرد.",
-      "B": "such an خطأ (nice تبدأ بحرف ساكن صوتي).",
-      "C": "so much مع غير المعدود.",
-      "D": "so many مع الجمع."
-    }
-  },
-  {
     "text": "It's …………… hot day today.",
     "options": [
       "such an",
@@ -333,22 +285,6 @@
       "B": "such فقط خطأ.",
       "C": "such an خطأ.",
       "D": "so خطأ."
-    }
-  },
-  {
-    "text": "The child had …………….. toys that he could not decide which to play.",
-    "options": [
-      "such a",
-      "so",
-      "so much",
-      "so many"
-    ],
-    "correct": "D",
-    "explanation": {
-      "A": "صحيح! 'so many' + toys (جمع).",
-      "B": "such a مع مفرد.",
-      "C": "so much مع غير معدود.",
-      "D": "so مع صفة."
     }
   },
   {

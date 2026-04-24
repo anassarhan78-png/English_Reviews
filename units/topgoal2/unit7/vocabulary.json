@@ -1,434 +1,354 @@
 [
   {
-    "text": "A way to see many important places in a city is called a ______.",
+    "text": "Raqiah's family __________ (stay) in this hotel many times before.",
     "options": [
-      "subway",
-      "security",
-      "tour",
-      "traffic"
+      "stayed",
+      "has stayed",
+      "stay",
+      "have stayed"
     ],
-    "correct": "C",
+    "correct": "D",
     "explanation": {
-      "A": "صحيح! 'tour' تعني جولة لمشاهدة المعالم السياحية في المدينة.",
-      "B": "Subway تعني قطار الأنفاق، وهو وسيلة مواصلات وليس جولة.",
-      "C": "Traffic تعني الازدحام المروري، وهي مشكلة في الطرق.",
-      "D": "Security تعني الأمن أو نقطة التفتيش في المطار."
+      "A": "صحيح! 'family' هنا جمع معنوي (الأفراد) فنستخدم 'have' + التصريف الثالث 'stayed'.",
+      "B": "Has stayed تستخدم إذا اعتبرنا 'family' اسماً مفرداً (وحدة واحدة)، لكن 'have stayed' أكثر شيوعاً في الإنجليزية البريطانية.",
+      "C": "Stayed ماضي بسيط لا يعبر عن التكرار حتى الآن.",
+      "D": "Stay مضارع بسيط غير مناسب للحديث عن تجارب سابقة."
     }
   },
   {
-    "text": "Many cars on the road moving slowly or not moving at all is called ______.",
+    "text": "Wafa and Amal __________ (not take) the subway before. This is their first time.",
     "options": [
-      "hurry",
-      "traffic",
-      "tour",
-      "subway"
+      "don't take",
+      "didn't take",
+      "hasn't taken",
+      "haven't taken"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! المضارع التام المنفي مع فاعل جمع: have not = haven't + التصريف الثالث 'taken'.",
+      "B": "Hasn't تستخدم مع المفرد الغائب فقط (he/she/it).",
+      "C": "Didn't take ماضي بسيط، لكن وجود 'before' يتطلب مضارع تام.",
+      "D": "Don't take مضارع بسيط لا يعبر عن تجربة سابقة."
+    }
+  },
+  {
+    "text": "Sadiq __________ (not pack) any warm clothes for his trip to London.",
+    "options": [
+      "haven't packed",
+      "hasn't packed",
+      "doesn't pack",
+      "didn't pack"
     ],
     "correct": "B",
     "explanation": {
-      "A": "صحيح! 'traffic' تعني الازدحام المروري أو زحمة السير.",
-      "B": "Tour تعني جولة سياحية.",
-      "C": "Subway تعني قطار أنفاق.",
-      "D": "Hurry تعني الإسراع أو العجلة."
+      "A": "صحيح! الفاعل 'Sadiq' مفرد غائب، نستخدم 'has not = hasn't' + التصريف الثالث 'packed'.",
+      "B": "Haven't تستخدم مع I/you/we/they.",
+      "C": "Didn't pack ماضي بسيط لا يوضح أن النتيجة ما زالت قائمة حتى الآن.",
+      "D": "Doesn't pack مضارع بسيط (عادة)، غير مناسب للحديث عن تحضير رحلة محددة."
     }
   },
   {
-    "text": "A train that runs under the ground in big cities is called a ______.",
+    "text": "They __________ (buy) some snacks for the long airplane ride.",
     "options": [
-      "subway",
-      "tour",
-      "traffic",
-      "security"
+      "have bought",
+      "bought",
+      "buy",
+      "has bought"
     ],
     "correct": "A",
     "explanation": {
-      "A": "صحيح! 'subway' هو قطار الأنفاق الذي يسير تحت الأرض.",
-      "B": "Tour تعني جولة.",
-      "C": "Traffic تعني زحمة مرورية.",
-      "D": "Security تعني الأمن أو الحراسة."
+      "A": "صحيح! مضارع تام مع فاعل جمع: have + bought (تصريف ثالث غير منتظم من buy).",
+      "B": "Has bought خطأ لأن الفاعل جمع.",
+      "C": "Bought ماضي بسيط صحيح لغوياً لكن المضارع التام أفضل إذا كانت النتيجة مهمة الآن.",
+      "D": "Buy مضارع بسيط غير مناسب."
     }
   },
   {
-    "text": "The place at the airport where they check your bags and passport is called ______.",
+    "text": "Khalid __________ (decide) to wait for me on the platform.",
     "options": [
-      "traffic",
-      "tour",
-      "security",
-      "subway"
+      "has decided",
+      "decides",
+      "have decided",
+      "decided"
     ],
-    "correct": "C",
+    "correct": "A",
     "explanation": {
-      "A": "صحيح! 'security' هي نقطة التفتيش الأمني في المطار.",
-      "B": "Subway هو قطار الأنفاق.",
-      "C": "Tour هي جولة سياحية.",
-      "D": "Traffic هي زحمة السير."
+      "A": "صحيح! الفاعل 'Khalid' مفرد، نستخدم 'has' + التصريف الثالث 'decided'.",
+      "B": "Have decided خطأ لأن الفاعل مفرد.",
+      "C": "Decided ماضي بسيط ممكن، لكن المضارع التام أفضل لأن القرار ما زال سارياً.",
+      "D": "Decides مضارع بسيط غير مناسب."
     }
   },
   {
-    "text": "When you are late and need to move fast, you need to ______.",
+    "text": "Match: 'Aisha has just arrived' with the correct ending:",
     "options": [
-      "traffic",
-      "hurry",
-      "tour",
-      "security"
+      "the platform yet",
+      "at the terminal",
+      "their suitcase",
+      "you the directions"
     ],
     "correct": "B",
     "explanation": {
-      "A": "صحيح! 'hurry' تعني الإسراع أو العجلة.",
-      "B": "Tour تعني جولة.",
-      "C": "Traffic تعني زحمة.",
-      "D": "Security تعني أمن."
+      "A": "صحيح! 'Aisha has just arrived at the terminal.' (وصلت للتو إلى صالة المطار).",
+      "B": "تناسب 'They have just packed their suitcase.'",
+      "C": "تناسب 'The subway hasn't left the platform yet.'",
+      "D": "تناسب 'I have already told you the directions.'"
     }
   },
   {
-    "text": "We need to f _ _ _  o _ _ which platform the train leaves from.",
+    "text": "Match: 'I have already told' with the correct ending:",
     "options": [
-      "find out",
-      "check in",
+      "at the terminal",
+      "you the directions",
+      "the platform yet",
+      "their suitcase"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! 'I have already told you the directions.' (لقد أخبرتك بالاتجاهات بالفعل).",
+      "B": "خاصة بـ 'Aisha has just arrived'.",
+      "C": "خاصة بـ 'They have just packed'.",
+      "D": "خاصة بـ 'The subway hasn't left'."
+    }
+  },
+  {
+    "text": "Match: 'The subway hasn't left' with the correct ending:",
+    "options": [
+      "at the terminal",
+      "the platform yet",
+      "their suitcase",
+      "you the directions"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! 'The subway hasn't left the platform yet.' (لم يغادر الرصيف بعد). نستخدم 'yet' في النفي.",
+      "B": "خاصة بـ 'arrived at the terminal'.",
+      "C": "خاصة بـ 'packed their suitcase'.",
+      "D": "خاصة بـ 'told you'."
+    }
+  },
+  {
+    "text": "Match: 'They have just packed' with the correct ending:",
+    "options": [
+      "you the directions",
+      "their suitcase",
+      "the platform yet",
+      "at the terminal"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! 'They have just packed their suitcase.' (لقد حزموا حقيبتهم للتو). 'Just' تفيد الحدث القريب جداً.",
+      "B": "خاصة بـ 'arrived'.",
+      "C": "خاصة بـ 'hasn't left'.",
+      "D": "خاصة بـ 'told'."
+    }
+  },
+  {
+    "text": "Hanan: Hurry! I have (1) ______ packed my bag. Grandpa: I (2) ______ traveled by plane before.",
+    "options": [
+      "just / didn't",
+      "ever / wasn't",
+      "yet / have",
+      "already / haven't"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! 'already' في الجمل المثبتة تعني 'بالفعل'، و'haven't' مع 'before' تعني 'لم يسبق له'.",
+      "B": "Yet تستخدم في النفي والسؤال فقط، لا في الإثبات.",
+      "C": "Just ممكنة لكن 'haven't' أفضل مع 'before'.",
+      "D": "Ever تستخدم في الأسئلة ('Have you ever...?')."
+    }
+  },
+  {
+    "text": "Hanan: Why hasn't the taxi arrived (7) ______?",
+    "options": [
+      "yet",
+      "already",
+      "ever",
+      "just"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'yet' تستخدم في الأسئلة والنفي بمعنى 'بعد' أو 'حتى الآن'.",
+      "B": "Already تستخدم في الإثبات.",
+      "C": "Just تعني 'للتو'.",
+      "D": "Ever تستخدم في أسئلة التجارب."
+    }
+  },
+  {
+    "text": "Choose the correct question: (had / long have / earrings / you / How / those / ?)",
+    "options": [
+      "How long you have had those earrings?",
+      "How long have you had those earrings?",
+      "How long have had you those earrings?",
+      "How long you had those earrings have?"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! السؤال عن المدة: How long + have/has + فاعل + تصريف ثالث؟",
+      "B": "خطأ: الفاعل يجب أن يأتي بعد 'have' في السؤال.",
+      "C": "خطأ: 'had' هو التصريف الثالث ويجب أن يبقى بعد الفاعل.",
+      "D": "ترتيب غير صحيح نحوياً."
+    }
+  },
+  {
+    "text": "The plane will __________ in ten minutes. Please fasten your seat belts.",
+    "options": [
       "take off",
+      "check in",
+      "find out",
       "arrive"
     ],
     "correct": "A",
     "explanation": {
-      "A": "صحيح! 'find out' تعني يكتشف أو يعرف معلومات جديدة.",
-      "B": "Check in تعني تسجيل الوصول في الفندق أو المطار.",
-      "C": "Take off تعني إقلاع الطائرة.",
-      "D": "Arrive تعني يصل إلى المكان."
+      "A": "صحيح! 'take off' تعني إقلاع الطائرة.",
+      "B": "تسجيل الوصول.",
+      "C": "يكتشف.",
+      "D": "يصل."
     }
   },
   {
-    "text": "You can c _ _ _ _  i _ to the hotel after twelve o'clock.",
-    "options": [
-      "take off",
-      "arrive",
-      "check in",
-      "find out"
-    ],
-    "correct": "C",
-    "explanation": {
-      "A": "صحيح! 'check in' تعني تسجيل الوصول في الفندق واستلام الغرفة.",
-      "B": "Find out تعني يكتشف معلومات.",
-      "C": "Take off تعني إقلاع الطائرة.",
-      "D": "Arrive تعني يصل إلى المكان."
-    }
-  },
-  {
-    "text": "Fadwa has already looked up the d _ _ _ _ _ _ _ _ to our hotel on her phone.",
-    "options": [
-      "passport",
-      "directions",
-      "subway",
-      "traffic"
-    ],
-    "correct": "B",
-    "explanation": {
-      "A": "صحيح! 'directions' تعني الاتجاهات أو إرشادات الوصول إلى مكان.",
-      "B": "Passport خطأ إملائي، والصحيح 'passport' يعني جواز السفر.",
-      "C": "Subway تعني قطار أنفاق.",
-      "D": "Traffic تعني زحمة مرورية."
-    }
-  },
-  {
-    "text": "What time does the subway a _ _ _ _ _ at the station?",
-    "options": [
-      "take off",
-      "find out",
-      "arrive",
-      "check in"
-    ],
-    "correct": "C",
-    "explanation": {
-      "A": "صحيح! 'arrive' تعني يصل إلى المحطة.",
-      "B": "Take off تعني الإقلاع (للطائرة فقط).",
-      "C": "Check in تعني تسجيل الوصول.",
-      "D": "Find out تعني يكتشف."
-    }
-  },
-  {
-    "text": "Abdullah loves flying but he gets scared when the plane t _ _ _  o _ _.",
+    "text": "We need to __________ at the hotel before 2 p.m.",
     "options": [
       "check in",
+      "take off",
       "find out",
-      "arrive",
-      "take off"
-    ],
-    "correct": "D",
-    "explanation": {
-      "A": "صحيح! 'take off' تعني إقلاع الطائرة من الأرض.",
-      "B": "Check in تعني تسجيل الوصول.",
-      "C": "Find out تعني يكتشف.",
-      "D": "Arrive تعني يصل."
-    }
-  },
-  {
-    "text": "Match: 'I'll babysit your kids for you.' This means:",
-    "options": [
-      "a boring job",
-      "to make clothes smooth",
-      "to cut grass",
-      "to take care of children"
-    ],
-    "correct": "D",
-    "explanation": {
-      "A": "صحيح! 'babysit' تعني رعاية الأطفال أثناء غياب الوالدين.",
-      "B": "هذا معنى 'iron' (يكوي الملابس).",
-      "C": "هذا معنى 'mow the lawn' (يقص العشب).",
-      "D": "هذا معنى 'chore' (عمل روتيني ممل)."
-    }
-  },
-  {
-    "text": "Match: 'Grandmother mows the lawn in the garden every weekend.' This means:",
-    "options": [
-      "to spend time with friends",
-      "to cut grass",
-      "to take care of children",
-      "to make clothes smooth"
-    ],
-    "correct": "B",
-    "explanation": {
-      "A": "صحيح! 'mow the lawn' تعني قص عشب الحديقة باستخدام آلة.",
-      "B": "هذا معنى 'iron'.",
-      "C": "هذا معنى 'babysit'.",
-      "D": "هذا معنى 'hang out'."
-    }
-  },
-  {
-    "text": "Match: 'I have to iron my shirt before the meeting.' Iron means:",
-    "options": [
-      "to cut grass",
-      "to take care of children",
-      "to discover information",
-      "to make clothes smooth"
-    ],
-    "correct": "D",
-    "explanation": {
-      "A": "صحيح! 'iron' تعني كي الملابس لإزالة التجاعيد.",
-      "B": "هذا معنى 'mow'.",
-      "C": "هذا معنى 'babysit'.",
-      "D": "هذا معنى 'find out'."
-    }
-  },
-  {
-    "text": "Match: 'I have some chores to do before I can go out.' Chores means:",
-    "options": [
-      "boring but necessary jobs at home",
-      "school homework",
-      "fun activities with friends",
-      "travel arrangements"
+      "hurry"
     ],
     "correct": "A",
     "explanation": {
-      "A": "صحيح! 'chores' تعني الأعمال المنزلية الروتينية مثل التنظيف والغسيل.",
-      "B": "هذه أنشطة ترفيهية.",
-      "C": "هذه ترتيبات السفر.",
-      "D": "هذا واجب مدرسي."
+      "A": "صحيح! 'check in' تسجيل الوصول في الفندق.",
+      "B": "إقلاع.",
+      "C": "يكتشف.",
+      "D": "يسرع."
     }
   },
   {
-    "text": "Match: 'My friends and I usually hang out at the mall on weekends.' Hang out means:",
+    "text": "Have you ever __________ to London?",
     "options": [
-      "to spend time relaxing with friends",
-      "to do housework",
-      "to check in at a hotel",
-      "to travel by plane"
+      "been",
+      "be",
+      "went",
+      "go"
     ],
     "correct": "A",
     "explanation": {
-      "A": "صحيح! 'hang out' تعني قضاء وقت ممتع مع الأصدقاء دون هدف محدد.",
-      "B": "هذا معنى 'do chores'.",
-      "C": "هذا معنى 'fly' أو 'travel'.",
-      "D": "هذا معنى 'check in'."
+      "A": "صحيح! 'Have you ever been' للسؤال عن تجربة.",
+      "B": "خطأ.",
+      "C": "ماضي بدون 'have'.",
+      "D": "مضارع."
     }
   },
   {
-    "text": "Match: 'All the furniture was covered in dust after the renovation.' Dust means:",
+    "text": "I haven't eaten sushi __________.",
     "options": [
-      "a cleaning tool",
-      "a shiny surface",
-      "a type of fabric",
-      "very small dry particles of dirt"
-    ],
-    "correct": "D",
-    "explanation": {
-      "A": "صحيح! 'dust' تعني الغبار أو الأتربة الدقيقة.",
-      "B": "القماش هو 'fabric' أو 'cloth'.",
-      "C": "أداة التنظيف هي 'cleaning tool'.",
-      "D": "السطح اللامع هو 'shiny surface'."
-    }
-  },
-  {
-    "text": "I bought a new bicycle. Let's go for a ______.",
-    "options": [
-      "bowling",
-      "swimming",
-      "shopping",
-      "ride"
-    ],
-    "correct": "D",
-    "explanation": {
-      "A": "صحيح! 'go for a ride' تعني القيام بجولة بالدراجة أو السيارة.",
-      "B": "Go shopping تعني الذهاب للتسوق.",
-      "C": "Go bowling تعني لعب البولينج.",
-      "D": "Go swimming تعني السباحة."
-    }
-  },
-  {
-    "text": "Let's go ______ on Saturday because I miss rolling the heavy ball.",
-    "options": [
-      "bowling",
-      "driving",
-      "swimming",
-      "shopping"
+      "yet",
+      "already",
+      "just",
+      "ever"
     ],
     "correct": "A",
     "explanation": {
-      "A": "صحيح! 'bowling' هي لعبة البولينج حيث تدحرج كرة ثقيلة.",
-      "B": "Shopping هو التسوق.",
-      "C": "Swimming هي السباحة.",
-      "D": "Driving هي القيادة."
+      "A": "صحيح! 'yet' في نهاية الجمل المنفية.",
+      "B": "تستخدم في الإثبات.",
+      "C": "تستخدم للأحداث القريبة.",
+      "D": "تستخدم في الأسئلة."
     }
   },
   {
-    "text": "I often go ______ in the sea during summer vacation.",
+    "text": "She has __________ packed her suitcase. It's ready now.",
     "options": [
-      "swimming",
-      "driving",
-      "bowling",
-      "shopping"
+      "already",
+      "yet",
+      "never",
+      "ever"
     ],
     "correct": "A",
     "explanation": {
-      "A": "صحيح! 'go swimming' تعني ممارسة السباحة.",
-      "B": "Go shopping تعني التسوق.",
-      "C": "Go driving تعني القيادة للتسلية.",
-      "D": "Go bowling تعني لعب البولينج."
+      "A": "صحيح! 'already' تعني بالفعل.",
+      "B": "تستخدم مع النفي/السؤال.",
+      "C": "تعني أبداً.",
+      "D": "تستخدم في الأسئلة."
     }
   },
   {
-    "text": "What do we call a flat folded case used to keep paper money and credit cards?",
+    "text": "We __________ the directions on Google Maps. Let's go!",
     "options": [
-      "briefcase",
-      "wallet",
-      "suitcase",
-      "backpack"
+      "have found",
+      "find",
+      "finds",
+      "are finding"
     ],
-    "correct": "B",
+    "correct": "A",
     "explanation": {
-      "A": "صحيح! 'wallet' هي المحفظة التي تحفظ النقود والبطاقات.",
-      "B": "Backpack هي حقيبة الظهر.",
-      "C": "Suitcase هي حقيبة السفر.",
-      "D": "Briefcase هي حقيبة أوراق العمل."
+      "A": "صحيح! مضارع تام: عرفنا الطريق.",
+      "B": "مضارع بسيط.",
+      "C": "خطأ مع 'we'.",
+      "D": "مضارع مستمر."
     }
   },
   {
-    "text": "What do we call moving stairs that carry people between floors in a mall?",
+    "text": "How long __________ you __________ English?",
     "options": [
-      "staircase",
+      "have / studied",
+      "did / study",
+      "are / studying",
+      "were / studying"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! السؤال عن مدة بالمضارع التام.",
+      "B": "ماضي بسيط.",
+      "C": "مضارع مستمر.",
+      "D": "ماضي مستمر."
+    }
+  },
+  {
+    "text": "You need to go to __________ to catch an international flight.",
+    "options": [
+      "the airport",
+      "the subway",
+      "the station",
+      "the hotel"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! المطار للسفر الدولي.",
+      "B": "قطار الأنفاق داخل المدينة.",
+      "C": "محطة القطارات.",
+      "D": "الفندق."
+    }
+  },
+  {
+    "text": "The __________ is full of cars. We will be late.",
+    "options": [
+      "traffic",
       "subway",
-      "elevator",
-      "escalator"
+      "airport",
+      "security"
     ],
-    "correct": "D",
+    "correct": "A",
     "explanation": {
-      "A": "صحيح! 'escalator' هو الدرج الكهربائي المتحرك.",
-      "B": "Elevator هو المصعد (غرفة صاعدة).",
-      "C": "Staircase هو الدرج العادي الثابت.",
-      "D": "Subway هو قطار الأنفاق."
+      "A": "صحيح! 'traffic' زحمة السير.",
+      "B": "قطار أنفاق.",
+      "C": "مطار.",
+      "D": "الأمن."
     }
   },
   {
-    "text": "What do we call a jacket that protects you from the wind?",
+    "text": "You should check the __________ screen to see your flight number.",
     "options": [
-      "raincoat",
-      "blazer",
-      "sweater",
-      "windbreaker"
+      "departure",
+      "arrival",
+      "security",
+      "subway"
     ],
-    "correct": "D",
+    "correct": "A",
     "explanation": {
-      "A": "صحيح! 'windbreaker' هو جاكيت خفيف واقٍ من الرياح.",
-      "B": "Raincoat هو معطف المطر.",
-      "C": "Sweater هو كنزة صوفية.",
-      "D": "Blazer هو جاكيت رسمي."
-    }
-  },
-  {
-    "text": "What do we call a pleasant natural smell, especially from flowers?",
-    "options": [
-      "odor",
-      "smoke",
-      "steam",
-      "perfume"
-    ],
-    "correct": "D",
-    "explanation": {
-      "A": "صحيح! 'perfume' هو العطر أو الرائحة الزكية.",
-      "B": "Odor تعني رائحة (غالباً كريهة).",
-      "C": "Smoke هو الدخان.",
-      "D": "Steam هو البخار."
-    }
-  },
-  {
-    "text": "People who drive cars should wear seat ______ for safety.",
-    "options": [
-      "dress",
-      "necklace",
-      "belts",
-      "boots"
-    ],
-    "correct": "C",
-    "explanation": {
-      "A": "صحيح! 'seat belts' هي أحزمة الأمان في السيارة.",
-      "B": "Boots هي أحذية طويلة.",
-      "C": "Necklace هي قلادة.",
-      "D": "Dress هو فستان."
-    }
-  },
-  {
-    "text": "She gave me a beautiful bag made of genuine ______.",
-    "options": [
-      "perfume",
-      "eye shadow",
-      "sheet",
-      "leather"
-    ],
-    "correct": "D",
-    "explanation": {
-      "A": "صحيح! 'leather' هو الجلد الطبيعي.",
-      "B": "Perfume هو عطر.",
-      "C": "Eye shadow هو ظل العيون (مكياج).",
-      "D": "Sheet هي ملاءة السرير."
-    }
-  },
-  {
-    "text": "He looked very handsome in his black suit and silk ______.",
-    "options": [
-      "boots",
-      "tie",
-      "blouse",
-      "umbrella"
-    ],
-    "correct": "B",
-    "explanation": {
-      "A": "صحيح! 'tie' هي ربطة العنق التي يرتديها الرجال مع البدلة.",
-      "B": "Blouse هي بلوزة نسائية.",
-      "C": "Boots هي أحذية.",
-      "D": "Umbrella هي مظلة."
-    }
-  },
-  {
-    "text": "It looks like it might rain. We'd better take an ______.",
-    "options": [
-      "ring",
-      "backpack",
-      "umbrella",
-      "earrings"
-    ],
-    "correct": "C",
-    "explanation": {
-      "A": "صحيح! 'umbrella' هي المظلة التي تقي من المطر.",
-      "B": "Ring هو خاتم.",
-      "C": "Earrings هي أقراط للأذن.",
-      "D": "Backpack هي حقيبة ظهر."
+      "A": "صحيح! شاشة المغادرة.",
+      "B": "الوصول.",
+      "C": "الأمن.",
+      "D": "قطار أنفاق."
     }
   }
 ]

@@ -1,70 +1,162 @@
 [
   {
-    "text": "Match: 'I'll babysit your kids for you.' means:",
+    "text": "Why __________ you go to the party? It was fun!",
     "options": [
-      "a boring job",
-      "to take care of children",
-      "to cut grass",
-      "to make clothes smooth"
+      "didn't",
+      "don't",
+      "isn't",
+      "aren't"
     ],
-    "correct": "B",
+    "correct": "A",
     "explanation": {
-      "A": "صحيح! 'babysit' تعني رعاية الأطفال.",
-      "B": "هذا معنى 'iron'.",
-      "C": "هذا معنى 'mow the lawn'.",
-      "D": "هذا معنى 'chore'."
+      "A": "صحيح! السؤال عن الماضي يحتاج 'didn't'.",
+      "B": "سؤال عن المضارع.",
+      "C": "خطأ.",
+      "D": "خطأ."
     }
   },
   {
-    "text": "Match: 'Grandmother mows the lawn in the garden.' means:",
+    "text": "You __________ study hard if you want to pass.",
     "options": [
-      "to make clothes smooth",
-      "to spend time",
-      "to take care of children",
-      "to cut grass"
+      "should",
+      "shoulds",
+      "to should",
+      "shoulding"
     ],
-    "correct": "D",
+    "correct": "A",
     "explanation": {
-      "A": "صحيح! 'mow the lawn' تعني قص العشب."
+      "A": "صحيح! 'should' يأتي مع المصدر دون تغيير.",
+      "B": "خطأ.",
+      "C": "خطأ.",
+      "D": "خطأ."
     }
   },
   {
-    "text": "I bought a new bicycle. Let's go for a ……………………..",
+    "text": "Let's __________ to the park this afternoon.",
     "options": [
-      "shopping",
-      "bowling",
-      "ride",
-      "swimming"
+      "go",
+      "going",
+      "to go",
+      "goes"
     ],
-    "correct": "C",
+    "correct": "A",
     "explanation": {
-      "A": "صحيح! 'go for a ride' على الدراجة."
+      "A": "صحيح! 'Let's' يتبعه مصدر.",
+      "B": "خطأ.",
+      "C": "خطأ.",
+      "D": "خطأ."
     }
   },
   {
-    "text": "Let's go ………………………. on Saturday because I miss rolling the ball.",
+    "text": "We go __________ every Saturday. I love the sea.",
     "options": [
-      "driving",
-      "bowling",
       "swimming",
-      "shopping"
+      "swim",
+      "swam",
+      "to swim"
     ],
-    "correct": "B",
+    "correct": "A",
     "explanation": {
-      "A": "صحيح! 'bowling' البولينج."
+      "A": "صحيح! 'go swimming' تعبير صحيح.",
+      "B": "خطأ.",
+      "C": "ماضي.",
+      "D": "خطأ."
     }
   },
   {
-    "text": "I often go ……………………… in the sea.",
+    "text": "I __________ to clean my room before I go out.",
     "options": [
-      "bowling",
-      "swimming",
-      "shopping",
-      "driving"
+      "have",
+      "has",
+      "had",
+      "must to"
     ],
-    "correct": "B",
+    "correct": "A",
     "explanation": {
-      "A": "صحيح! 'go swimming' في البحر."
+      "A": "صحيح! 'have to' للالتزام.",
+      "B": "خطأ مع I.",
+      "C": "ماضي.",
+      "D": "خطأ."
+    }
+  },
+  {
+    "text": "You __________ eat too much sugar. It's unhealthy.",
+    "options": [
+      "shouldn't",
+      "should",
+      "should not to",
+      "shouldn't to"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'shouldn't' نفي النصيحة.",
+      "B": "إثبات.",
+      "C": "خطأ.",
+      "D": "خطأ."
+    }
+  },
+  {
+    "text": "Why __________ she like the movie? It was boring.",
+    "options": [
+      "didn't",
+      "don't",
+      "doesn't",
+      "isn't"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! سؤال عن الماضي مع 'she'.",
+      "B": "خطأ.",
+      "C": "خطأ.",
+      "D": "خطأ."
+    }
+  },
+  {
+    "text": "We __________ go camping because it was raining.",
+    "options": [
+      "didn't",
+      "don't",
+      "shouldn't",
+      "weren't"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! ماضي بسيط.",
+      "B": "مضارع.",
+      "C": "نصيحة.",
+      "D": "خطأ."
+    }
+  },
+  {
+    "text": "__________ I ask a question, please?",
+    "options": [
+      "May",
+      "Should",
+      "Must",
+      "Do"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'May' للإذن المهذب.",
+      "B": "نصيحة.",
+      "C": "إلزام.",
+      "D": "خطأ."
+    }
+  },
+  {
+    "text": "She __________ to wear a uniform at work.",
+    "options": [
+      "has",
+      "have",
+      "should",
+      "must to"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'has to' مع المفرد.",
+      "B": "خطأ.",
+      "C": "خطأ.",
+      "D": "خطأ."
     }
   }
 ]
