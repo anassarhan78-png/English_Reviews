@@ -2,12 +2,12 @@
   {
     "text": "Grandpa: You have put your (3) ______ in your bag, haven't you?",
     "options": [
-      "money",
-      "passport",
+      "phone",
       "ticket",
-      "phone"
+      "passport",
+      "money"
     ],
-    "correct": "B",
+    "correct": "C",
     "explanation": {
       "A": "صحيح! 'passport' هو جواز السفر الضروري للسفر الدولي.",
       "B": "Ticket هي تذكرة السفر.",
@@ -18,12 +18,12 @@
   {
     "text": "Hanan: I have (4) ______ called a taxi to take us to the station.",
     "options": [
-      "already",
-      "just",
       "never",
-      "yet"
+      "just",
+      "yet",
+      "already"
     ],
-    "correct": "A",
+    "correct": "D",
     "explanation": {
       "A": "صحيح! 'already' تعني أن الاتصال تم قبل الآن بقليل.",
       "B": "Yet لا تستخدم في الجمل المثبتة.",
@@ -35,11 +35,11 @@
     "text": "Then we'll take the (5) ______ to the airport.",
     "options": [
       "bus",
+      "subway",
       "train",
-      "taxi",
-      "subway"
+      "taxi"
     ],
-    "correct": "D",
+    "correct": "B",
     "explanation": {
       "A": "صحيح! 'subway' هو قطار الأنفاق السريع.",
       "B": "Bus هي الحافلة.",
@@ -50,12 +50,12 @@
   {
     "text": "Grandpa: I haven't (6) ______ down there for many years!",
     "options": [
-      "been",
       "went",
       "gone",
+      "been",
       "go"
     ],
-    "correct": "A",
+    "correct": "C",
     "explanation": {
       "A": "صحيح! 'haven't been' تعني 'لم أذهب' أو 'لم أتواجد هناك'.",
       "B": "Gone تعني 'ذهب ولم يعد'، غير مناسبة للحديث عن تجربة شخصية.",
@@ -66,12 +66,12 @@
   {
     "text": "Grandpa: What's the (8) ______? We are on holiday!",
     "options": [
+      "problem",
       "hurry",
       "rush",
-      "matter",
-      "problem"
+      "matter"
     ],
-    "correct": "A",
+    "correct": "B",
     "explanation": {
       "A": "صحيح! 'What's the hurry?' تعني 'ما سبب العجلة؟'.",
       "B": "Rush مرادفة لكن التعبير الشائع 'What's the hurry?'.",
@@ -84,8 +84,8 @@
     "options": [
       "up",
       "in",
-      "off",
-      "out"
+      "out",
+      "off"
     ],
     "correct": "B",
     "explanation": {
@@ -98,12 +98,12 @@
   {
     "text": "Grandpa: I'll be happy when we have finally taken (10) ______.",
     "options": [
-      "up",
-      "off",
       "in",
-      "on"
+      "on",
+      "up",
+      "off"
     ],
-    "correct": "B",
+    "correct": "D",
     "explanation": {
       "A": "صحيح! 'taken off' تعني أقلعت الطائرة.",
       "B": "Taken in تعني استوعب أو خدع.",
@@ -114,17 +114,369 @@
   {
     "text": "Choose the correct question: (new / made / Rana / necklace / Has / a / ?)",
     "options": [
-      "Rana has made a new necklace?",
       "Has Rana made a new necklace?",
       "Has a new necklace Rana made?",
-      "Has made Rana a new necklace?"
+      "Has made Rana a new necklace?",
+      "Rana has made a new necklace?"
     ],
-    "correct": "B",
+    "correct": "A",
     "explanation": {
       "A": "صحيح! السؤال في المضارع التام: Has + فاعل + تصريف ثالث + مفعول؟",
       "B": "خطأ: الفاعل يجب أن يكون بعد 'Has' مباشرة.",
       "C": "هذه جملة خبرية وليست سؤالاً.",
       "D": "ترتيب خاطئ تماماً."
+    }
+  },
+  {
+    "text": "Raqiah's family __________ (stay) in this hotel many times before.",
+    "options": [
+      "stay",
+      "stayed",
+      "have stayed",
+      "has stayed"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! 'family' هنا جمع معنوي (الأفراد) فنستخدم 'have' + التصريف الثالث 'stayed'.",
+      "B": "Has stayed تستخدم إذا اعتبرنا 'family' اسماً مفرداً (وحدة واحدة)، لكن 'have stayed' أكثر شيوعاً في الإنجليزية البريطانية.",
+      "C": "Stayed ماضي بسيط لا يعبر عن التكرار حتى الآن.",
+      "D": "Stay مضارع بسيط غير مناسب للحديث عن تجارب سابقة."
+    }
+  },
+  {
+    "text": "Wafa and Amal __________ (not take) the subway before. This is their first time.",
+    "options": [
+      "don't take",
+      "didn't take",
+      "hasn't taken",
+      "haven't taken"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! المضارع التام المنفي مع فاعل جمع: have not = haven't + التصريف الثالث 'taken'.",
+      "B": "Hasn't تستخدم مع المفرد الغائب فقط (he/she/it).",
+      "C": "Didn't take ماضي بسيط، لكن وجود 'before' يتطلب مضارع تام.",
+      "D": "Don't take مضارع بسيط لا يعبر عن تجربة سابقة."
+    }
+  },
+  {
+    "text": "Sadiq __________ (not pack) any warm clothes for his trip to London.",
+    "options": [
+      "haven't packed",
+      "doesn't pack",
+      "hasn't packed",
+      "didn't pack"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! الفاعل 'Sadiq' مفرد غائب، نستخدم 'has not = hasn't' + التصريف الثالث 'packed'.",
+      "B": "Haven't تستخدم مع I/you/we/they.",
+      "C": "Didn't pack ماضي بسيط لا يوضح أن النتيجة ما زالت قائمة حتى الآن.",
+      "D": "Doesn't pack مضارع بسيط (عادة)، غير مناسب للحديث عن تحضير رحلة محددة."
+    }
+  },
+  {
+    "text": "They __________ (buy) some snacks for the long airplane ride.",
+    "options": [
+      "bought",
+      "buy",
+      "have bought",
+      "has bought"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! مضارع تام مع فاعل جمع: have + bought (تصريف ثالث غير منتظم من buy).",
+      "B": "Has bought خطأ لأن الفاعل جمع.",
+      "C": "Bought ماضي بسيط صحيح لغوياً لكن المضارع التام أفضل إذا كانت النتيجة مهمة الآن.",
+      "D": "Buy مضارع بسيط غير مناسب."
+    }
+  },
+  {
+    "text": "Khalid __________ (decide) to wait for me on the platform.",
+    "options": [
+      "decides",
+      "decided",
+      "have decided",
+      "has decided"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! الفاعل 'Khalid' مفرد، نستخدم 'has' + التصريف الثالث 'decided'.",
+      "B": "Have decided خطأ لأن الفاعل مفرد.",
+      "C": "Decided ماضي بسيط ممكن، لكن المضارع التام أفضل لأن القرار ما زال سارياً.",
+      "D": "Decides مضارع بسيط غير مناسب."
+    }
+  },
+  {
+    "text": "Match: 'Aisha has just arrived' with the correct ending:",
+    "options": [
+      "their suitcase",
+      "at the terminal",
+      "you the directions",
+      "the platform yet"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! 'Aisha has just arrived at the terminal.' (وصلت للتو إلى صالة المطار).",
+      "B": "تناسب 'They have just packed their suitcase.'",
+      "C": "تناسب 'The subway hasn't left the platform yet.'",
+      "D": "تناسب 'I have already told you the directions.'"
+    }
+  },
+  {
+    "text": "Match: 'I have already told' with the correct ending:",
+    "options": [
+      "the platform yet",
+      "their suitcase",
+      "at the terminal",
+      "you the directions"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! 'I have already told you the directions.' (لقد أخبرتك بالاتجاهات بالفعل).",
+      "B": "خاصة بـ 'Aisha has just arrived'.",
+      "C": "خاصة بـ 'They have just packed'.",
+      "D": "خاصة بـ 'The subway hasn't left'."
+    }
+  },
+  {
+    "text": "Match: 'The subway hasn't left' with the correct ending:",
+    "options": [
+      "you the directions",
+      "the platform yet",
+      "at the terminal",
+      "their suitcase"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! 'The subway hasn't left the platform yet.' (لم يغادر الرصيف بعد). نستخدم 'yet' في النفي.",
+      "B": "خاصة بـ 'arrived at the terminal'.",
+      "C": "خاصة بـ 'packed their suitcase'.",
+      "D": "خاصة بـ 'told you'."
+    }
+  },
+  {
+    "text": "Match: 'They have just packed' with the correct ending:",
+    "options": [
+      "at the terminal",
+      "their suitcase",
+      "you the directions",
+      "the platform yet"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! 'They have just packed their suitcase.' (لقد حزموا حقيبتهم للتو). 'Just' تفيد الحدث القريب جداً.",
+      "B": "خاصة بـ 'arrived'.",
+      "C": "خاصة بـ 'hasn't left'.",
+      "D": "خاصة بـ 'told'."
+    }
+  },
+  {
+    "text": "Hanan: Hurry! I have (1) ______ packed my bag. Grandpa: I (2) ______ traveled by plane before.",
+    "options": [
+      "already / haven't",
+      "ever / wasn't",
+      "yet / have",
+      "just / didn't"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'already' في الجمل المثبتة تعني 'بالفعل'، و'haven't' مع 'before' تعني 'لم يسبق له'.",
+      "B": "Yet تستخدم في النفي والسؤال فقط، لا في الإثبات.",
+      "C": "Just ممكنة لكن 'haven't' أفضل مع 'before'.",
+      "D": "Ever تستخدم في الأسئلة ('Have you ever...?')."
+    }
+  },
+  {
+    "text": "Hanan: Why hasn't the taxi arrived (7) ______?",
+    "options": [
+      "yet",
+      "already",
+      "just",
+      "ever"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'yet' تستخدم في الأسئلة والنفي بمعنى 'بعد' أو 'حتى الآن'.",
+      "B": "Already تستخدم في الإثبات.",
+      "C": "Just تعني 'للتو'.",
+      "D": "Ever تستخدم في أسئلة التجارب."
+    }
+  },
+  {
+    "text": "Choose the correct question: (had / long have / earrings / you / How / those / ?)",
+    "options": [
+      "How long have you had those earrings?",
+      "How long you have had those earrings?",
+      "How long have had you those earrings?",
+      "How long you had those earrings have?"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! السؤال عن المدة: How long + have/has + فاعل + تصريف ثالث؟",
+      "B": "خطأ: الفاعل يجب أن يأتي بعد 'have' في السؤال.",
+      "C": "خطأ: 'had' هو التصريف الثالث ويجب أن يبقى بعد الفاعل.",
+      "D": "ترتيب غير صحيح نحوياً."
+    }
+  },
+  {
+    "text": "The plane will __________ in ten minutes. Please fasten your seat belts.",
+    "options": [
+      "check in",
+      "take off",
+      "arrive",
+      "find out"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! 'take off' تعني إقلاع الطائرة.",
+      "B": "تسجيل الوصول.",
+      "C": "يكتشف.",
+      "D": "يصل."
+    }
+  },
+  {
+    "text": "We need to __________ at the hotel before 2 p.m.",
+    "options": [
+      "find out",
+      "take off",
+      "check in",
+      "hurry"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! 'check in' تسجيل الوصول في الفندق.",
+      "B": "إقلاع.",
+      "C": "يكتشف.",
+      "D": "يسرع."
+    }
+  },
+  {
+    "text": "Have you ever __________ to London?",
+    "options": [
+      "went",
+      "been",
+      "be",
+      "go"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! 'Have you ever been' للسؤال عن تجربة.",
+      "B": "خطأ.",
+      "C": "ماضي بدون 'have'.",
+      "D": "مضارع."
+    }
+  },
+  {
+    "text": "I haven't eaten sushi __________.",
+    "options": [
+      "just",
+      "yet",
+      "ever",
+      "already"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! 'yet' في نهاية الجمل المنفية.",
+      "B": "تستخدم في الإثبات.",
+      "C": "تستخدم للأحداث القريبة.",
+      "D": "تستخدم في الأسئلة."
+    }
+  },
+  {
+    "text": "She has __________ packed her suitcase. It's ready now.",
+    "options": [
+      "never",
+      "yet",
+      "already",
+      "ever"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! 'already' تعني بالفعل.",
+      "B": "تستخدم مع النفي/السؤال.",
+      "C": "تعني أبداً.",
+      "D": "تستخدم في الأسئلة."
+    }
+  },
+  {
+    "text": "We __________ the directions on Google Maps. Let's go!",
+    "options": [
+      "finds",
+      "find",
+      "have found",
+      "are finding"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! مضارع تام: عرفنا الطريق.",
+      "B": "مضارع بسيط.",
+      "C": "خطأ مع 'we'.",
+      "D": "مضارع مستمر."
+    }
+  },
+  {
+    "text": "How long __________ you __________ English?",
+    "options": [
+      "did / study",
+      "were / studying",
+      "are / studying",
+      "have / studied"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! السؤال عن مدة بالمضارع التام.",
+      "B": "ماضي بسيط.",
+      "C": "مضارع مستمر.",
+      "D": "ماضي مستمر."
+    }
+  },
+  {
+    "text": "You need to go to __________ to catch an international flight.",
+    "options": [
+      "the subway",
+      "the hotel",
+      "the airport",
+      "the station"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! المطار للسفر الدولي.",
+      "B": "قطار الأنفاق داخل المدينة.",
+      "C": "محطة القطارات.",
+      "D": "الفندق."
+    }
+  },
+  {
+    "text": "The __________ is full of cars. We will be late.",
+    "options": [
+      "security",
+      "traffic",
+      "subway",
+      "airport"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! 'traffic' زحمة السير.",
+      "B": "قطار أنفاق.",
+      "C": "مطار.",
+      "D": "الأمن."
+    }
+  },
+  {
+    "text": "You should check the __________ screen to see your flight number.",
+    "options": [
+      "security",
+      "departure",
+      "subway",
+      "arrival"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! شاشة المغادرة.",
+      "B": "الوصول.",
+      "C": "الأمن.",
+      "D": "قطار أنفاق."
     }
   }
 ]

@@ -2,12 +2,12 @@
   {
     "text": "I have a bag. This is …………… bag.",
     "options": [
-      "our",
-      "my",
       "her",
-      "their"
+      "their",
+      "our",
+      "my"
     ],
-    "correct": "B",
+    "correct": "D",
     "explanation": {
       "A": "صحيح! 'my' تعود على 'I'.",
       "B": "Our تعود على 'we'.",
@@ -18,12 +18,12 @@
   {
     "text": "You have a cat. That is ………….. cat.",
     "options": [
-      "my",
-      "your",
+      "our",
       "his",
-      "our"
+      "your",
+      "my"
     ],
-    "correct": "B",
+    "correct": "C",
     "explanation": {
       "A": "صحيح! 'your' تعود على 'you'.",
       "B": "Our تعود على 'we'.",
@@ -34,12 +34,12 @@
   {
     "text": "Khaled has a car. It is ……………… car.",
     "options": [
-      "their",
+      "his",
       "our",
       "her",
-      "his"
+      "their"
     ],
-    "correct": "D",
+    "correct": "A",
     "explanation": {
       "A": "صحيح! 'his' تعود على Khaled (مذكر).",
       "B": "Her للمؤنث.",
@@ -52,8 +52,8 @@
     "options": [
       "her",
       "hers",
-      "my",
-      "his"
+      "his",
+      "my"
     ],
     "correct": "A",
     "explanation": {
@@ -66,12 +66,12 @@
   {
     "text": "The dog has a bed. It is …………. bed.",
     "options": [
-      "its",
       "my",
+      "its",
       "mine",
       "her"
     ],
-    "correct": "A",
+    "correct": "B",
     "explanation": {
       "A": "صحيح! 'its' لغير العاقل.",
       "B": "Her للمؤنث العاقل.",
@@ -82,12 +82,12 @@
   {
     "text": "We have a flat. It is ……………… flat.",
     "options": [
+      "theirs",
       "our",
-      "my",
       "ours",
-      "theirs"
+      "my"
     ],
-    "correct": "A",
+    "correct": "B",
     "explanation": {
       "A": "صحيح! 'our' صفة ملكية لـ 'we'.",
       "B": "My للمفرد المتكلم.",
@@ -99,11 +99,11 @@
     "text": "They have a daughter. She is ………… daughter.",
     "options": [
       "hers",
+      "their",
       "his",
-      "theirs",
-      "their"
+      "theirs"
     ],
-    "correct": "D",
+    "correct": "B",
     "explanation": {
       "A": "صحيح! 'their' صفة ملكية لـ 'they'.",
       "B": "Theirs ضمير ملكية.",
@@ -114,12 +114,12 @@
   {
     "text": "I have a bag. This is ………………….",
     "options": [
-      "her",
-      "mine",
+      "my",
       "our",
-      "my"
+      "mine",
+      "her"
     ],
-    "correct": "B",
+    "correct": "C",
     "explanation": {
       "A": "صحيح! 'mine' ضمير ملكية (لا يحتاج لاسم بعده).",
       "B": "My صفة ملكية تحتاج لاسم.",
@@ -130,12 +130,12 @@
   {
     "text": "You have a cat. That cat is ……………….",
     "options": [
-      "my",
       "yours",
-      "his",
-      "their"
+      "their",
+      "my",
+      "his"
     ],
-    "correct": "B",
+    "correct": "A",
     "explanation": {
       "A": "صحيح! 'yours' ضمير ملكية للمخاطب.",
       "B": "His للغائب المذكر.",
@@ -147,11 +147,11 @@
     "text": "He has a car. It is ………..",
     "options": [
       "our",
-      "my",
       "his",
-      "her"
+      "her",
+      "my"
     ],
-    "correct": "C",
+    "correct": "B",
     "explanation": {
       "A": "صحيح! 'his' ضمير ملكية (نفس شكل الصفة).",
       "B": "My للمتكلم.",
@@ -163,9 +163,9 @@
     "text": "She has a book - it is …………...",
     "options": [
       "hers",
-      "our",
+      "her",
       "their",
-      "her"
+      "our"
     ],
     "correct": "A",
     "explanation": {
@@ -178,12 +178,12 @@
   {
     "text": "We have a flat. It is ……….",
     "options": [
-      "mine",
-      "his",
       "ours",
+      "his",
+      "mine",
       "hers"
     ],
-    "correct": "C",
+    "correct": "A",
     "explanation": {
       "A": "صحيح! 'ours' ضمير ملكية لـ 'we'.",
       "B": "His للمذكر.",
@@ -195,8 +195,8 @@
     "text": "They have a daughter. She is ……………….",
     "options": [
       "ours",
-      "yours",
       "mine",
+      "yours",
       "theirs"
     ],
     "correct": "D",
@@ -210,10 +210,10 @@
   {
     "text": "………….. birthday is it today? It's hers.",
     "options": [
-      "Who",
+      "When",
       "Why",
       "Whose",
-      "When"
+      "Who"
     ],
     "correct": "C",
     "explanation": {
@@ -226,12 +226,12 @@
   {
     "text": "…………………….book is this?",
     "options": [
-      "How",
       "Whose",
+      "When",
       "Who",
-      "When"
+      "How"
     ],
-    "correct": "B",
+    "correct": "A",
     "explanation": {
       "A": "صحيح! 'Whose' بمعنى 'لمن'.",
       "B": "Who بمعنى 'من'.",
@@ -242,12 +242,12 @@
   {
     "text": "………………..dictionary is this? It's mine.",
     "options": [
-      "How",
-      "Whose",
       "Where",
-      "When"
+      "When",
+      "How",
+      "Whose"
     ],
-    "correct": "B",
+    "correct": "D",
     "explanation": {
       "A": "صحيح! السؤال عن ملكية القاموس.",
       "B": "When للزمان.",
@@ -258,12 +258,12 @@
   {
     "text": "Which car do you like? The white …………",
     "options": [
-      "others",
       "other",
-      "one",
-      "ones"
+      "others",
+      "ones",
+      "one"
     ],
-    "correct": "C",
+    "correct": "D",
     "explanation": {
       "A": "صحيح! 'one' تحل محل car (مفرد).",
       "B": "Other تعني آخر.",
@@ -274,12 +274,12 @@
   {
     "text": "This coffee is …………… sweet.",
     "options": [
-      "much",
       "too",
+      "much",
       "many",
       "enough"
     ],
-    "correct": "B",
+    "correct": "A",
     "explanation": {
       "A": "صحيح! 'too' بمعنى أكثر من اللازم.",
       "B": "Enough بمعنى كافٍ.",
@@ -290,12 +290,12 @@
   {
     "text": "It was …………. heavy to carry.",
     "options": [
-      "many",
-      "much",
       "enough",
-      "too"
+      "too",
+      "much",
+      "many"
     ],
-    "correct": "D",
+    "correct": "B",
     "explanation": {
       "A": "صحيح! 'too' + صفة + to + فعل.",
       "B": "Many مع الجمع.",
@@ -306,12 +306,12 @@
   {
     "text": "This car is ……….. expensive.",
     "options": [
-      "enough",
       "much",
-      "many",
-      "too"
+      "enough",
+      "too",
+      "many"
     ],
-    "correct": "D",
+    "correct": "C",
     "explanation": {
       "A": "صحيح! 'too expensive' تعني مكلفة جداً.",
       "B": "Many خطأ.",
@@ -322,12 +322,12 @@
   {
     "text": "I'm ………….. tired to work.",
     "options": [
-      "too",
-      "enough",
+      "many",
       "much",
-      "many"
+      "enough",
+      "too"
     ],
-    "correct": "A",
+    "correct": "D",
     "explanation": {
       "A": "صحيح! 'too tired to work'.",
       "B": "Much خطأ.",
@@ -338,12 +338,12 @@
   {
     "text": "Can I …………. now?",
     "options": [
-      "leave",
-      "left",
       "leaving",
-      "leaves"
+      "left",
+      "leaves",
+      "leave"
     ],
-    "correct": "A",
+    "correct": "D",
     "explanation": {
       "A": "صحيح! بعد الأفعال الناقصة (can/could/may) يأتي المصدر.",
       "B": "ing خطأ.",
@@ -354,12 +354,12 @@
   {
     "text": "Could I …………. this jacket with me?",
     "options": [
-      "took",
       "takes",
       "take",
-      "taking"
+      "taking",
+      "took"
     ],
-    "correct": "C",
+    "correct": "B",
     "explanation": {
       "A": "صحيح! المصدر بعد 'Could'.",
       "B": "ماضي خطأ.",
@@ -372,10 +372,10 @@
     "options": [
       "asking",
       "asks",
-      "asked",
-      "ask"
+      "ask",
+      "asked"
     ],
-    "correct": "D",
+    "correct": "C",
     "explanation": {
       "A": "صحيح! المصدر بعد 'May'.",
       "B": "ماضي خطأ.",
@@ -386,12 +386,12 @@
   {
     "text": "It might ………….. this afternoon.",
     "options": [
-      "raining",
-      "rains",
+      "to rain",
       "rain",
-      "to rain"
+      "raining",
+      "rains"
     ],
-    "correct": "C",
+    "correct": "B",
     "explanation": {
       "A": "صحيح! بعد 'might' يأتي المصدر بدون to.",
       "B": "rains خطأ.",
@@ -402,17 +402,177 @@
   {
     "text": "__________ pen is this? It's hers.",
     "options": [
-      "Whose",
       "Who",
+      "Which",
       "Who's",
-      "Which"
+      "Whose"
     ],
-    "correct": "A",
+    "correct": "D",
     "explanation": {
       "A": "صحيح! 'Whose' لملكية الشيء.",
       "B": "سؤال عن الفاعل.",
       "C": "اختصار 'Who is'.",
       "D": "أي."
+    }
+  },
+  {
+    "text": "Which bags are very old? The leather…………….",
+    "options": [
+      "other",
+      "others",
+      "one",
+      "ones"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! 'ones' للجمع (bags).",
+      "B": "One للمفرد.",
+      "C": "Other تعني آخر (مفرد).",
+      "D": "Others ضمير جمع بدون اسم."
+    }
+  },
+  {
+    "text": "This book is __________. It belongs to me.",
+    "options": [
+      "mine",
+      "I",
+      "my",
+      "me"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! ضمير الملكية.",
+      "B": "صفة ملكية.",
+      "C": "ضمير مفعول.",
+      "D": "فاعل."
+    }
+  },
+  {
+    "text": "This box is __________ heavy to carry alone.",
+    "options": [
+      "enough",
+      "so",
+      "too",
+      "very"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! 'too' تعني أكثر من اللازم.",
+      "B": "جداً.",
+      "C": "يحتاج 'that'.",
+      "D": "كافٍ."
+    }
+  },
+  {
+    "text": "He isn't tall __________ to reach the shelf.",
+    "options": [
+      "enough",
+      "so",
+      "too",
+      "very"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'enough' بعد الصفة.",
+      "B": "قبل الصفة.",
+      "C": "مكان خطأ.",
+      "D": "يحتاج 'that'."
+    }
+  },
+  {
+    "text": "__________ I borrow your pen for a moment?",
+    "options": [
+      "Have",
+      "Should",
+      "Must",
+      "Can"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! 'Can' للإذن.",
+      "B": "نصيحة.",
+      "C": "إلزام.",
+      "D": "خطأ."
+    }
+  },
+  {
+    "text": "This is __________ interesting film. You should watch it.",
+    "options": [
+      "such an",
+      "so",
+      "such a",
+      "so much"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'such an' قبل متحرك صوتي.",
+      "B": "قبل ساكن.",
+      "C": "مع صفة فقط.",
+      "D": "مع غير معدود."
+    }
+  },
+  {
+    "text": "I have __________ much work that I can't go out.",
+    "options": [
+      "such",
+      "such a",
+      "too",
+      "so"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! 'so much' + غير معدود + that.",
+      "B": "خطأ.",
+      "C": "خطأ.",
+      "D": "ينقص 'that'."
+    }
+  },
+  {
+    "text": "Which bags are yours? The blue __________.",
+    "options": [
+      "one",
+      "ones",
+      "another",
+      "other"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! 'ones' للجمع.",
+      "B": "للمفرد.",
+      "C": "آخر.",
+      "D": "آخر إضافي."
+    }
+  },
+  {
+    "text": "That car is __________. My father bought it last year.",
+    "options": [
+      "we",
+      "us",
+      "ours",
+      "our"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! ضمير ملكية.",
+      "B": "صفة ملكية.",
+      "C": "فاعل.",
+      "D": "مفعول."
+    }
+  },
+  {
+    "text": "There were __________ many people that we couldn't find a seat.",
+    "options": [
+      "enough",
+      "too",
+      "such",
+      "so"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! 'so many' + جمع + that.",
+      "B": "يحتاج 'a/an'.",
+      "C": "خطأ.",
+      "D": "خطأ."
     }
   }
 ]

@@ -3,11 +3,11 @@
     "text": "They ……….. going to eat their lunch.",
     "options": [
       "is",
-      "am",
       "be",
-      "are"
+      "are",
+      "am"
     ],
-    "correct": "D",
+    "correct": "C",
     "explanation": {
       "A": "صحيح! 'They' جمع → 'are'.",
       "B": "be مصدر.",
@@ -18,12 +18,12 @@
   {
     "text": "I ………… going to wear blue shoes tonight.",
     "options": [
-      "is",
-      "are",
       "be",
-      "am"
+      "am",
+      "is",
+      "are"
     ],
-    "correct": "D",
+    "correct": "B",
     "explanation": {
       "A": "صحيح! 'I' يأخذ 'am'.",
       "B": "is للمفرد الغائب.",
@@ -34,12 +34,12 @@
   {
     "text": "…………… you going to cook dinner?",
     "options": [
-      "Am",
       "Be",
       "Are",
+      "Am",
       "Is"
     ],
-    "correct": "C",
+    "correct": "B",
     "explanation": {
       "A": "صحيح! 'Are you' للسؤال.",
       "B": "Am لـ I.",
@@ -50,10 +50,10 @@
   {
     "text": "Sara …………… going to share her biscuits.",
     "options": [
+      "am not",
       "be not",
-      "are not",
       "is not",
-      "am not"
+      "are not"
     ],
     "correct": "C",
     "explanation": {
@@ -66,12 +66,12 @@
   {
     "text": "They ………………… the house next week.",
     "options": [
-      "are going to leave",
       "leave",
       "is leaving",
+      "are going to leave",
       "leaves"
     ],
-    "correct": "A",
+    "correct": "C",
     "explanation": {
       "A": "صحيح! 'be going to' للتخطيط المستقبلي.",
       "B": "مضارع مستمر.",
@@ -82,12 +82,12 @@
   {
     "text": "Jack ………………………… home tomorrow.",
     "options": [
-      "walks",
       "is going to walk",
       "walking",
-      "walk"
+      "walk",
+      "walks"
     ],
-    "correct": "B",
+    "correct": "A",
     "explanation": {
       "A": "صحيح! 'Jack' مفرد → 'is going to walk'.",
       "B": "مضارع بسيط.",
@@ -98,12 +98,12 @@
   {
     "text": "I am going to ……….. my hands.",
     "options": [
-      "wash",
       "washes",
       "washed",
-      "washing"
+      "washing",
+      "wash"
     ],
-    "correct": "A",
+    "correct": "D",
     "explanation": {
       "A": "صحيح! بعد 'going to' المصدر.",
       "B": "ماضي.",
@@ -114,8 +114,8 @@
   {
     "text": "I ………………………….. to cinema next week.",
     "options": [
-      "are going to go",
       "is going to go",
+      "are going to go",
       "am going to go",
       "be going to go"
     ],
@@ -130,12 +130,12 @@
   {
     "text": "The rabbit is going to …………. the carrot.",
     "options": [
-      "eating",
-      "eat",
       "eats",
-      "ate"
+      "eating",
+      "ate",
+      "eat"
     ],
-    "correct": "B",
+    "correct": "D",
     "explanation": {
       "A": "صحيح! المصدر بعد 'going to'.",
       "B": "ماضي.",
@@ -146,8 +146,8 @@
   {
     "text": "They are going to ………………… football.",
     "options": [
-      "played",
       "playing",
+      "played",
       "plays",
       "play"
     ],
@@ -163,9 +163,9 @@
     "text": "………………… is Frank going to have for dinner? A pizza.",
     "options": [
       "What",
+      "How long",
       "Where",
-      "How",
-      "How long"
+      "How"
     ],
     "correct": "A",
     "explanation": {
@@ -180,8 +180,8 @@
     "options": [
       "Where",
       "Why",
-      "What",
-      "How long"
+      "How long",
+      "What"
     ],
     "correct": "A",
     "explanation": {
@@ -194,12 +194,12 @@
   {
     "text": "…………..are you going to be there? on Monday.",
     "options": [
-      "When",
       "How",
-      "How long",
-      "Where"
+      "Where",
+      "When",
+      "How long"
     ],
-    "correct": "A",
+    "correct": "C",
     "explanation": {
       "A": "صحيح! 'When' للزمان.",
       "B": "Where للمكان.",
@@ -210,12 +210,12 @@
   {
     "text": "…………… are you going to get to work? By the bus.",
     "options": [
-      "Which",
       "When",
       "Where",
-      "How"
+      "How",
+      "Which"
     ],
-    "correct": "D",
+    "correct": "C",
     "explanation": {
       "A": "صحيح! 'How' للوسيلة.",
       "B": "Which للاختيار.",
@@ -227,11 +227,11 @@
     "text": "……………….. is she going to go? To the store.",
     "options": [
       "When",
-      "How",
+      "Where",
       "What",
-      "Where"
+      "How"
     ],
-    "correct": "D",
+    "correct": "B",
     "explanation": {
       "A": "صحيح! 'Where' للمكان.",
       "B": "When للزمان.",
@@ -242,12 +242,12 @@
   {
     "text": "……………..are you going to go with? with my friends",
     "options": [
-      "Who",
       "What",
       "How long",
+      "Who",
       "When"
     ],
-    "correct": "A",
+    "correct": "C",
     "explanation": {
       "A": "صحيح! 'Who' للفاعل (مع من).",
       "B": "How long للمدة.",
@@ -259,11 +259,11 @@
     "text": "…………..are they going to have their party? next week.",
     "options": [
       "Which",
-      "When",
       "How",
-      "Where"
+      "Where",
+      "When"
     ],
-    "correct": "B",
+    "correct": "D",
     "explanation": {
       "A": "صحيح! 'When' للزمان.",
       "B": "Which للاختيار.",
@@ -275,11 +275,11 @@
     "text": "…………………. are you going to Wait? for one hour.",
     "options": [
       "What",
-      "Who",
       "How long",
+      "Who",
       "Which"
     ],
-    "correct": "C",
+    "correct": "B",
     "explanation": {
       "A": "صحيح! 'How long' للمدة الزمنية.",
       "B": "What للشيء.",
@@ -290,12 +290,12 @@
   {
     "text": "……………………..is she going to live in this city? For three years",
     "options": [
-      "How long",
+      "Which",
       "Who",
       "What",
-      "Which"
+      "How long"
     ],
-    "correct": "A",
+    "correct": "D",
     "explanation": {
       "A": "صحيح! 'How long' للمدة.",
       "B": "What خطأ.",
@@ -306,12 +306,12 @@
   {
     "text": "We took a ride on………………",
     "options": [
-      "an old bus",
       "old bus",
+      "an old buses",
       "a old bus",
-      "an old buses"
+      "an old bus"
     ],
-    "correct": "A",
+    "correct": "D",
     "explanation": {
       "A": "صحيح! 'old' تبدأ بحرف متحرك صوتياً → 'an'.",
       "B": "a خطأ قبل حرف متحرك.",
@@ -322,10 +322,10 @@
   {
     "text": "Mark and Jane are carrying ……………………….",
     "options": [
-      "heavy chair",
+      "a heavy chairs",
       "a heavy chair",
       "an heavy chair",
-      "a heavy chairs"
+      "heavy chair"
     ],
     "correct": "B",
     "explanation": {
@@ -338,12 +338,12 @@
   {
     "text": "I have some ………………...",
     "options": [
-      "an new shoe",
       "new shoes",
       "a new shoes",
-      "an new shoes"
+      "an new shoes",
+      "an new shoe"
     ],
-    "correct": "B",
+    "correct": "A",
     "explanation": {
       "A": "صحيح! 'some' + جمع بدون أداة.",
       "B": "an خطأ مع جمع.",
@@ -354,10 +354,10 @@
   {
     "text": "He is …………………………",
     "options": [
+      "a fast drivers",
       "fast driver",
-      "an fast driver",
       "a fast driver",
-      "a fast drivers"
+      "an fast driver"
     ],
     "correct": "C",
     "explanation": {
@@ -370,12 +370,12 @@
   {
     "text": "He studies ……...",
     "options": [
-      "well",
       "good",
+      "better",
       "worse",
-      "better"
+      "well"
     ],
-    "correct": "A",
+    "correct": "D",
     "explanation": {
       "A": "صحيح! 'well' ظرف حال يصف الفعل 'studies'.",
       "B": "better صفة مقارنة.",
@@ -386,12 +386,12 @@
   {
     "text": "My dog eats ………………….",
     "options": [
+      "slowest",
       "slow",
       "slowly",
-      "slowest",
       "slower"
     ],
-    "correct": "B",
+    "correct": "C",
     "explanation": {
       "A": "صحيح! 'slowly' ظرف حال.",
       "B": "slowest صفة تفضيل.",
@@ -402,12 +402,12 @@
   {
     "text": "He sings ……………………………...",
     "options": [
-      "beautifully",
       "most beautiful",
+      "beautiful",
       "more beautiful",
-      "beautiful"
+      "beautifully"
     ],
-    "correct": "A",
+    "correct": "D",
     "explanation": {
       "A": "صحيح! 'beautifully' ظرف حال.",
       "B": "beautiful صفة.",
@@ -418,12 +418,12 @@
   {
     "text": "He's a ………………………. singer.",
     "options": [
+      "beautiful",
       "more beautiful",
       "most beautiful",
-      "beautifully",
-      "beautiful"
+      "beautifully"
     ],
-    "correct": "D",
+    "correct": "A",
     "explanation": {
       "A": "صحيح! 'beautiful' صفة تصف 'singer'.",
       "B": "beautifully ظرف.",
@@ -434,12 +434,12 @@
   {
     "text": "He drives the car ……………………...",
     "options": [
-      "careful",
       "carefully",
       "more careful",
-      "most careful"
+      "most careful",
+      "careful"
     ],
-    "correct": "B",
+    "correct": "A",
     "explanation": {
       "A": "صحيح! 'carefully' ظرف حال.",
       "B": "most careful صفة تفضيل.",
@@ -452,8 +452,8 @@
     "options": [
       "careful",
       "carefully",
-      "more careful",
-      "most careful"
+      "most careful",
+      "more careful"
     ],
     "correct": "A",
     "explanation": {
@@ -461,6 +461,38 @@
       "B": "most careful تفضيل.",
       "C": "more careful مقارنة.",
       "D": "carefully ظرف."
+    }
+  },
+  {
+    "text": "There is ______________ in the garden.",
+    "options": [
+      "a small dog",
+      "a small dogs",
+      "an small dog",
+      "an small dogs"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'small' ساكن → 'a' + مفرد.",
+      "B": "a مع dogs خطأ.",
+      "C": "an مع dogs خطأ.",
+      "D": "an مع small خطأ."
+    }
+  },
+  {
+    "text": "Mother looked ________ at the nice flowers.",
+    "options": [
+      "happily",
+      "happy",
+      "the happiest",
+      "happier"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'happily' ظرف حال يصف 'looked'.",
+      "B": "happy صفة.",
+      "C": "the happiest تفضيل.",
+      "D": "happier مقارنة."
     }
   }
 ]

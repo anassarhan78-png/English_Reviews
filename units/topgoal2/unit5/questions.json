@@ -2,12 +2,12 @@
   {
     "text": "We use 'was' with:",
     "options": [
-      "I, he, she, it",
       "you, we, they",
       "only I",
-      "only they"
+      "only they",
+      "I, he, she, it"
     ],
-    "correct": "A",
+    "correct": "D",
     "explanation": {
       "A": "صحيح! 'was' مع المفرد.",
       "B": "'were' مع هذه الضمائر.",
@@ -18,17 +18,209 @@
   {
     "text": "Choose the correct sentence:",
     "options": [
-      "She was reading when I arrived.",
-      "She was read when I arrived.",
+      "She reading when I arrived.",
       "She read when I was arriving.",
-      "She reading when I arrived."
+      "She was read when I arrived.",
+      "She was reading when I arrived."
     ],
-    "correct": "A",
+    "correct": "D",
     "explanation": {
       "A": "صحيح! تركيب سليم.",
       "B": "ينقص '-ing'.",
       "C": "معكوسة.",
       "D": "ينقص 'was'."
+    }
+  },
+  {
+    "text": "Amina __________ (eat) a sandwich in class yesterday.",
+    "options": [
+      "eats",
+      "was eating",
+      "is eating",
+      "ate"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! الماضي المستمر 'was eating' يعبر عن حدث مستمر في الماضي.",
+      "B": "Is eating مضارع مستمر وليس ماضي.",
+      "C": "Ate ماضي بسيط وليس مستمر.",
+      "D": "Eats مضارع بسيط."
+    }
+  },
+  {
+    "text": "We __________ (laugh) because the horror movie was funny.",
+    "options": [
+      "were laughing",
+      "was laughing",
+      "laugh",
+      "laughed"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! مع 'We' نستخدم 'were' + فعل + ing.",
+      "B": "Was تستخدم مع المفرد.",
+      "C": "Laughed ماضي بسيط وليس مستمر.",
+      "D": "Laugh مضارع."
+    }
+  },
+  {
+    "text": "__________ Adel and Ibrahim __________ (make) a documentary last week?",
+    "options": [
+      "Was ... making",
+      "Are ... making",
+      "Did ... make",
+      "Were ... making"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! السؤال في الماضي المستمر مع فاعل جمع: Were + فاعل + فعل + ing.",
+      "B": "Was للفاعل المفرد.",
+      "C": "Did make ماضي بسيط.",
+      "D": "Are making مضارع مستمر."
+    }
+  },
+  {
+    "text": "I knew Farah __________ (not enjoy) the fairy tale. She looked sad.",
+    "options": [
+      "wasn't enjoying",
+      "doesn't enjoy",
+      "isn't enjoying",
+      "didn't enjoy"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! النفي في الماضي المستمر: wasn't/weren't + فعل + ing.",
+      "B": "Didn't enjoy ماضي بسيط.",
+      "C": "Isn't enjoying مضارع مستمر.",
+      "D": "Doesn't enjoy مضارع بسيط."
+    }
+  },
+  {
+    "text": "__________ you __________ (watch) the play or did you fall asleep?",
+    "options": [
+      "Were ... watching",
+      "Was ... watching",
+      "Did ... watch",
+      "Are ... watching"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! سؤال ماضي مستمر مع 'you': Were you watching.",
+      "B": "Was تستخدم مع I/he/she/it.",
+      "C": "Did watch ماضي بسيط.",
+      "D": "Are watching مضارع مستمر."
+    }
+  },
+  {
+    "text": "I __________ a movie when my friend called me.",
+    "options": [
+      "watch",
+      "watched",
+      "was watching",
+      "am watching"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! الماضي المستمر يعبر عن حدث مستمر قطعه حدث آخر.",
+      "B": "ماضي بسيط لا يعبر عن الاستمرارية.",
+      "C": "مضارع مستمر خطأ.",
+      "D": "مضارع بسيط خطأ."
+    }
+  },
+  {
+    "text": "While she __________, she saw a snake.",
+    "options": [
+      "hiked",
+      "was hiking",
+      "is hiking",
+      "hikes"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! 'While' يتبعها ماضي مستمر.",
+      "B": "ماضي بسيط لا يناسب الاستمرارية.",
+      "C": "مضارع خطأ.",
+      "D": "مضارع مستمر خطأ."
+    }
+  },
+  {
+    "text": "They __________ football when it started to rain.",
+    "options": [
+      "were playing",
+      "played",
+      "play",
+      "are playing"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'were playing' لأن الفاعل جمع.",
+      "B": "ماضي بسيط لا يعبر عن الاستمرار.",
+      "C": "مضارع خطأ.",
+      "D": "مضارع مستمر خطأ."
+    }
+  },
+  {
+    "text": "My father __________ dinner when the phone rang.",
+    "options": [
+      "cooked",
+      "cooks",
+      "was cooking",
+      "is cooking"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! 'was cooking' حدث مستمر في الماضي.",
+      "B": "ماضي بسيط لا يظهر الاستمرار.",
+      "C": "مضارع خطأ.",
+      "D": "مضارع مستمر خطأ."
+    }
+  },
+  {
+    "text": "What __________ you __________ at 8 o'clock last night?",
+    "options": [
+      "were / doing",
+      "did / do",
+      "was / doing",
+      "are / doing"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! السؤال في الماضي المستمر.",
+      "B": "ماضي بسيط لا يدل على وقت محدد.",
+      "C": "مضارع مستمر خطأ.",
+      "D": "'was' خطأ مع 'you'."
+    }
+  },
+  {
+    "text": "While I __________ to school, I saw an accident.",
+    "options": [
+      "walk",
+      "am walking",
+      "was walking",
+      "walked"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! 'While' يتبعه ماضي مستمر.",
+      "B": "ماضي بسيط لا يناسب.",
+      "C": "مضارع خطأ.",
+      "D": "مضارع خطأ."
+    }
+  },
+  {
+    "text": "__________ he sleeping when you called?",
+    "options": [
+      "Is",
+      "Was",
+      "Are",
+      "Were"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! 'Was' مع 'he'.",
+      "B": "خطأ.",
+      "C": "مضارع خطأ.",
+      "D": "مضارع خطأ."
     }
   }
 ]

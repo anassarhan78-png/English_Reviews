@@ -3,11 +3,11 @@
     "text": "He …………………….. his homework already.",
     "options": [
       "finished",
+      "finishes",
       "has finished",
-      "have finished",
-      "finishes"
+      "have finished"
     ],
-    "correct": "B",
+    "correct": "C",
     "explanation": {
       "A": "صحيح! He مفرد → has + finished.",
       "B": "have للجمع.",
@@ -18,12 +18,12 @@
   {
     "text": "We have ________ this movie already.",
     "options": [
-      "seen",
       "to see",
+      "seen",
       "see",
       "saw"
     ],
-    "correct": "A",
+    "correct": "B",
     "explanation": {
       "A": "صحيح! تصريف ثالث لـ see هو seen.",
       "B": "see مضارع خطأ.",
@@ -35,11 +35,11 @@
     "text": "He has …………………. his leg.",
     "options": [
       "breaking",
+      "broke",
       "broken",
-      "breaks",
-      "broke"
+      "breaks"
     ],
-    "correct": "B",
+    "correct": "C",
     "explanation": {
       "A": "صحيح! has + broken (تصريف ثالث).",
       "B": "breaks مضارع خطأ.",
@@ -51,11 +51,11 @@
     "text": "The children have ………………… a mess in the kitchen.",
     "options": [
       "make",
-      "made",
+      "to make",
       "making",
-      "to make"
+      "made"
     ],
-    "correct": "B",
+    "correct": "D",
     "explanation": {
       "A": "صحيح! have + made (تصريف ثالث).",
       "B": "make مضارع خطأ.",
@@ -67,11 +67,11 @@
     "text": "Have you ever _______ to England?",
     "options": [
       "were",
-      "been",
       "are",
+      "been",
       "be"
     ],
-    "correct": "B",
+    "correct": "C",
     "explanation": {
       "A": "صحيح! Have you ever been للسؤال عن تجربة.",
       "B": "were ماضي خطأ.",
@@ -82,12 +82,12 @@
   {
     "text": "I have never ………………. to Italy.",
     "options": [
+      "been",
       "were",
       "is",
-      "be",
-      "been"
+      "be"
     ],
-    "correct": "D",
+    "correct": "A",
     "explanation": {
       "A": "صحيح! have never been.",
       "B": "be خطأ.",
@@ -98,12 +98,12 @@
   {
     "text": "They haven't ……………………… yet.",
     "options": [
-      "eat",
-      "ate",
       "eats",
-      "eaten"
+      "eaten",
+      "ate",
+      "eat"
     ],
-    "correct": "D",
+    "correct": "B",
     "explanation": {
       "A": "صحيح! haven't + eaten.",
       "B": "eat مضارع خطأ.",
@@ -130,12 +130,12 @@
   {
     "text": "_____ he bought a new car yet?",
     "options": [
-      "Have",
       "Has",
+      "Is",
       "Was",
-      "Is"
+      "Have"
     ],
-    "correct": "B",
+    "correct": "A",
     "explanation": {
       "A": "صحيح! Has he bought?",
       "B": "Have خطأ مع he.",
@@ -157,6 +157,86 @@
       "B": "buying خطأ.",
       "C": "buy مضارع خطأ.",
       "D": "buys خطأ."
+    }
+  },
+  {
+    "text": "They ____________ three letters already.",
+    "options": [
+      "write",
+      "have written",
+      "wrote",
+      "has written"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! مضارع تام مع 'They': have + written.",
+      "B": "wrote ماضي بسيط ولا يناسب 'already'.",
+      "C": "has للمفرد.",
+      "D": "write مضارع خطأ."
+    }
+  },
+  {
+    "text": "We have ___________ to Canada.",
+    "options": [
+      "were",
+      "been",
+      "are",
+      "be"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! have been للتجربة.",
+      "B": "are مضارع خطأ.",
+      "C": "be مصدر خطأ.",
+      "D": "were ماضي خطأ."
+    }
+  },
+  {
+    "text": "There has __________ an accident.",
+    "options": [
+      "been",
+      "is",
+      "be",
+      "was"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! has + been.",
+      "B": "is مضارع خطأ.",
+      "C": "was ماضي خطأ.",
+      "D": "be مصدر خطأ."
+    }
+  },
+  {
+    "text": "We haven't ___________a movie yet.",
+    "options": [
+      "watching",
+      "watched",
+      "are going to watch",
+      "to watch"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! haven't + watched.",
+      "B": "are going to watch مستقبل خطأ.",
+      "C": "to watch خطأ.",
+      "D": "watching خطأ."
+    }
+  },
+  {
+    "text": "__________ you ever seen a ghost?",
+    "options": [
+      "Do",
+      "Has",
+      "Are",
+      "Have"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! Have you ever seen?",
+      "B": "Has للمفرد.",
+      "C": "Are خطأ.",
+      "D": "Do خطأ."
     }
   }
 ]

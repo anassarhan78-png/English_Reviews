@@ -2,17 +2,241 @@
   {
     "text": "They __________ when the fire __________.",
     "options": [
-      "were not sleeping / started",
-      "were not sleeping / was starting",
       "did not sleep / was starting",
-      "did not sleep / started"
+      "were not sleeping / started",
+      "did not sleep / started",
+      "were not sleeping / was starting"
     ],
-    "correct": "A",
+    "correct": "B",
     "explanation": {
       "A": "صحيح! نفي ماضي مستمر + ماضي بسيط.",
       "B": "خطأ: 'start' فعل لحظي لا يستخدم في المستمر عادة.",
       "C": "خطأ: 'was starting' غير مناسب هنا.",
       "D": "جائز لكن المستمر أفضل لوصف الحالة المستمرة قبل الحدث."
+    }
+  },
+  {
+    "text": "Maha __________ down when she __________.",
+    "options": [
+      "fell / was climbing",
+      "fell / climbed",
+      "was falling / climbed",
+      "was falling / was climbing"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! ماضي بسيط + ماضي مستمر: fell / was climbing.",
+      "B": "خطأ: الترتيب والاستخدام غير صحيح.",
+      "C": "ماضيين بسيطين لا يعبران عن التداخل الزمني.",
+      "D": "ماضيين مستمرين غير مناسبين."
+    }
+  },
+  {
+    "text": "We __________ and __________ an eagle.",
+    "options": [
+      "were hiking / were seeing",
+      "were hiking / saw",
+      "hiked / saw",
+      "hiked / were seeing"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! ماضي مستمر (حدث طويل) + ماضي بسيط (حدث مفاجئ).",
+      "B": "خطأ: 'see' لا تستخدم عادة في المستمر.",
+      "C": "غير مناسب: الحدثان مستمران.",
+      "D": "جائز لكن 'were hiking / saw' أفضل لوصف المشهد."
+    }
+  },
+  {
+    "text": "Amal __________ cold while she __________ in the ocean.",
+    "options": [
+      "felt / surfed",
+      "felt / was surfing",
+      "was feeling / surfed",
+      "was feeling / was surfing"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! ماضي بسيط + ماضي مستمر.",
+      "B": "خطأ: الترتيب غير منطقي.",
+      "C": "ماضيين بسيطين لا يربطان الحدثين زمنياً.",
+      "D": "جائز لكن 'felt / was surfing' أكثر دقة."
+    }
+  },
+  {
+    "text": "What __________ you __________ when the horse __________ away?",
+    "options": [
+      "did ... do / ran",
+      "were ... doing / ran",
+      "were ... doing / was running",
+      "did ... do / was running"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! سؤال ماضي مستمر + ماضي بسيط.",
+      "B": "خطأ: السؤال بالماضي البسيط لا يناسب السياق.",
+      "C": "خطأ: 'ran' فعل لحظي لا يستخدم في المستمر.",
+      "D": "جائز لكن المستمر أفضل للسؤال عن نشاط مستمر."
+    }
+  },
+  {
+    "text": "When we go camping, we sleep in a __________.",
+    "options": [
+      "tent",
+      "flashlight",
+      "sleeping bag",
+      "raft"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'tent' هي الخيمة.",
+      "B": "كيس النوم.",
+      "C": "قارب.",
+      "D": "مصباح."
+    }
+  },
+  {
+    "text": "You need a __________ to see in the dark forest.",
+    "options": [
+      "backpack",
+      "flashlight",
+      "tent",
+      "helmet"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! 'flashlight' مصباح.",
+      "B": "خوذة.",
+      "C": "حقيبة.",
+      "D": "خيمة."
+    }
+  },
+  {
+    "text": "Horseback __________ is a popular activity in the countryside.",
+    "options": [
+      "flying",
+      "driving",
+      "riding",
+      "swimming"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! 'riding' ركوب الخيل.",
+      "B": "قيادة.",
+      "C": "طيران.",
+      "D": "سباحة."
+    }
+  },
+  {
+    "text": "We sat around the __________ and sang songs.",
+    "options": [
+      "campfire",
+      "tent",
+      "raft",
+      "backpack"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'campfire' نار المخيم.",
+      "B": "خيمة.",
+      "C": "حقيبة.",
+      "D": "قارب."
+    }
+  },
+  {
+    "text": "She was carrying a heavy __________ on her back.",
+    "options": [
+      "flashlight",
+      "backpack",
+      "raft",
+      "tent"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! 'backpack' حقيبة ظهر.",
+      "B": "خيمة.",
+      "C": "قارب.",
+      "D": "مصباح."
+    }
+  },
+  {
+    "text": "We used a __________ to cross the river.",
+    "options": [
+      "raft",
+      "tent",
+      "backpack",
+      "flashlight"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'raft' قارب مطاطي.",
+      "B": "خيمة.",
+      "C": "حقيبة.",
+      "D": "مصباح."
+    }
+  },
+  {
+    "text": "I have a __________ to keep me warm at night.",
+    "options": [
+      "backpack",
+      "raft",
+      "tent",
+      "sleeping bag"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! 'sleeping bag' كيس النوم.",
+      "B": "خيمة.",
+      "C": "حقيبة.",
+      "D": "قارب."
+    }
+  },
+  {
+    "text": "He __________ when he fell off the horse.",
+    "options": [
+      "is riding",
+      "rode",
+      "rides",
+      "was riding"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! حدث مستمر في الماضي.",
+      "B": "ماضي بسيط لا يناسب.",
+      "C": "مضارع.",
+      "D": "مضارع مستمر."
+    }
+  },
+  {
+    "text": "While they __________, they saw a bear.",
+    "options": [
+      "hike",
+      "were hiking",
+      "hiked",
+      "are hiking"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! 'While' مع ماضي مستمر.",
+      "B": "ماضي بسيط.",
+      "C": "مضارع.",
+      "D": "مضارع مستمر."
+    }
+  },
+  {
+    "text": "You should wear a __________ when you climb.",
+    "options": [
+      "helmet",
+      "sleeping bag",
+      "tent",
+      "flashlight"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'helmet' خوذة.",
+      "B": "خيمة.",
+      "C": "مصباح.",
+      "D": "كيس نوم."
     }
   }
 ]

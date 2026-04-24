@@ -18,12 +18,12 @@
   {
     "text": "Can I ………… the salt?",
     "options": [
-      "having",
-      "has",
       "have",
-      "had"
+      "having",
+      "had",
+      "has"
     ],
-    "correct": "C",
+    "correct": "A",
     "explanation": {
       "A": "صحيح! المصدر بعد Can.",
       "B": "had ماضي.",
@@ -34,12 +34,12 @@
   {
     "text": "Could I ………… you the time, please?",
     "options": [
-      "ask",
+      "asking",
       "asks",
-      "asked",
-      "asking"
+      "ask",
+      "asked"
     ],
-    "correct": "A",
+    "correct": "C",
     "explanation": {
       "A": "صحيح! المصدر بعد Could.",
       "B": "asked ماضي.",
@@ -50,9 +50,9 @@
   {
     "text": "Will you ………….. me an email tomorrow?",
     "options": [
-      "sending",
-      "to send",
       "sends",
+      "to send",
+      "sending",
       "send"
     ],
     "correct": "D",
@@ -67,11 +67,11 @@
     "text": "Would you …………….. to my birthday party?",
     "options": [
       "coming",
-      "comes",
       "come",
+      "comes",
       "to come"
     ],
-    "correct": "C",
+    "correct": "B",
     "explanation": {
       "A": "صحيح! Would you + مصدر بدون to (في الطلب).",
       "B": "comes خطأ.",
@@ -82,12 +82,12 @@
   {
     "text": "I'll ………….. the ironing.",
     "options": [
-      "do",
-      "does",
+      "did",
       "to do",
-      "did"
+      "does",
+      "do"
     ],
-    "correct": "A",
+    "correct": "D",
     "explanation": {
       "A": "صحيح! I'll = I will + مصدر.",
       "B": "to do خطأ.",
@@ -98,12 +98,12 @@
   {
     "text": "Let me …………. you some more soup.",
     "options": [
-      "get",
       "getting",
-      "gets",
-      "to get"
+      "to get",
+      "get",
+      "gets"
     ],
-    "correct": "A",
+    "correct": "C",
     "explanation": {
       "A": "صحيح! بعد Let + مفعول + مصدر بدون to.",
       "B": "to get خطأ.",
@@ -130,12 +130,12 @@
   {
     "text": "I'll ………….. you a lift to the station.",
     "options": [
-      "giving",
       "to give",
-      "give",
-      "gives"
+      "gives",
+      "giving",
+      "give"
     ],
-    "correct": "C",
+    "correct": "D",
     "explanation": {
       "A": "صحيح! I'll = I will + مصدر.",
       "B": "gives خطأ.",
@@ -146,12 +146,12 @@
   {
     "text": "I want you ……………………… your bed.",
     "options": [
-      "makes",
-      "making",
       "to make",
-      "made"
+      "makes",
+      "made",
+      "making"
     ],
-    "correct": "C",
+    "correct": "A",
     "explanation": {
       "A": "صحيح! want + مفعول + to + مصدر.",
       "B": "made ماضي.",
@@ -162,12 +162,12 @@
   {
     "text": "Ask your doctor ………………… you some advice.",
     "options": [
-      "give",
+      "to give",
       "giving",
-      "gives",
-      "to give"
+      "give",
+      "gives"
     ],
-    "correct": "D",
+    "correct": "A",
     "explanation": {
       "A": "صحيح! ask + مفعول + to + مصدر.",
       "B": "giving خطأ.",
@@ -178,12 +178,12 @@
   {
     "text": "Tell her …………… some food.",
     "options": [
-      "bringing",
       "brought",
-      "to bring",
-      "brings"
+      "brings",
+      "bringing",
+      "to bring"
     ],
-    "correct": "C",
+    "correct": "D",
     "explanation": {
       "A": "صحيح! tell + مفعول + to + مصدر.",
       "B": "brings خطأ.",

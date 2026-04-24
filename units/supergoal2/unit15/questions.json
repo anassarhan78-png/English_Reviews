@@ -3,11 +3,11 @@
     "text": "He was writing an e-mail when the phone ………………..",
     "options": [
       "rings",
-      "rang",
       "to ring",
+      "rang",
       "ringing"
     ],
-    "correct": "B",
+    "correct": "C",
     "explanation": {
       "A": "صحيح! ماضي بسيط (حدث مفاجئ) مع ماضي مستمر.",
       "B": "to ring خطأ.",
@@ -20,10 +20,10 @@
     "options": [
       "are playing",
       "be playing",
-      "was playing",
-      "were playing"
+      "were playing",
+      "was playing"
     ],
-    "correct": "D",
+    "correct": "C",
     "explanation": {
       "A": "صحيح! kids جمع → were + playing.",
       "B": "be خطأ.",
@@ -35,11 +35,11 @@
     "text": "He ………………… a shower when the phone rang.",
     "options": [
       "were taking",
+      "was taking",
       "to take",
-      "is taking",
-      "was taking"
+      "is taking"
     ],
-    "correct": "D",
+    "correct": "B",
     "explanation": {
       "A": "صحيح! He مفرد → was taking.",
       "B": "were للجمع.",
@@ -50,12 +50,12 @@
   {
     "text": "When I …………………….. into the room, everyone was working.",
     "options": [
-      "was walking",
-      "to walk",
       "walked",
+      "to walk",
+      "was walking",
       "is walking"
     ],
-    "correct": "C",
+    "correct": "A",
     "explanation": {
       "A": "صحيح! ماضي بسيط (دخلت) مع جملة مستمرة.",
       "B": "to walk خطأ.",
@@ -66,12 +66,12 @@
   {
     "text": "When her train got to the station, we ………………………...",
     "options": [
-      "is waiting",
-      "waited",
       "were waiting",
+      "waited",
+      "is waiting",
       "to wait"
     ],
-    "correct": "C",
+    "correct": "A",
     "explanation": {
       "A": "صحيح! كنا ننتظر (مستمر في الماضي).",
       "B": "waited ممكن لكن المستمر أفضل للوصف.",
@@ -82,9 +82,9 @@
   {
     "text": "Peter ……………………… a book yesterday evening.",
     "options": [
-      "were reading",
       "to read",
       "is reading",
+      "were reading",
       "was reading"
     ],
     "correct": "D",
@@ -98,12 +98,12 @@
   {
     "text": "He ……………. sleeping all night long.",
     "options": [
-      "are",
       "was",
       "were",
-      "be"
+      "be",
+      "are"
     ],
-    "correct": "B",
+    "correct": "A",
     "explanation": {
       "A": "صحيح! He مفرد → was.",
       "B": "were للجمع أو you.",
@@ -114,12 +114,12 @@
   {
     "text": "When she was young, my aunt could ……………… for miles.",
     "options": [
-      "to run",
-      "run",
       "runs",
-      "running"
+      "to run",
+      "running",
+      "run"
     ],
-    "correct": "B",
+    "correct": "D",
     "explanation": {
       "A": "صحيح! بعد could يأتي المصدر بدون to.",
       "B": "running خطأ.",
@@ -130,12 +130,12 @@
   {
     "text": "When I …………. five, I could not swim.",
     "options": [
+      "were",
       "is",
       "be",
-      "was",
-      "were"
+      "was"
     ],
-    "correct": "C",
+    "correct": "D",
     "explanation": {
       "A": "صحيح! I + was في الماضي.",
       "B": "be مصدر خطأ.",
@@ -146,12 +146,12 @@
   {
     "text": "I could …………… when I was less than a year old.",
     "options": [
-      "walk",
-      "walking",
+      "walked",
       "walks",
-      "walked"
+      "walking",
+      "walk"
     ],
-    "correct": "A",
+    "correct": "D",
     "explanation": {
       "A": "صحيح! المصدر بعد could.",
       "B": "walked ماضي خطأ.",
@@ -163,9 +163,9 @@
     "text": "My brother ……………………… drive a car when he was young.",
     "options": [
       "is not able to",
-      "am not able to",
+      "were not able to",
       "was not able to",
-      "were not able to"
+      "am not able to"
     ],
     "correct": "C",
     "explanation": {
@@ -179,11 +179,11 @@
     "text": "I was able to ……………… football.",
     "options": [
       "playing",
-      "played",
       "plays",
-      "play"
+      "play",
+      "played"
     ],
-    "correct": "D",
+    "correct": "C",
     "explanation": {
       "A": "صحيح! المصدر بعد was able to.",
       "B": "plays خطأ.",
@@ -194,17 +194,49 @@
   {
     "text": "He ………………… able to swim across the lake.",
     "options": [
-      "are",
-      "is",
       "were",
-      "was"
+      "was",
+      "is",
+      "are"
     ],
-    "correct": "D",
+    "correct": "B",
     "explanation": {
       "A": "صحيح! He مفرد → was.",
       "B": "were للجمع.",
       "C": "is مضارع.",
       "D": "are مضارع جمع."
+    }
+  },
+  {
+    "text": "I was practising the guitar when he ……………… home.",
+    "options": [
+      "coming",
+      "comes",
+      "come",
+      "came"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! ماضي بسيط مع when.",
+      "B": "come مضارع خطأ.",
+      "C": "comes خطأ.",
+      "D": "coming خطأ."
+    }
+  },
+  {
+    "text": "You ……………… playing football.",
+    "options": [
+      "were",
+      "are",
+      "was",
+      "is"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! You تأخذ were في الماضي المستمر.",
+      "B": "are مضارع.",
+      "C": "is للمفرد.",
+      "D": "was خطأ مع you."
     }
   }
 ]
