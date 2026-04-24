@@ -1,1 +1,197 @@
-[]
+[
+  {
+    "text": "What does 'dive' mean?",
+    "options": [
+      "يركض",
+      "يطير",
+      "يغطس",
+      "يسبح"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! النزول تحت الماء."
+    }
+  },
+  {
+    "text": "What does 'hang gliding' mean?",
+    "options": [
+      "تسلق",
+      "ركوب أمواج",
+      "سباحة",
+      "طيران شراعي"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! رياضة الطيران بمظلة."
+    }
+  },
+  {
+    "text": "What does 'weird' mean?",
+    "options": [
+      "غريب",
+      "جميل",
+      "قديم",
+      "عادي"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! غير مألوف."
+    }
+  },
+  {
+    "text": "What does 'frightening' mean?",
+    "options": [
+      "مضحك",
+      "مخيف",
+      "ممل",
+      "هادئ"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! يسبب الخوف."
+    }
+  },
+  {
+    "text": "What does 'rope' mean?",
+    "options": [
+      "حبل",
+      "خيط",
+      "سلك",
+      "سلسلة"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! حبل قوي."
+    }
+  },
+  {
+    "text": "What does 'cage' mean?",
+    "options": [
+      "قفص",
+      "جحر",
+      "حديقة",
+      "غرفة"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! مكان لحبس الحيوانات."
+    }
+  },
+  {
+    "text": "What does 'harness' mean?",
+    "options": [
+      "قفازات",
+      "نظارة",
+      "حزام أمان",
+      "خوذة"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! عدة تثبيت."
+    }
+  },
+  {
+    "text": "What does 'throw' mean?",
+    "options": [
+      "يضرب",
+      "يرمي",
+      "يقطع",
+      "يمسك"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! قذف الشيء."
+    }
+  },
+  {
+    "text": "What does 'knock' mean?",
+    "options": [
+      "يدخل",
+      "يطرق الباب",
+      "يغلق",
+      "يصرخ"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! الطرق."
+    }
+  },
+  {
+    "text": "What does 'zebra' mean?",
+    "options": [
+      "جمل",
+      "حصان",
+      "بقرة",
+      "حمار وحشي"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! مخطط بالأبيض والأسود."
+    }
+  },
+  {
+    "text": "What does 'camel' mean?",
+    "options": [
+      "فيل",
+      "جمل",
+      "حصان",
+      "كلب"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! سفينة الصحراء."
+    }
+  },
+  {
+    "text": "What does 'shark' mean?",
+    "options": [
+      "دولفين",
+      "قرش",
+      "سمكة",
+      "حوت"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! مفترس بحري."
+    }
+  },
+  {
+    "text": "What does 'volcano' mean?",
+    "options": [
+      "تل",
+      "وادي",
+      "بركان",
+      "جبل"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! جبل يقذف حمماً."
+    }
+  },
+  {
+    "text": "Choose: 'Don't ______ stones into the river.'",
+    "options": [
+      "knock",
+      "swim",
+      "throw",
+      "dive"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! ترمي."
+    }
+  },
+  {
+    "text": "Choose: 'Many ______ can swim very fast.'",
+    "options": [
+      "Zebras",
+      "Camels",
+      "Parrots",
+      "Sharks"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! أسماك القرش."
+    }
+  }
+]

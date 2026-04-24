@@ -1,1 +1,200 @@
-[]
+[
+  {
+    "text": "What does 'camping' mean?",
+    "options": [
+      "ركوب أمواج",
+      "تسلق",
+      "تخييم",
+      "مشي"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! نصب الخيمة في الطبيعة."
+    }
+  },
+  {
+    "text": "What does 'surfing' mean?",
+    "options": [
+      "ركوب الخيل",
+      "تخييم",
+      "ركوب الأمواج",
+      "تسلق"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! رياضة مائية."
+    }
+  },
+  {
+    "text": "What does 'climbing' mean?",
+    "options": [
+      "طيران",
+      "ركض",
+      "سباحة",
+      "تسلق"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! صعود الجبال."
+    }
+  },
+  {
+    "text": "What is a 'sleeping bag'?",
+    "options": [
+      "حقيبة",
+      "كيس نوم",
+      "وسادة",
+      "خيمة"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! للنوم في المخيم."
+    }
+  },
+  {
+    "text": "What is a 'tent'?",
+    "options": [
+      "حقيبة ظهر",
+      "كيس نوم",
+      "خيمة",
+      "مصباح"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! مأوى التخييم."
+    }
+  },
+  {
+    "text": "What does 'flashlight' mean?",
+    "options": [
+      "حبل",
+      "مصباح يدوي",
+      "خوذة",
+      "سكين"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! للإضاءة في الظلام."
+    }
+  },
+  {
+    "text": "What does 'backpack' mean?",
+    "options": [
+      "حقيبة ظهر",
+      "خيمة",
+      "نظارة",
+      "ساعة"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! تُحمل على الظهر."
+    }
+  },
+  {
+    "text": "What does 'raft' mean?",
+    "options": [
+      "دراجة",
+      "سيارة",
+      "زلاجة",
+      "قارب مطاطي"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! للتجديف في النهر."
+    }
+  },
+  {
+    "text": "What does 'campfire' mean?",
+    "options": [
+      "كيس نوم",
+      "خيمة",
+      "مصباح",
+      "نار المخيم"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! نار للطهي والتدفئة."
+    }
+  },
+  {
+    "text": "Horseback ______ is a popular activity.",
+    "options": [
+      "driving",
+      "riding",
+      "swimming",
+      "flying"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! ركوب الخيل."
+    }
+  },
+  {
+    "text": "You need a ______ to protect your head when climbing.",
+    "options": [
+      "tent",
+      "helmet",
+      "backpack",
+      "raft"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! خوذة.",
+      "B": "حقيبة.",
+      "C": "خيمة.",
+      "D": "قارب."
+    }
+  },
+  {
+    "text": "The synonym of 'hike' is:",
+    "options": [
+      "swim",
+      "trek",
+      "fly",
+      "drive"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! مشي طويل."
+    }
+  },
+  {
+    "text": "Choose the correct word: 'We rowed the ______ across the lake.'",
+    "options": [
+      "backpack",
+      "tent",
+      "raft",
+      "helmet"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! قارب."
+    }
+  },
+  {
+    "text": "Choose the correct word: 'I carry my books in my ______.'",
+    "options": [
+      "backpack",
+      "tent",
+      "campfire",
+      "raft"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! حقيبة ظهر."
+    }
+  },
+  {
+    "text": "Choose the correct word: 'The ______ glows in the dark forest.'",
+    "options": [
+      "flashlight",
+      "campfire",
+      "tent",
+      "raft"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! مصباح."
+    }
+  }
+]

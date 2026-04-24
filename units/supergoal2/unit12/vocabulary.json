@@ -1,1 +1,197 @@
-[]
+[
+  {
+    "text": "What does 'hike' mean?",
+    "options": [
+      "سباحة",
+      "ركض",
+      "تسلق",
+      "تنزه طويل"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! مشي في الطبيعة."
+    }
+  },
+  {
+    "text": "What does 'carve' mean?",
+    "options": [
+      "ينحت",
+      "يطبع",
+      "يرسم",
+      "يكتب"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! النحت على الخشب أو الحجر."
+    }
+  },
+  {
+    "text": "What does 'explore' mean?",
+    "options": [
+      "يختبئ",
+      "يهرب",
+      "يستكشف",
+      "ينام"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! اكتشاف أماكن جديدة."
+    }
+  },
+  {
+    "text": "What does 'tomb' mean?",
+    "options": [
+      "جبل",
+      "قبر",
+      "كهف",
+      "نهر"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! مكان دفن."
+    }
+  },
+  {
+    "text": "What does 'cuisine' mean?",
+    "options": [
+      "فن الطبخ",
+      "لغة",
+      "رياضة",
+      "رقص"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! أسلوب الطعام."
+    }
+  },
+  {
+    "text": "What does 'resort' mean?",
+    "options": [
+      "مطار",
+      "مستشفى",
+      "منتجع سياحي",
+      "مدرسة"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! مكان للراحة."
+    }
+  },
+  {
+    "text": "What does 'mosquito' mean?",
+    "options": [
+      "بعوضة",
+      "فراشة",
+      "ذبابة",
+      "نحلة"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! حشرة تمص الدم."
+    }
+  },
+  {
+    "text": "What does 'habitat' mean?",
+    "options": [
+      "ماء",
+      "موطن طبيعي",
+      "طعام",
+      "هواء"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! مكان العيش."
+    }
+  },
+  {
+    "text": "What does 'herd' mean?",
+    "options": [
+      "قطيع",
+      "سرب",
+      "مفرد",
+      "زوج"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! مجموعة كبيرة من الحيوانات."
+    }
+  },
+  {
+    "text": "What does 'oasis' mean?",
+    "options": [
+      "صحراء",
+      "واحة",
+      "نهر",
+      "جبل"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! مكان فيه ماء في الصحراء."
+    }
+  },
+  {
+    "text": "What does 'ecosystem' mean?",
+    "options": [
+      "حيوان",
+      "نظام بيئي",
+      "نبات",
+      "مناخ"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! الكائنات وبيئتها."
+    }
+  },
+  {
+    "text": "What does 'inexpensive' mean?",
+    "options": [
+      "مجاني",
+      "متوسط",
+      "رخيص",
+      "غالي"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! غير مكلف."
+    }
+  },
+  {
+    "text": "What does 'quiet' mean?",
+    "options": [
+      "سريع",
+      "هادئ",
+      "بطيء",
+      "مزعج"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! غير صاخب."
+    }
+  },
+  {
+    "text": "What does 'peaceful' mean?",
+    "options": [
+      "حزين",
+      "حربي",
+      "مسالم",
+      "غاضب"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! هادئ ومريح."
+    }
+  },
+  {
+    "text": "What does 'trek' mean?",
+    "options": [
+      "نزهة قصيرة",
+      "سباق",
+      "رحلة شاقة",
+      "تسوق"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! رحلة طويلة سيراً."
+    }
+  }
+]

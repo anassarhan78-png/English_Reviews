@@ -1,1 +1,197 @@
-[]
+[
+  {
+    "text": "What does 'tour' mean?",
+    "options": [
+      "جولة سياحية",
+      "قطار",
+      "أمن",
+      "زحمة"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! زيارة معالم المدينة."
+    }
+  },
+  {
+    "text": "What does 'traffic' mean?",
+    "options": [
+      "نفق",
+      "ازدحام مروري",
+      "جولة",
+      "مطار"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! زحمة السيارات."
+    }
+  },
+  {
+    "text": "What does 'subway' mean?",
+    "options": [
+      "طائرة",
+      "حافلة",
+      "جولة",
+      "قطار الأنفاق"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! قطار تحت الأرض."
+    }
+  },
+  {
+    "text": "What does 'security' mean in travel?",
+    "options": [
+      "فندق",
+      "جواز",
+      "التفتيش الأمني",
+      "تذكرة"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! نقطة تفتيش في المطار."
+    }
+  },
+  {
+    "text": "What does 'hurry' mean?",
+    "options": [
+      "الانتظار",
+      "الإسراع",
+      "التأخر",
+      "النوم"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! العجلة."
+    }
+  },
+  {
+    "text": "What does 'check in' mean?",
+    "options": [
+      "وصول",
+      "اكتشاف",
+      "إقلاع",
+      "تسجيل الوصول"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! الوصول إلى الفندق أو المطار."
+    }
+  },
+  {
+    "text": "What does 'take off' mean?",
+    "options": [
+      "إقلاع الطائرة",
+      "الوصول",
+      "التأخير",
+      "الهبوط"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! صعود الطائرة."
+    }
+  },
+  {
+    "text": "What does 'find out' mean?",
+    "options": [
+      "يكتشف",
+      "يسجل",
+      "يصل",
+      "يقلع"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! يعرف معلومات."
+    }
+  },
+  {
+    "text": "What does 'directions' mean?",
+    "options": [
+      "التذاكر",
+      "الاتجاهات",
+      "الفنادق",
+      "الحقائب"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! إرشادات الطريق."
+    }
+  },
+  {
+    "text": "What does 'arrive' mean?",
+    "options": [
+      "يطير",
+      "يصل",
+      "يغادر",
+      "يمشي"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! الوصول إلى مكان."
+    }
+  },
+  {
+    "text": "What does 'passport' mean?",
+    "options": [
+      "تأشيرة",
+      "بطاقة",
+      "تذكرة",
+      "جواز سفر"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! وثيقة السفر."
+    }
+  },
+  {
+    "text": "Choose the correct word: 'We need to ______ which gate to go to.'",
+    "options": [
+      "find out",
+      "take off",
+      "check in",
+      "arrive"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! نكتشف."
+    }
+  },
+  {
+    "text": "Choose the correct word: 'The plane will ______ in ten minutes.'",
+    "options": [
+      "find out",
+      "arrive",
+      "take off",
+      "check in"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! تقلع."
+    }
+  },
+  {
+    "text": "Choose the correct word: 'We should ______ at the hotel before 2 p.m.'",
+    "options": [
+      "check in",
+      "take off",
+      "find out",
+      "arrive"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! نسجل الوصول."
+    }
+  },
+  {
+    "text": "Choose the correct word: 'The ______ is terrible; we'll be late.'",
+    "options": [
+      "tour",
+      "security",
+      "subway",
+      "traffic"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! زحمة."
+    }
+  }
+]

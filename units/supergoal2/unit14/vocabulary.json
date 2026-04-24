@@ -1,1 +1,197 @@
-[]
+[
+  {
+    "text": "What does 'lend' mean?",
+    "options": [
+      "يشتري",
+      "يبيع",
+      "يستعير",
+      "يعير"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! إعطاء شيء مؤقتاً."
+    }
+  },
+  {
+    "text": "What does 'borrow' mean?",
+    "options": [
+      "يستعير",
+      "يعير",
+      "يعطي",
+      "يأخذ للأبد"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! أخذ شيء بنية إرجاعه."
+    }
+  },
+  {
+    "text": "What does 'lower' mean (voice)?",
+    "options": [
+      "يصرخ",
+      "يسكت",
+      "يرفع",
+      "يخفض"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! تخفيض الصوت."
+    }
+  },
+  {
+    "text": "What does 'napkin' mean?",
+    "options": [
+      "منديل",
+      "قماش",
+      "مفرش",
+      "فوطة"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! قطعة قماش صغيرة للطعام."
+    }
+  },
+  {
+    "text": "What does 'snack' mean?",
+    "options": [
+      "عشاء",
+      "وجبة خفيفة",
+      "غداء",
+      "فطور"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! أكل بين الوجبات."
+    }
+  },
+  {
+    "text": "What does 'gathering' mean?",
+    "options": [
+      "تجمع",
+      "نوم",
+      "مغادرة",
+      "عمل"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! لقاء مجموعة من الناس."
+    }
+  },
+  {
+    "text": "What does 'voice' mean?",
+    "options": [
+      "لمس",
+      "ضوء",
+      "رائحة",
+      "صوت"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! الصوت الصادر عن الإنسان."
+    }
+  },
+  {
+    "text": "What does 'sure' mean?",
+    "options": [
+      "غير متأكد",
+      "قلق",
+      "متأكد",
+      "غاضب"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! بدون شك."
+    }
+  },
+  {
+    "text": "Choose: 'Can I ______ your phone to make a call?'",
+    "options": [
+      "buy",
+      "give",
+      "borrow",
+      "lend"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! أستعير."
+    }
+  },
+  {
+    "text": "Choose: 'Please ______ me your pen for a moment.'",
+    "options": [
+      "keep",
+      "borrow",
+      "steal",
+      "lend"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! أعطني إياه."
+    }
+  },
+  {
+    "text": "Choose: '______ your voice, the baby is sleeping.'",
+    "options": [
+      "Raise",
+      "Shout",
+      "Sing",
+      "Lower"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! اخفض."
+    }
+  },
+  {
+    "text": "Choose: 'I eat a light ______ between meals.'",
+    "options": [
+      "meal",
+      "breakfast",
+      "dinner",
+      "snack"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! وجبة خفيفة."
+    }
+  },
+  {
+    "text": "Choose: 'Please fold the ______ and put it on the table.'",
+    "options": [
+      "napkin",
+      "sheet",
+      "towel",
+      "blanket"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! منديل."
+    }
+  },
+  {
+    "text": "Choose: 'I am ______ that he will come.'",
+    "options": [
+      "sure",
+      "worried",
+      "unsure",
+      "doubtful"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! متأكد."
+    }
+  },
+  {
+    "text": "Choose: 'We had a family ______ last night.'",
+    "options": [
+      "gathering",
+      "fight",
+      "silence",
+      "departure"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! تجمع."
+    }
+  }
+]

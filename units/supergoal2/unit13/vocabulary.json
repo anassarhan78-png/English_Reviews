@@ -1,1 +1,197 @@
-[]
+[
+  {
+    "text": "What does 'forecast' mean?",
+    "options": [
+      "حرارة",
+      "توقعات",
+      "رياح",
+      "مطر"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! توقعات الطقس."
+    }
+  },
+  {
+    "text": "What does 'humidity' mean?",
+    "options": [
+      "جفاف",
+      "برودة",
+      "رطوبة",
+      "حرارة"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! كمية الماء في الهواء."
+    }
+  },
+  {
+    "text": "What does 'hurricane' mean?",
+    "options": [
+      "ثلج",
+      "نسيم",
+      "غائم",
+      "إعصار"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! عاصفة قوية."
+    }
+  },
+  {
+    "text": "What does 'barometer' mean?",
+    "options": [
+      "مقياس الضغط الجوي",
+      "مقياس الرياح",
+      "مقياس الحرارة",
+      "مقياس الرطوبة"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! جهاز قياس الضغط."
+    }
+  },
+  {
+    "text": "What does 'damage' mean?",
+    "options": [
+      "فائدة",
+      "بناء",
+      "ضرر",
+      "إصلاح"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! أذى أو خسارة."
+    }
+  },
+  {
+    "text": "What does 'leaves' mean (plant)?",
+    "options": [
+      "أوراق",
+      "ثمار",
+      "جذور",
+      "أزهار"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! الأجزاء الخضراء."
+    }
+  },
+  {
+    "text": "What does 'gulf' mean?",
+    "options": [
+      "خليج",
+      "محيط",
+      "نهر",
+      "بحيرة"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! مسطح مائي تحيط به اليابسة."
+    }
+  },
+  {
+    "text": "What does 'unpredictable' mean?",
+    "options": [
+      "ممل",
+      "متوقع",
+      "غير متوقع",
+      "مشوق"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! لا يمكن التنبؤ به."
+    }
+  },
+  {
+    "text": "Choose: 'It was so ______ that we couldn't see the mountain.'",
+    "options": [
+      "sunny",
+      "windy",
+      "cloudy",
+      "hot"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! غائم."
+    }
+  },
+  {
+    "text": "Choose: 'The weather in the desert is very ______.'",
+    "options": [
+      "wet",
+      "cold",
+      "humid",
+      "dry"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! جاف."
+    }
+  },
+  {
+    "text": "Choose: 'In winter, it often ______.'",
+    "options": [
+      "shines",
+      "snows",
+      "rains",
+      "blows"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! يثلج."
+    }
+  },
+  {
+    "text": "What is the antonym of 'hot'?",
+    "options": [
+      "cold",
+      "dry",
+      "windy",
+      "warm"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! بارد."
+    }
+  },
+  {
+    "text": "What does 'temperature' mean?",
+    "options": [
+      "سرعة الرياح",
+      "كمية المطر",
+      "درجة الحرارة",
+      "الرطوبة"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! قياس الحرارة."
+    }
+  },
+  {
+    "text": "Choose: 'A ______ is a tropical storm with strong winds.'",
+    "options": [
+      "breeze",
+      "hurricane",
+      "drizzle",
+      "fog"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! إعصار."
+    }
+  },
+  {
+    "text": "What does 'season' mean?",
+    "options": [
+      "يوم",
+      "شهر",
+      "فصل",
+      "أسبوع"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! ربيع، صيف، خريف، شتاء."
+    }
+  }
+]

@@ -1,1 +1,197 @@
-[]
+[
+  {
+    "text": "What does 'fired' mean (from job)?",
+    "options": [
+      "طُرد",
+      "ترقية",
+      "تم تعيينه",
+      "استقال"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! فُصل من العمل."
+    }
+  },
+  {
+    "text": "What does 'warn' mean?",
+    "options": [
+      "يسمح",
+      "يحذر",
+      "يمنع",
+      "يشجع"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! ينبه لخطر."
+    }
+  },
+  {
+    "text": "What does 'rush' mean?",
+    "options": [
+      "يتوقف",
+      "يندفع بسرعة",
+      "يتمهل",
+      "ينام"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! يتحرك بعجلة."
+    }
+  },
+  {
+    "text": "What does 'attack' mean?",
+    "options": [
+      "يلعب",
+      "يهاجم",
+      "يساعد",
+      "يدافع"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! يهجم."
+    }
+  },
+  {
+    "text": "What does 'shriek' mean?",
+    "options": [
+      "يصرخ",
+      "يهمس",
+      "يغني",
+      "يسكت"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! صرخة حادة."
+    }
+  },
+  {
+    "text": "What does 'hero' mean?",
+    "options": [
+      "متفرج",
+      "بطل",
+      "ضحية",
+      "شرير"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! شخص شجاع."
+    }
+  },
+  {
+    "text": "What does 'wound' mean?",
+    "options": [
+      "علاج",
+      "جرح",
+      "ندبة",
+      "ضمادة"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! إصابة في الجلد."
+    }
+  },
+  {
+    "text": "What does 'hip' mean?",
+    "options": [
+      "كوع",
+      "ركبة",
+      "ورك",
+      "كتف"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! مفصل في الحوض."
+    }
+  },
+  {
+    "text": "What does 'knife' mean?",
+    "options": [
+      "سكين",
+      "ملعقة",
+      "طبق",
+      "شوكة"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! أداة قطع."
+    }
+  },
+  {
+    "text": "What does 'crowd' mean?",
+    "options": [
+      "فرد",
+      "غرفة",
+      "حشد",
+      "شارع"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! مجموعة كبيرة من الناس."
+    }
+  },
+  {
+    "text": "What does 'empty' mean?",
+    "options": [
+      "نظيف",
+      "قذر",
+      "فارغ",
+      "ممتلئ"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! لا يحتوي على شيء."
+    }
+  },
+  {
+    "text": "What does 'parrot' mean?",
+    "options": [
+      "حمامة",
+      "نسر",
+      "ببغاء",
+      "عصفور"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! طائر مقلد للكلام."
+    }
+  },
+  {
+    "text": "What does 'anaconda' mean?",
+    "options": [
+      "سحلية",
+      "تمساح",
+      "سلحفاة",
+      "أناكوندا (أفعى ضخمة)"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! أكبر ثعبان في العالم."
+    }
+  },
+  {
+    "text": "Choose: 'He was ______ for being late every day.'",
+    "options": [
+      "hired",
+      "fired",
+      "praised",
+      "promoted"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! طُرد."
+    }
+  },
+  {
+    "text": "Choose: 'The police ______ us about the danger.'",
+    "options": [
+      "rushed",
+      "attacked",
+      "shrieked",
+      "warned"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! حذر."
+    }
+  }
+]

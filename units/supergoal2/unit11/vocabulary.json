@@ -1,1 +1,197 @@
-[]
+[
+  {
+    "text": "What does 'extinct' mean?",
+    "options": [
+      "جديد",
+      "قديم",
+      "مزدهر",
+      "منقرض"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! لم يعد موجوداً."
+    }
+  },
+  {
+    "text": "What does 'endangered' mean?",
+    "options": [
+      "كثير العدد",
+      "منقرض",
+      "مهدد بالانقراض",
+      "آمن"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! في خطر."
+    }
+  },
+  {
+    "text": "What does 'habitat' mean?",
+    "options": [
+      "عدو",
+      "غذاء",
+      "موطن طبيعي",
+      "مناخ"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! المكان الذي يعيش فيه الكائن."
+    }
+  },
+  {
+    "text": "What does 'predatory' mean?",
+    "options": [
+      "مفترس",
+      "فريسة",
+      "أليف",
+      "نباتي"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! يصطاد ويأكل غيره."
+    }
+  },
+  {
+    "text": "What does 'prey' mean?",
+    "options": [
+      "فريسة",
+      "مفترس",
+      "صياد",
+      "حيوان أليف"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! حيوان يُصطاد."
+    }
+  },
+  {
+    "text": "What does 'luxurious' mean?",
+    "options": [
+      "رخيص",
+      "بسيط",
+      "فاخر",
+      "قديم"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! مريح جداً وغالي."
+    }
+  },
+  {
+    "text": "What does 'karat' mean?",
+    "options": [
+      "طول",
+      "قيراط (نقاوة الذهب)",
+      "وزن",
+      "حجم"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! وحدة قياس الذهب."
+    }
+  },
+  {
+    "text": "What does 'worldwide' mean?",
+    "options": [
+      "عالمي",
+      "محلي",
+      "إقليمي",
+      "قروي"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! في كل أنحاء العالم."
+    }
+  },
+  {
+    "text": "What does 'exist' mean?",
+    "options": [
+      "ينقرض",
+      "يموت",
+      "يوجد",
+      "ينمو"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! يكون موجوداً."
+    }
+  },
+  {
+    "text": "What does 'bark' mean (dog)?",
+    "options": [
+      "ينبح",
+      "يعض",
+      "يجري",
+      "ينام"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! صوت الكلب."
+    }
+  },
+  {
+    "text": "What does 'recharge' mean?",
+    "options": [
+      "يستخدم",
+      "يكسر",
+      "يعيد شحن",
+      "يرمي"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! شحن البطارية."
+    }
+  },
+  {
+    "text": "What does 'popular' mean?",
+    "options": [
+      "مشهور",
+      "غير معروف",
+      "قديم",
+      "مكروه"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! معروف ومحبوب."
+    }
+  },
+  {
+    "text": "Choose: 'Dinosaurs are ______.'",
+    "options": [
+      "luxurious",
+      "popular",
+      "extinct",
+      "endangered"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! منقرضة."
+    }
+  },
+  {
+    "text": "Choose: 'The Arabian Oryx is an ______ species.'",
+    "options": [
+      "luxurious",
+      "endangered",
+      "popular",
+      "extinct"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! مهدد بالانقراض."
+    }
+  },
+  {
+    "text": "Choose: 'He designs ______ famous fashion.'",
+    "options": [
+      "local",
+      "worldwide",
+      "small",
+      "new"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! عالمي."
+    }
+  }
+]

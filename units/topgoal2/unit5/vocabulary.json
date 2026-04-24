@@ -1,1 +1,206 @@
-[]
+[
+  {
+    "text": "What does 'animation' mean?",
+    "options": [
+      "فيلم موسيقي",
+      "فيلم رعب",
+      "رسوم متحركة",
+      "مسرحية"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! أفلام الكرتون.",
+      "B": "Musical.",
+      "C": "Horror.",
+      "D": "Play."
+    }
+  },
+  {
+    "text": "What does 'mystery' mean?",
+    "options": [
+      "خيال علمي",
+      "حبكة",
+      "موسيقي",
+      "غموض"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! أحداث غير معروفة.",
+      "B": "Sci-fi.",
+      "C": "Musical.",
+      "D": "Plot."
+    }
+  },
+  {
+    "text": "What does 'sci-fi' mean?",
+    "options": [
+      "غموض",
+      "رسوم متحركة",
+      "خيال علمي",
+      "مسرحية"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! أفلام الفضاء والكواكب."
+    }
+  },
+  {
+    "text": "What does 'play' mean in theatre?",
+    "options": [
+      "أغنية",
+      "رواية",
+      "مسرحية",
+      "فيلم"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! عرض مسرحي."
+    }
+  },
+  {
+    "text": "What does 'plot' mean?",
+    "options": [
+      "نهاية",
+      "بداية",
+      "شخصية",
+      "حبكة القصة"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! تسلسل الأحداث."
+    }
+  },
+  {
+    "text": "What does 'characters' mean?",
+    "options": [
+      "أغلفة",
+      "مشاهد",
+      "فصول الكتاب",
+      "شخصيات القصة"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! أبطال القصة."
+    }
+  },
+  {
+    "text": "What does 'horror' mean?",
+    "options": [
+      "كوميدي",
+      "تاريخي",
+      "وثائقي",
+      "رعب"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! أفلام مخيفة."
+    }
+  },
+  {
+    "text": "What does 'wish' mean?",
+    "options": [
+      "أمنية",
+      "كلمة",
+      "عمل",
+      "فعل"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! شيء تتمناه."
+    }
+  },
+  {
+    "text": "What does 'storyline' mean?",
+    "options": [
+      "النهاية",
+      "لوحة المشاهد",
+      "الخط القصصي",
+      "الشخصية"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! تسلسل القصة."
+    }
+  },
+  {
+    "text": "What does 'act' mean in a play?",
+    "options": [
+      "فصل",
+      "أغنية",
+      "ستارة",
+      "مشهد"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! جزء من المسرحية."
+    }
+  },
+  {
+    "text": "Synonym of 'plot' is:",
+    "options": [
+      "theatre",
+      "actor",
+      "character",
+      "storyline"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! مرادف.",
+      "B": "شخصية.",
+      "C": "ممثل.",
+      "D": "مسرح."
+    }
+  },
+  {
+    "text": "Choose the correct word: 'The movie was a ______. We didn't know the end.'",
+    "options": [
+      "mystery",
+      "sci-fi",
+      "animation",
+      "musical"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! فيلم غموض."
+    }
+  },
+  {
+    "text": "Choose the correct word: 'She loves movies made by computers, especially 3D ______.'",
+    "options": [
+      "musical",
+      "animation",
+      "play",
+      "mystery"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! رسوم متحركة."
+    }
+  },
+  {
+    "text": "Choose the correct word: 'Space and planets are in ______ movies.'",
+    "options": [
+      "mystery",
+      "musical",
+      "animation",
+      "sci-fi"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! خيال علمي."
+    }
+  },
+  {
+    "text": "Choose the correct word: 'The actors performed a ______ on stage.'",
+    "options": [
+      "dance",
+      "song",
+      "play",
+      "movie"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! مسرحية."
+    }
+  }
+]

@@ -1,1 +1,200 @@
-[]
+[
+  {
+    "text": "What does 'costume' mean?",
+    "options": [
+      "فستان",
+      "زي مدرسي",
+      "بنطلون",
+      "زي تنكري"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! ملابس المسرحيات."
+    }
+  },
+  {
+    "text": "What does 'uniform' mean?",
+    "options": [
+      "زي تنكري",
+      "زي موحد",
+      "معطف",
+      "حذاء"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! زي المدرسة أو العمل."
+    }
+  },
+  {
+    "text": "What does 'bracelet' mean?",
+    "options": [
+      "حلق",
+      "قلادة",
+      "سوار",
+      "خاتم"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! يُلبس في المعصم."
+    }
+  },
+  {
+    "text": "What does 'earrings' mean?",
+    "options": [
+      "أساور",
+      "خواتم",
+      "قلادات",
+      "أقراط"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! حلق الأذن."
+    }
+  },
+  {
+    "text": "What does 'umbrella' mean?",
+    "options": [
+      "مظلة",
+      "قبعة",
+      "حذاء",
+      "معطف"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! للوقاية من المطر."
+    }
+  },
+  {
+    "text": "What does 'leather' mean?",
+    "options": [
+      "حرير",
+      "قطن",
+      "صوف",
+      "جلد"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! مادة من جلد الحيوانات."
+    }
+  },
+  {
+    "text": "What does 'wool' mean?",
+    "options": [
+      "قطن",
+      "بلاستيك",
+      "صوف",
+      "حرير"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! من صوف الغنم."
+    }
+  },
+  {
+    "text": "What does 'silk' mean?",
+    "options": [
+      "صوف",
+      "حرير",
+      "قطن",
+      "جلد"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! ناعم من دودة القز."
+    }
+  },
+  {
+    "text": "What does 'spotted' mean?",
+    "options": [
+      "منقط",
+      "مربعات",
+      "سادة",
+      "مقلم"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! به نقاط.",
+      "B": "مقلم خطوط.",
+      "C": "بدون نقوش.",
+      "D": "مربعات."
+    }
+  },
+  {
+    "text": "What does 'striped' mean?",
+    "options": [
+      "مقلم",
+      "مربعات",
+      "سادة",
+      "منقط"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! به خطوط."
+    }
+  },
+  {
+    "text": "What does 'checked' mean?",
+    "options": [
+      "خطوط",
+      "سادة",
+      "نقاط",
+      "مربعات"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! نقشة المربعات."
+    }
+  },
+  {
+    "text": "What does 'plain' mean in patterns?",
+    "options": [
+      "مربعات",
+      "منقط",
+      "مقلم",
+      "سادة"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! بدون نقوش."
+    }
+  },
+  {
+    "text": "What does 'wood' mean?",
+    "options": [
+      "معدن",
+      "زجاج",
+      "بلاستيك",
+      "خشب"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! مادة من الشجر."
+    }
+  },
+  {
+    "text": "What does 'metal' mean?",
+    "options": [
+      "ورق",
+      "خشب",
+      "بلاستيك",
+      "معدن"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! مثل الحديد والذهب."
+    }
+  },
+  {
+    "text": "What does 'gold' mean?",
+    "options": [
+      "ذهب",
+      "حديد",
+      "فضة",
+      "نحاس"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! معدن ثمين."
+    }
+  }
+]

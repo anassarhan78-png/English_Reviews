@@ -1,1 +1,197 @@
-[]
+[
+  {
+    "text": "What does 'bargain' mean?",
+    "options": [
+      "إكسسوار",
+      "ماركة",
+      "صفقة بسعر مخفض",
+      "شيء غالي"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! شراء بسعر جيد."
+    }
+  },
+  {
+    "text": "What does 'escalator' mean?",
+    "options": [
+      "جسر",
+      "سلم عادي",
+      "درج كهربائي",
+      "مصعد"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! سلالم متحركة."
+    }
+  },
+  {
+    "text": "What does 'windbreaker' mean?",
+    "options": [
+      "معطف مطر",
+      "سترة صوف",
+      "جاكيت واق من الرياح",
+      "بليزر"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! جاكيت خفيف."
+    }
+  },
+  {
+    "text": "What does 'perfume' mean?",
+    "options": [
+      "كريم",
+      "شامبو",
+      "عطر",
+      "صابون"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! رائحة زكية."
+    }
+  },
+  {
+    "text": "What does 'wallet' mean?",
+    "options": [
+      "جيب",
+      "حقيبة",
+      "محفظة",
+      "شنطة"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! للنقود والبطاقات."
+    }
+  },
+  {
+    "text": "What does 'expensive' mean?",
+    "options": [
+      "رخيص",
+      "متوسط",
+      "غالي الثمن",
+      "مجاني"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! سعر مرتفع."
+    }
+  },
+  {
+    "text": "Antonym of 'expensive':",
+    "options": [
+      "cheap",
+      "high",
+      "luxury",
+      "bargain"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! رخيص."
+    }
+  },
+  {
+    "text": "What does 'leather' mean?",
+    "options": [
+      "قماش",
+      "جلد",
+      "بلاستيك",
+      "ورق"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! مادة متينة."
+    }
+  },
+  {
+    "text": "Choose: 'He wore a silk ______ with his suit.'",
+    "options": [
+      "blouse",
+      "umbrella",
+      "tie",
+      "boots"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! ربطة عنق."
+    }
+  },
+  {
+    "text": "Choose: 'It looks like rain. Take an ______.'",
+    "options": [
+      "backpack",
+      "umbrella",
+      "ring",
+      "earrings"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! مظلة."
+    }
+  },
+  {
+    "text": "Choose: 'I found a good ______ at the sale.'",
+    "options": [
+      "wallet",
+      "bargain",
+      "escalator",
+      "windbreaker"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! صفقة."
+    }
+  },
+  {
+    "text": "Choose: 'The ______ is out of service, let's take the stairs.'",
+    "options": [
+      "elevator",
+      "escalator",
+      "subway",
+      "bus"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! درج كهربائي."
+    }
+  },
+  {
+    "text": "Choose: 'She uses a special comb made of ______.'",
+    "options": [
+      "silk",
+      "cotton",
+      "wood",
+      "perfume"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! خشب."
+    }
+  },
+  {
+    "text": "What is the opposite of 'cheap'?",
+    "options": [
+      "expensive",
+      "leather",
+      "wood",
+      "bargain"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! غالي."
+    }
+  },
+  {
+    "text": "What is a 'seat belt'?",
+    "options": [
+      "حزام أمان",
+      "نظارة",
+      "حذاء",
+      "قبعة"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! للسلامة في السيارة."
+    }
+  }
+]

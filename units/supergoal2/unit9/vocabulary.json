@@ -1,1 +1,197 @@
-[]
+[
+  {
+    "text": "What does 'babysit' mean?",
+    "options": [
+      "كي الملابس",
+      "قص العشب",
+      "شراء الطعام",
+      "رعاية الأطفال"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! الاعتناء بالأطفال."
+    }
+  },
+  {
+    "text": "What does 'chore' mean?",
+    "options": [
+      "عمل روتيني",
+      "استراحة",
+      "رحلة",
+      "لعبة"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! مهمة منزلية."
+    }
+  },
+  {
+    "text": "What does 'iron' mean (verb)?",
+    "options": [
+      "ينظف",
+      "يكوي الملابس",
+      "يغسل",
+      "يقطع"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! إزالة تجاعيد الملابس."
+    }
+  },
+  {
+    "text": "What does 'dust' mean (noun)?",
+    "options": [
+      "ماء",
+      "زيت",
+      "طين",
+      "غبار"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! جزيئات تراب ناعمة."
+    }
+  },
+  {
+    "text": "What does 'hang out' mean?",
+    "options": [
+      "دراسة",
+      "تنظيف",
+      "عمل",
+      "قضاء وقت مع الأصدقاء"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! التسكع."
+    }
+  },
+  {
+    "text": "What does 'mow the lawn' mean?",
+    "options": [
+      "زرع الورد",
+      "سقي النبات",
+      "قص العشب",
+      "تنظيف الحديقة"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! قص العشب بآلة."
+    }
+  },
+  {
+    "text": "Choose: 'I'll ______ your kids for you.'",
+    "options": [
+      "dust",
+      "mow",
+      "iron",
+      "babysit"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! أرعى أطفالك."
+    }
+  },
+  {
+    "text": "Choose: 'Grandmother ______ the lawn every Saturday.'",
+    "options": [
+      "babysits",
+      "dusts",
+      "irons",
+      "mows"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! تقص العشب."
+    }
+  },
+  {
+    "text": "Choose: 'I have to ______ my shirt before work.'",
+    "options": [
+      "babysit",
+      "iron",
+      "mow",
+      "dust"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! أكوي."
+    }
+  },
+  {
+    "text": "Choose: 'We go ______ in the sea every summer.'",
+    "options": [
+      "bowling",
+      "swimming",
+      "driving",
+      "shopping"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! سباحة."
+    }
+  },
+  {
+    "text": "Choose: 'Let's go ______ on Saturday, I miss rolling the ball.'",
+    "options": [
+      "driving",
+      "swimming",
+      "bowling",
+      "shopping"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! بولينج."
+    }
+  },
+  {
+    "text": "Choose: 'I bought a new bicycle. Let's go for a ______.'",
+    "options": [
+      "walk",
+      "ride",
+      "fly",
+      "drive"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! جولة."
+    }
+  },
+  {
+    "text": "Synonym of 'chore':",
+    "options": [
+      "party",
+      "game",
+      "holiday",
+      "task"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! مهمة."
+    }
+  },
+  {
+    "text": "Antonym of 'dust' (clean):",
+    "options": [
+      "water",
+      "air",
+      "dirt",
+      "light"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! الأوساخ."
+    }
+  },
+  {
+    "text": "What does 'laundry' mean?",
+    "options": [
+      "كي",
+      "طي",
+      "تنظيف الأرض",
+      "غسيل الملابس"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! ملابس متسخة أو مغسولة."
+    }
+  }
+]
