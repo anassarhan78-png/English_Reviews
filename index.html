@@ -3,11 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>مراجعات Top Goal 2 و Super Goal 2</title>
+    <title>📚 منصة المراجعة الذكية | Smart Review</title>
+    <!-- مكتبة الصوت الاحترافية ResponsiveVoice -->
+    <script src="https://code.responsivevoice.org/responsivevoice.js?key=VnGx3fGq"></script>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
-            font-family: 'Segoe UI', 'Tajawal', sans-serif;
+            font-family: 'Segoe UI', 'Tajawal', 'Cairo', sans-serif;
             background: linear-gradient(135deg, #1e5a3a, #0f2a1c);
             min-height: 100vh;
             padding: 20px;
@@ -22,7 +24,7 @@
             overflow: hidden;
         }
         .toolbar {
-            background: #2b7a4b;
+            background: linear-gradient(135deg, #2b7a4b, #1e5a3a);
             padding: 12px 25px;
             display: flex;
             justify-content: space-between;
@@ -81,23 +83,34 @@
         }
         .content { padding: 25px; }
         h2 { color: #1e5a3a; margin-bottom: 15px; }
+        
+        /* شريط التقدم */
         .progress-area { margin-bottom: 20px; }
-        .passage {
-            background: #fef5e8;
-            padding: 15px;
-            border-radius: 20px;
-            margin-bottom: 20px;
-            border-right: 6px solid #ff8c42;
-        }
+
+        /* السؤال والخيارات */
         .question {
             background: #fef5e8;
             padding: 15px;
             border-radius: 20px;
-            margin-bottom: 20px;
+            margin-bottom: 10px;
             font-weight: bold;
-            direction: ltr;           /* <-- إصلاح إتجاه السؤال */
-            text-align: left;        /* محاذاة النص لليسار */
+            direction: ltr;
+            text-align: left;
+            position: relative;
         }
+        .question .audio-btn {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: none;
+            border: none;
+            font-size: 24px;
+            cursor: pointer;
+            color: #2b7a4b;
+            transition: transform 0.2s ease;
+        }
+        .question .audio-btn:hover { transform: scale(1.2); color: #ff8c42; }
+
         .option {
             background: #f8f9fa;
             margin: 10px 0;
@@ -105,13 +118,17 @@
             border-radius: 40px;
             cursor: pointer;
             border: 1px solid #ddd;
-            direction: ltr;           /* <-- إصلاح إتجاه الخيارات */
+            direction: ltr;
             text-align: left;
+            transition: all 0.2s ease;
         }
-        .option.selected { background: #2b7a4b; color: white; }
+        .option:hover { background: #e9ecef; border-color: #2b7a4b; }
+        .option.selected { background: #2b7a4b; color: white; font-weight: bold; }
+        
         .feedback { margin: 15px 0; padding: 12px; border-radius: 16px; }
         .feedback.correct { background: #d4edda; color: #155724; }
-        .feedback.wrong { background: #f8d7da; color: #721c24; }
+        .feedback.wrong { background: #f8d7da; color: #721c24; direction: ltr; text-align: left; }
+        
         button {
             background: #2b7a4b;
             color: white;
@@ -120,17 +137,21 @@
             border-radius: 30px;
             cursor: pointer;
         }
-        .nav-buttons {
-            display: flex;
-            justify-content: center;
-            gap: 15px;
-            margin-top: 20px;
-        }
-        .writing-box, .grammar-box {
-            background: #fef9e6;
+        .nav-buttons { display: flex; justify-content: center; gap: 15px; margin-top: 20px; }
+        
+        /* شاشة النتيجة */
+        .result-screen {
+            text-align: center;
             padding: 20px;
-            border-radius: 24px;
+            background: #f8f9fa;
+            border-radius: 25px;
         }
+        .result-screen .emoji { font-size: 48px; }
+        .result-screen .percent { font-size: 36px; font-weight: bold; color: #2b7a4b; }
+        .result-screen .msg { font-size: 18px; margin: 15px 0; }
+        .wrong-list { text-align: right; margin-top: 20px; }
+
+        .writing-box, .grammar-box { background: #fef9e6; padding: 20px; border-radius: 24px; }
         footer { text-align: center; margin-top: 20px; font-size: 0.75rem; }
     </style>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
@@ -140,6 +161,7 @@
     <div class="toolbar">
         <span><i class="fas fa-graduation-cap"></i> نظام المراجعات</span>
         <div>
+            <button id="reset-cycle-btn" style="display:none;"><i class="fas fa-sync-alt"></i> بدء دورة جديدة</button>
             <button id="print-pdf"><i class="fas fa-print"></i> طباعة تفاعلية</button>
             <button id="print-exam"><i class="fas fa-file-pdf"></i> طباعة الأسئلة (نسخة ورقية)</button>
         </div>
@@ -155,7 +177,6 @@
             <button id="submit-btn" style="display:none;">إرسال الإجابة ✅</button>
             <button id="next-btn" style="display:none;">التالي <i class="fas fa-arrow-left"></i></button>
         </div>
-        <footer>✨ أضف أسئلتك في ملفات JSON داخل مجلدات الوحدات ✨</footer>
     </div>
 </div>
 
@@ -165,7 +186,9 @@
     let currentUnit = null;
     let currentSubMode = 'full';
     let questions = [];
+    let wrongQuestions = []; // لتخزين الأسئلة الخاطئة
     let currentIndex = 0, selectedAnswer = null, score = 0;
+    let isReviewMode = false; // هل نحن في وضع مراجعة الأخطاء؟
 
     async function loadConfig() {
         const res = await fetch('config.json');
@@ -249,18 +272,28 @@
             const res = await fetch(filePath);
             if (!res.ok) throw new Error(`الملف غير موجود`);
             questions = await res.json();
-            currentIndex = 0; score = 0;
-            renderQuizInterface();
-            showQuestion();
-            document.getElementById('submit-btn').style.display = 'inline-block';
-            document.getElementById('prev-btn').style.display = 'none';
+            startNewCycle();
         } catch(err) {
             document.getElementById('quiz-container').innerHTML = `<div style="color:red;">⚠️ ${err.message}</div>`;
         }
     }
 
+    function startNewCycle() {
+        currentIndex = 0;
+        score = 0;
+        wrongQuestions = [];
+        isReviewMode = false;
+        renderQuizInterface();
+        showQuestion();
+        document.getElementById('submit-btn').style.display = 'inline-block';
+        document.getElementById('next-btn').style.display = 'none';
+        document.getElementById('reset-cycle-btn').style.display = 'none';
+    }
+
     function renderQuizInterface() {
-        document.getElementById('modeTitle').innerHTML = `${currentCourse.title} – الوحدة ${currentUnit.replace('unit', '')} – ${currentSubMode === 'full' ? 'اختبار شامل' : 'مفردات'}`;
+        const title = document.getElementById('modeTitle');
+        title.innerHTML = `${currentCourse.title} – الوحدة ${currentUnit.replace('unit', '')} – ${currentSubMode === 'full' ? 'اختبار شامل' : 'مفردات'}`;
+        if (isReviewMode) title.innerHTML += ' (دورة تصحيح الأخطاء)';
         document.getElementById('quiz-container').innerHTML = '<div id="quiz-area"></div><div id="feedback"></div>';
         document.getElementById('submit-btn').style.display = 'inline-block';
         document.getElementById('next-btn').style.display = 'none';
@@ -270,7 +303,16 @@
     function showQuestion() {
         const q = questions[currentIndex];
         const container = document.getElementById('quiz-area');
-        let html = `<div class="question">${q.text}</div>`;
+        
+        // استخراج كلمة إنجليزية للنطق (أول 3 كلمات)
+        let wordToRead = q.text.split(' ').slice(0, 3).join(' ');
+        wordToRead = wordToRead.replace(/[^a-zA-Z0-9 ]/g, '');
+
+        let html = `<div class="question">
+            ${q.text}
+            <button class="audio-btn" onclick="event.stopPropagation(); speakWord('${wordToRead}')" title="استمع للنطق">🔊</button>
+        </div>`;
+        
         const letters = ['A','B','C','D'];
         q.options.forEach((opt,i) => {
             html += `<div class="option" data-letter="${letters[i]}">${letters[i]}. ${opt}</div>`;
@@ -291,6 +333,18 @@
         });
     }
 
+    // دالة تشغيل الصوت باستخدام ResponsiveVoice
+    function speakWord(text) {
+        if (text && window.responsiveVoice) {
+            responsiveVoice.speak(text, "UK English Female", {rate: 0.9, pitch: 1.1});
+        } else if (text && window.speechSynthesis) {
+            // احتياطي في حال فشل تحميل المكتبة
+            const utterance = new SpeechSynthesisUtterance(text);
+            utterance.lang = 'en-US';
+            speechSynthesis.speak(utterance);
+        }
+    }
+
     function updateProgress() {
         const percent = ((currentIndex) / questions.length) * 100;
         const progressHtml = `<div style="display:flex; justify-content:space-between;"><span>السؤال ${currentIndex+1} / ${questions.length}</span><span>⭐ النقاط: ${score}</span></div><div style="background:#ddd; border-radius:20px; height:8px;"><div style="background:#2b7a4b; width:${percent}%; height:8px;"></div></div>`;
@@ -305,10 +359,18 @@
     function updateNavButtons() {
         const prevBtn = document.getElementById('prev-btn');
         const nextBtn = document.getElementById('next-btn');
+        const submitBtn = document.getElementById('submit-btn');
+        
         if (currentIndex > 0) prevBtn.style.display = 'inline-block';
         else prevBtn.style.display = 'none';
-        if (currentIndex < questions.length - 1) nextBtn.style.display = 'inline-block';
-        else nextBtn.style.display = 'none';
+        
+        if (currentIndex < questions.length - 1) {
+            nextBtn.style.display = 'inline-block';
+            nextBtn.innerHTML = 'التالي <i class="fas fa-arrow-left"></i>';
+        } else {
+            nextBtn.innerHTML = 'إنهاء الاختبار 🏁';
+            nextBtn.style.display = 'inline-block';
+        }
     }
 
     document.getElementById('submit-btn').onclick = () => {
@@ -316,11 +378,14 @@
         const q = questions[currentIndex];
         const isCorrect = (selectedAnswer === q.correct);
         const fb = document.getElementById('feedback');
+        
         if (isCorrect) {
             score++;
             fb.innerHTML = `<div class="feedback correct">✅ صحيح! ${q.explanation[selectedAnswer]}</div>`;
         } else {
-            fb.innerHTML = `<div class="feedback wrong">❌ خطأ. ${q.explanation[selectedAnswer]}<br>✅ الصحيح: ${q.correct} — ${q.explanation[q.correct]}</div>`;
+            // إضافة السؤال الخاطئ إلى القائمة للمراجعة لاحقاً
+            wrongQuestions.push(q);
+            fb.innerHTML = `<div class="feedback wrong">❌ خطأ. الإجابة: ${q.correct}<br>${q.explanation[selectedAnswer]}<br>${q.explanation[q.correct] ? '✅ الصحيح: ' + q.explanation[q.correct] : ''}</div>`;
         }
         document.getElementById('submit-btn').style.display = 'none';
         document.getElementById('next-btn').style.display = 'inline-block';
@@ -328,13 +393,17 @@
     };
 
     document.getElementById('next-btn').onclick = () => {
-        currentIndex++;
-        showQuestion();
-        document.getElementById('submit-btn').style.display = 'inline-block';
-        document.getElementById('next-btn').style.display = 'none';
-        document.getElementById('feedback').innerHTML = '';
-        selectedAnswer = null;
-        updateProgress();
+        if (currentIndex === questions.length - 1) {
+            finishQuiz();
+        } else {
+            currentIndex++;
+            showQuestion();
+            document.getElementById('submit-btn').style.display = 'inline-block';
+            document.getElementById('next-btn').style.display = 'none';
+            document.getElementById('feedback').innerHTML = '';
+            selectedAnswer = null;
+            updateProgress();
+        }
     };
 
     document.getElementById('prev-btn').onclick = () => {
@@ -347,6 +416,69 @@
         updateProgress();
     };
 
+    function finishQuiz() {
+        const total = questions.length;
+        const percent = Math.round((score / total) * 100);
+        
+        // تنظيف الواجهة
+        document.getElementById('submit-btn').style.display = 'none';
+        document.getElementById('next-btn').style.display = 'none';
+        document.getElementById('prev-btn').style.display = 'none';
+        
+        let msg = '';
+        let emoji = '';
+        if (percent >= 90) { msg = 'ممتاز! 🌟 أنت في مستوى متقدم (Advanced)'; emoji = '🏆'; }
+        else if (percent >= 70) { msg = 'جيد جداً! 👍 واصل التقدم'; emoji = '😊'; }
+        else { msg = 'حاول مرة أخرى! 💪 لا تيأس، التعلم بالتكرار'; emoji = '📚'; }
+
+        let html = `
+            <div class="result-screen">
+                <div class="emoji">${emoji}</div>
+                <div class="percent">${percent}%</div>
+                <div class="msg">${msg}</div>
+                <p>✅ إجابات صحيحة: <strong>${score}</strong> من ${total}</p>
+                <p>❌ إجابات خاطئة: <strong>${wrongQuestions.length}</strong></p>
+        `;
+
+        if (wrongQuestions.length > 0) {
+            html += `<div class="wrong-list"><h3>📌 الأسئلة التي تحتاج مراجعة:</h3><ol>`;
+            wrongQuestions.forEach(q => {
+                html += `<li style="direction:ltr; text-align:left;">${q.text} (الإجابة: ${q.correct})</li>`;
+            });
+            html += `</ol>
+                <button onclick="startReviewCycle()" style="margin-top:15px; background:#ff8c42;">
+                    <i class="fas fa-sync-alt"></i> إعادة الأسئلة الخاطئة الآن
+                </button>`;
+        }
+        html += `</div>`;
+        
+        document.getElementById('quiz-container').innerHTML = html;
+        document.getElementById('reset-cycle-btn').style.display = 'inline-block';
+    }
+
+    // بدء دورة مراجعة الأخطاء
+    window.startReviewCycle = function() {
+        if (wrongQuestions.length === 0) {
+            alert("لا توجد أخطاء لمراجعتها! 👏");
+            return;
+        }
+        questions = [...wrongQuestions];
+        isReviewMode = true;
+        currentIndex = 0;
+        score = 0;
+        wrongQuestions = [];
+        renderQuizInterface();
+        showQuestion();
+        document.getElementById('submit-btn').style.display = 'inline-block';
+        document.getElementById('next-btn').style.display = 'none';
+        document.getElementById('reset-cycle-btn').style.display = 'none';
+    };
+
+    document.getElementById('reset-cycle-btn').onclick = () => {
+        loadSubMode(); // إعادة تحميل الأسئلة من البداية
+    };
+
+    // بقية الدوال (writing, grammar, printing) بدون تغيير
     async function loadWritingSection() {
         const filePath = `units/${currentCourse.id}/${currentUnit}/writing.json`;
         let data = {};
