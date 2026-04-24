@@ -1,158 +1,418 @@
 [
   {
     "text": "I have a bag. This is …………… bag.",
-    "options": ["my", "our", "their", "her"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'my' تعود على 'I'.", "B": "Our تعود على 'we'.", "C": "Their تعود على 'they'.", "D": "Her تعود على 'she'." }
+    "options": [
+      "our",
+      "my",
+      "her",
+      "their"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! 'my' تعود على 'I'.",
+      "B": "Our تعود على 'we'.",
+      "C": "Their تعود على 'they'.",
+      "D": "Her تعود على 'she'."
+    }
   },
   {
     "text": "You have a cat. That is ………….. cat.",
-    "options": ["your", "our", "my", "his"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'your' تعود على 'you'.", "B": "Our تعود على 'we'.", "C": "My تعود على 'I'.", "D": "His تعود على 'he'." }
+    "options": [
+      "my",
+      "your",
+      "his",
+      "our"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! 'your' تعود على 'you'.",
+      "B": "Our تعود على 'we'.",
+      "C": "My تعود على 'I'.",
+      "D": "His تعود على 'he'."
+    }
   },
   {
     "text": "Khaled has a car. It is ……………… car.",
-    "options": ["his", "her", "our", "their"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'his' تعود على Khaled (مذكر).", "B": "Her للمؤنث.", "C": "Our للجمع (متكلم).", "D": "Their للجمع (غائب)." }
+    "options": [
+      "their",
+      "our",
+      "her",
+      "his"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! 'his' تعود على Khaled (مذكر).",
+      "B": "Her للمؤنث.",
+      "C": "Our للجمع (متكلم).",
+      "D": "Their للجمع (غائب)."
+    }
   },
   {
     "text": "Rana has a book. It is …………………… book.",
-    "options": ["her", "hers", "his", "my"],
+    "options": [
+      "her",
+      "hers",
+      "my",
+      "his"
+    ],
     "correct": "A",
-    "explanation": { "A": "صحيح! 'her' صفة ملكية تسبق الاسم.", "B": "Hers ضمير ملكية لا يتبعه اسم.", "C": "His للمذكر.", "D": "My للمتكلم." }
+    "explanation": {
+      "A": "صحيح! 'her' صفة ملكية تسبق الاسم.",
+      "B": "Hers ضمير ملكية لا يتبعه اسم.",
+      "C": "His للمذكر.",
+      "D": "My للمتكلم."
+    }
   },
   {
     "text": "The dog has a bed. It is …………. bed.",
-    "options": ["its", "her", "mine", "my"],
+    "options": [
+      "its",
+      "my",
+      "mine",
+      "her"
+    ],
     "correct": "A",
-    "explanation": { "A": "صحيح! 'its' لغير العاقل.", "B": "Her للمؤنث العاقل.", "C": "Mine ضمير ملكية.", "D": "My صفة ملكية للمتكلم." }
+    "explanation": {
+      "A": "صحيح! 'its' لغير العاقل.",
+      "B": "Her للمؤنث العاقل.",
+      "C": "Mine ضمير ملكية.",
+      "D": "My صفة ملكية للمتكلم."
+    }
   },
   {
     "text": "We have a flat. It is ……………… flat.",
-    "options": ["our", "my", "ours", "theirs"],
+    "options": [
+      "our",
+      "my",
+      "ours",
+      "theirs"
+    ],
     "correct": "A",
-    "explanation": { "A": "صحيح! 'our' صفة ملكية لـ 'we'.", "B": "My للمفرد المتكلم.", "C": "Ours ضمير ملكية لا يتبعه اسم.", "D": "Theirs ضمير ملكية للغائبين." }
+    "explanation": {
+      "A": "صحيح! 'our' صفة ملكية لـ 'we'.",
+      "B": "My للمفرد المتكلم.",
+      "C": "Ours ضمير ملكية لا يتبعه اسم.",
+      "D": "Theirs ضمير ملكية للغائبين."
+    }
   },
   {
     "text": "They have a daughter. She is ………… daughter.",
-    "options": ["their", "theirs", "his", "hers"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'their' صفة ملكية لـ 'they'.", "B": "Theirs ضمير ملكية.", "C": "His للمذكر المفرد.", "D": "Hers ضمير ملكية للمؤنث." }
+    "options": [
+      "hers",
+      "his",
+      "theirs",
+      "their"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! 'their' صفة ملكية لـ 'they'.",
+      "B": "Theirs ضمير ملكية.",
+      "C": "His للمذكر المفرد.",
+      "D": "Hers ضمير ملكية للمؤنث."
+    }
   },
   {
     "text": "I have a bag. This is ………………….",
-    "options": ["mine", "my", "her", "our"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'mine' ضمير ملكية (لا يحتاج لاسم بعده).", "B": "My صفة ملكية تحتاج لاسم.", "C": "Her صفة ملكية للغير.", "D": "Our صفة ملكية للجمع." }
+    "options": [
+      "her",
+      "mine",
+      "our",
+      "my"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! 'mine' ضمير ملكية (لا يحتاج لاسم بعده).",
+      "B": "My صفة ملكية تحتاج لاسم.",
+      "C": "Her صفة ملكية للغير.",
+      "D": "Our صفة ملكية للجمع."
+    }
   },
   {
     "text": "You have a cat. That cat is ……………….",
-    "options": ["yours", "his", "their", "my"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'yours' ضمير ملكية للمخاطب.", "B": "His للغائب المذكر.", "C": "Their صفة ملكية.", "D": "My صفة ملكية." }
+    "options": [
+      "my",
+      "yours",
+      "his",
+      "their"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! 'yours' ضمير ملكية للمخاطب.",
+      "B": "His للغائب المذكر.",
+      "C": "Their صفة ملكية.",
+      "D": "My صفة ملكية."
+    }
   },
   {
     "text": "He has a car. It is ………..",
-    "options": ["his", "my", "her", "our"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'his' ضمير ملكية (نفس شكل الصفة).", "B": "My للمتكلم.", "C": "Her للمؤنث.", "D": "Our للجمع." }
+    "options": [
+      "our",
+      "my",
+      "his",
+      "her"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! 'his' ضمير ملكية (نفس شكل الصفة).",
+      "B": "My للمتكلم.",
+      "C": "Her للمؤنث.",
+      "D": "Our للجمع."
+    }
   },
   {
     "text": "She has a book - it is …………...",
-    "options": ["hers", "our", "her", "their"],
+    "options": [
+      "hers",
+      "our",
+      "their",
+      "her"
+    ],
     "correct": "A",
-    "explanation": { "A": "صحيح! 'hers' ضمير ملكية للمؤنث.", "B": "Our صفة ملكية.", "C": "Her صفة ملكية تحتاج لاسم.", "D": "Their صفة ملكية." }
+    "explanation": {
+      "A": "صحيح! 'hers' ضمير ملكية للمؤنث.",
+      "B": "Our صفة ملكية.",
+      "C": "Her صفة ملكية تحتاج لاسم.",
+      "D": "Their صفة ملكية."
+    }
   },
   {
     "text": "We have a flat. It is ……….",
-    "options": ["ours", "his", "hers", "mine"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'ours' ضمير ملكية لـ 'we'.", "B": "His للمذكر.", "C": "Hers للمؤنث.", "D": "Mine للمتكلم." }
+    "options": [
+      "mine",
+      "his",
+      "ours",
+      "hers"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! 'ours' ضمير ملكية لـ 'we'.",
+      "B": "His للمذكر.",
+      "C": "Hers للمؤنث.",
+      "D": "Mine للمتكلم."
+    }
   },
   {
     "text": "They have a daughter. She is ……………….",
-    "options": ["theirs", "ours", "yours", "mine"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'theirs' ضمير ملكية لـ 'they'.", "B": "Ours لـ 'we'.", "C": "Yours للمخاطب.", "D": "Mine للمتكلم." }
+    "options": [
+      "ours",
+      "yours",
+      "mine",
+      "theirs"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! 'theirs' ضمير ملكية لـ 'they'.",
+      "B": "Ours لـ 'we'.",
+      "C": "Yours للمخاطب.",
+      "D": "Mine للمتكلم."
+    }
   },
   {
     "text": "………….. birthday is it today? It's hers.",
-    "options": ["Whose", "Who", "When", "Why"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'Whose' للسؤال عن الملكية.", "B": "Who للسؤال عن الفاعل.", "C": "When للزمان.", "D": "Why للسبب." }
+    "options": [
+      "Who",
+      "Why",
+      "Whose",
+      "When"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! 'Whose' للسؤال عن الملكية.",
+      "B": "Who للسؤال عن الفاعل.",
+      "C": "When للزمان.",
+      "D": "Why للسبب."
+    }
   },
   {
     "text": "…………………….book is this?",
-    "options": ["Whose", "Who", "How", "When"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'Whose' بمعنى 'لمن'.", "B": "Who بمعنى 'من'.", "C": "How بمعنى 'كيف'.", "D": "When بمعنى 'متى'." }
+    "options": [
+      "How",
+      "Whose",
+      "Who",
+      "When"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! 'Whose' بمعنى 'لمن'.",
+      "B": "Who بمعنى 'من'.",
+      "C": "How بمعنى 'كيف'.",
+      "D": "When بمعنى 'متى'."
+    }
   },
   {
     "text": "………………..dictionary is this? It's mine.",
-    "options": ["Whose", "When", "How", "Where"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! السؤال عن ملكية القاموس.", "B": "When للزمان.", "C": "How للكيفية.", "D": "Where للمكان." }
+    "options": [
+      "How",
+      "Whose",
+      "Where",
+      "When"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! السؤال عن ملكية القاموس.",
+      "B": "When للزمان.",
+      "C": "How للكيفية.",
+      "D": "Where للمكان."
+    }
   },
   {
     "text": "Which bags are very old? The leather…………….",
-    "options": ["ones", "one", "other", "others"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'ones' للجمع (bags).", "B": "One للمفرد.", "C": "Other تعني آخر (مفرد).", "D": "Others ضمير جمع بدون اسم." }
+    "options": [
+      "one",
+      "others",
+      "other",
+      "ones"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! 'ones' للجمع (bags).",
+      "B": "One للمفرد.",
+      "C": "Other تعني آخر (مفرد).",
+      "D": "Others ضمير جمع بدون اسم."
+    }
   },
   {
     "text": "Which car do you like? The white …………",
-    "options": ["one", "other", "others", "ones"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'one' تحل محل car (مفرد).", "B": "Other تعني آخر.", "C": "Others للجمع.", "D": "Ones للجمع." }
+    "options": [
+      "others",
+      "other",
+      "one",
+      "ones"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! 'one' تحل محل car (مفرد).",
+      "B": "Other تعني آخر.",
+      "C": "Others للجمع.",
+      "D": "Ones للجمع."
+    }
   },
   {
     "text": "This coffee is …………… sweet.",
-    "options": ["too", "enough", "much", "many"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'too' بمعنى أكثر من اللازم.", "B": "Enough بمعنى كافٍ.", "C": "Much مع غير المعدود.", "D": "Many مع المعدود." }
+    "options": [
+      "much",
+      "too",
+      "many",
+      "enough"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! 'too' بمعنى أكثر من اللازم.",
+      "B": "Enough بمعنى كافٍ.",
+      "C": "Much مع غير المعدود.",
+      "D": "Many مع المعدود."
+    }
   },
   {
     "text": "It was …………. heavy to carry.",
-    "options": ["too", "many", "much", "enough"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'too' + صفة + to + فعل.", "B": "Many مع الجمع.", "C": "Much مع غير المعدود.", "D": "Enough تأتي بعد الصفة." }
+    "options": [
+      "many",
+      "much",
+      "enough",
+      "too"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! 'too' + صفة + to + فعل.",
+      "B": "Many مع الجمع.",
+      "C": "Much مع غير المعدود.",
+      "D": "Enough تأتي بعد الصفة."
+    }
   },
   {
     "text": "This car is ……….. expensive.",
-    "options": ["too", "many", "enough", "much"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'too expensive' تعني مكلفة جداً.", "B": "Many خطأ.", "C": "Enough لا تسبق الصفة في هذا السياق.", "D": "Much خطأ." }
+    "options": [
+      "enough",
+      "much",
+      "many",
+      "too"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! 'too expensive' تعني مكلفة جداً.",
+      "B": "Many خطأ.",
+      "C": "Enough لا تسبق الصفة في هذا السياق.",
+      "D": "Much خطأ."
+    }
   },
   {
     "text": "I'm ………….. tired to work.",
-    "options": ["too", "much", "enough", "many"],
+    "options": [
+      "too",
+      "enough",
+      "much",
+      "many"
+    ],
     "correct": "A",
-    "explanation": { "A": "صحيح! 'too tired to work'.", "B": "Much خطأ.", "C": "Enough تأتي بعد الصفة.", "D": "Many خطأ." }
+    "explanation": {
+      "A": "صحيح! 'too tired to work'.",
+      "B": "Much خطأ.",
+      "C": "Enough تأتي بعد الصفة.",
+      "D": "Many خطأ."
+    }
   },
   {
     "text": "Can I …………. now?",
-    "options": ["leave", "leaving", "leaves", "left"],
+    "options": [
+      "leave",
+      "left",
+      "leaving",
+      "leaves"
+    ],
     "correct": "A",
-    "explanation": { "A": "صحيح! بعد الأفعال الناقصة (can/could/may) يأتي المصدر.", "B": "ing خطأ.", "C": "تصريف مضارع خطأ.", "D": "ماضي خطأ." }
+    "explanation": {
+      "A": "صحيح! بعد الأفعال الناقصة (can/could/may) يأتي المصدر.",
+      "B": "ing خطأ.",
+      "C": "تصريف مضارع خطأ.",
+      "D": "ماضي خطأ."
+    }
   },
   {
     "text": "Could I …………. this jacket with me?",
-    "options": ["take", "took", "taking", "takes"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! المصدر بعد 'Could'.", "B": "ماضي خطأ.", "C": "ing خطأ.", "D": "مضارع مع s خطأ." }
+    "options": [
+      "took",
+      "takes",
+      "take",
+      "taking"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! المصدر بعد 'Could'.",
+      "B": "ماضي خطأ.",
+      "C": "ing خطأ.",
+      "D": "مضارع مع s خطأ."
+    }
   },
   {
     "text": "May I ………. one question?",
-    "options": ["ask", "asked", "asking", "asks"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! المصدر بعد 'May'.", "B": "ماضي خطأ.", "C": "ing خطأ.", "D": "مضارع مع s خطأ." }
+    "options": [
+      "asking",
+      "asks",
+      "asked",
+      "ask"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! المصدر بعد 'May'.",
+      "B": "ماضي خطأ.",
+      "C": "ing خطأ.",
+      "D": "مضارع مع s خطأ."
+    }
   },
   {
     "text": "It might ………….. this afternoon.",
-    "options": ["rain", "rains", "to rain", "raining"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! بعد 'might' يأتي المصدر بدون to.", "B": "rains خطأ.", "C": "to rain خطأ.", "D": "raining خطأ." }
+    "options": [
+      "raining",
+      "rains",
+      "rain",
+      "to rain"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! بعد 'might' يأتي المصدر بدون to.",
+      "B": "rains خطأ.",
+      "C": "to rain خطأ.",
+      "D": "raining خطأ."
+    }
   }
 ]

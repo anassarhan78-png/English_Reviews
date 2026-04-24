@@ -1,32 +1,70 @@
 [
   {
     "text": "Match: 'I'll babysit your kids for you.' means:",
-    "options": ["to take care of children", "to make clothes smooth", "to cut grass", "a boring job"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'babysit' تعني رعاية الأطفال.", "B": "هذا معنى 'iron'.", "C": "هذا معنى 'mow the lawn'.", "D": "هذا معنى 'chore'." }
+    "options": [
+      "a boring job",
+      "to take care of children",
+      "to cut grass",
+      "to make clothes smooth"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! 'babysit' تعني رعاية الأطفال.",
+      "B": "هذا معنى 'iron'.",
+      "C": "هذا معنى 'mow the lawn'.",
+      "D": "هذا معنى 'chore'."
+    }
   },
   {
     "text": "Match: 'Grandmother mows the lawn in the garden.' means:",
-    "options": ["to cut grass", "to make clothes smooth", "to take care of children", "to spend time"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'mow the lawn' تعني قص العشب." }
+    "options": [
+      "to make clothes smooth",
+      "to spend time",
+      "to take care of children",
+      "to cut grass"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! 'mow the lawn' تعني قص العشب."
+    }
   },
   {
     "text": "I bought a new bicycle. Let's go for a ……………………..",
-    "options": ["ride", "shopping", "bowling", "swimming"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'go for a ride' على الدراجة." }
+    "options": [
+      "shopping",
+      "bowling",
+      "ride",
+      "swimming"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! 'go for a ride' على الدراجة."
+    }
   },
   {
     "text": "Let's go ………………………. on Saturday because I miss rolling the ball.",
-    "options": ["bowling", "shopping", "swimming", "driving"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'bowling' البولينج." }
+    "options": [
+      "driving",
+      "bowling",
+      "swimming",
+      "shopping"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! 'bowling' البولينج."
+    }
   },
   {
     "text": "I often go ……………………… in the sea.",
-    "options": ["swimming", "shopping", "driving", "bowling"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'go swimming' في البحر." }
+    "options": [
+      "bowling",
+      "swimming",
+      "shopping",
+      "driving"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! 'go swimming' في البحر."
+    }
   }
 ]

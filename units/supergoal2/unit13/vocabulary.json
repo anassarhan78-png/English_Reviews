@@ -1,104 +1,274 @@
 [
   {
     "text": "Match: 'The new leaves are growing out.' Leaves means:",
-    "options": ["flat, thin, green parts of a plant", "harm or injury", "prediction", "moisture"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! أوراق النبات.", "B": "damage.", "C": "forecast.", "D": "humidity." }
+    "options": [
+      "prediction",
+      "harm or injury",
+      "flat, thin, green parts of a plant",
+      "moisture"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! أوراق النبات.",
+      "B": "damage.",
+      "C": "forecast.",
+      "D": "humidity."
+    }
   },
   {
     "text": "Match: 'The weather forecast was right.' Forecast means:",
-    "options": ["a prediction of what will happen", "harm", "a device for air pressure", "very large area of sea"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! توقعات الطقس.", "B": "damage.", "C": "barometer.", "D": "gulf." }
+    "options": [
+      "harm",
+      "very large area of sea",
+      "a device for air pressure",
+      "a prediction of what will happen"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! توقعات الطقس.",
+      "B": "damage.",
+      "C": "barometer.",
+      "D": "gulf."
+    }
   },
   {
     "text": "Match: 'The humidity is very high.' Humidity means:",
-    "options": ["amount of water in the air", "harm", "type of storm", "opposite of hot"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! رطوبة.", "B": "damage.", "C": "hurricane.", "D": "cold." }
+    "options": [
+      "harm",
+      "type of storm",
+      "amount of water in the air",
+      "opposite of hot"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! رطوبة.",
+      "B": "damage.",
+      "C": "hurricane.",
+      "D": "cold."
+    }
   },
   {
     "text": "Match: 'A hurricane hit the city yesterday.' Hurricane means:",
-    "options": ["a type of storm", "harm", "prediction", "leaves"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! إعصار.", "B": "damage.", "C": "forecast.", "D": "leaves." }
+    "options": [
+      "leaves",
+      "a type of storm",
+      "harm",
+      "prediction"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! إعصار.",
+      "B": "damage.",
+      "C": "forecast.",
+      "D": "leaves."
+    }
   },
   {
     "text": "Match: 'It was cold in the cave.' Cold is the antonym of:",
-    "options": ["hot", "warm", "humid", "wet"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! عكس بارد هو ساخن.", "B": "دافئ.", "C": "رطب.", "D": "مبلل." }
+    "options": [
+      "warm",
+      "humid",
+      "wet",
+      "hot"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! عكس بارد هو ساخن.",
+      "B": "دافئ.",
+      "C": "رطب.",
+      "D": "مبلل."
+    }
   },
   {
     "text": "Match: 'The barometer is falling. It is going to rain.' Barometer means:",
-    "options": ["a device that measures air pressure", "prediction", "moisture", "storm"],
+    "options": [
+      "a device that measures air pressure",
+      "prediction",
+      "moisture",
+      "storm"
+    ],
     "correct": "A",
-    "explanation": { "A": "صحيح! مقياس الضغط الجوي.", "B": "forecast.", "C": "humidity.", "D": "hurricane." }
+    "explanation": {
+      "A": "صحيح! مقياس الضغط الجوي.",
+      "B": "forecast.",
+      "C": "humidity.",
+      "D": "hurricane."
+    }
   },
   {
     "text": "Match: 'The storm caused a lot of damage.' Damage means:",
-    "options": ["harm or injury", "prediction", "moisture", "leaves"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! ضرر أو دمار.", "B": "forecast.", "C": "humidity.", "D": "leaves." }
+    "options": [
+      "moisture",
+      "leaves",
+      "harm or injury",
+      "prediction"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! ضرر أو دمار.",
+      "B": "forecast.",
+      "C": "humidity.",
+      "D": "leaves."
+    }
   },
   {
     "text": "I don't like the ………………………………. of this climate.",
-    "options": ["humidity", "leaf", "season", "unhappy"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! رطوبة المناخ.", "B": "ورقة.", "C": "فصل.", "D": "حزين." }
+    "options": [
+      "unhappy",
+      "humidity",
+      "season",
+      "leaf"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! رطوبة المناخ.",
+      "B": "ورقة.",
+      "C": "فصل.",
+      "D": "حزين."
+    }
   },
   {
     "text": "The weather there can be ………………………...",
-    "options": ["unpredictable", "unhappy", "unnecessary", "uneasy"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! غير متوقع.", "B": "تعيس.", "C": "غير ضروري.", "D": "قلق." }
+    "options": [
+      "uneasy",
+      "unpredictable",
+      "unnecessary",
+      "unhappy"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! غير متوقع.",
+      "B": "تعيس.",
+      "C": "غير ضروري.",
+      "D": "قلق."
+    }
   },
   {
     "text": "I saw a nest on the palm ……………….",
-    "options": ["leaf", "barometer", "rain", "winter"],
+    "options": [
+      "leaf",
+      "barometer",
+      "winter",
+      "rain"
+    ],
     "correct": "A",
-    "explanation": { "A": "صحيح! سعفة النخلة.", "B": "بارومتر.", "C": "مطر.", "D": "شتاء." }
+    "explanation": {
+      "A": "صحيح! سعفة النخلة.",
+      "B": "بارومتر.",
+      "C": "مطر.",
+      "D": "شتاء."
+    }
   },
   {
     "text": "Winter is my favorite …………………..",
-    "options": ["season", "display", "temperature", "hurricane"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! فصل الشتاء.", "B": "عرض.", "C": "حرارة.", "D": "إعصار." }
+    "options": [
+      "hurricane",
+      "display",
+      "season",
+      "temperature"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! فصل الشتاء.",
+      "B": "عرض.",
+      "C": "حرارة.",
+      "D": "إعصار."
+    }
   },
   {
     "text": "The ………………………. destroyed the whole village.",
-    "options": ["hurricane", "humidity", "spring", "degree"],
+    "options": [
+      "hurricane",
+      "degree",
+      "humidity",
+      "spring"
+    ],
     "correct": "A",
-    "explanation": { "A": "صحيح! الإعصار دمر القرية.", "B": "رطوبة.", "C": "ربيع.", "D": "درجة." }
+    "explanation": {
+      "A": "صحيح! الإعصار دمر القرية.",
+      "B": "رطوبة.",
+      "C": "ربيع.",
+      "D": "درجة."
+    }
   },
   {
     "text": "It was so ………… that the top of the mountain was invisible.",
-    "options": ["cloudy", "dry", "windy", "sunny"],
+    "options": [
+      "cloudy",
+      "sunny",
+      "dry",
+      "windy"
+    ],
     "correct": "A",
-    "explanation": { "A": "صحيح! غائم.", "B": "جاف.", "C": "عاصف.", "D": "مشمس." }
+    "explanation": {
+      "A": "صحيح! غائم.",
+      "B": "جاف.",
+      "C": "عاصف.",
+      "D": "مشمس."
+    }
   },
   {
     "text": "It was ………….., and everyone was in short sleeves.",
-    "options": ["sunny", "windy", "cold", "cloudy"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! مشمس.", "B": "عاصف.", "C": "بارد.", "D": "غائم." }
+    "options": [
+      "cold",
+      "cloudy",
+      "windy",
+      "sunny"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! مشمس.",
+      "B": "عاصف.",
+      "C": "بارد.",
+      "D": "غائم."
+    }
   },
   {
     "text": "It started to ……… lightly. I should have my umbrella.",
-    "options": ["rain", "snow", "shine", "blow"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! تمطر بخفة.", "B": "تثلج.", "C": "تشرق.", "D": "تهب." }
+    "options": [
+      "blow",
+      "shine",
+      "snow",
+      "rain"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! تمطر بخفة.",
+      "B": "تثلج.",
+      "C": "تشرق.",
+      "D": "تهب."
+    }
   },
   {
     "text": "The trees are just coming into …………….",
-    "options": ["leaf", "season", "winter", "rain"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! تورق الأشجار.", "B": "فصل.", "C": "شتاء.", "D": "مطر." }
+    "options": [
+      "rain",
+      "winter",
+      "season",
+      "leaf"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! تورق الأشجار.",
+      "B": "فصل.",
+      "C": "شتاء.",
+      "D": "مطر."
+    }
   },
   {
     "text": "Camels are animals that live in …………… deserts.",
-    "options": ["hot", "cloudy", "rainy", "snowy"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! صحاري حارة.", "B": "غائم.", "C": "ممطر.", "D": "مثلج." }
+    "options": [
+      "snowy",
+      "rainy",
+      "hot",
+      "cloudy"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! صحاري حارة.",
+      "B": "غائم.",
+      "C": "ممطر.",
+      "D": "مثلج."
+    }
   }
 ]

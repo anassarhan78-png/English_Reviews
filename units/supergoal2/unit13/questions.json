@@ -1,110 +1,290 @@
 [
   {
     "text": "It will ___________ tomorrow.",
-    "options": ["rain", "raining", "to rain", "rains"],
+    "options": [
+      "rain",
+      "to rain",
+      "rains",
+      "raining"
+    ],
     "correct": "A",
-    "explanation": { "A": "صحيح! بعد will يأتي المصدر بدون to.", "B": "raining خطأ.", "C": "to rain خطأ.", "D": "rains خطأ." }
+    "explanation": {
+      "A": "صحيح! بعد will يأتي المصدر بدون to.",
+      "B": "raining خطأ.",
+      "C": "to rain خطأ.",
+      "D": "rains خطأ."
+    }
   },
   {
     "text": "I will ____________ swimming tomorrow.",
-    "options": ["go", "goes", "went", "to go"],
+    "options": [
+      "go",
+      "went",
+      "goes",
+      "to go"
+    ],
     "correct": "A",
-    "explanation": { "A": "صحيح! المصدر بعد will.", "B": "goes خطأ.", "C": "went ماضي.", "D": "to go خطأ." }
+    "explanation": {
+      "A": "صحيح! المصدر بعد will.",
+      "B": "goes خطأ.",
+      "C": "went ماضي.",
+      "D": "to go خطأ."
+    }
   },
   {
     "text": "I will ____________ studying next week.",
-    "options": ["be", "is", "are", "am"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! will be + فعل+ing (مستقبل مستمر).", "B": "is خطأ.", "C": "are خطأ.", "D": "am خطأ." }
+    "options": [
+      "am",
+      "be",
+      "is",
+      "are"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! will be + فعل+ing (مستقبل مستمر).",
+      "B": "is خطأ.",
+      "C": "are خطأ.",
+      "D": "am خطأ."
+    }
   },
   {
     "text": "There will ____________ 50 people at the party.",
-    "options": ["be", "am", "are", "is"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! will + be للوجود.", "B": "am خطأ.", "C": "are خطأ.", "D": "is خطأ." }
+    "options": [
+      "are",
+      "is",
+      "be",
+      "am"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! will + be للوجود.",
+      "B": "am خطأ.",
+      "C": "are خطأ.",
+      "D": "is خطأ."
+    }
   },
   {
     "text": "They will ___________ the city.",
-    "options": ["leave", "leaving", "leaves", "to leave"],
+    "options": [
+      "leave",
+      "leaves",
+      "to leave",
+      "leaving"
+    ],
     "correct": "A",
-    "explanation": { "A": "صحيح! المصدر بعد will.", "B": "leaving خطأ.", "C": "leaves خطأ.", "D": "to leave خطأ." }
+    "explanation": {
+      "A": "صحيح! المصدر بعد will.",
+      "B": "leaving خطأ.",
+      "C": "leaves خطأ.",
+      "D": "to leave خطأ."
+    }
   },
   {
     "text": "When will you __________ me the e-mail?",
-    "options": ["send", "sending", "sent", "sends"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! المصدر بعد will في السؤال.", "B": "sending خطأ.", "C": "sent ماضي.", "D": "sends خطأ." }
+    "options": [
+      "sends",
+      "send",
+      "sent",
+      "sending"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! المصدر بعد will في السؤال.",
+      "B": "sending خطأ.",
+      "C": "sent ماضي.",
+      "D": "sends خطأ."
+    }
   },
   {
     "text": "He will _________ tennis tomorrow.",
-    "options": ["play", "plays", "played", "playing"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! المصدر بعد will.", "B": "plays خطأ.", "C": "played ماضي.", "D": "playing خطأ." }
+    "options": [
+      "plays",
+      "played",
+      "playing",
+      "play"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! المصدر بعد will.",
+      "B": "plays خطأ.",
+      "C": "played ماضي.",
+      "D": "playing خطأ."
+    }
   },
   {
     "text": "They will _______ the bus to the South next week.",
-    "options": ["take", "takes", "took", "taking"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! المصدر بعد will.", "B": "takes خطأ.", "C": "took ماضي.", "D": "taking خطأ." }
+    "options": [
+      "took",
+      "takes",
+      "taking",
+      "take"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! المصدر بعد will.",
+      "B": "takes خطأ.",
+      "C": "took ماضي.",
+      "D": "taking خطأ."
+    }
   },
   {
     "text": "What will he ……………………………….. for breakfast?",
-    "options": ["eat", "ate", "eats", "to eat"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! المصدر بعد will.", "B": "ate ماضي.", "C": "eats خطأ.", "D": "to eat خطأ." }
+    "options": [
+      "ate",
+      "eat",
+      "to eat",
+      "eats"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! المصدر بعد will.",
+      "B": "ate ماضي.",
+      "C": "eats خطأ.",
+      "D": "to eat خطأ."
+    }
   },
   {
     "text": "What will John …………………….?",
-    "options": ["do", "did", "does", "to do"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! المصدر بعد will.", "B": "did ماضي.", "C": "does خطأ.", "D": "to do خطأ." }
+    "options": [
+      "did",
+      "does",
+      "do",
+      "to do"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! المصدر بعد will.",
+      "B": "did ماضي.",
+      "C": "does خطأ.",
+      "D": "to do خطأ."
+    }
   },
   {
     "text": "Where will the children …………….?",
-    "options": ["play", "to play", "played", "plays"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! المصدر بعد will.", "B": "to play خطأ.", "C": "played ماضي.", "D": "plays خطأ." }
+    "options": [
+      "plays",
+      "played",
+      "play",
+      "to play"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! المصدر بعد will.",
+      "B": "to play خطأ.",
+      "C": "played ماضي.",
+      "D": "plays خطأ."
+    }
   },
   {
     "text": "If you visit the museum on Thursday, you ……………………. in for free.",
-    "options": ["will get", "got", "getting", "gets"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! الشرط الأول: If + مضارع، will + مصدر.", "B": "got ماضي.", "C": "getting خطأ.", "D": "gets خطأ." }
+    "options": [
+      "getting",
+      "gets",
+      "will get",
+      "got"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! الشرط الأول: If + مضارع، will + مصدر.",
+      "B": "got ماضي.",
+      "C": "getting خطأ.",
+      "D": "gets خطأ."
+    }
   },
   {
     "text": "If I ………………………. to the zoo, I will feed the elephants.",
-    "options": ["go", "went", "going", "goes"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! بعد If يأتي مضارع بسيط.", "B": "went ماضي.", "C": "going خطأ.", "D": "goes خطأ مع I." }
+    "options": [
+      "going",
+      "goes",
+      "went",
+      "go"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! بعد If يأتي مضارع بسيط.",
+      "B": "went ماضي.",
+      "C": "going خطأ.",
+      "D": "goes خطأ مع I."
+    }
   },
   {
     "text": "If I order a sofa today, I ……………….for it next year.",
-    "options": ["will pay", "paying", "paid", "pays"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! will pay في جواب الشرط.", "B": "paying خطأ.", "C": "paid ماضي.", "D": "pays خطأ." }
+    "options": [
+      "paying",
+      "pays",
+      "will pay",
+      "paid"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! will pay في جواب الشرط.",
+      "B": "paying خطأ.",
+      "C": "paid ماضي.",
+      "D": "pays خطأ."
+    }
   },
   {
     "text": "If it rains, you …………………. wet.",
-    "options": ["will get", "to get", "gets", "getting"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! will get في الجواب.", "B": "to get خطأ.", "C": "gets خطأ.", "D": "getting خطأ." }
+    "options": [
+      "gets",
+      "getting",
+      "to get",
+      "will get"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! will get في الجواب.",
+      "B": "to get خطأ.",
+      "C": "gets خطأ.",
+      "D": "getting خطأ."
+    }
   },
   {
     "text": "I will be mad if Sara …………….. late again.",
-    "options": ["is", "be", "am", "are"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! Sara مفرد → is في جملة الشرط.", "B": "be خطأ.", "C": "am خطأ.", "D": "are خطأ." }
+    "options": [
+      "be",
+      "am",
+      "is",
+      "are"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! Sara مفرد → is في جملة الشرط.",
+      "B": "be خطأ.",
+      "C": "am خطأ.",
+      "D": "are خطأ."
+    }
   },
   {
     "text": "If you eat too much, you …………. fat.",
-    "options": ["get", "getting", "gets", "to get"],
+    "options": [
+      "get",
+      "gets",
+      "getting",
+      "to get"
+    ],
     "correct": "A",
-    "explanation": { "A": "صحيح! الحقيقة العامة: If + مضارع، مضارع بسيط.", "B": "getting خطأ.", "C": "gets خطأ مع you.", "D": "to get خطأ." }
+    "explanation": {
+      "A": "صحيح! الحقيقة العامة: If + مضارع، مضارع بسيط.",
+      "B": "getting خطأ.",
+      "C": "gets خطأ مع you.",
+      "D": "to get خطأ."
+    }
   },
   {
     "text": "Baby wakes up if we …………………. too much noise.",
-    "options": ["make", "making", "makes", "made"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! مضارع بسيط مع we.", "B": "making خطأ.", "C": "makes خطأ مع we.", "D": "made ماضي." }
+    "options": [
+      "makes",
+      "making",
+      "made",
+      "make"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! مضارع بسيط مع we.",
+      "B": "making خطأ.",
+      "C": "makes خطأ مع we.",
+      "D": "made ماضي."
+    }
   }
 ]

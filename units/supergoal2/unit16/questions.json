@@ -1,92 +1,242 @@
 [
   {
     "text": "They ____________ three letters already.",
-    "options": ["have written", "wrote", "has written", "write"],
+    "options": [
+      "have written",
+      "has written",
+      "write",
+      "wrote"
+    ],
     "correct": "A",
-    "explanation": { "A": "صحيح! مضارع تام مع 'They': have + written.", "B": "wrote ماضي بسيط ولا يناسب 'already'.", "C": "has للمفرد.", "D": "write مضارع خطأ." }
+    "explanation": {
+      "A": "صحيح! مضارع تام مع 'They': have + written.",
+      "B": "wrote ماضي بسيط ولا يناسب 'already'.",
+      "C": "has للمفرد.",
+      "D": "write مضارع خطأ."
+    }
   },
   {
     "text": "He …………………….. his homework already.",
-    "options": ["has finished", "have finished", "finished", "finishes"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! He مفرد → has + finished.", "B": "have للجمع.", "C": "finished ماضي بسيط ينقص has.", "D": "finishes مضارع خطأ." }
+    "options": [
+      "finished",
+      "has finished",
+      "have finished",
+      "finishes"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! He مفرد → has + finished.",
+      "B": "have للجمع.",
+      "C": "finished ماضي بسيط ينقص has.",
+      "D": "finishes مضارع خطأ."
+    }
   },
   {
     "text": "We have ___________ to Canada.",
-    "options": ["been", "are", "be", "were"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! have been للتجربة.", "B": "are مضارع خطأ.", "C": "be مصدر خطأ.", "D": "were ماضي خطأ." }
+    "options": [
+      "are",
+      "were",
+      "been",
+      "be"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! have been للتجربة.",
+      "B": "are مضارع خطأ.",
+      "C": "be مصدر خطأ.",
+      "D": "were ماضي خطأ."
+    }
   },
   {
     "text": "We have ________ this movie already.",
-    "options": ["seen", "see", "saw", "to see"],
+    "options": [
+      "seen",
+      "to see",
+      "see",
+      "saw"
+    ],
     "correct": "A",
-    "explanation": { "A": "صحيح! تصريف ثالث لـ see هو seen.", "B": "see مضارع خطأ.", "C": "saw ماضي خطأ.", "D": "to see خطأ." }
+    "explanation": {
+      "A": "صحيح! تصريف ثالث لـ see هو seen.",
+      "B": "see مضارع خطأ.",
+      "C": "saw ماضي خطأ.",
+      "D": "to see خطأ."
+    }
   },
   {
     "text": "He has …………………. his leg.",
-    "options": ["broken", "breaks", "broke", "breaking"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! has + broken (تصريف ثالث).", "B": "breaks مضارع خطأ.", "C": "broke ماضي خطأ.", "D": "breaking خطأ." }
+    "options": [
+      "breaking",
+      "broken",
+      "breaks",
+      "broke"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! has + broken (تصريف ثالث).",
+      "B": "breaks مضارع خطأ.",
+      "C": "broke ماضي خطأ.",
+      "D": "breaking خطأ."
+    }
   },
   {
     "text": "There has __________ an accident.",
-    "options": ["been", "is", "was", "be"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! has + been.", "B": "is مضارع خطأ.", "C": "was ماضي خطأ.", "D": "be مصدر خطأ." }
+    "options": [
+      "was",
+      "been",
+      "is",
+      "be"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! has + been.",
+      "B": "is مضارع خطأ.",
+      "C": "was ماضي خطأ.",
+      "D": "be مصدر خطأ."
+    }
   },
   {
     "text": "The children have ………………… a mess in the kitchen.",
-    "options": ["made", "make", "making", "to make"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! have + made (تصريف ثالث).", "B": "make مضارع خطأ.", "C": "making خطأ.", "D": "to make خطأ." }
+    "options": [
+      "make",
+      "made",
+      "making",
+      "to make"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! have + made (تصريف ثالث).",
+      "B": "make مضارع خطأ.",
+      "C": "making خطأ.",
+      "D": "to make خطأ."
+    }
   },
   {
     "text": "Have you ever _______ to England?",
-    "options": ["been", "were", "are", "be"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! Have you ever been للسؤال عن تجربة.", "B": "were ماضي خطأ.", "C": "are مضارع خطأ.", "D": "be مصدر خطأ." }
+    "options": [
+      "were",
+      "been",
+      "are",
+      "be"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! Have you ever been للسؤال عن تجربة.",
+      "B": "were ماضي خطأ.",
+      "C": "are مضارع خطأ.",
+      "D": "be مصدر خطأ."
+    }
   },
   {
     "text": "I have never ………………. to Italy.",
-    "options": ["been", "be", "were", "is"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! have never been.", "B": "be خطأ.", "C": "were خطأ.", "D": "is خطأ." }
+    "options": [
+      "were",
+      "is",
+      "be",
+      "been"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! have never been.",
+      "B": "be خطأ.",
+      "C": "were خطأ.",
+      "D": "is خطأ."
+    }
   },
   {
     "text": "They haven't ……………………… yet.",
-    "options": ["eaten", "eat", "ate", "eats"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! haven't + eaten.", "B": "eat مضارع خطأ.", "C": "ate ماضي خطأ.", "D": "eats خطأ." }
+    "options": [
+      "eat",
+      "ate",
+      "eats",
+      "eaten"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! haven't + eaten.",
+      "B": "eat مضارع خطأ.",
+      "C": "ate ماضي خطأ.",
+      "D": "eats خطأ."
+    }
   },
   {
     "text": "I haven't ________ my room yet.",
-    "options": ["cleaned", "cleans", "cleaning", "clean"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! haven't + cleaned.", "B": "cleans خطأ.", "C": "cleaning خطأ.", "D": "clean مضارع خطأ." }
+    "options": [
+      "clean",
+      "cleaning",
+      "cleans",
+      "cleaned"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! haven't + cleaned.",
+      "B": "cleans خطأ.",
+      "C": "cleaning خطأ.",
+      "D": "clean مضارع خطأ."
+    }
   },
   {
     "text": "We haven't ___________a movie yet.",
-    "options": ["watched", "are going to watch", "to watch", "watching"],
+    "options": [
+      "watched",
+      "are going to watch",
+      "watching",
+      "to watch"
+    ],
     "correct": "A",
-    "explanation": { "A": "صحيح! haven't + watched.", "B": "are going to watch مستقبل خطأ.", "C": "to watch خطأ.", "D": "watching خطأ." }
+    "explanation": {
+      "A": "صحيح! haven't + watched.",
+      "B": "are going to watch مستقبل خطأ.",
+      "C": "to watch خطأ.",
+      "D": "watching خطأ."
+    }
   },
   {
     "text": "__________ you ever seen a ghost?",
-    "options": ["Have", "Has", "Are", "Do"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! Have you ever seen?", "B": "Has للمفرد.", "C": "Are خطأ.", "D": "Do خطأ." }
+    "options": [
+      "Has",
+      "Do",
+      "Have",
+      "Are"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! Have you ever seen?",
+      "B": "Has للمفرد.",
+      "C": "Are خطأ.",
+      "D": "Do خطأ."
+    }
   },
   {
     "text": "_____ he bought a new car yet?",
-    "options": ["Has", "Have", "Is", "Was"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! Has he bought?", "B": "Have خطأ مع he.", "C": "Is خطأ.", "D": "Was خطأ." }
+    "options": [
+      "Have",
+      "Has",
+      "Was",
+      "Is"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! Has he bought?",
+      "B": "Have خطأ مع he.",
+      "C": "Is خطأ.",
+      "D": "Was خطأ."
+    }
   },
   {
     "text": "I have …………….. three books so far.",
-    "options": ["bought", "buying", "buy", "buys"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! have + bought.", "B": "buying خطأ.", "C": "buy مضارع خطأ.", "D": "buys خطأ." }
+    "options": [
+      "buys",
+      "buying",
+      "bought",
+      "buy"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! have + bought.",
+      "B": "buying خطأ.",
+      "C": "buy مضارع خطأ.",
+      "D": "buys خطأ."
+    }
   }
 ]

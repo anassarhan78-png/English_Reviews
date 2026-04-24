@@ -1,32 +1,67 @@
 [
   {
     "text": "Why ……………….. you like seafood?",
-    "options": ["don't", "aren't", "doesn't", "isn't"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! السؤال بـ 'Why' مع الفاعل 'you' يستخدم 'don't'." }
+    "options": [
+      "doesn't",
+      "aren't",
+      "isn't",
+      "don't"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! السؤال بـ 'Why' مع الفاعل 'you' يستخدم 'don't'."
+    }
   },
   {
     "text": "I should ………………… home now.",
-    "options": ["go", "goes", "going", "went"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! بعد 'should' يأتي المصدر (بدون to)." }
+    "options": [
+      "goes",
+      "go",
+      "going",
+      "went"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! بعد 'should' يأتي المصدر (بدون to)."
+    }
   },
   {
     "text": "Let's …………. out instead.",
-    "options": ["eat", "ate", "eats", "eating"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! بعد 'Let's' يأتي المصدر." }
+    "options": [
+      "eats",
+      "eat",
+      "ate",
+      "eating"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! بعد 'Let's' يأتي المصدر."
+    }
   },
   {
     "text": "She has to …………. early.",
-    "options": ["get up", "gets up", "got up", "getting up"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! بعد 'has to' يأتي المصدر." }
+    "options": [
+      "gets up",
+      "got up",
+      "getting up",
+      "get up"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! بعد 'has to' يأتي المصدر."
+    }
   },
   {
     "text": "You must ………. vegetables.",
-    "options": ["eat", "to eat", "eating", "eats"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! بعد 'must' المصدر بدون to." }
+    "options": [
+      "to eat",
+      "eating",
+      "eat",
+      "eats"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! بعد 'must' المصدر بدون to."
+    }
   }
 ]

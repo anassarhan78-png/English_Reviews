@@ -1,92 +1,242 @@
 [
   {
     "text": "He was writing an e-mail when the phone ………………..",
-    "options": ["rang", "to ring", "rings", "ringing"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! ماضي بسيط (حدث مفاجئ) مع ماضي مستمر.", "B": "to ring خطأ.", "C": "rings مضارع خطأ.", "D": "ringing خطأ." }
+    "options": [
+      "rings",
+      "rang",
+      "to ring",
+      "ringing"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! ماضي بسيط (حدث مفاجئ) مع ماضي مستمر.",
+      "B": "to ring خطأ.",
+      "C": "rings مضارع خطأ.",
+      "D": "ringing خطأ."
+    }
   },
   {
     "text": "The kids ………………. in the garden when it began to rain.",
-    "options": ["were playing", "be playing", "was playing", "are playing"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! kids جمع → were + playing.", "B": "be خطأ.", "C": "was للمفرد.", "D": "are مضارع خطأ." }
+    "options": [
+      "are playing",
+      "be playing",
+      "was playing",
+      "were playing"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! kids جمع → were + playing.",
+      "B": "be خطأ.",
+      "C": "was للمفرد.",
+      "D": "are مضارع خطأ."
+    }
   },
   {
     "text": "I was practising the guitar when he ……………… home.",
-    "options": ["came", "come", "comes", "coming"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! ماضي بسيط مع when.", "B": "come مضارع خطأ.", "C": "comes خطأ.", "D": "coming خطأ." }
+    "options": [
+      "come",
+      "came",
+      "coming",
+      "comes"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! ماضي بسيط مع when.",
+      "B": "come مضارع خطأ.",
+      "C": "comes خطأ.",
+      "D": "coming خطأ."
+    }
   },
   {
     "text": "He ………………… a shower when the phone rang.",
-    "options": ["was taking", "were taking", "to take", "is taking"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! He مفرد → was taking.", "B": "were للجمع.", "C": "to take خطأ.", "D": "is مضارع خطأ." }
+    "options": [
+      "were taking",
+      "to take",
+      "is taking",
+      "was taking"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! He مفرد → was taking.",
+      "B": "were للجمع.",
+      "C": "to take خطأ.",
+      "D": "is مضارع خطأ."
+    }
   },
   {
     "text": "When I …………………….. into the room, everyone was working.",
-    "options": ["walked", "to walk", "was walking", "is walking"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! ماضي بسيط (دخلت) مع جملة مستمرة.", "B": "to walk خطأ.", "C": "was walking تغير المعنى.", "D": "is walking مضارع خطأ." }
+    "options": [
+      "was walking",
+      "to walk",
+      "walked",
+      "is walking"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! ماضي بسيط (دخلت) مع جملة مستمرة.",
+      "B": "to walk خطأ.",
+      "C": "was walking تغير المعنى.",
+      "D": "is walking مضارع خطأ."
+    }
   },
   {
     "text": "When her train got to the station, we ………………………...",
-    "options": ["were waiting", "waited", "is waiting", "to wait"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! كنا ننتظر (مستمر في الماضي).", "B": "waited ممكن لكن المستمر أفضل للوصف.", "C": "is مضارع خطأ.", "D": "to wait خطأ." }
+    "options": [
+      "is waiting",
+      "waited",
+      "were waiting",
+      "to wait"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! كنا ننتظر (مستمر في الماضي).",
+      "B": "waited ممكن لكن المستمر أفضل للوصف.",
+      "C": "is مضارع خطأ.",
+      "D": "to wait خطأ."
+    }
   },
   {
     "text": "Peter ……………………… a book yesterday evening.",
-    "options": ["was reading", "is reading", "to read", "were reading"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! Peter مفرد → was reading.", "B": "is مضارع خطأ.", "C": "to read خطأ.", "D": "were للجمع." }
+    "options": [
+      "were reading",
+      "to read",
+      "is reading",
+      "was reading"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! Peter مفرد → was reading.",
+      "B": "is مضارع خطأ.",
+      "C": "to read خطأ.",
+      "D": "were للجمع."
+    }
   },
   {
     "text": "You ……………… playing football.",
-    "options": ["were", "are", "is", "was"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! You تأخذ were في الماضي المستمر.", "B": "are مضارع.", "C": "is للمفرد.", "D": "was خطأ مع you." }
+    "options": [
+      "is",
+      "were",
+      "are",
+      "was"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! You تأخذ were في الماضي المستمر.",
+      "B": "are مضارع.",
+      "C": "is للمفرد.",
+      "D": "was خطأ مع you."
+    }
   },
   {
     "text": "He ……………. sleeping all night long.",
-    "options": ["was", "were", "are", "be"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! He مفرد → was.", "B": "were للجمع أو you.", "C": "are مضارع.", "D": "be مصدر خطأ." }
+    "options": [
+      "are",
+      "was",
+      "were",
+      "be"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! He مفرد → was.",
+      "B": "were للجمع أو you.",
+      "C": "are مضارع.",
+      "D": "be مصدر خطأ."
+    }
   },
   {
     "text": "When she was young, my aunt could ……………… for miles.",
-    "options": ["run", "running", "to run", "runs"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! بعد could يأتي المصدر بدون to.", "B": "running خطأ.", "C": "to run خطأ.", "D": "runs خطأ." }
+    "options": [
+      "to run",
+      "run",
+      "runs",
+      "running"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! بعد could يأتي المصدر بدون to.",
+      "B": "running خطأ.",
+      "C": "to run خطأ.",
+      "D": "runs خطأ."
+    }
   },
   {
     "text": "When I …………. five, I could not swim.",
-    "options": ["was", "be", "is", "were"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! I + was في الماضي.", "B": "be مصدر خطأ.", "C": "is مضارع.", "D": "were خطأ مع I." }
+    "options": [
+      "is",
+      "be",
+      "was",
+      "were"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! I + was في الماضي.",
+      "B": "be مصدر خطأ.",
+      "C": "is مضارع.",
+      "D": "were خطأ مع I."
+    }
   },
   {
     "text": "I could …………… when I was less than a year old.",
-    "options": ["walk", "walked", "walks", "walking"],
+    "options": [
+      "walk",
+      "walking",
+      "walks",
+      "walked"
+    ],
     "correct": "A",
-    "explanation": { "A": "صحيح! المصدر بعد could.", "B": "walked ماضي خطأ.", "C": "walks خطأ.", "D": "walking خطأ." }
+    "explanation": {
+      "A": "صحيح! المصدر بعد could.",
+      "B": "walked ماضي خطأ.",
+      "C": "walks خطأ.",
+      "D": "walking خطأ."
+    }
   },
   {
     "text": "My brother ……………………… drive a car when he was young.",
-    "options": ["was not able to", "were not able to", "is not able to", "am not able to"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! brother مفرد → was not able to.", "B": "were للجمع.", "C": "is مضارع.", "D": "am مع I." }
+    "options": [
+      "is not able to",
+      "am not able to",
+      "was not able to",
+      "were not able to"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! brother مفرد → was not able to.",
+      "B": "were للجمع.",
+      "C": "is مضارع.",
+      "D": "am مع I."
+    }
   },
   {
     "text": "I was able to ……………… football.",
-    "options": ["play", "plays", "playing", "played"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! المصدر بعد was able to.", "B": "plays خطأ.", "C": "playing خطأ.", "D": "played ماضي خطأ." }
+    "options": [
+      "playing",
+      "played",
+      "plays",
+      "play"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! المصدر بعد was able to.",
+      "B": "plays خطأ.",
+      "C": "playing خطأ.",
+      "D": "played ماضي خطأ."
+    }
   },
   {
     "text": "He ………………… able to swim across the lake.",
-    "options": ["was", "were", "is", "are"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! He مفرد → was.", "B": "were للجمع.", "C": "is مضارع.", "D": "are مضارع جمع." }
+    "options": [
+      "are",
+      "is",
+      "were",
+      "was"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! He مفرد → was.",
+      "B": "were للجمع.",
+      "C": "is مضارع.",
+      "D": "are مضارع جمع."
+    }
   }
 ]

@@ -1,74 +1,194 @@
 [
   {
     "text": "Could you ………….. the window?",
-    "options": ["open", "to open", "opens", "opened"],
+    "options": [
+      "open",
+      "opens",
+      "opened",
+      "to open"
+    ],
     "correct": "A",
-    "explanation": { "A": "صحيح! بعد الأفعال الناقصة (Could) يأتي المصدر بدون to.", "B": "to open خطأ.", "C": "opens خطأ.", "D": "opened ماضي." }
+    "explanation": {
+      "A": "صحيح! بعد الأفعال الناقصة (Could) يأتي المصدر بدون to.",
+      "B": "to open خطأ.",
+      "C": "opens خطأ.",
+      "D": "opened ماضي."
+    }
   },
   {
     "text": "Can I ………… the salt?",
-    "options": ["have", "had", "has", "having"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! المصدر بعد Can.", "B": "had ماضي.", "C": "has خطأ.", "D": "having خطأ." }
+    "options": [
+      "having",
+      "has",
+      "have",
+      "had"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! المصدر بعد Can.",
+      "B": "had ماضي.",
+      "C": "has خطأ.",
+      "D": "having خطأ."
+    }
   },
   {
     "text": "Could I ………… you the time, please?",
-    "options": ["ask", "asked", "asking", "asks"],
+    "options": [
+      "ask",
+      "asks",
+      "asked",
+      "asking"
+    ],
     "correct": "A",
-    "explanation": { "A": "صحيح! المصدر بعد Could.", "B": "asked ماضي.", "C": "asking خطأ.", "D": "asks خطأ." }
+    "explanation": {
+      "A": "صحيح! المصدر بعد Could.",
+      "B": "asked ماضي.",
+      "C": "asking خطأ.",
+      "D": "asks خطأ."
+    }
   },
   {
     "text": "Will you ………….. me an email tomorrow?",
-    "options": ["send", "sending", "sends", "to send"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! المصدر بعد Will.", "B": "sending خطأ.", "C": "sends خطأ.", "D": "to send خطأ." }
+    "options": [
+      "sending",
+      "to send",
+      "sends",
+      "send"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! المصدر بعد Will.",
+      "B": "sending خطأ.",
+      "C": "sends خطأ.",
+      "D": "to send خطأ."
+    }
   },
   {
     "text": "Would you …………….. to my birthday party?",
-    "options": ["come", "comes", "coming", "to come"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! Would you + مصدر بدون to (في الطلب).", "B": "comes خطأ.", "C": "coming خطأ.", "D": "to come خطأ هنا." }
+    "options": [
+      "coming",
+      "comes",
+      "come",
+      "to come"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! Would you + مصدر بدون to (في الطلب).",
+      "B": "comes خطأ.",
+      "C": "coming خطأ.",
+      "D": "to come خطأ هنا."
+    }
   },
   {
     "text": "I'll ………….. the ironing.",
-    "options": ["do", "to do", "did", "does"],
+    "options": [
+      "do",
+      "does",
+      "to do",
+      "did"
+    ],
     "correct": "A",
-    "explanation": { "A": "صحيح! I'll = I will + مصدر.", "B": "to do خطأ.", "C": "did ماضي.", "D": "does خطأ." }
+    "explanation": {
+      "A": "صحيح! I'll = I will + مصدر.",
+      "B": "to do خطأ.",
+      "C": "did ماضي.",
+      "D": "does خطأ."
+    }
   },
   {
     "text": "Let me …………. you some more soup.",
-    "options": ["get", "to get", "gets", "getting"],
+    "options": [
+      "get",
+      "getting",
+      "gets",
+      "to get"
+    ],
     "correct": "A",
-    "explanation": { "A": "صحيح! بعد Let + مفعول + مصدر بدون to.", "B": "to get خطأ.", "C": "gets خطأ.", "D": "getting خطأ." }
+    "explanation": {
+      "A": "صحيح! بعد Let + مفعول + مصدر بدون to.",
+      "B": "to get خطأ.",
+      "C": "gets خطأ.",
+      "D": "getting خطأ."
+    }
   },
   {
     "text": "Let me …………….. your bag.",
-    "options": ["carry", "carries", "to carry", "carried"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! مصدر بدون to بعد Let me.", "B": "carries خطأ.", "C": "to carry خطأ.", "D": "carried ماضي." }
+    "options": [
+      "to carry",
+      "carried",
+      "carries",
+      "carry"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! مصدر بدون to بعد Let me.",
+      "B": "carries خطأ.",
+      "C": "to carry خطأ.",
+      "D": "carried ماضي."
+    }
   },
   {
     "text": "I'll ………….. you a lift to the station.",
-    "options": ["give", "gives", "to give", "giving"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! I'll = I will + مصدر.", "B": "gives خطأ.", "C": "to give خطأ.", "D": "giving خطأ." }
+    "options": [
+      "giving",
+      "to give",
+      "give",
+      "gives"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! I'll = I will + مصدر.",
+      "B": "gives خطأ.",
+      "C": "to give خطأ.",
+      "D": "giving خطأ."
+    }
   },
   {
     "text": "I want you ……………………… your bed.",
-    "options": ["to make", "made", "making", "makes"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! want + مفعول + to + مصدر.", "B": "made ماضي.", "C": "making خطأ.", "D": "makes خطأ." }
+    "options": [
+      "makes",
+      "making",
+      "to make",
+      "made"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! want + مفعول + to + مصدر.",
+      "B": "made ماضي.",
+      "C": "making خطأ.",
+      "D": "makes خطأ."
+    }
   },
   {
     "text": "Ask your doctor ………………… you some advice.",
-    "options": ["to give", "giving", "gives", "give"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! ask + مفعول + to + مصدر.", "B": "giving خطأ.", "C": "gives خطأ.", "D": "give خطأ بدون to." }
+    "options": [
+      "give",
+      "giving",
+      "gives",
+      "to give"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! ask + مفعول + to + مصدر.",
+      "B": "giving خطأ.",
+      "C": "gives خطأ.",
+      "D": "give خطأ بدون to."
+    }
   },
   {
     "text": "Tell her …………… some food.",
-    "options": ["to bring", "brings", "brought", "bringing"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! tell + مفعول + to + مصدر.", "B": "brings خطأ.", "C": "brought ماضي.", "D": "bringing خطأ." }
+    "options": [
+      "bringing",
+      "brought",
+      "to bring",
+      "brings"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! tell + مفعول + to + مصدر.",
+      "B": "brings خطأ.",
+      "C": "brought ماضي.",
+      "D": "bringing خطأ."
+    }
   }
 ]

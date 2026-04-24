@@ -1,32 +1,82 @@
 [
   {
     "text": "We were __________ in the forest and made a fire to cook hot dogs.",
-    "options": ["camping", "climbing", "surfing", "hiking"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'camping' تعني التخييم.", "B": "Climbing تعني التسلق.", "C": "Surfing تعني ركوب الأمواج.", "D": "Hiking تعني المشي لمسافات طويلة." }
+    "options": [
+      "hiking",
+      "climbing",
+      "camping",
+      "surfing"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! 'camping' تعني التخييم.",
+      "B": "Climbing تعني التسلق.",
+      "C": "Surfing تعني ركوب الأمواج.",
+      "D": "Hiking تعني المشي لمسافات طويلة."
+    }
   },
   {
     "text": "I want to go __________ at the water park in Qiddiya City.",
-    "options": ["surfing", "camping", "climbing", "hiking"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'surfing' تعني ركوب الأمواج.", "B": "Camping تعني التخييم.", "C": "Climbing تعني التسلق.", "D": "Hiking تعني المشي لمسافات طويلة." }
+    "options": [
+      "climbing",
+      "camping",
+      "surfing",
+      "hiking"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! 'surfing' تعني ركوب الأمواج.",
+      "B": "Camping تعني التخييم.",
+      "C": "Climbing تعني التسلق.",
+      "D": "Hiking تعني المشي لمسافات طويلة."
+    }
   },
   {
     "text": "Naseer fell when he was __________ up a mountain.",
-    "options": ["climbing", "camping", "surfing", "hiking"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'climbing' تعني التسلق.", "B": "Camping تعني التخييم.", "C": "Surfing تعني ركوب الأمواج.", "D": "Hiking تعني المشي لمسافات طويلة." }
+    "options": [
+      "camping",
+      "climbing",
+      "hiking",
+      "surfing"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! 'climbing' تعني التسلق.",
+      "B": "Camping تعني التخييم.",
+      "C": "Surfing تعني ركوب الأمواج.",
+      "D": "Hiking تعني المشي لمسافات طويلة."
+    }
   },
   {
     "text": "Don't forget your __________, Saeed. It's cold in the forest at night.",
-    "options": ["sleeping bag", "tent", "backpack", "flashlight"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'sleeping bag' هي كيس النوم.", "B": "Tent تعني خيمة.", "C": "Backpack تعني حقيبة ظهر.", "D": "Flashlight تعني مصباح يدوي." }
+    "options": [
+      "flashlight",
+      "tent",
+      "sleeping bag",
+      "backpack"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! 'sleeping bag' هي كيس النوم.",
+      "B": "Tent تعني خيمة.",
+      "C": "Backpack تعني حقيبة ظهر.",
+      "D": "Flashlight تعني مصباح يدوي."
+    }
   },
   {
     "text": "Khadija is good at putting up a __________. She goes camping a lot.",
-    "options": ["tent", "sleeping bag", "backpack", "campfire"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'tent' تعني خيمة.", "B": "Sleeping bag تعني كيس نوم.", "C": "Backpack تعني حقيبة ظهر.", "D": "Campfire تعني نار المخيم." }
+    "options": [
+      "backpack",
+      "sleeping bag",
+      "campfire",
+      "tent"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! 'tent' تعني خيمة.",
+      "B": "Sleeping bag تعني كيس نوم.",
+      "C": "Backpack تعني حقيبة ظهر.",
+      "D": "Campfire تعني نار المخيم."
+    }
   }
 ]

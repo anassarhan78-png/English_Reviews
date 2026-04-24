@@ -1,32 +1,82 @@
 [
   {
     "text": "Amina __________ (eat) a sandwich in class yesterday.",
-    "options": ["was eating", "is eating", "ate", "eats"],
+    "options": [
+      "was eating",
+      "is eating",
+      "eats",
+      "ate"
+    ],
     "correct": "A",
-    "explanation": { "A": "صحيح! الماضي المستمر 'was eating' يعبر عن حدث مستمر في الماضي.", "B": "Is eating مضارع مستمر وليس ماضي.", "C": "Ate ماضي بسيط وليس مستمر.", "D": "Eats مضارع بسيط." }
+    "explanation": {
+      "A": "صحيح! الماضي المستمر 'was eating' يعبر عن حدث مستمر في الماضي.",
+      "B": "Is eating مضارع مستمر وليس ماضي.",
+      "C": "Ate ماضي بسيط وليس مستمر.",
+      "D": "Eats مضارع بسيط."
+    }
   },
   {
     "text": "We __________ (laugh) because the horror movie was funny.",
-    "options": ["were laughing", "was laughing", "laughed", "laugh"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! مع 'We' نستخدم 'were' + فعل + ing.", "B": "Was تستخدم مع المفرد.", "C": "Laughed ماضي بسيط وليس مستمر.", "D": "Laugh مضارع." }
+    "options": [
+      "laughed",
+      "were laughing",
+      "laugh",
+      "was laughing"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! مع 'We' نستخدم 'were' + فعل + ing.",
+      "B": "Was تستخدم مع المفرد.",
+      "C": "Laughed ماضي بسيط وليس مستمر.",
+      "D": "Laugh مضارع."
+    }
   },
   {
     "text": "__________ Adel and Ibrahim __________ (make) a documentary last week?",
-    "options": ["Were ... making", "Was ... making", "Did ... make", "Are ... making"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! السؤال في الماضي المستمر مع فاعل جمع: Were + فاعل + فعل + ing.", "B": "Was للفاعل المفرد.", "C": "Did make ماضي بسيط.", "D": "Are making مضارع مستمر." }
+    "options": [
+      "Did ... make",
+      "Were ... making",
+      "Was ... making",
+      "Are ... making"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! السؤال في الماضي المستمر مع فاعل جمع: Were + فاعل + فعل + ing.",
+      "B": "Was للفاعل المفرد.",
+      "C": "Did make ماضي بسيط.",
+      "D": "Are making مضارع مستمر."
+    }
   },
   {
     "text": "I knew Farah __________ (not enjoy) the fairy tale. She looked sad.",
-    "options": ["wasn't enjoying", "didn't enjoy", "isn't enjoying", "doesn't enjoy"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! النفي في الماضي المستمر: wasn't/weren't + فعل + ing.", "B": "Didn't enjoy ماضي بسيط.", "C": "Isn't enjoying مضارع مستمر.", "D": "Doesn't enjoy مضارع بسيط." }
+    "options": [
+      "isn't enjoying",
+      "doesn't enjoy",
+      "wasn't enjoying",
+      "didn't enjoy"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! النفي في الماضي المستمر: wasn't/weren't + فعل + ing.",
+      "B": "Didn't enjoy ماضي بسيط.",
+      "C": "Isn't enjoying مضارع مستمر.",
+      "D": "Doesn't enjoy مضارع بسيط."
+    }
   },
   {
     "text": "__________ you __________ (watch) the play or did you fall asleep?",
-    "options": ["Were ... watching", "Was ... watching", "Did ... watch", "Are ... watching"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! سؤال ماضي مستمر مع 'you': Were you watching.", "B": "Was تستخدم مع I/he/she/it.", "C": "Did watch ماضي بسيط.", "D": "Are watching مضارع مستمر." }
+    "options": [
+      "Are ... watching",
+      "Did ... watch",
+      "Were ... watching",
+      "Was ... watching"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! سؤال ماضي مستمر مع 'you': Were you watching.",
+      "B": "Was تستخدم مع I/he/she/it.",
+      "C": "Did watch ماضي بسيط.",
+      "D": "Are watching مضارع مستمر."
+    }
   }
 ]

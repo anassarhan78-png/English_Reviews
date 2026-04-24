@@ -1,32 +1,82 @@
 [
   {
     "text": "Maha __________ down when she __________.",
-    "options": ["fell / was climbing", "was falling / climbed", "fell / climbed", "was falling / was climbing"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! ماضي بسيط + ماضي مستمر: fell / was climbing.", "B": "خطأ: الترتيب والاستخدام غير صحيح.", "C": "ماضيين بسيطين لا يعبران عن التداخل الزمني.", "D": "ماضيين مستمرين غير مناسبين." }
+    "options": [
+      "was falling / climbed",
+      "fell / was climbing",
+      "fell / climbed",
+      "was falling / was climbing"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! ماضي بسيط + ماضي مستمر: fell / was climbing.",
+      "B": "خطأ: الترتيب والاستخدام غير صحيح.",
+      "C": "ماضيين بسيطين لا يعبران عن التداخل الزمني.",
+      "D": "ماضيين مستمرين غير مناسبين."
+    }
   },
   {
     "text": "We __________ and __________ an eagle.",
-    "options": ["were hiking / saw", "hiked / were seeing", "were hiking / were seeing", "hiked / saw"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! ماضي مستمر (حدث طويل) + ماضي بسيط (حدث مفاجئ).", "B": "خطأ: 'see' لا تستخدم عادة في المستمر.", "C": "غير مناسب: الحدثان مستمران.", "D": "جائز لكن 'were hiking / saw' أفضل لوصف المشهد." }
+    "options": [
+      "hiked / saw",
+      "hiked / were seeing",
+      "were hiking / saw",
+      "were hiking / were seeing"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! ماضي مستمر (حدث طويل) + ماضي بسيط (حدث مفاجئ).",
+      "B": "خطأ: 'see' لا تستخدم عادة في المستمر.",
+      "C": "غير مناسب: الحدثان مستمران.",
+      "D": "جائز لكن 'were hiking / saw' أفضل لوصف المشهد."
+    }
   },
   {
     "text": "Amal __________ cold while she __________ in the ocean.",
-    "options": ["felt / was surfing", "was feeling / surfed", "felt / surfed", "was feeling / was surfing"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! ماضي بسيط + ماضي مستمر.", "B": "خطأ: الترتيب غير منطقي.", "C": "ماضيين بسيطين لا يربطان الحدثين زمنياً.", "D": "جائز لكن 'felt / was surfing' أكثر دقة." }
+    "options": [
+      "was feeling / surfed",
+      "felt / surfed",
+      "was feeling / was surfing",
+      "felt / was surfing"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! ماضي بسيط + ماضي مستمر.",
+      "B": "خطأ: الترتيب غير منطقي.",
+      "C": "ماضيين بسيطين لا يربطان الحدثين زمنياً.",
+      "D": "جائز لكن 'felt / was surfing' أكثر دقة."
+    }
   },
   {
     "text": "They __________ when the fire __________.",
-    "options": ["were not sleeping / started", "did not sleep / was starting", "were not sleeping / was starting", "did not sleep / started"],
+    "options": [
+      "were not sleeping / started",
+      "were not sleeping / was starting",
+      "did not sleep / was starting",
+      "did not sleep / started"
+    ],
     "correct": "A",
-    "explanation": { "A": "صحيح! نفي ماضي مستمر + ماضي بسيط.", "B": "خطأ: 'start' فعل لحظي لا يستخدم في المستمر عادة.", "C": "خطأ: 'was starting' غير مناسب هنا.", "D": "جائز لكن المستمر أفضل لوصف الحالة المستمرة قبل الحدث." }
+    "explanation": {
+      "A": "صحيح! نفي ماضي مستمر + ماضي بسيط.",
+      "B": "خطأ: 'start' فعل لحظي لا يستخدم في المستمر عادة.",
+      "C": "خطأ: 'was starting' غير مناسب هنا.",
+      "D": "جائز لكن المستمر أفضل لوصف الحالة المستمرة قبل الحدث."
+    }
   },
   {
     "text": "What __________ you __________ when the horse __________ away?",
-    "options": ["were ... doing / ran", "did ... do / was running", "were ... doing / was running", "did ... do / ran"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! سؤال ماضي مستمر + ماضي بسيط.", "B": "خطأ: السؤال بالماضي البسيط لا يناسب السياق.", "C": "خطأ: 'ran' فعل لحظي لا يستخدم في المستمر.", "D": "جائز لكن المستمر أفضل للسؤال عن نشاط مستمر." }
+    "options": [
+      "did ... do / ran",
+      "were ... doing / was running",
+      "were ... doing / ran",
+      "did ... do / was running"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! سؤال ماضي مستمر + ماضي بسيط.",
+      "B": "خطأ: السؤال بالماضي البسيط لا يناسب السياق.",
+      "C": "خطأ: 'ran' فعل لحظي لا يستخدم في المستمر.",
+      "D": "جائز لكن المستمر أفضل للسؤال عن نشاط مستمر."
+    }
   }
 ]

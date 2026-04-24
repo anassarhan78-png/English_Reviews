@@ -1,146 +1,386 @@
 [
   {
     "text": "Match: 'He was fired from the company.' Fired means:",
-    "options": ["to remove from a job", "to go very quickly", "injury or cut in the skin", "to shout loudly"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! طُرد من العمل.", "B": "rush.", "C": "wound.", "D": "shriek." }
+    "options": [
+      "injury or cut in the skin",
+      "to remove from a job",
+      "to go very quickly",
+      "to shout loudly"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! طُرد من العمل.",
+      "B": "rush.",
+      "C": "wound.",
+      "D": "shriek."
+    }
   },
   {
     "text": "Match: 'The police warned us to keep back.' Warned means:",
-    "options": ["to tell of a danger", "to try to hurt", "to remove from job", "to shout"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! حذّر.", "B": "attack.", "C": "fire.", "D": "shriek." }
+    "options": [
+      "to remove from job",
+      "to tell of a danger",
+      "to try to hurt",
+      "to shout"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! حذّر.",
+      "B": "attack.",
+      "C": "fire.",
+      "D": "shriek."
+    }
   },
   {
     "text": "Match: 'Paper burns quickly.' Burns means:",
-    "options": ["to hurt or damage by fire", "to go very quickly", "a tool for cutting", "a long reptile"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! يحترق.", "B": "rush.", "C": "knife.", "D": "snake." }
+    "options": [
+      "to go very quickly",
+      "a long reptile",
+      "a tool for cutting",
+      "to hurt or damage by fire"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! يحترق.",
+      "B": "rush.",
+      "C": "knife.",
+      "D": "snake."
+    }
   },
   {
     "text": "Match: 'He was attacked by a shark.' Attacked means:",
-    "options": ["to try to hurt or damage", "to remove from job", "to shout", "to warn"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! هاجم.", "B": "fire.", "C": "shriek.", "D": "warn." }
+    "options": [
+      "to warn",
+      "to shout",
+      "to remove from job",
+      "to try to hurt or damage"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! هاجم.",
+      "B": "fire.",
+      "C": "shriek.",
+      "D": "warn."
+    }
   },
   {
     "text": "Match: 'The baby began to shriek.' Shriek means:",
-    "options": ["to shout or cry loudly", "to go quickly", "a person who has done something brave", "injury"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! صرخ.", "B": "rush.", "C": "hero.", "D": "wound." }
+    "options": [
+      "injury",
+      "to go quickly",
+      "a person who has done something brave",
+      "to shout or cry loudly"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! صرخ.",
+      "B": "rush.",
+      "C": "hero.",
+      "D": "wound."
+    }
   },
   {
     "text": "Match: 'I rushed out of my house.' Rushed means:",
-    "options": ["to go very quickly", "to try to hurt", "a long reptile", "a tool for cutting"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! اندفع بسرعة.", "B": "attack.", "C": "snake.", "D": "knife." }
+    "options": [
+      "a tool for cutting",
+      "a long reptile",
+      "to try to hurt",
+      "to go very quickly"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! اندفع بسرعة.",
+      "B": "attack.",
+      "C": "snake.",
+      "D": "knife."
+    }
   },
   {
     "text": "Match: 'Khaled became a hero.' Hero means:",
-    "options": ["a person who has done something brave", "a long reptile", "a tool for cutting", "injury"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! بطل.", "B": "snake.", "C": "knife.", "D": "wound." }
+    "options": [
+      "a tool for cutting",
+      "injury",
+      "a long reptile",
+      "a person who has done something brave"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! بطل.",
+      "B": "snake.",
+      "C": "knife.",
+      "D": "wound."
+    }
   },
   {
     "text": "Match: 'Blood flowed from the wound.' Wound means:",
-    "options": ["injury or a cut in the skin", "a tool for cutting", "to go quickly", "to remove from job"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! جرح.", "B": "knife.", "C": "rush.", "D": "fire." }
+    "options": [
+      "to go quickly",
+      "a tool for cutting",
+      "to remove from job",
+      "injury or a cut in the skin"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! جرح.",
+      "B": "knife.",
+      "C": "rush.",
+      "D": "fire."
+    }
   },
   {
     "text": "Match: 'The man wore a gun on his hip.' Hip means:",
-    "options": ["area between tops of legs and waist", "a long reptile", "a tool for cutting", "a crowd"],
+    "options": [
+      "area between tops of legs and waist",
+      "a crowd",
+      "a tool for cutting",
+      "a long reptile"
+    ],
     "correct": "A",
-    "explanation": { "A": "صحيح! ورك.", "B": "snake.", "C": "knife.", "D": "crowd." }
+    "explanation": {
+      "A": "صحيح! ورك.",
+      "B": "snake.",
+      "C": "knife.",
+      "D": "crowd."
+    }
   },
   {
     "text": "Match: 'Be careful with that knife.' Knife means:",
-    "options": ["a tool for cutting with a sharp edge", "injury", "a brave person", "to go quickly"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! سكين.", "B": "wound.", "C": "hero.", "D": "rush." }
+    "options": [
+      "a brave person",
+      "a tool for cutting with a sharp edge",
+      "to go quickly",
+      "injury"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! سكين.",
+      "B": "wound.",
+      "C": "hero.",
+      "D": "rush."
+    }
   },
   {
     "text": "He was ……………… for serious mistake.",
-    "options": ["fired", "rush", "burn", "deliver"],
+    "options": [
+      "fired",
+      "deliver",
+      "burn",
+      "rush"
+    ],
     "correct": "A",
-    "explanation": { "A": "صحيح! طُرد.", "B": "يندفع.", "C": "يحرق.", "D": "يوصل." }
+    "explanation": {
+      "A": "صحيح! طُرد.",
+      "B": "يندفع.",
+      "C": "يحرق.",
+      "D": "يوصل."
+    }
   },
   {
     "text": "She ……………. whenever she saw a spider.",
-    "options": ["shrieked", "risked", "attacked", "burned"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! صرخت.", "B": "خاطر.", "C": "هاجم.", "D": "حرق." }
+    "options": [
+      "risked",
+      "burned",
+      "attacked",
+      "shrieked"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! صرخت.",
+      "B": "خاطر.",
+      "C": "هاجم.",
+      "D": "حرق."
+    }
   },
   {
     "text": "Tom …………………. to help Mary.",
-    "options": ["rushed", "warned", "shocked", "attacked"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! أسرع.", "B": "حذّر.", "C": "صدم.", "D": "هاجم." }
+    "options": [
+      "attacked",
+      "shocked",
+      "warned",
+      "rushed"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! أسرع.",
+      "B": "حذّر.",
+      "C": "صدم.",
+      "D": "هاجم."
+    }
   },
   {
     "text": "I ……………… him about the danger.",
-    "options": ["warned", "managed", "kicked out", "shocked"],
+    "options": [
+      "warned",
+      "shocked",
+      "managed",
+      "kicked out"
+    ],
     "correct": "A",
-    "explanation": { "A": "صحيح! حذّرته.", "B": "أدار.", "C": "طرد.", "D": "صدم." }
+    "explanation": {
+      "A": "صحيح! حذّرته.",
+      "B": "أدار.",
+      "C": "طرد.",
+      "D": "صدم."
+    }
   },
   {
     "text": "The enemy ………………………..the town.",
-    "options": ["attacked", "rushed", "delivered", "remembered"],
+    "options": [
+      "attacked",
+      "remembered",
+      "delivered",
+      "rushed"
+    ],
     "correct": "A",
-    "explanation": { "A": "صحيح! هاجم.", "B": "أسرع.", "C": "سلّم.", "D": "تذكر." }
+    "explanation": {
+      "A": "صحيح! هاجم.",
+      "B": "أسرع.",
+      "C": "سلّم.",
+      "D": "تذكر."
+    }
   },
   {
     "text": "The …………… died at the end of the book.",
-    "options": ["hero", "wire", "hip", "device"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! البطل.", "B": "سلك.", "C": "ورك.", "D": "جهاز." }
+    "options": [
+      "device",
+      "hero",
+      "hip",
+      "wire"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! البطل.",
+      "B": "سلك.",
+      "C": "ورك.",
+      "D": "جهاز."
+    }
   },
   {
     "text": "The ………………….. left a scar on my arm.",
-    "options": ["wound", "scream", "attraction", "hip"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! الجرح.", "B": "صرخة.", "C": "جاذبية.", "D": "ورك." }
+    "options": [
+      "scream",
+      "attraction",
+      "wound",
+      "hip"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! الجرح.",
+      "B": "صرخة.",
+      "C": "جاذبية.",
+      "D": "ورك."
+    }
   },
   {
     "text": "My …………….. is sharp.",
-    "options": ["knife", "crowd", "headphone", "storm"],
+    "options": [
+      "knife",
+      "storm",
+      "headphone",
+      "crowd"
+    ],
     "correct": "A",
-    "explanation": { "A": "صحيح! سكين.", "B": "حشد.", "C": "سماعة.", "D": "عاصفة." }
+    "explanation": {
+      "A": "صحيح! سكين.",
+      "B": "حشد.",
+      "C": "سماعة.",
+      "D": "عاصفة."
+    }
   },
   {
     "text": "My grandmother fell and broke her ……………….",
-    "options": ["hip", "parrot", "wire", "hero"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! ورك.", "B": "ببغاء.", "C": "سلك.", "D": "بطل." }
+    "options": [
+      "hero",
+      "hip",
+      "parrot",
+      "wire"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! ورك.",
+      "B": "ببغاء.",
+      "C": "سلك.",
+      "D": "بطل."
+    }
   },
   {
     "text": "Some ……………… are poisonous.",
-    "options": ["snakes", "parrots", "storms", "heroes"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! أفاعي.", "B": "ببغاوات.", "C": "عواصف.", "D": "أبطال." }
+    "options": [
+      "parrots",
+      "snakes",
+      "storms",
+      "heroes"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! أفاعي.",
+      "B": "ببغاوات.",
+      "C": "عواصف.",
+      "D": "أبطال."
+    }
   },
   {
     "text": "A …………………. gathered at the scene.",
-    "options": ["crowd", "hip", "scream", "wire"],
+    "options": [
+      "crowd",
+      "wire",
+      "scream",
+      "hip"
+    ],
     "correct": "A",
-    "explanation": { "A": "صحيح! حشد.", "B": "ورك.", "C": "صرخة.", "D": "سلك." }
+    "explanation": {
+      "A": "صحيح! حشد.",
+      "B": "ورك.",
+      "C": "صرخة.",
+      "D": "سلك."
+    }
   },
   {
     "text": "He found the drawer ……………..",
-    "options": ["empty", "sharp", "stuck", "strong"],
+    "options": [
+      "empty",
+      "strong",
+      "sharp",
+      "stuck"
+    ],
     "correct": "A",
-    "explanation": { "A": "صحيح! فارغ.", "B": "حاد.", "C": "عالق.", "D": "قوي." }
+    "explanation": {
+      "A": "صحيح! فارغ.",
+      "B": "حاد.",
+      "C": "عالق.",
+      "D": "قوي."
+    }
   },
   {
     "text": "A …………………. can imitate human speech.",
-    "options": ["parrot", "shark", "snake", "anaconda"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! ببغاء.", "B": "قرش.", "C": "أفعى.", "D": "أناكوندا." }
+    "options": [
+      "anaconda",
+      "snake",
+      "shark",
+      "parrot"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! ببغاء.",
+      "B": "قرش.",
+      "C": "أفعى.",
+      "D": "أناكوندا."
+    }
   },
   {
     "text": "An ………… is the largest type of snake in the world.",
-    "options": ["anaconda", "cat", "deer", "rabbit"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! أناكوندا.", "B": "قطة.", "C": "غزال.", "D": "أرنب." }
+    "options": [
+      "deer",
+      "anaconda",
+      "cat",
+      "rabbit"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! أناكوندا.",
+      "B": "قطة.",
+      "C": "غزال.",
+      "D": "أرنب."
+    }
   }
 ]

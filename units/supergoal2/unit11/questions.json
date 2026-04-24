@@ -1,140 +1,370 @@
 [
   {
     "text": "New York is ……………………. than Boston.",
-    "options": ["longer", "longest", "long", "the longest"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! صيغة المقارنة بين اثنين: أطول من = longer than.", "B": "longest تستخدم للمقارنة بين أكثر من اثنين.", "C": "long صفة مطلقة.", "D": "the longest خطأ لأننا نقارن بين اثنين فقط." }
+    "options": [
+      "longest",
+      "the longest",
+      "long",
+      "longer"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! صيغة المقارنة بين اثنين: أطول من = longer than.",
+      "B": "longest تستخدم للمقارنة بين أكثر من اثنين.",
+      "C": "long صفة مطلقة.",
+      "D": "the longest خطأ لأننا نقارن بين اثنين فقط."
+    }
   },
   {
     "text": "Abeer is ……. person that I know.",
-    "options": ["the nicest", "nicer", "nice", "nicer than"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! صيغة التفضيل المطلق: the + صفة + est.", "B": "nicer للمقارنة بين اثنين.", "C": "nice صفة مطلقة.", "D": "nicer than للمقارنة المباشرة." }
+    "options": [
+      "nicer than",
+      "nice",
+      "nicer",
+      "the nicest"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! صيغة التفضيل المطلق: the + صفة + est.",
+      "B": "nicer للمقارنة بين اثنين.",
+      "C": "nice صفة مطلقة.",
+      "D": "nicer than للمقارنة المباشرة."
+    }
   },
   {
     "text": "My sister thinks she's …………………… than me.",
-    "options": ["more intelligent", "most intelligent", "intelligent", "the most intelligent"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! الصفة الطويلة نضع قبلها 'more' للمقارنة.", "B": "most للتفضيل المطلق.", "C": "مطلقة.", "D": "the most للتفضيل." }
+    "options": [
+      "intelligent",
+      "most intelligent",
+      "the most intelligent",
+      "more intelligent"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! الصفة الطويلة نضع قبلها 'more' للمقارنة.",
+      "B": "most للتفضيل المطلق.",
+      "C": "مطلقة.",
+      "D": "the most للتفضيل."
+    }
   },
   {
     "text": "This flower is ……………………………… that one.",
-    "options": ["more beautiful than", "most beautiful", "beautiful than", "beautiful"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! more + صفة + than.", "B": "most للتفضيل.", "C": "خطأ: تحتاج 'more'.", "D": "مطلقة." }
+    "options": [
+      "beautiful than",
+      "more beautiful than",
+      "beautiful",
+      "most beautiful"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! more + صفة + than.",
+      "B": "most للتفضيل.",
+      "C": "خطأ: تحتاج 'more'.",
+      "D": "مطلقة."
+    }
   },
   {
     "text": "Our house is ……….. than yours.",
-    "options": ["bigger", "big", "biggest", "the biggest"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! الصفة القصيرة تضاعف الحرف الأخير + er.", "B": "مطلقة.", "C": "biggest للتفضيل.", "D": "the biggest للتفضيل." }
+    "options": [
+      "big",
+      "the biggest",
+      "bigger",
+      "biggest"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! الصفة القصيرة تضاعف الحرف الأخير + er.",
+      "B": "مطلقة.",
+      "C": "biggest للتفضيل.",
+      "D": "the biggest للتفضيل."
+    }
   },
   {
     "text": "July is …………………………. January.",
-    "options": ["hotter than", "the hottest", "hottest", "hot"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'hot' → 'hotter' (نضاعف t).", "B": "تفضيل مطلق.", "C": "تفضيل بدون the.", "D": "مطلقة." }
+    "options": [
+      "the hottest",
+      "hot",
+      "hotter than",
+      "hottest"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! 'hot' → 'hotter' (نضاعف t).",
+      "B": "تفضيل مطلق.",
+      "C": "تفضيل بدون the.",
+      "D": "مطلقة."
+    }
   },
   {
     "text": "A lion is ………………….. a cat.",
-    "options": ["more dangerous than", "most dangerous", "the most dangerous", "dangerous"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! صفة طويلة: more + dangerous + than.", "B": "most للتفضيل.", "C": "the most للتفضيل.", "D": "مطلقة." }
+    "options": [
+      "the most dangerous",
+      "most dangerous",
+      "dangerous",
+      "more dangerous than"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! صفة طويلة: more + dangerous + than.",
+      "B": "most للتفضيل.",
+      "C": "the most للتفضيل.",
+      "D": "مطلقة."
+    }
   },
   {
     "text": "Monday is ……………….. day of the week.",
-    "options": ["the worst", "bad", "worse", "worse than"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! تفضيل مطلق لـ 'bad' هو 'the worst'.", "B": "مطلقة.", "C": "مقارنة بين اثنين.", "D": "مقارنة مباشرة." }
+    "options": [
+      "worse",
+      "bad",
+      "worse than",
+      "the worst"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! تفضيل مطلق لـ 'bad' هو 'the worst'.",
+      "B": "مطلقة.",
+      "C": "مقارنة بين اثنين.",
+      "D": "مقارنة مباشرة."
+    }
   },
   {
     "text": "Jim is …………. player in the football team.",
-    "options": ["the best", "better", "better than", "good"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! تفضيل مطلق لـ 'good' هو 'the best'.", "B": "مقارنة.", "C": "مقارنة مباشرة.", "D": "مطلقة." }
+    "options": [
+      "better than",
+      "better",
+      "good",
+      "the best"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! تفضيل مطلق لـ 'good' هو 'the best'.",
+      "B": "مقارنة.",
+      "C": "مقارنة مباشرة.",
+      "D": "مطلقة."
+    }
   },
   {
     "text": "It was …………… dark that I couldn't see her face.",
-    "options": ["so", "so much", "so many", "such a"],
+    "options": [
+      "so",
+      "so much",
+      "so many",
+      "such a"
+    ],
     "correct": "A",
-    "explanation": { "A": "صحيح! 'so' + صفة + that.", "B": "so much مع غير المعدود.", "C": "so many مع الجمع.", "D": "such a مع اسم مفرد." }
+    "explanation": {
+      "A": "صحيح! 'so' + صفة + that.",
+      "B": "so much مع غير المعدود.",
+      "C": "so many مع الجمع.",
+      "D": "such a مع اسم مفرد."
+    }
   },
   {
     "text": "The day was ………….. hot that everybody went to the beach.",
-    "options": ["so", "such a", "so much", "so many"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'so' + صفة + that.", "B": "such a مع اسم مفرد.", "C": "so much مع غير المعدود.", "D": "so many مع الجمع." }
+    "options": [
+      "so many",
+      "so much",
+      "such a",
+      "so"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! 'so' + صفة + that.",
+      "B": "such a مع اسم مفرد.",
+      "C": "so much مع غير المعدود.",
+      "D": "so many مع الجمع."
+    }
   },
   {
     "text": "We had …….. horrible day that we felt depressed.",
-    "options": ["such a", "so", "so many", "so much"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! such a + صفة + اسم مفرد.", "B": "so مع صفة فقط.", "C": "so many مع الجمع.", "D": "so much مع غير المعدود." }
+    "options": [
+      "so much",
+      "so many",
+      "so",
+      "such a"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! such a + صفة + اسم مفرد.",
+      "B": "so مع صفة فقط.",
+      "C": "so many مع الجمع.",
+      "D": "so much مع غير المعدود."
+    }
   },
   {
     "text": "This is ………………… interesting book.",
-    "options": ["such an", "such", "such a", "so much"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'interesting' تبدأ بحرف متحرك صوتياً فنستخدم 'an'.", "B": "such فقط مع الجمع أو غير المعدود.", "C": "such a خطأ لأن الكلمة تبدأ بحرف متحرك صوتي.", "D": "so much مع غير المعدود." }
+    "options": [
+      "such",
+      "such an",
+      "so much",
+      "such a"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! 'interesting' تبدأ بحرف متحرك صوتياً فنستخدم 'an'.",
+      "B": "such فقط مع الجمع أو غير المعدود.",
+      "C": "such a خطأ لأن الكلمة تبدأ بحرف متحرك صوتي.",
+      "D": "so much مع غير المعدود."
+    }
   },
   {
     "text": "I have ………………. friends that I never get bored.",
-    "options": ["so many", "so", "so much", "such a"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'so many' + اسم جمع معدود.", "B": "so مع صفة.", "C": "so much مع غير المعدود.", "D": "such a مع مفرد." }
+    "options": [
+      "so much",
+      "such a",
+      "so many",
+      "so"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! 'so many' + اسم جمع معدود.",
+      "B": "so مع صفة.",
+      "C": "so much مع غير المعدود.",
+      "D": "such a مع مفرد."
+    }
   },
   {
     "text": "He has …………… money that he can buy whatever he wants.",
-    "options": ["so much", "such an", "so", "so many"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'so much' + اسم غير معدود.", "B": "such an مع مفرد.", "C": "so مع صفة.", "D": "so many مع الجمع." }
+    "options": [
+      "such an",
+      "so many",
+      "so much",
+      "so"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! 'so much' + اسم غير معدود.",
+      "B": "such an مع مفرد.",
+      "C": "so مع صفة.",
+      "D": "so many مع الجمع."
+    }
   },
   {
     "text": "I spend ……………… money that I can't save any.",
-    "options": ["so much", "such", "so many", "so"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'so much' + مال (غير معدود).", "B": "such خطأ.", "C": "so many خطأ.", "D": "so خطأ." }
+    "options": [
+      "so",
+      "so much",
+      "so many",
+      "such"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! 'so much' + مال (غير معدود).",
+      "B": "such خطأ.",
+      "C": "so many خطأ.",
+      "D": "so خطأ."
+    }
   },
   {
     "text": "Hawaii has …………………amazing beach that everyone wants to live there.",
-    "options": ["such an", "so many", "such a", "so much"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'amazing' تبدأ بحرف متحرك صوتي → 'such an'.", "B": "so many مع الجمع.", "C": "such a خطأ بسبب حرف العلة.", "D": "so much مع غير المعدود." }
+    "options": [
+      "so much",
+      "such an",
+      "such a",
+      "so many"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! 'amazing' تبدأ بحرف متحرك صوتي → 'such an'.",
+      "B": "so many مع الجمع.",
+      "C": "such a خطأ بسبب حرف العلة.",
+      "D": "so much مع غير المعدود."
+    }
   },
   {
     "text": "Shames is ………………. nice dog that he never barks.",
-    "options": ["such a", "such an", "so much", "so many"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'such a' + صفة + اسم مفرد.", "B": "such an خطأ (nice تبدأ بحرف ساكن صوتي).", "C": "so much مع غير المعدود.", "D": "so many مع الجمع." }
+    "options": [
+      "such an",
+      "so many",
+      "such a",
+      "so much"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! 'such a' + صفة + اسم مفرد.",
+      "B": "such an خطأ (nice تبدأ بحرف ساكن صوتي).",
+      "C": "so much مع غير المعدود.",
+      "D": "so many مع الجمع."
+    }
   },
   {
     "text": "It's …………… hot day today.",
-    "options": ["such a", "so much", "such an", "such"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'such a' + صفة + اسم مفرد.", "B": "so much خطأ.", "C": "such an خطأ.", "D": "such فقط مع الجمع/غير المعدود." }
+    "options": [
+      "such an",
+      "such",
+      "such a",
+      "so much"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! 'such a' + صفة + اسم مفرد.",
+      "B": "so much خطأ.",
+      "C": "such an خطأ.",
+      "D": "such فقط مع الجمع/غير المعدود."
+    }
   },
   {
     "text": "He was ……………good teacher that we all passed the exam.",
-    "options": ["such a", "such an", "so much", "so many"],
+    "options": [
+      "such a",
+      "so much",
+      "such an",
+      "so many"
+    ],
     "correct": "A",
-    "explanation": { "A": "صحيح! 'such a' + good teacher.", "B": "such an خطأ.", "C": "so much خطأ.", "D": "so many خطأ." }
+    "explanation": {
+      "A": "صحيح! 'such a' + good teacher.",
+      "B": "such an خطأ.",
+      "C": "so much خطأ.",
+      "D": "so many خطأ."
+    }
   },
   {
     "text": "Don has ……………. big house!",
-    "options": ["such a", "such", "such an", "so"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'such a' + big house.", "B": "such فقط خطأ.", "C": "such an خطأ.", "D": "so خطأ." }
+    "options": [
+      "such an",
+      "such",
+      "such a",
+      "so"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! 'such a' + big house.",
+      "B": "such فقط خطأ.",
+      "C": "such an خطأ.",
+      "D": "so خطأ."
+    }
   },
   {
     "text": "The child had …………….. toys that he could not decide which to play.",
-    "options": ["so many", "such a", "so much", "so"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'so many' + toys (جمع).", "B": "such a مع مفرد.", "C": "so much مع غير معدود.", "D": "so مع صفة." }
+    "options": [
+      "such a",
+      "so",
+      "so much",
+      "so many"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! 'so many' + toys (جمع).",
+      "B": "such a مع مفرد.",
+      "C": "so much مع غير معدود.",
+      "D": "so مع صفة."
+    }
   },
   {
     "text": "He eats ………………. sugar that he may be a diabetic.",
-    "options": ["so much", "such a", "so many", "so"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'so much' + sugar (غير معدود).", "B": "such a مع مفرد.", "C": "so many مع جمع.", "D": "so مع صفة." }
+    "options": [
+      "so many",
+      "so",
+      "such a",
+      "so much"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! 'so much' + sugar (غير معدود).",
+      "B": "such a مع مفرد.",
+      "C": "so many مع جمع.",
+      "D": "so مع صفة."
+    }
   }
 ]

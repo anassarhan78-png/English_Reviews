@@ -1,62 +1,162 @@
 [
   {
     "text": "Match: 'This coat was half-price - a real bargain.' means:",
-    "options": ["something on sale at a lower price", "a jacket that protects from wind", "moving staircase", "a pleasant natural smell"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'bargain' تعني صفقة رابحة أو شيء بسعر مخفض.", "B": "windbreaker.", "C": "escalator.", "D": "perfume." }
+    "options": [
+      "a pleasant natural smell",
+      "moving staircase",
+      "a jacket that protects from wind",
+      "something on sale at a lower price"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! 'bargain' تعني صفقة رابحة أو شيء بسعر مخفض.",
+      "B": "windbreaker.",
+      "C": "escalator.",
+      "D": "perfume."
+    }
   },
   {
     "text": "Match: 'The escalator is still out of service.' means:",
-    "options": ["moving staircase", "a flat folded case for money", "a piece of jewelry", "a pleasant feeling"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'escalator' درج متحرك.", "B": "wallet.", "C": "bracelet.", "D": "comfort." }
+    "options": [
+      "a flat folded case for money",
+      "moving staircase",
+      "a piece of jewelry",
+      "a pleasant feeling"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! 'escalator' درج متحرك.",
+      "B": "wallet.",
+      "C": "bracelet.",
+      "D": "comfort."
+    }
   },
   {
     "text": "Match: 'Tom is wearing a windbreaker.' means:",
-    "options": ["a jacket that protects from the wind", "a piece of jewelry for wrist", "moving staircase", "something at a lower price"],
+    "options": [
+      "a jacket that protects from the wind",
+      "moving staircase",
+      "a piece of jewelry for wrist",
+      "something at a lower price"
+    ],
     "correct": "A",
-    "explanation": { "A": "صحيح! 'windbreaker' جاكيت واق من الرياح.", "B": "bracelet.", "C": "escalator.", "D": "bargain." }
+    "explanation": {
+      "A": "صحيح! 'windbreaker' جاكيت واق من الرياح.",
+      "B": "bracelet.",
+      "C": "escalator.",
+      "D": "bargain."
+    }
   },
   {
     "text": "Match: 'The perfume of the roses filled the room.' means:",
-    "options": ["a pleasant natural smell", "a flat case for money", "a piece of jewelry", "something on sale"],
+    "options": [
+      "a pleasant natural smell",
+      "a flat case for money",
+      "something on sale",
+      "a piece of jewelry"
+    ],
     "correct": "A",
-    "explanation": { "A": "صحيح! 'perfume' عطر أو رائحة زكية.", "B": "wallet.", "C": "bracelet.", "D": "bargain." }
+    "explanation": {
+      "A": "صحيح! 'perfume' عطر أو رائحة زكية.",
+      "B": "wallet.",
+      "C": "bracelet.",
+      "D": "bargain."
+    }
   },
   {
     "text": "Match: 'I lost my wallet.' means:",
-    "options": ["a flat folded case for money and cards", "moving staircase", "jacket", "pleasant smell"],
+    "options": [
+      "a flat folded case for money and cards",
+      "jacket",
+      "pleasant smell",
+      "moving staircase"
+    ],
     "correct": "A",
-    "explanation": { "A": "صحيح! 'wallet' محفظة.", "B": "escalator.", "C": "windbreaker.", "D": "perfume." }
+    "explanation": {
+      "A": "صحيح! 'wallet' محفظة.",
+      "B": "escalator.",
+      "C": "windbreaker.",
+      "D": "perfume."
+    }
   },
   {
     "text": "Match: 'This watch is expensive.' The antonym of expensive is:",
-    "options": ["cheap", "bargain", "comfortable", "pleasant"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! عكس 'expensive' هو 'cheap'.", "B": "bargain صفقة.", "C": "comfortable مريح.", "D": "pleasant لطيف." }
+    "options": [
+      "pleasant",
+      "cheap",
+      "comfortable",
+      "bargain"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! عكس 'expensive' هو 'cheap'.",
+      "B": "bargain صفقة.",
+      "C": "comfortable مريح.",
+      "D": "pleasant لطيف."
+    }
   },
   {
     "text": "People who drive cars should wear seat …………………….",
-    "options": ["belts", "boots", "necklace", "dress"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'seat belts' أحزمة الأمان.", "B": "أحذية.", "C": "قلادة.", "D": "فستان." }
+    "options": [
+      "boots",
+      "dress",
+      "necklace",
+      "belts"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! 'seat belts' أحزمة الأمان.",
+      "B": "أحذية.",
+      "C": "قلادة.",
+      "D": "فستان."
+    }
   },
   {
     "text": "She gave me a bag made of ………………….",
-    "options": ["leather", "perfume", "eye shadow", "sheet"],
+    "options": [
+      "leather",
+      "eye shadow",
+      "sheet",
+      "perfume"
+    ],
     "correct": "A",
-    "explanation": { "A": "صحيح! 'leather' جلد.", "B": "عطر.", "C": "ظل العين.", "D": "ملاءة." }
+    "explanation": {
+      "A": "صحيح! 'leather' جلد.",
+      "B": "عطر.",
+      "C": "ظل العين.",
+      "D": "ملاءة."
+    }
   },
   {
     "text": "He looked quite handsome in his suit and ……………..",
-    "options": ["tie", "blouse", "boots", "umbrella"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'tie' ربطة عنق.", "B": "بلوزة (نساء).", "C": "أحذية طويلة.", "D": "مظلة." }
+    "options": [
+      "blouse",
+      "umbrella",
+      "boots",
+      "tie"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! 'tie' ربطة عنق.",
+      "B": "بلوزة (نساء).",
+      "C": "أحذية طويلة.",
+      "D": "مظلة."
+    }
   },
   {
     "text": "It might rain. We'd better take an …………………...",
-    "options": ["umbrella", "ring", "earrings", "backpack"],
-    "correct": "A",
-    "explanation": { "A": "صحيح! 'umbrella' مظلة.", "B": "خاتم.", "C": "أقراط.", "D": "حقيبة ظهر." }
+    "options": [
+      "earrings",
+      "umbrella",
+      "ring",
+      "backpack"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! 'umbrella' مظلة.",
+      "B": "خاتم.",
+      "C": "أقراط.",
+      "D": "حقيبة ظهر."
+    }
   }
 ]
