@@ -78,5 +78,165 @@
       "C": "خطأ: 'ran' فعل لحظي لا يستخدم في المستمر.",
       "D": "جائز لكن المستمر أفضل للسؤال عن نشاط مستمر."
     }
+  },
+  {
+    "text": "When we go camping, we sleep in a __________.",
+    "options": [
+      "tent",
+      "sleeping bag",
+      "raft",
+      "flashlight"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'tent' هي الخيمة.",
+      "B": "كيس النوم.",
+      "C": "قارب.",
+      "D": "مصباح."
+    }
+  },
+  {
+    "text": "You need a __________ to see in the dark forest.",
+    "options": [
+      "flashlight",
+      "helmet",
+      "backpack",
+      "tent"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'flashlight' مصباح.",
+      "B": "خوذة.",
+      "C": "حقيبة.",
+      "D": "خيمة."
+    }
+  },
+  {
+    "text": "Horseback __________ is a popular activity in the countryside.",
+    "options": [
+      "riding",
+      "driving",
+      "flying",
+      "swimming"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'riding' ركوب الخيل.",
+      "B": "قيادة.",
+      "C": "طيران.",
+      "D": "سباحة."
+    }
+  },
+  {
+    "text": "We sat around the __________ and sang songs.",
+    "options": [
+      "campfire",
+      "tent",
+      "backpack",
+      "raft"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'campfire' نار المخيم.",
+      "B": "خيمة.",
+      "C": "حقيبة.",
+      "D": "قارب."
+    }
+  },
+  {
+    "text": "She was carrying a heavy __________ on her back.",
+    "options": [
+      "backpack",
+      "tent",
+      "raft",
+      "flashlight"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'backpack' حقيبة ظهر.",
+      "B": "خيمة.",
+      "C": "قارب.",
+      "D": "مصباح."
+    }
+  },
+  {
+    "text": "We used a __________ to cross the river.",
+    "options": [
+      "raft",
+      "tent",
+      "backpack",
+      "flashlight"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'raft' قارب مطاطي.",
+      "B": "خيمة.",
+      "C": "حقيبة.",
+      "D": "مصباح."
+    }
+  },
+  {
+    "text": "I have a __________ to keep me warm at night.",
+    "options": [
+      "sleeping bag",
+      "tent",
+      "backpack",
+      "raft"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'sleeping bag' كيس النوم.",
+      "B": "خيمة.",
+      "C": "حقيبة.",
+      "D": "قارب."
+    }
+  },
+  {
+    "text": "He __________ when he fell off the horse.",
+    "options": [
+      "was riding",
+      "rode",
+      "rides",
+      "is riding"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! حدث مستمر في الماضي.",
+      "B": "ماضي بسيط لا يناسب.",
+      "C": "مضارع.",
+      "D": "مضارع مستمر."
+    }
+  },
+  {
+    "text": "While they __________, they saw a bear.",
+    "options": [
+      "were hiking",
+      "hiked",
+      "hike",
+      "are hiking"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'While' مع ماضي مستمر.",
+      "B": "ماضي بسيط.",
+      "C": "مضارع.",
+      "D": "مضارع مستمر."
+    }
+  },
+  {
+    "text": "You should wear a __________ when you climb.",
+    "options": [
+      "helmet",
+      "tent",
+      "flashlight",
+      "sleeping bag"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'helmet' خوذة.",
+      "B": "خيمة.",
+      "C": "مصباح.",
+      "D": "كيس نوم."
+    }
   }
 ]
