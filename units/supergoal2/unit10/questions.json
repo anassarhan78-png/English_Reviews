@@ -414,5 +414,165 @@
       "C": "to rain خطأ.",
       "D": "raining خطأ."
     }
+  },
+  {
+    "text": "This book is __________. It belongs to me.",
+    "options": [
+      "mine",
+      "my",
+      "me",
+      "I"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! ضمير الملكية.",
+      "B": "صفة ملكية.",
+      "C": "ضمير مفعول.",
+      "D": "فاعل."
+    }
+  },
+  {
+    "text": "__________ pen is this? It's hers.",
+    "options": [
+      "Whose",
+      "Who",
+      "Who's",
+      "Which"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'Whose' لملكية الشيء.",
+      "B": "سؤال عن الفاعل.",
+      "C": "اختصار 'Who is'.",
+      "D": "أي."
+    }
+  },
+  {
+    "text": "This box is __________ heavy to carry alone.",
+    "options": [
+      "too",
+      "very",
+      "so",
+      "enough"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'too' تعني أكثر من اللازم.",
+      "B": "جداً.",
+      "C": "يحتاج 'that'.",
+      "D": "كافٍ."
+    }
+  },
+  {
+    "text": "He isn't tall __________ to reach the shelf.",
+    "options": [
+      "enough",
+      "too",
+      "very",
+      "so"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'enough' بعد الصفة.",
+      "B": "قبل الصفة.",
+      "C": "مكان خطأ.",
+      "D": "يحتاج 'that'."
+    }
+  },
+  {
+    "text": "__________ I borrow your pen for a moment?",
+    "options": [
+      "Can",
+      "Should",
+      "Must",
+      "Have"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'Can' للإذن.",
+      "B": "نصيحة.",
+      "C": "إلزام.",
+      "D": "خطأ."
+    }
+  },
+  {
+    "text": "This is __________ interesting film. You should watch it.",
+    "options": [
+      "such an",
+      "such a",
+      "so",
+      "so much"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'such an' قبل متحرك صوتي.",
+      "B": "قبل ساكن.",
+      "C": "مع صفة فقط.",
+      "D": "مع غير معدود."
+    }
+  },
+  {
+    "text": "I have __________ much work that I can't go out.",
+    "options": [
+      "so",
+      "such",
+      "such a",
+      "too"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'so much' + غير معدود + that.",
+      "B": "خطأ.",
+      "C": "خطأ.",
+      "D": "ينقص 'that'."
+    }
+  },
+  {
+    "text": "Which bags are yours? The blue __________.",
+    "options": [
+      "ones",
+      "one",
+      "other",
+      "another"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'ones' للجمع.",
+      "B": "للمفرد.",
+      "C": "آخر.",
+      "D": "آخر إضافي."
+    }
+  },
+  {
+    "text": "That car is __________. My father bought it last year.",
+    "options": [
+      "ours",
+      "our",
+      "we",
+      "us"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! ضمير ملكية.",
+      "B": "صفة ملكية.",
+      "C": "فاعل.",
+      "D": "مفعول."
+    }
+  },
+  {
+    "text": "There were __________ many people that we couldn't find a seat.",
+    "options": [
+      "so",
+      "such",
+      "too",
+      "enough"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'so many' + جمع + that.",
+      "B": "يحتاج 'a/an'.",
+      "C": "خطأ.",
+      "D": "خطأ."
+    }
   }
 ]

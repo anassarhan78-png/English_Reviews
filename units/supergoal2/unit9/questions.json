@@ -63,5 +63,165 @@
     "explanation": {
       "A": "صحيح! بعد 'must' المصدر بدون to."
     }
+  },
+  {
+    "text": "Why __________ you go to the party? It was fun!",
+    "options": [
+      "didn't",
+      "don't",
+      "isn't",
+      "aren't"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! السؤال عن الماضي يحتاج 'didn't'.",
+      "B": "سؤال عن المضارع.",
+      "C": "خطأ.",
+      "D": "خطأ."
+    }
+  },
+  {
+    "text": "You __________ study hard if you want to pass.",
+    "options": [
+      "should",
+      "shoulds",
+      "to should",
+      "shoulding"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'should' يأتي مع المصدر دون تغيير.",
+      "B": "خطأ.",
+      "C": "خطأ.",
+      "D": "خطأ."
+    }
+  },
+  {
+    "text": "Let's __________ to the park this afternoon.",
+    "options": [
+      "go",
+      "going",
+      "to go",
+      "goes"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'Let's' يتبعه مصدر.",
+      "B": "خطأ.",
+      "C": "خطأ.",
+      "D": "خطأ."
+    }
+  },
+  {
+    "text": "We go __________ every Saturday. I love the sea.",
+    "options": [
+      "swimming",
+      "swim",
+      "swam",
+      "to swim"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'go swimming' تعبير صحيح.",
+      "B": "خطأ.",
+      "C": "ماضي.",
+      "D": "خطأ."
+    }
+  },
+  {
+    "text": "I __________ to clean my room before I go out.",
+    "options": [
+      "have",
+      "has",
+      "had",
+      "must to"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'have to' للالتزام.",
+      "B": "خطأ مع I.",
+      "C": "ماضي.",
+      "D": "خطأ."
+    }
+  },
+  {
+    "text": "You __________ eat too much sugar. It's unhealthy.",
+    "options": [
+      "shouldn't",
+      "should",
+      "should not to",
+      "shouldn't to"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'shouldn't' نفي النصيحة.",
+      "B": "إثبات.",
+      "C": "خطأ.",
+      "D": "خطأ."
+    }
+  },
+  {
+    "text": "Why __________ she like the movie? It was boring.",
+    "options": [
+      "didn't",
+      "don't",
+      "doesn't",
+      "isn't"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! سؤال عن الماضي مع 'she'.",
+      "B": "خطأ.",
+      "C": "خطأ.",
+      "D": "خطأ."
+    }
+  },
+  {
+    "text": "We __________ go camping because it was raining.",
+    "options": [
+      "didn't",
+      "don't",
+      "shouldn't",
+      "weren't"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! ماضي بسيط.",
+      "B": "مضارع.",
+      "C": "نصيحة.",
+      "D": "خطأ."
+    }
+  },
+  {
+    "text": "__________ I ask a question, please?",
+    "options": [
+      "May",
+      "Should",
+      "Must",
+      "Do"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'May' للإذن المهذب.",
+      "B": "نصيحة.",
+      "C": "إلزام.",
+      "D": "خطأ."
+    }
+  },
+  {
+    "text": "She __________ to wear a uniform at work.",
+    "options": [
+      "has",
+      "have",
+      "should",
+      "must to"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'has to' مع المفرد.",
+      "B": "خطأ.",
+      "C": "خطأ.",
+      "D": "خطأ."
+    }
   }
 ]
