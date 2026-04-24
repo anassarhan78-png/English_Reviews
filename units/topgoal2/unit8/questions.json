@@ -318,5 +318,165 @@
       "C": "Jewelry مجوهرات.",
       "D": "Things أشياء (عامة جداً)."
     }
+  },
+  {
+    "text": "This necklace __________ gold. It's very expensive.",
+    "options": [
+      "is made of",
+      "is made from",
+      "made of",
+      "makes of"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'is made of' المادة ظاهرة.",
+      "B": "تستخدم لتغير المادة.",
+      "C": "ينقص 'is'.",
+      "D": "خطأ."
+    }
+  },
+  {
+    "text": "Her dress is __________ silk and feels very smooth.",
+    "options": [
+      "made of",
+      "made from",
+      "make of",
+      "making of"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'made of' للحرير.",
+      "B": "خطأ هنا.",
+      "C": "خطأ.",
+      "D": "خطأ."
+    }
+  },
+  {
+    "text": "My favourite shirt has a __________ pattern with vertical lines.",
+    "options": [
+      "striped",
+      "spotted",
+      "checked",
+      "plain"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'striped' مقلم.",
+      "B": "منقط.",
+      "C": "مربعات.",
+      "D": "سادة."
+    }
+  },
+  {
+    "text": "This scarf is __________. It keeps me very warm.",
+    "options": [
+      "wool",
+      "silk",
+      "gold",
+      "plastic"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! الصوف دافئ.",
+      "B": "حرير ناعم.",
+      "C": "ذهب.",
+      "D": "بلاستيك."
+    }
+  },
+  {
+    "text": "How long __________ you __________ that bracelet?",
+    "options": [
+      "have / had",
+      "did / have",
+      "are / having",
+      "were / had"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! مضارع تام للسؤال عن المدة.",
+      "B": "ماضي بسيط.",
+      "C": "مضارع مستمر.",
+      "D": "ماضي مستمر خطأ."
+    }
+  },
+  {
+    "text": "__________ Arshad brushed his hair with the new brush?",
+    "options": [
+      "Has",
+      "Have",
+      "Is",
+      "Was"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'Has' مع المفرد.",
+      "B": "خطأ.",
+      "C": "خطأ.",
+      "D": "خطأ."
+    }
+  },
+  {
+    "text": "She made all the __________ for the school play herself.",
+    "options": [
+      "costumes",
+      "uniforms",
+      "bracelets",
+      "earrings"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'costumes' أزياء المسرحية.",
+      "B": "زي مدرسي.",
+      "C": "أساور.",
+      "D": "أقراط."
+    }
+  },
+  {
+    "text": "This bag is made of __________ leather. It's very strong.",
+    "options": [
+      "genuine",
+      "fake",
+      "plastic",
+      "silk"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! جلد طبيعي.",
+      "B": "مزيف.",
+      "C": "بلاستيك.",
+      "D": "حرير."
+    }
+  },
+  {
+    "text": "He wore a __________ suit to the party. Everyone noticed him.",
+    "options": [
+      "checked",
+      "plain",
+      "spotted",
+      "expensive"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'checked' مربعات.",
+      "B": "سادة.",
+      "C": "منقط.",
+      "D": "غالي (صفة عامة)."
+    }
+  },
+  {
+    "text": "They have __________ many accessories from recycled plastic.",
+    "options": [
+      "made",
+      "make",
+      "makes",
+      "making"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'have made' مضارع تام.",
+      "B": "مضارع.",
+      "C": "مضارع مع s.",
+      "D": "استمرارية."
+    }
   }
 ]

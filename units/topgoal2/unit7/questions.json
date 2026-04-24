@@ -318,5 +318,165 @@
       "C": "خطأ: 'had' هو التصريف الثالث ويجب أن يبقى بعد الفاعل.",
       "D": "ترتيب غير صحيح نحوياً."
     }
+  },
+  {
+    "text": "The plane will __________ in ten minutes. Please fasten your seat belts.",
+    "options": [
+      "take off",
+      "check in",
+      "find out",
+      "arrive"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'take off' تعني إقلاع الطائرة.",
+      "B": "تسجيل الوصول.",
+      "C": "يكتشف.",
+      "D": "يصل."
+    }
+  },
+  {
+    "text": "We need to __________ at the hotel before 2 p.m.",
+    "options": [
+      "check in",
+      "take off",
+      "find out",
+      "hurry"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'check in' تسجيل الوصول في الفندق.",
+      "B": "إقلاع.",
+      "C": "يكتشف.",
+      "D": "يسرع."
+    }
+  },
+  {
+    "text": "Have you ever __________ to London?",
+    "options": [
+      "been",
+      "be",
+      "went",
+      "go"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'Have you ever been' للسؤال عن تجربة.",
+      "B": "خطأ.",
+      "C": "ماضي بدون 'have'.",
+      "D": "مضارع."
+    }
+  },
+  {
+    "text": "I haven't eaten sushi __________.",
+    "options": [
+      "yet",
+      "already",
+      "just",
+      "ever"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'yet' في نهاية الجمل المنفية.",
+      "B": "تستخدم في الإثبات.",
+      "C": "تستخدم للأحداث القريبة.",
+      "D": "تستخدم في الأسئلة."
+    }
+  },
+  {
+    "text": "She has __________ packed her suitcase. It's ready now.",
+    "options": [
+      "already",
+      "yet",
+      "never",
+      "ever"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'already' تعني بالفعل.",
+      "B": "تستخدم مع النفي/السؤال.",
+      "C": "تعني أبداً.",
+      "D": "تستخدم في الأسئلة."
+    }
+  },
+  {
+    "text": "We __________ the directions on Google Maps. Let's go!",
+    "options": [
+      "have found",
+      "find",
+      "finds",
+      "are finding"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! مضارع تام: عرفنا الطريق.",
+      "B": "مضارع بسيط.",
+      "C": "خطأ مع 'we'.",
+      "D": "مضارع مستمر."
+    }
+  },
+  {
+    "text": "How long __________ you __________ English?",
+    "options": [
+      "have / studied",
+      "did / study",
+      "are / studying",
+      "were / studying"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! السؤال عن مدة بالمضارع التام.",
+      "B": "ماضي بسيط.",
+      "C": "مضارع مستمر.",
+      "D": "ماضي مستمر."
+    }
+  },
+  {
+    "text": "You need to go to __________ to catch an international flight.",
+    "options": [
+      "the airport",
+      "the subway",
+      "the station",
+      "the hotel"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! المطار للسفر الدولي.",
+      "B": "قطار الأنفاق داخل المدينة.",
+      "C": "محطة القطارات.",
+      "D": "الفندق."
+    }
+  },
+  {
+    "text": "The __________ is full of cars. We will be late.",
+    "options": [
+      "traffic",
+      "subway",
+      "airport",
+      "security"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'traffic' زحمة السير.",
+      "B": "قطار أنفاق.",
+      "C": "مطار.",
+      "D": "الأمن."
+    }
+  },
+  {
+    "text": "You should check the __________ screen to see your flight number.",
+    "options": [
+      "departure",
+      "arrival",
+      "security",
+      "subway"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! شاشة المغادرة.",
+      "B": "الوصول.",
+      "C": "الأمن.",
+      "D": "قطار أنفاق."
+    }
   }
 ]
