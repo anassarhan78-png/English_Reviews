@@ -82,12 +82,21 @@
         .content { padding: 25px; }
         h2 { color: #1e5a3a; margin-bottom: 15px; }
         .progress-area { margin-bottom: 20px; }
+        .passage {
+            background: #fef5e8;
+            padding: 15px;
+            border-radius: 20px;
+            margin-bottom: 20px;
+            border-right: 6px solid #ff8c42;
+        }
         .question {
             background: #fef5e8;
             padding: 15px;
             border-radius: 20px;
             margin-bottom: 20px;
             font-weight: bold;
+            direction: ltr;           /* <-- إصلاح إتجاه السؤال */
+            text-align: left;        /* محاذاة النص لليسار */
         }
         .option {
             background: #f8f9fa;
@@ -96,6 +105,8 @@
             border-radius: 40px;
             cursor: pointer;
             border: 1px solid #ddd;
+            direction: ltr;           /* <-- إصلاح إتجاه الخيارات */
+            text-align: left;
         }
         .option.selected { background: #2b7a4b; color: white; }
         .feedback { margin: 15px 0; padding: 12px; border-radius: 16px; }
