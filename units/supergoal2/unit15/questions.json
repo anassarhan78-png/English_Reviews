@@ -303,5 +303,382 @@
     "explanation": {
       "A": "مصدر"
     }
+  },
+  {
+    "text": "He was writing an email when the phone _____.",
+    "options": [
+      "ringing",
+      "rings",
+      "rang",
+      "to ring"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "ماضي بسيط"
+    }
+  },
+  {
+    "text": "The kids _____ in the garden when it began to rain.",
+    "options": [
+      "play",
+      "was playing",
+      "were playing",
+      "played"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "ماضي مستمر"
+    }
+  },
+  {
+    "text": "I was practising the guitar when he _____ home.",
+    "options": [
+      "comes",
+      "come",
+      "was coming",
+      "came"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "ماضي بسيط"
+    }
+  },
+  {
+    "text": "He _____ a shower when the phone rang.",
+    "options": [
+      "taking",
+      "took",
+      "were taking",
+      "was taking"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "ماضي مستمر"
+    }
+  },
+  {
+    "text": "When I _____ into the room, everyone was working.",
+    "options": [
+      "walks",
+      "walked",
+      "was walking",
+      "walk"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "ماضي بسيط"
+    }
+  },
+  {
+    "text": "When her train got to the station, we _____.",
+    "options": [
+      "wait",
+      "waiting",
+      "were waiting",
+      "waited"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "ماضي مستمر"
+    }
+  },
+  {
+    "text": "When she was young, my aunt could _____ for miles.",
+    "options": [
+      "runs",
+      "running",
+      "run",
+      "ran"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "could + مصدر"
+    }
+  },
+  {
+    "text": "When I _____ five, I could not swim.",
+    "options": [
+      "were",
+      "be",
+      "was",
+      "am"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "ماضي was"
+    }
+  },
+  {
+    "text": "I could _____ when I was less than a year old.",
+    "options": [
+      "walked",
+      "walk",
+      "walking",
+      "walks"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "could + مصدر"
+    }
+  },
+  {
+    "text": "My brother _____ drive a car when he was young.",
+    "options": [
+      "is not able to",
+      "cannot",
+      "were not able to",
+      "was not able to"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "was able to"
+    }
+  },
+  {
+    "text": "I was able to _____ football.",
+    "options": [
+      "plays",
+      "played",
+      "playing",
+      "play"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "able to + مصدر"
+    }
+  },
+  {
+    "text": "He _____ able to swim across the lake.",
+    "options": [
+      "was",
+      "are",
+      "is",
+      "were"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "was able to"
+    }
+  },
+  {
+    "text": "I was able to (run) fast when I was young. [Correct the verb]",
+    "options": [
+      "ran",
+      "runs",
+      "run",
+      "running"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "able to + مصدر"
+    }
+  },
+  {
+    "text": "They couldn't (see) in the dark. [Correct the verb]",
+    "options": [
+      "seeing",
+      "see",
+      "seen",
+      "saw"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "couldn't + مصدر"
+    }
+  },
+  {
+    "text": "The Masmak Fort was built around _____.",
+    "options": [
+      "1865",
+      "1902",
+      "1995",
+      "1885"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "1865 حسب النص"
+    }
+  },
+  {
+    "text": "In 1995, the fort became a _____.",
+    "options": [
+      "school",
+      "hospital",
+      "museum",
+      "hotel"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "متحف"
+    }
+  },
+  {
+    "text": "(it) in line (6) refers to the _____.",
+    "options": [
+      "fort",
+      "word",
+      "clock",
+      "tower"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "القلعة"
+    }
+  },
+  {
+    "text": "The antonym of 'weak' is _____.",
+    "options": [
+      "cheap",
+      "cold",
+      "nice",
+      "strong"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "قوي"
+    }
+  },
+  {
+    "text": "The synonym of 'pretty' is _____.",
+    "options": [
+      "beautiful",
+      "weak",
+      "short",
+      "bad"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "جميل"
+    }
+  },
+  {
+    "text": "She killed him with a kni__e.",
+    "options": [
+      "p",
+      "d",
+      "v",
+      "f"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "knife"
+    }
+  },
+  {
+    "text": "The anac__nda wrapped itself around the boy.",
+    "options": [
+      "o",
+      "e",
+      "i",
+      "a"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "anaconda"
+    }
+  },
+  {
+    "text": "Wi__es are used to convey electricity.",
+    "options": [
+      "s",
+      "r",
+      "n",
+      "q"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "wires"
+    }
+  },
+  {
+    "text": "She got the key st__ck in the lock.",
+    "options": [
+      "u",
+      "a",
+      "e",
+      "i"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "stuck"
+    }
+  },
+  {
+    "text": "The room is em__ty.",
+    "options": [
+      "h",
+      "b",
+      "q",
+      "p"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "empty"
+    }
+  },
+  {
+    "text": "My parr__t died yesterday.",
+    "options": [
+      "u",
+      "a",
+      "o",
+      "i"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "parrot"
+    }
+  },
+  {
+    "text": "The s__ake swallowed a frog.",
+    "options": [
+      "m",
+      "n",
+      "w",
+      "j"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "snake"
+    }
+  },
+  {
+    "text": "He likes to take electric de__ices apart.",
+    "options": [
+      "l",
+      "y",
+      "f",
+      "v"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "devices"
+    }
+  },
+  {
+    "text": "She mana__ed to steer the ship through the st__rm.",
+    "options": [
+      "q-a",
+      "g-o",
+      "l-u",
+      "m-i"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "managed - storm"
+    }
+  },
+  {
+    "text": "The animals tried to ov__rpower the wi__e fence to escape.",
+    "options": [
+      "e-f",
+      "a-q",
+      "u-x",
+      "e-r"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "overpower - wire"
+    }
   }
 ]

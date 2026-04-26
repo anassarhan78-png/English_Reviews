@@ -206,5 +206,161 @@
     "explanation": {
       "A": "فاز"
     }
+  },
+  {
+    "text": "Match: 'He was fired from the company.' – What does 'fired' mean?",
+    "options": [
+      "غاب",
+      "طُرد من العمل",
+      "تمت ترقيته",
+      "استقال"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! طُرد"
+    }
+  },
+  {
+    "text": "Match: 'The police warned us to keep back.' – What does 'warned' mean?",
+    "options": [
+      "هاجم",
+      "تجاهل",
+      "حذّر",
+      "شجّع"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! حذّر"
+    }
+  },
+  {
+    "text": "Match: 'Paper burns quickly.' – What does 'burns' mean?",
+    "options": [
+      "يذوب",
+      "يحترق",
+      "يتجمد",
+      "يطفو"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! يحترق"
+    }
+  },
+  {
+    "text": "Match: 'He was attacked by a shark.' – What does 'attacked' mean?",
+    "options": [
+      "سبح",
+      "لعب",
+      "هاجم",
+      "هرب"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! هاجم"
+    }
+  },
+  {
+    "text": "Match: 'The baby began to shriek.' – What does 'shriek' mean?",
+    "options": [
+      "يصرخ",
+      "يمشي",
+      "يأكل",
+      "ينام"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! صرخة حادة"
+    }
+  },
+  {
+    "text": "Match: 'I rushed out of my house.' – What does 'rushed' mean?",
+    "options": [
+      "جلس",
+      "نام",
+      "اندفع بسرعة",
+      "خرج بهدوء"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! أسرع"
+    }
+  },
+  {
+    "text": "Match: 'Khaled became a hero.' – What does 'hero' mean?",
+    "options": [
+      "متفرج",
+      "شرير",
+      "بطل",
+      "ضحية"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! بطل"
+    }
+  },
+  {
+    "text": "Match: 'Blood flowed from the wound.' – What does 'wound' mean?",
+    "options": [
+      "جرح",
+      "ندبة",
+      "كدمة",
+      "ضمادة"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! جرح"
+    }
+  },
+  {
+    "text": "Match: 'The man wore a gun on his hip.' – What does 'hip' mean?",
+    "options": [
+      "كاحل",
+      "ركبة",
+      "كتف",
+      "ورك"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! الورك"
+    }
+  },
+  {
+    "text": "Match: 'Be careful with that knife.' – What does 'knife' mean?",
+    "options": [
+      "شوكة",
+      "سكين",
+      "ملعقة",
+      "طبق"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! سكين"
+    }
+  },
+  {
+    "text": "Match: 'I was kicked out of high school.' – kicked out means:",
+    "options": [
+      "طُرد",
+      "نجح",
+      "قُبل",
+      "انتقل"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "طُرد"
+    }
+  },
+  {
+    "text": "Match: 'A crowd gathered at the scene.' – crowd means:",
+    "options": [
+      "طفل",
+      "حشد",
+      "فرد",
+      "شرطي"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "حشد"
+    }
   }
 ]
