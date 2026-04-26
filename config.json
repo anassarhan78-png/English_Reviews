@@ -1,24 +1,14 @@
 {
-  "units": [
+  "courses": [
     {
-      "id": "unit11",
-      "title": "الوحدة 11: What Time Do You Get Up?",
-      "description": "المضارع البسيط، ظروف التكرار"
+      "id": "topgoal2",
+      "title": "📘 Top Goal 2",
+      "units": ["unit5", "unit6", "unit7", "unit8"]
     },
     {
-      "id": "unit12",
-      "title": "الوحدة 12: مراجعة شاملة",
-      "description": "أسئلة شاملة"
-    },
-    {
-      "id": "unit13",
-      "title": "الوحدة 13: What Are You Going To Wear?",
-      "description": "قاعدة going to"
-    },
-    {
-      "id": "unit14",
-      "title": "الوحدة 14: Super Goal 1 Revision",
-      "description": "ضمائر المفعول، need/want + to، must/should، Let's"
+      "id": "supergoal2",
+      "title": "📗 Super Goal 2",
+      "units": ["unit9", "unit10", "unit11", "unit12", "unit13", "unit14", "unit15", "unit16"]
     }
   ]
 }
