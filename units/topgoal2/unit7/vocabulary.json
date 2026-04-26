@@ -193,5 +193,135 @@
     "explanation": {
       "A": "صحيح! زحمة."
     }
+  },
+  {
+    "text": "What does 'arrive' mean?",
+    "options": [
+      "يغادر",
+      "يطير",
+      "يمشي",
+      "يصل"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! يصل إلى المكان."
+    }
+  },
+  {
+    "text": "What does 'check in' mean at the airport?",
+    "options": [
+      "تسجيل الوصول",
+      "تفتيش الحقائب",
+      "إقلاع الطائرة",
+      "شراء تذكرة"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! تسجيل الدخول للرحلة."
+    }
+  },
+  {
+    "text": "What does 'take off' mean?",
+    "options": [
+      "إقلاع الطائرة",
+      "تأخير الرحلة",
+      "هبوط الطائرة",
+      "تسجيل الوصول"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! صعود الطائرة."
+    }
+  },
+  {
+    "text": "What is a 'subway'?",
+    "options": [
+      "حافلة",
+      "قطار الأنفاق",
+      "سيارة أجرة",
+      "طائرة"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! قطار داخل الأنفاق."
+    }
+  },
+  {
+    "text": "What does 'traffic' mean?",
+    "options": [
+      "مطار",
+      "تذكرة",
+      "زحمة مرورية",
+      "محطة قطار"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! ازدحام السيارات."
+    }
+  },
+  {
+    "text": "What do 'directions' help you with?",
+    "options": [
+      "Finding a place",
+      "Cooking food",
+      "Watching movies",
+      "Buying clothes"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! إرشادات الطريق."
+    }
+  },
+  {
+    "text": "What does 'hurry' mean?",
+    "options": [
+      "يلعب",
+      "ينام",
+      "يأكل",
+      "يسرع"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! العجلة."
+    }
+  },
+  {
+    "text": "Where do passengers wait for a train?",
+    "options": [
+      "Security",
+      "Platform",
+      "Taxi",
+      "Terminal"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! رصيف القطار."
+    }
+  },
+  {
+    "text": "What do you need to travel to another country?",
+    "options": [
+      "Suitcase",
+      "Ticket",
+      "Passport",
+      "Backpack"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! جواز السفر."
+    }
+  },
+  {
+    "text": "What does 'documentary' mean?",
+    "options": [
+      "فيلم وثائقي",
+      "خيال علمي",
+      "غموض",
+      "رسوم متحركة"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! فيلم عن الحقائق الواقعية."
+    }
   }
 ]

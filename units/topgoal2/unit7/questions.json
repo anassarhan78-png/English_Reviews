@@ -478,5 +478,161 @@
       "C": "الأمن.",
       "D": "قطار أنفاق."
     }
+  },
+  {
+    "text": "I __________ already packed my suitcase.",
+    "options": [
+      "am",
+      "have",
+      "has",
+      "was"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! مضارع تام مع I."
+    }
+  },
+  {
+    "text": "She __________ never travelled by plane before.",
+    "options": [
+      "has",
+      "is",
+      "was",
+      "have"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! مضارع تام مع she."
+    }
+  },
+  {
+    "text": "We __________ taken the subway yet.",
+    "options": [
+      "hasn't",
+      "haven't",
+      "weren't",
+      "didn't"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! نفي مضارع تام."
+    }
+  },
+  {
+    "text": "__________ you ever been to Paris?",
+    "options": [
+      "Was",
+      "Have",
+      "Has",
+      "Is"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! سؤال Have you ever."
+    }
+  },
+  {
+    "text": "How long __________ she lived in this city?",
+    "options": [
+      "has",
+      "was",
+      "is",
+      "have"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! سؤال عن المدة."
+    }
+  },
+  {
+    "text": "The plane has just __________ off.",
+    "options": [
+      "taken",
+      "took",
+      "taking",
+      "takes"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! تصريف ثالث take."
+    }
+  },
+  {
+    "text": "I need to __________ out what time the train leaves.",
+    "options": [
+      "finding",
+      "finds",
+      "found",
+      "find"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! مصدر بعد need to."
+    }
+  },
+  {
+    "text": "You can check __________ online before you fly.",
+    "options": [
+      "up",
+      "out",
+      "in",
+      "off"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! check in عبر الإنترنت."
+    }
+  },
+  {
+    "text": "Choose the correctly spelled word:",
+    "options": [
+      "Terminul",
+      "Terminl",
+      "Termenal",
+      "Terminal"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! 'Terminal'"
+    }
+  },
+  {
+    "text": "Choose the correctly spelled word:",
+    "options": [
+      "Directions",
+      "Directiuns",
+      "Directons",
+      "Directeons"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! 'Directions'"
+    }
+  },
+  {
+    "text": "Choose the correctly spelled word:",
+    "options": [
+      "Sutecase",
+      "Suitcass",
+      "Suitcase",
+      "Sutcase"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! 'Suitcase'"
+    }
+  },
+  {
+    "text": "Choose the correctly spelled word:",
+    "options": [
+      "Sucarity",
+      "Securaty",
+      "Secuurty",
+      "Security"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! 'Security'"
+    }
   }
 ]
