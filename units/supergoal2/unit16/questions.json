@@ -264,5 +264,408 @@
     "explanation": {
       "A": "have been"
     }
+  },
+  {
+    "text": "They … three letters already.",
+    "options": [
+      "has written",
+      "wrote",
+      "write",
+      "have written"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "مضارع تام"
+    }
+  },
+  {
+    "text": "He … his homework already.",
+    "options": [
+      "finishes",
+      "have finished",
+      "finished",
+      "has finished"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "مضارع تام"
+    }
+  },
+  {
+    "text": "We have … to Canada.",
+    "options": [
+      "been",
+      "be",
+      "were",
+      "are"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "have been"
+    }
+  },
+  {
+    "text": "We have … this movie already.",
+    "options": [
+      "saw",
+      "to see",
+      "seen",
+      "see"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "تصريف ثالث"
+    }
+  },
+  {
+    "text": "He has … his leg.",
+    "options": [
+      "breaking",
+      "broke",
+      "broken",
+      "breaks"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "تصريف ثالث"
+    }
+  },
+  {
+    "text": "There has … an accident.",
+    "options": [
+      "been",
+      "was",
+      "is",
+      "be"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "has been"
+    }
+  },
+  {
+    "text": "The children have … a mess in the kitchen.",
+    "options": [
+      "make",
+      "making",
+      "made",
+      "to make"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "have made"
+    }
+  },
+  {
+    "text": "Have you ever … to England?",
+    "options": [
+      "were",
+      "be",
+      "are",
+      "been"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "Have you been"
+    }
+  },
+  {
+    "text": "I have never … to Italy.",
+    "options": [
+      "be",
+      "been",
+      "is",
+      "were"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "have been"
+    }
+  },
+  {
+    "text": "They haven't … yet.",
+    "options": [
+      "ate",
+      "eat",
+      "eaten",
+      "eats"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "haven't eaten"
+    }
+  },
+  {
+    "text": "I haven't … my room yet.",
+    "options": [
+      "cleaned",
+      "cleaning",
+      "clean",
+      "cleans"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "haven't cleaned"
+    }
+  },
+  {
+    "text": "We haven't … a movie yet.",
+    "options": [
+      "are going to watch",
+      "watched",
+      "to watch",
+      "watching"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "haven't watched"
+    }
+  },
+  {
+    "text": "… you ever seen a ghost?",
+    "options": [
+      "Has",
+      "Have",
+      "Are",
+      "Do"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "Have you ever"
+    }
+  },
+  {
+    "text": "… he bought a new car yet?",
+    "options": [
+      "Is",
+      "Has",
+      "Have",
+      "Was"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "Has he bought"
+    }
+  },
+  {
+    "text": "I have … three books so far.",
+    "options": [
+      "buy",
+      "buying",
+      "bought",
+      "buys"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "have bought"
+    }
+  },
+  {
+    "text": "Choose the correct structure:",
+    "options": [
+      "They were playing when it begin to rain.",
+      "He were playing when it began to rain.",
+      "They were playing when it began to rain.",
+      "They was playing when it began to rain."
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "القواعد الصحيحة"
+    }
+  },
+  {
+    "text": "Choose the correct structure:",
+    "options": [
+      "They was riding my bike.",
+      "I riding my bike.",
+      "I was riding my bike.",
+      "I was ride my bike."
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "ماضي مستمر"
+    }
+  },
+  {
+    "text": "I (eat) lunch with my friends when the phone rang. [Correct]",
+    "options": [
+      "eating",
+      "ate",
+      "eats",
+      "was eating"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "ماضي مستمر"
+    }
+  },
+  {
+    "text": "I (be) writing this article when you called me. [Correct]",
+    "options": [
+      "were",
+      "am",
+      "was",
+      "be"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "was"
+    }
+  },
+  {
+    "text": "I can di__e under the water.",
+    "options": [
+      "p",
+      "v",
+      "h",
+      "f"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "dive"
+    }
+  },
+  {
+    "text": "I was hang gl__ding across the lake.",
+    "options": [
+      "i",
+      "u",
+      "a",
+      "o"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "gliding"
+    }
+  },
+  {
+    "text": "I had a really weir__ dream last night.",
+    "options": [
+      "s",
+      "l",
+      "m",
+      "d"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "weird"
+    }
+  },
+  {
+    "text": "This movie is fright__ning to the children.",
+    "options": [
+      "e",
+      "a",
+      "u",
+      "o"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "frightening"
+    }
+  },
+  {
+    "text": "This ca__e is made of wire.",
+    "options": [
+      "k",
+      "j",
+      "g",
+      "d"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "cage"
+    }
+  },
+  {
+    "text": "We used r__pe to tie down the furniture.",
+    "options": [
+      "o",
+      "e",
+      "i",
+      "u"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "rope"
+    }
+  },
+  {
+    "text": "The volc__no may erupt at any moment.",
+    "options": [
+      "u",
+      "o",
+      "a",
+      "e"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "volcano"
+    }
+  },
+  {
+    "text": "Tom was attacked by a sha__k.",
+    "options": [
+      "z",
+      "r",
+      "w",
+      "g"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "shark"
+    }
+  },
+  {
+    "text": "He asked me to thr__w the ball back.",
+    "options": [
+      "o",
+      "i",
+      "e",
+      "u"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "throw"
+    }
+  },
+  {
+    "text": "He knows how to ride a c__mel.",
+    "options": [
+      "a",
+      "i",
+      "u",
+      "e"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "camel"
+    }
+  },
+  {
+    "text": "He used a h__rness and ro__e to secure himself.",
+    "options": [
+      "e-k",
+      "o-f",
+      "a-p",
+      "i-g"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "harness - rope"
+    }
+  },
+  {
+    "text": "The volca__o will erupt and thr__w clouds of ash.",
+    "options": [
+      "t-u",
+      "n-o",
+      "x-i",
+      "h-e"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "volcano - throw"
+    }
   }
 ]

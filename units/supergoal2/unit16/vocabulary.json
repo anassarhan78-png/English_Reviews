@@ -193,5 +193,343 @@
     "explanation": {
       "A": "صحيح! أسماك القرش."
     }
+  },
+  {
+    "text": "Match: 'Zebras are found at a zoo.' – A zebra is:",
+    "options": [
+      "a fish",
+      "a type of bird",
+      "a large cat",
+      "a horse with black and white stripes"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "حمار وحشي"
+    }
+  },
+  {
+    "text": "Match: 'He's got some weird ideas.' – What does 'weird' mean?",
+    "options": [
+      "sad",
+      "normal",
+      "funny",
+      "strange"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "غريب"
+    }
+  },
+  {
+    "text": "Match: 'Tom pulled the rope.' – What is a 'rope'?",
+    "options": [
+      "a piece of cloth",
+      "a plastic tube",
+      "a metal chain",
+      "strong thick string"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "حبل"
+    }
+  },
+  {
+    "text": "Match: 'She fastened the safety harness.' – What is a 'harness'?",
+    "options": [
+      "a type of helmet",
+      "a pair of gloves",
+      "belts to hold a person",
+      "a life jacket"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "حزام أمان"
+    }
+  },
+  {
+    "text": "Match: 'This is a frightening place.' – What does 'frightening' mean?",
+    "options": [
+      "making you sleepy",
+      "making you feel afraid",
+      "making you laugh",
+      "making you hungry"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "مخيف"
+    }
+  },
+  {
+    "text": "Match: 'A lion has escaped from its cage.' – What is a 'cage'?",
+    "options": [
+      "a large room",
+      "a wooden box",
+      "metal bars for keeping animals",
+      "a glass tank"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "قفص"
+    }
+  },
+  {
+    "text": "Match: 'Hang gliding is a dangerous sport.' – What is 'hang gliding'?",
+    "options": [
+      "skiing down a slope",
+      "jumping from a plane",
+      "climbing mountains",
+      "flying in a glider"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "طيران شراعي"
+    }
+  },
+  {
+    "text": "Match: 'I want to dive into the river.' – What does 'dive' mean?",
+    "options": [
+      "throw objects",
+      "run fast",
+      "swim underwater",
+      "jump high"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "يغطس"
+    }
+  },
+  {
+    "text": "Match: 'Please throw the ball.' – What does 'throw' mean?",
+    "options": [
+      "kick",
+      "catch",
+      "send through air with force",
+      "hit with a bat"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "رمي"
+    }
+  },
+  {
+    "text": "Match: 'I better knock on his door.' – What does 'knock' mean?",
+    "options": [
+      "ring a bell",
+      "hit a door lightly",
+      "close a door",
+      "open a door"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "يطرق"
+    }
+  },
+  {
+    "text": "… is allowed from the top of Windy Hill.",
+    "options": [
+      "Shark diving",
+      "Hang gliding",
+      "Camel riding",
+      "Horse riding"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "طيران شراعي"
+    }
+  },
+  {
+    "text": "Many dolphins can … to depths of 200 meters.",
+    "options": [
+      "dive",
+      "throw",
+      "knock",
+      "ride"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "يغطس"
+    }
+  },
+  {
+    "text": "Don't … stones.",
+    "options": [
+      "throw",
+      "dive",
+      "knock",
+      "drive"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "ترمي"
+    }
+  },
+  {
+    "text": "Please … on the door.",
+    "options": [
+      "knock",
+      "cook",
+      "dive",
+      "throw"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "اطرق"
+    }
+  },
+  {
+    "text": "My computer makes a really … noise.",
+    "options": [
+      "weird",
+      "fat",
+      "angry",
+      "empty"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "غريب"
+    }
+  },
+  {
+    "text": "Please call your dog off; it's … the children.",
+    "options": [
+      "frightening",
+      "fantastic",
+      "free",
+      "friendly"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "يخيف"
+    }
+  },
+  {
+    "text": "There is a beautiful bird in the …",
+    "options": [
+      "rope",
+      "durian",
+      "cage",
+      "harness"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "قفص"
+    }
+  },
+  {
+    "text": "Frank buckled on his safety …",
+    "options": [
+      "durian",
+      "cage",
+      "harness",
+      "stool"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "حزام أمان"
+    }
+  },
+  {
+    "text": "My daughter loves jumping …",
+    "options": [
+      "harness",
+      "stool",
+      "cage",
+      "rope"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "حبل القفز"
+    }
+  },
+  {
+    "text": "I once watched a lioness hunting a …",
+    "options": [
+      "tiger",
+      "cat",
+      "cheetah",
+      "zebra"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "حمار وحشي"
+    }
+  },
+  {
+    "text": "The bird escaped from the …",
+    "options": [
+      "harness",
+      "gliding",
+      "cage",
+      "rope"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "قفص"
+    }
+  },
+  {
+    "text": "Tie the end of the …",
+    "options": [
+      "cliff",
+      "cage",
+      "rope",
+      "gliding"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "حبل"
+    }
+  },
+  {
+    "text": "The … last erupted 25 years ago.",
+    "options": [
+      "desert",
+      "tsunamis",
+      "tornado",
+      "volcano"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "بركان"
+    }
+  },
+  {
+    "text": "… are good swimmers.",
+    "options": [
+      "Camels",
+      "Zebras",
+      "Horses",
+      "Sharks"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "أسماك القرش"
+    }
+  },
+  {
+    "text": "Don't … garbage away here.",
+    "options": [
+      "dive",
+      "support",
+      "knock",
+      "throw"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "ترمي"
+    }
+  },
+  {
+    "text": "… are the ships of the desert.",
+    "options": [
+      "Camels",
+      "Dogs",
+      "Horses",
+      "Sharks"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "الجمال"
+    }
   }
 ]
