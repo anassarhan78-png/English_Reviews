@@ -32,6 +32,15 @@
         "Can I leave now?",
         "It might rain tomorrow."
       ]
+    },
+    {
+      "name": "🧩 Irregular Verbs (الأفعال الشاذة)",
+      "rule": "Common irregular verbs you need to know (Past Simple / Past Participle):\nbe – was/were – been\nbecome – became – become\nbegin – began – begun\nbreak – broke – broken\nbring – brought – brought\nbuy – bought – bought\ncatch – caught – caught\nchoose – chose – chosen\ncome – came – come\ndo – did – done\ndrink – drank – drunk\ndrive – drove – driven\neat – ate – eaten\nfall – fell – fallen\nfeel – felt – felt\nfind – found – found\nfly – flew – flown\nforget – forgot – forgotten\nget – got – gotten/got\ngive – gave – given\ngo – went – gone\nhave – had – had\nhear – heard – heard\nknow – knew – known\nleave – left – left\nmake – made – made\nmeet – met – met\npay – paid – paid\nread – read – read\nride – rode – ridden\nrun – ran – run\nsay – said – said\nsee – saw – seen\nsell – sold – sold\nsend – sent – sent\nsing – sang – sung\nsit – sat – sat\nsleep – slept – slept\nspeak – spoke – spoken\nspend – spent – spent\nstand – stood – stood\nswim – swam – swum\ntake – took – taken\nteach – taught – taught\ntell – told – told\nthink – thought – thought\nunderstand – understood – understood\nwake – woke – woken\nwear – wore – worn\nwin – won – won\nwrite – wrote – written",
+      "examples": [
+        "I went to school yesterday.",
+        "She has written a story.",
+        "They ate pizza last night."
+      ]
     }
   ]
 }

@@ -286,5 +286,44 @@
       "C": "sent ماضي.",
       "D": "sends خطأ."
     }
+  },
+  {
+    "text": "___ no clouds in the sky!",
+    "options": [
+      "There was",
+      "There were",
+      "There is",
+      "There are"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "no clouds جمع"
+    }
+  },
+  {
+    "text": "___ a picture in the room.",
+    "options": [
+      "There was",
+      "There were",
+      "There are",
+      "There is"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "مفرد"
+    }
+  },
+  {
+    "text": "I am ___ because I have a test tomorrow.",
+    "options": [
+      "excited",
+      "worried",
+      "bored",
+      "happy"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "قلق"
+    }
   }
 ]

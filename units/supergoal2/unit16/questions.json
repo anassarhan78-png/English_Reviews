@@ -238,5 +238,31 @@
       "C": "Are خطأ.",
       "D": "Do خطأ."
     }
+  },
+  {
+    "text": "He has ___ three letters already.",
+    "options": [
+      "writes",
+      "writing",
+      "written",
+      "wrote"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "تصريف ثالث"
+    }
+  },
+  {
+    "text": "Have you ever ___ to England?",
+    "options": [
+      "were",
+      "be",
+      "was",
+      "been"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "have been"
+    }
   }
 ]

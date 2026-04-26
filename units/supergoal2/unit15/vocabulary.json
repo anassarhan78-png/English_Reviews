@@ -193,5 +193,18 @@
     "explanation": {
       "A": "صحيح! حذر."
     }
+  },
+  {
+    "text": "He ___ the game last night.",
+    "options": [
+      "wins",
+      "win",
+      "winning",
+      "won"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "فاز"
+    }
   }
 ]

@@ -223,5 +223,70 @@
       "C": "خطأ.",
       "D": "خطأ."
     }
+  },
+  {
+    "text": "Why didn't you do your homework? – I ___ to the doctor.",
+    "options": [
+      "went",
+      "go",
+      "gone",
+      "going"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "زمن ماضي"
+    }
+  },
+  {
+    "text": "Let's ___ tomorrow.",
+    "options": [
+      "to go out",
+      "go out",
+      "went out",
+      "going out"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "مصدر بعد Let's"
+    }
+  },
+  {
+    "text": "What ___ we do tonight?",
+    "options": [
+      "were",
+      "do",
+      "should",
+      "are"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "What should we"
+    }
+  },
+  {
+    "text": "___ go out for dinner.",
+    "options": [
+      "How about",
+      "Let's",
+      "Why don't",
+      "We should"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "اقتراح"
+    }
+  },
+  {
+    "text": "I am cold. ___ you put on a sweater?",
+    "options": [
+      "What about",
+      "Let's",
+      "Why don't",
+      "Should"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "اقتراح ب why don't"
+    }
   }
 ]

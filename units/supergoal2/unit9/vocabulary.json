@@ -193,5 +193,44 @@
     "explanation": {
       "A": "صحيح! ملابس متسخة أو مغسولة."
     }
+  },
+  {
+    "text": "Things you have to do around the house are ___.",
+    "options": [
+      "games",
+      "movies",
+      "chores",
+      "sports"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! أعمال منزلية"
+    }
+  },
+  {
+    "text": "Let's go bowling. – Sorry, I have to do the ___ first.",
+    "options": [
+      "cleaning",
+      "laundry",
+      "shopping",
+      "homework"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! الغسيل"
+    }
+  },
+  {
+    "text": "What does 'mow the lawn' mean?",
+    "options": [
+      "تنظيف النوافذ",
+      "قص العشب",
+      "غسل السيارة",
+      "كي الملابس"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح"
+    }
   }
 ]

@@ -574,5 +574,83 @@
       "C": "خطأ.",
       "D": "خطأ."
     }
+  },
+  {
+    "text": "Rashed: Is that your jacket? Ali: Yes. It's ___.",
+    "options": [
+      "mine",
+      "my",
+      "I",
+      "me"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "ضمير ملكية"
+    }
+  },
+  {
+    "text": "Which pants do you like? – The blue ___.",
+    "options": [
+      "ones",
+      "one",
+      "those",
+      "that"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "ones للجمع"
+    }
+  },
+  {
+    "text": "Do you like this jacket? – No. It is ___ small.",
+    "options": [
+      "too",
+      "very",
+      "so",
+      "enough"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "أكثر من اللازم"
+    }
+  },
+  {
+    "text": "___ I use your computer?",
+    "options": [
+      "Should",
+      "Will",
+      "May",
+      "Must"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "طلب إذن"
+    }
+  },
+  {
+    "text": "___ I have another cookie?",
+    "options": [
+      "Can",
+      "Must",
+      "Do",
+      "Should"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "طلب"
+    }
+  },
+  {
+    "text": "He may ___ to class today.",
+    "options": [
+      "not come",
+      "comes",
+      "came",
+      "coming"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "may not + مصدر"
+    }
   }
 ]

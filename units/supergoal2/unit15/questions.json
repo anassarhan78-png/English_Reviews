@@ -238,5 +238,70 @@
       "C": "is للمفرد.",
       "D": "was خطأ مع you."
     }
+  },
+  {
+    "text": "Where ___ the football game?",
+    "options": [
+      "were",
+      "was",
+      "are",
+      "is"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "was + مفرد"
+    }
+  },
+  {
+    "text": "They ___ at school.",
+    "options": [
+      "were",
+      "be",
+      "was",
+      "is"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "were + جمع"
+    }
+  },
+  {
+    "text": "Omar ___ Math yesterday.",
+    "options": [
+      "studies",
+      "studied",
+      "study",
+      "studying"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "ماضي"
+    }
+  },
+  {
+    "text": "Did you ___ TV this morning?",
+    "options": [
+      "watched",
+      "watch",
+      "watches",
+      "watching"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "مصدر بعد did"
+    }
+  },
+  {
+    "text": "What did she ___ on Sunday?",
+    "options": [
+      "does",
+      "doing",
+      "did",
+      "do"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "مصدر"
+    }
   }
 ]

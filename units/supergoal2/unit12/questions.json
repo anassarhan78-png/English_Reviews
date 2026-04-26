@@ -494,5 +494,70 @@
       "C": "the happiest تفضيل.",
       "D": "happier مقارنة."
     }
+  },
+  {
+    "text": "He was writing an email when the phone ___.",
+    "options": [
+      "rings",
+      "rang",
+      "ringing",
+      "to ring"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "ماضي بسيط"
+    }
+  },
+  {
+    "text": "She didn't ___ fun at the party.",
+    "options": [
+      "having",
+      "had",
+      "has",
+      "have"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "مصدر بعد didn't"
+    }
+  },
+  {
+    "text": "What did you ___ on TV yesterday?",
+    "options": [
+      "watches",
+      "watched",
+      "watch",
+      "watching"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "مصدر"
+    }
+  },
+  {
+    "text": "___ you write an email yesterday?",
+    "options": [
+      "Have",
+      "Do",
+      "Are",
+      "Did"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "سؤال ماضي"
+    }
+  },
+  {
+    "text": "The museum exhibit was ___ interesting.",
+    "options": [
+      "much",
+      "many",
+      "too",
+      "very"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "very + صفة"
+    }
   }
 ]

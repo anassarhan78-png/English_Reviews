@@ -366,5 +366,83 @@
       "C": "so much مع غير معدود.",
       "D": "so مع صفة."
     }
+  },
+  {
+    "text": "Ahmed is ___.",
+    "options": [
+      "more tall",
+      "taller",
+      "tallest",
+      "tall"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "مقارنة"
+    }
+  },
+  {
+    "text": "My English class is ___ than my science class.",
+    "options": [
+      "more interesting",
+      "interesting",
+      "interest",
+      "most interesting"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "مقارنة صفة طويلة"
+    }
+  },
+  {
+    "text": "I have ___ homework that I can't go out.",
+    "options": [
+      "such",
+      "so much",
+      "such a",
+      "so many"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "غير معدود"
+    }
+  },
+  {
+    "text": "He has ___ books that he can hardly carry them.",
+    "options": [
+      "such",
+      "so much",
+      "such a",
+      "so many"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "جمع"
+    }
+  },
+  {
+    "text": "He is ___ fast that he won the race.",
+    "options": [
+      "so",
+      "such",
+      "so much",
+      "such a"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "so + صفة"
+    }
+  },
+  {
+    "text": "It's ___ a beautiful weather.",
+    "options": [
+      "so much",
+      "so",
+      "such",
+      "too"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "such a + اسم"
+    }
   }
 ]

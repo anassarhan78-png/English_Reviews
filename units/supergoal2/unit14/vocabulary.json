@@ -193,5 +193,18 @@
     "explanation": {
       "A": "صحيح! تجمع."
     }
+  },
+  {
+    "text": "Things you have to do inside the house is ___.",
+    "options": [
+      "cleaning",
+      "camping",
+      "fishing",
+      "shopping"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "تنظيف"
+    }
   }
 ]

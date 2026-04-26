@@ -190,5 +190,57 @@
       "C": "brought ماضي.",
       "D": "bringing خطأ."
     }
+  },
+  {
+    "text": "You ___ eat so much.",
+    "options": [
+      "shouldn't",
+      "should to",
+      "shouldn't to",
+      "should"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "نصيحة منفية"
+    }
+  },
+  {
+    "text": "You ___ study more.",
+    "options": [
+      "shoulds",
+      "should",
+      "shouldn't",
+      "should to"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "نصيحة"
+    }
+  },
+  {
+    "text": "My head is hurting me. I have a ___.",
+    "options": [
+      "cough",
+      "flu",
+      "toothache",
+      "headache"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صداع"
+    }
+  },
+  {
+    "text": "My throat is hurting me. I have a ___.",
+    "options": [
+      "fever",
+      "headache",
+      "broken leg",
+      "sore throat"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "التهاب الحلق"
+    }
   }
 ]

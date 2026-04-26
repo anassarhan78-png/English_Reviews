@@ -193,5 +193,44 @@
     "explanation": {
       "A": "صحيح! للسلامة في السيارة."
     }
+  },
+  {
+    "text": "It might rain. You should bring an ___.",
+    "options": [
+      "umbrella",
+      "ring",
+      "scarf",
+      "belt"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "مظلة"
+    }
+  },
+  {
+    "text": "Your pants are too big. You should wear a ___.",
+    "options": [
+      "watch",
+      "hat",
+      "belt",
+      "tie"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "حزام"
+    }
+  },
+  {
+    "text": "Did you pack your ___? It's time to go to the airport!",
+    "options": [
+      "passport",
+      "suitcase",
+      "backpack",
+      "wallet"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "حقيبة سفر"
+    }
   }
 ]

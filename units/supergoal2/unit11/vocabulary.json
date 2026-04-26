@@ -193,5 +193,44 @@
     "explanation": {
       "A": "صحيح! عالمي."
     }
+  },
+  {
+    "text": "The Nile is the ___ river in the world.",
+    "options": [
+      "longest",
+      "most long",
+      "longer",
+      "long"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "التفضيل المطلق"
+    }
+  },
+  {
+    "text": "Diamonds are the most ___ stones.",
+    "options": [
+      "precious",
+      "cheap",
+      "ugly",
+      "soft"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "ثمينة"
+    }
+  },
+  {
+    "text": "The great white ___ is one of the oldest species.",
+    "options": [
+      "whale",
+      "dolphin",
+      "shark",
+      "seal"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "قرش"
+    }
   }
 ]
