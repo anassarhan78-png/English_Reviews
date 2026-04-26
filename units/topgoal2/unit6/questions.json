@@ -238,5 +238,161 @@
       "C": "مصباح.",
       "D": "كيس نوم."
     }
+  },
+  {
+    "text": "We __________ in the forest when we saw a bear.",
+    "options": [
+      "are camping",
+      "camp",
+      "camped",
+      "were camping"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! ماضي مستمر"
+    }
+  },
+  {
+    "text": "He fell while he __________ the mountain.",
+    "options": [
+      "is climbing",
+      "climbs",
+      "climbed",
+      "was climbing"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! while + مستمر"
+    }
+  },
+  {
+    "text": "They __________ when the storm started.",
+    "options": [
+      "hiking",
+      "hiked",
+      "were hiking",
+      "hike"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! ماضي مستمر"
+    }
+  },
+  {
+    "text": "She __________ her helmet when the accident happened.",
+    "options": [
+      "is wearing",
+      "was wearing",
+      "wears",
+      "wore"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! حدث مستمر"
+    }
+  },
+  {
+    "text": "While we __________ dinner, the fire went out.",
+    "options": [
+      "are cooking",
+      "were cooking",
+      "cook",
+      "cooked"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! while + مستمر"
+    }
+  },
+  {
+    "text": "What __________ you __________ at 5 p.m. yesterday?",
+    "options": [
+      "did / do",
+      "were / doing",
+      "was / doing",
+      "are / doing"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! سؤال في الماضي المستمر"
+    }
+  },
+  {
+    "text": "Choose the correctly spelled word:",
+    "options": [
+      "Surrfing",
+      "Surrfing",
+      "Surfing",
+      "Surrphing"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! ركوب الأمواج"
+    }
+  },
+  {
+    "text": "Choose the correctly spelled word:",
+    "options": [
+      "Campfire",
+      "Campfir",
+      "Camfire",
+      "Campfore"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! نار المخيم"
+    }
+  },
+  {
+    "text": "Choose the correctly spelled word:",
+    "options": [
+      "Bakpack",
+      "Backpeck",
+      "Backpake",
+      "Backpack"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! حقيبة الظهر"
+    }
+  },
+  {
+    "text": "I couldn't see in the dark without my __________.",
+    "options": [
+      "tent",
+      "helmet",
+      "raft",
+      "flashlight"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! مصباح"
+    }
+  },
+  {
+    "text": "Before you go surfing, you need a __________.",
+    "options": [
+      "backpack",
+      "sleeping bag",
+      "surfboard",
+      "campfire"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! لوح التزلج"
+    }
+  },
+  {
+    "text": "Find the odd one out: climbing, swimming, tent, hiking",
+    "options": [
+      "hiking",
+      "tent",
+      "climbing",
+      "swimming"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! كلمة مختلفة (اسم)"
+    }
   }
 ]

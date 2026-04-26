@@ -196,5 +196,135 @@
     "explanation": {
       "A": "صحيح! مصباح."
     }
+  },
+  {
+    "text": "Which item keeps you warm at night when camping?",
+    "options": [
+      "Raft",
+      "Tent",
+      "Helmet",
+      "Sleeping bag"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! كيس النوم"
+    }
+  },
+  {
+    "text": "What do you use to row across a river?",
+    "options": [
+      "Backpack",
+      "Flashlight",
+      "Raft",
+      "Campfire"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! قارب مطاطي"
+    }
+  },
+  {
+    "text": "What activity means 'riding on waves in the sea'?",
+    "options": [
+      "Hiking",
+      "Camping",
+      "Climbing",
+      "Surfing"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! ركوب الأمواج"
+    }
+  },
+  {
+    "text": "What is a 'helmet' used for?",
+    "options": [
+      "Seeing in the dark",
+      "Carrying clothes",
+      "Protecting your head",
+      "Cooking food"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! خوذة للحماية"
+    }
+  },
+  {
+    "text": "What does 'campfire' mean?",
+    "options": [
+      "قارب",
+      "خيمة",
+      "نار المخيم",
+      "حقيبة"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! نار المخيم"
+    }
+  },
+  {
+    "text": "What does 'flashlight' mean?",
+    "options": [
+      "مصباح يدوي",
+      "حذاء",
+      "سكين",
+      "خوذة"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! للإضاءة"
+    }
+  },
+  {
+    "text": "What is a 'backpack'?",
+    "options": [
+      "حبل",
+      "خيمة",
+      "حقيبة ظهر",
+      "مصباح"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! حقيبة"
+    }
+  },
+  {
+    "text": "Horseback ______ is a fun activity.",
+    "options": [
+      "flying",
+      "swimming",
+      "riding",
+      "driving"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! ركوب الخيل"
+    }
+  },
+  {
+    "text": "I want to go ______ the forest trail.",
+    "options": [
+      "camping",
+      "climbing",
+      "surfing",
+      "hiking"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! التنزه طويلاً"
+    }
+  },
+  {
+    "text": "You use a ______ to pull fish out of water.",
+    "options": [
+      "sleeping bag",
+      "raft",
+      "helmet",
+      "fishing rod"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! صنارة صيد"
+    }
   }
 ]
