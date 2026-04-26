@@ -222,5 +222,330 @@
       "C": "مضارع خطأ.",
       "D": "مضارع خطأ."
     }
+  },
+  {
+    "text": "Choose the correct sentence:",
+    "options": [
+      "He was reading a fairy tale.",
+      "He were reading a fairy tale.",
+      "He reading a fairy tale.",
+      "He was read a fairy tale."
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! ماضي مستمر"
+    }
+  },
+  {
+    "text": "Choose the correct sentence:",
+    "options": [
+      "They was watching a comedy.",
+      "They were watching a comedy.",
+      "They were watch a comedy.",
+      "They watching a comedy."
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! ماضي مستمر مع جمع"
+    }
+  },
+  {
+    "text": "What about ______ a movie tonight?",
+    "options": [
+      "watch",
+      "watches",
+      "watching",
+      "watched"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! فعل+ing بعد What about"
+    }
+  },
+  {
+    "text": "Why don't we ______ the storyboard?",
+    "options": [
+      "drawn",
+      "drew",
+      "draw",
+      "drawing"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! مصدر بعد Why don't we"
+    }
+  },
+  {
+    "text": "I was ______ my homework when you called.",
+    "options": [
+      "does",
+      "did",
+      "doing",
+      "do"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! ماضي مستمر"
+    }
+  },
+  {
+    "text": "Was he ______ sleeping?",
+    "options": [
+      "Yes, he was.",
+      "Yes, he is.",
+      "Yes, he wasn't.",
+      "Yes, he were."
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! إجابة السؤال"
+    }
+  },
+  {
+    "text": "How about ______ to the cinema?",
+    "options": [
+      "goes",
+      "go",
+      "went",
+      "going"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! فعل+ing بعد How about"
+    }
+  },
+  {
+    "text": "Rearrange: was / reading / He / a story",
+    "options": [
+      "He was reading a story.",
+      "Reading he a story was.",
+      "A story he was reading.",
+      "He reading was a story."
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح!"
+    }
+  },
+  {
+    "text": "Find the odd word: animation, western, cake",
+    "options": [
+      "cake",
+      "western",
+      "animation",
+      "none"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! كلمة مختلفة"
+    }
+  },
+  {
+    "text": "Little Red Riding Hood was visiting her ______.",
+    "options": [
+      "friend",
+      "teacher",
+      "grandma",
+      "uncle"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح!"
+    }
+  },
+  {
+    "text": "What did she carry in her basket?",
+    "options": [
+      "food",
+      "clothes",
+      "books",
+      "toys"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح!"
+    }
+  },
+  {
+    "text": "Who saved Little Red Riding Hood?",
+    "options": [
+      "woodcutter",
+      "wolf",
+      "bear",
+      "hunter"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح!"
+    }
+  },
+  {
+    "text": "Choose the correctly spelled word:",
+    "options": [
+      "horror",
+      "roroh",
+      "hroror",
+      "horor"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح!"
+    }
+  },
+  {
+    "text": "Choose the correctly spelled word:",
+    "options": [
+      "westrn",
+      "western",
+      "westren",
+      "wetern"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح!"
+    }
+  },
+  {
+    "text": "Choose the correctly spelled word:",
+    "options": [
+      "bookcase",
+      "boocase",
+      "bokcase",
+      "bookcse"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح!"
+    }
+  },
+  {
+    "text": "Choose the correctly spelled word:",
+    "options": [
+      "actro",
+      "acter",
+      "actor",
+      "actr"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح!"
+    }
+  },
+  {
+    "text": "I ______ watching TV at 8 p.m.",
+    "options": [
+      "is",
+      "was",
+      "am",
+      "were"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح!"
+    }
+  },
+  {
+    "text": "They ______ eating dinner.",
+    "options": [
+      "is",
+      "am",
+      "was",
+      "were"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح!"
+    }
+  },
+  {
+    "text": "What were you ______?",
+    "options": [
+      "watch",
+      "watching",
+      "watched",
+      "watches"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح!"
+    }
+  },
+  {
+    "text": "______ you studying last night?",
+    "options": [
+      "Was",
+      "Were",
+      "Is",
+      "Are"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح!"
+    }
+  },
+  {
+    "text": "He ______ playing tennis. (make negative)",
+    "options": [
+      "didn't",
+      "weren't",
+      "wasn't",
+      "not"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! wasn't playing"
+    }
+  },
+  {
+    "text": "A ______ is a story for children with magical things.",
+    "options": [
+      "fairy tale",
+      "western",
+      "documentary",
+      "comedy"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح!"
+    }
+  },
+  {
+    "text": "This kind of story makes people laugh: ______",
+    "options": [
+      "comedy",
+      "thriller",
+      "horror",
+      "drama"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح!"
+    }
+  },
+  {
+    "text": "In this story, a detective tries to solve a crime: ______",
+    "options": [
+      "mystery",
+      "comedy",
+      "sci-fi",
+      "documentary"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح!"
+    }
+  },
+  {
+    "text": "A movie about real people or facts: ______",
+    "options": [
+      "fairy tale",
+      "animation",
+      "musical",
+      "documentary"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح!"
+    }
   }
 ]

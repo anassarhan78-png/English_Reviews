@@ -202,5 +202,200 @@
     "explanation": {
       "A": "صحيح! مسرحية."
     }
+  },
+  {
+    "text": "Animated movies are usually called:",
+    "options": [
+      "Documentaries",
+      "Westerns",
+      "Cartoons",
+      "Musicals"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! الرسوم المتحركة"
+    }
+  },
+  {
+    "text": "A film that makes you laugh is a:",
+    "options": [
+      "Horror",
+      "Comedy",
+      "Mystery",
+      "Drama"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! كوميديا"
+    }
+  },
+  {
+    "text": "A story about future or space is:",
+    "options": [
+      "Sci-fi",
+      "Horror",
+      "Western",
+      "Comedy"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! خيال علمي"
+    }
+  },
+  {
+    "text": "What does 'alone' mean?",
+    "options": [
+      "وحيد",
+      "سعيد",
+      "مشغول",
+      "نعسان"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! وحيد"
+    }
+  },
+  {
+    "text": "What does 'wish' mean?",
+    "options": [
+      "يركض",
+      "يأكل",
+      "ينام",
+      "يتمنى"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! يتمنى"
+    }
+  },
+  {
+    "text": "What does 'whisper' mean?",
+    "options": [
+      "يهمس",
+      "يصرخ",
+      "يغني",
+      "يسكت"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! يهمس"
+    }
+  },
+  {
+    "text": "What does 'decide' mean?",
+    "options": [
+      "يغلق",
+      "يلعب",
+      "يقرر",
+      "يفتح"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! يقرر"
+    }
+  },
+  {
+    "text": "What does 'appear' mean?",
+    "options": [
+      "يأكل",
+      "يختفي",
+      "ينام",
+      "يظهر"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! يظهر"
+    }
+  },
+  {
+    "text": "A 'storyboard' helps you:",
+    "options": [
+      "clean a room",
+      "plan a story",
+      "cook food",
+      "play football"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! لوحة تخطيط القصة"
+    }
+  },
+  {
+    "text": "The people in a story are called:",
+    "options": [
+      "Plots",
+      "Characters",
+      "Acts",
+      "Endings"
+    ],
+    "correct": "B",
+    "explanation": {
+      "A": "صحيح! شخصيات"
+    }
+  },
+  {
+    "text": "What kind of story makes people afraid?",
+    "options": [
+      "Musical",
+      "Drama",
+      "Comedy",
+      "Horror"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! رعب"
+    }
+  },
+  {
+    "text": "A 'fairy tale' is a story for:",
+    "options": [
+      "Doctors",
+      "Pilots",
+      "Drivers",
+      "Children"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! حكاية خرافية للأطفال"
+    }
+  },
+  {
+    "text": "A 'comedian' is a person who:",
+    "options": [
+      "flies planes",
+      "builds houses",
+      "makes people laugh",
+      "teaches math"
+    ],
+    "correct": "C",
+    "explanation": {
+      "A": "صحيح! كوميديان"
+    }
+  },
+  {
+    "text": "What is the meaning of 'ending'?",
+    "options": [
+      "نهاية",
+      "قصة",
+      "وسط",
+      "بداية"
+    ],
+    "correct": "A",
+    "explanation": {
+      "A": "صحيح! نهاية"
+    }
+  },
+  {
+    "text": "What is the meaning of 'act' in a play?",
+    "options": [
+      "أغنية",
+      "رقصة",
+      "ستارة",
+      "فصل"
+    ],
+    "correct": "D",
+    "explanation": {
+      "A": "صحيح! فصل"
+    }
   }
 ]
