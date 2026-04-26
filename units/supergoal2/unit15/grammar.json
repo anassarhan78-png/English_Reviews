@@ -1,30 +1,30 @@
 {
-  "title": "Past Progressive with When & Could / Was able to",
+  "title": "📘 شرح مبسط: الماضي المستمر والقدرة في الماضي",
   "topics": [
     {
-      "name": "Past Progressive with When",
-      "rule": "نستخدم الماضي المستمر (was/were + فعل+ing) لحدث طويل في الماضي، ونستخدم الماضي البسيط مع when لحدث قصير يقطعه.",
+      "name": "1️⃣ زمن الماضي المستمر (Past Progressive)",
+      "rule": "👋 أهلاً بك! تعالَ نفهم هذه القاعدة ببساطة:\n\n🔹 متى نستخدمه؟\nنستخدم الماضي المستمر عندما نريد أن نقول إن حدثاً كان مستمراً (شغّال) في وقت محدد في الماضي.\n\n🔹 كيف نكونه؟\nالأمر سهل جداً:\nSubject + was / were + فعل مضاف له ing\n\n🔹 يعني إيه الكلام ده؟\n• I/He/She/It → نضع بعدهم was\n• You/We/They → نضع بعدهم were\n\n🔹 أمثلة من حياتنا:\n- أنا كنت بأكل الساعة 8 (I was eating at 8:00).\n- هم كانوا بيلعبوا لما المطر بدأ (They were playing when the rain started).\n\n🔹 لنعقد المقارنة مع الماضي البسيط:\n- الماضي البسيط: (I ate pizza yesterday) أنا أكلت بيتزا وخلاص. الحدث انتهى.\n- الماضي المستمر: (I was eating pizza when the phone rang) أنا كنت في نص الأكل لما التليفون رن. هنا الحدث كان مستمر.",
       "examples": [
-        "He was writing an email when the phone rang.",
-        "They were playing when it began to rain."
+        "✅ I was sleeping when the alarm went off. (كنت نايم لما المنبه اشتغل)",
+        "✅ They were hiking in the forest. (هم كانوا بيتنزهوا في الغابة)",
+        "✅ Was he reading a book? (هل هو كان بيقرأ كتاب؟)",
+        "✅ We were not (weren't) watching TV. (احنا ما كُناش بنتفرج على التلفزيون)"
       ]
     },
     {
-      "name": "Could / Was able to",
-      "rule": "Could + مصدر للقدرة العامة في الماضي. Was/Were able to للقدرة على فعل شيء محدد في الماضي.",
+      "name": "2️⃣ التعبير عن المقدرة في الماضي (Could / Was able to)",
+      "rule": "💪 عندما نريد أن نقول إن شخصاً ما كان قادراً على فعل شيء في الماضي، عندنا أداتان مهمتان:\n\n🔹 أولاً: Could\n• نستخدمها للقدرة العامة في الماضي. يعني نقول إنك كنت تعرف تعمل الحاجة دي زمان.\n- مثال: (When I was young, I could climb trees) وأنا صغير كنت أعرف أتسلق الشجر.\n- النفي: (I couldn't swim) ما كنتش أعرف أعوم.\n\n🔹 ثانياً: Was / Were able to\n• نستخدمها عندما نقول إن شخصاً ما حاول فعلاً ونجح إنه يعمل الحاجة دي مرة واحدة.\n- مثال: (Yesterday, he was able to fix the car) امبارح هُوَ قَدِر يصلح العربية.\n• لاحظ: بعد Could و Was able to نضع الفعل في المصدر (زي ما هو من غير أي إضافات).",
       "examples": [
-        "When I was five, I could swim.",
-        "He was able to fix the car."
+        "✅ I could read when I was five. (كنت بعرف أقرا وأنا عندي 5 سنين)",
+        "✅ He was not able to come to the party. (هُوَ مَا قدِرش ييجي الحفلة)",
+        "✅ Could they see the stars? (هل هُمَّ قَدِروا يشوفوا النجوم؟)",
+        "✅ She was able to finish her homework on time. (هِيَ قَدِرت تخلص واجبها في الوقت)"
       ]
     },
     {
-      "name": "🧩 Irregular Verbs (الأفعال الشاذة)",
-      "rule": "Common irregular verbs you need to know (Past Simple / Past Participle):\nbe – was/were – been\nbecome – became – become\nbegin – began – begun\nbreak – broke – broken\nbring – brought – brought\nbuy – bought – bought\ncatch – caught – caught\nchoose – chose – chosen\ncome – came – come\ndo – did – done\ndrink – drank – drunk\ndrive – drove – driven\neat – ate – eaten\nfall – fell – fallen\nfeel – felt – felt\nfind – found – found\nfly – flew – flown\nforget – forgot – forgotten\nget – got – gotten/got\ngive – gave – given\ngo – went – gone\nhave – had – had\nhear – heard – heard\nknow – knew – known\nleave – left – left\nmake – made – made\nmeet – met – met\npay – paid – paid\nread – read – read\nride – rode – ridden\nrun – ran – run\nsay – said – said\nsee – saw – seen\nsell – sold – sold\nsend – sent – sent\nsing – sang – sung\nsit – sat – sat\nsleep – slept – slept\nspeak – spoke – spoken\nspend – spent – spent\nstand – stood – stood\nswim – swam – swum\ntake – took – taken\nteach – taught – taught\ntell – told – told\nthink – thought – thought\nunderstand – understood – understood\nwake – woke – woken\nwear – wore – worn\nwin – won – won\nwrite – wrote – written",
-      "examples": [
-        "I went to school yesterday.",
-        "She has written a story.",
-        "They ate pizza last night."
-      ]
+      "name": "💡 نصيحة للمذاكرة",
+      "rule": "• دائماً اسأل نفسك: 'هل الحدث كان بيحصل واتقطع؟' لو آه → استخدم الماضي المستمر.\n• لو بتتكلم عن حاجة كانت صعبة ولكن الشخص عملها → استخدم was able to.\n• الماضي البسيط هو للحدث اللي حصل وانتهى بسرعة (The phone rang).\n• الماضي المستمر هو للحدث اللي كان شغال وقتها (I was eating).\n\nلا تنسانا من صالح دعائك! 🌟",
+      "examples": []
     }
   ]
 }
